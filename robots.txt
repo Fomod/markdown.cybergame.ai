@@ -4,6 +4,12 @@ Allow: /
 User-agent: Googlebot-Image
 Allow: /
 
+User-agent: GoogleOther
+Allow: /
+
+User-agent: GoogleOther-Image
+Allow: /
+
 User-agent: Google-Extended
 Allow: /
 
@@ -11,6 +17,12 @@ User-agent: Bingbot
 Allow: /
 
 User-agent: BingPreview
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: Bravebot
 Allow: /
 
 User-agent: Applebot
@@ -37,10 +49,34 @@ Allow: /
 User-agent: Claude-User
 Allow: /
 
+User-agent: anthropic-ai
+Allow: /
+
 User-agent: PerplexityBot
 Allow: /
 
 User-agent: Perplexity-User
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: meta-externalfetcher
+Allow: /
+
+User-agent: MistralAI-User
+Allow: /
+
+User-agent: AI2Bot
 Allow: /
 
 User-agent: *

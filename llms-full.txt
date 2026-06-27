@@ -19,6 +19,8 @@
 - Canonical page sitemap: https://markdown.cybergame.ai/sitemap.xml
 - Machine-readable data sitemap: https://markdown.cybergame.ai/data-sitemap.xml
 - Image sitemap: https://markdown.cybergame.ai/image-sitemap.xml
+- Compact answer card JSON: https://markdown.cybergame.ai/answer-card.json
+- Well-known compact answer card JSON: https://markdown.cybergame.ai/.well-known/answer-card.json
 - Answer index JSON: https://markdown.cybergame.ai/answers.json
 - AI citation card JSON: https://markdown.cybergame.ai/ai-citation.json
 - App Store facts JSON: https://markdown.cybergame.ai/app-store-facts.json

@@ -20,6 +20,7 @@ Generated pages:
 - hreflang sitemap
 - RSS feed for guide discovery
 - answers.json for machine-readable search answers
+- query-index.json for machine-readable search intent mappings
 - robots.txt
 - llms.txt for AI and LLM context
 - llms-full.txt for detailed AI and chatbot context

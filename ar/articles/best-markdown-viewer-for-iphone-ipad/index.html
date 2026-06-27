@@ -149,6 +149,32 @@
       }
       .nav a { padding: 0 10px; border-radius: 8px; }
       .nav a:hover, .language-row a:hover, footer a:hover, .secondary-link:hover { color: var(--text); text-decoration: underline; }
+      .breadcrumbs {
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        min-height: 40px;
+        margin: 12px 0 0;
+        color: var(--muted);
+        font-size: 14px;
+        font-weight: 750;
+        overflow: hidden;
+      }
+      .breadcrumbs a {
+        color: var(--muted);
+        text-decoration: none;
+      }
+      .breadcrumbs a:hover {
+        color: var(--text);
+        text-decoration: underline;
+      }
+      .breadcrumbs span {
+        min-width: 0;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        white-space: nowrap;
+      }
+      .breadcrumbs .separator { flex: 0 0 auto; color: var(--accent-strong); }
       .hero {
         display: grid;
         grid-template-columns: minmax(0, 1.05fr) minmax(330px, 0.95fr);
@@ -421,6 +447,11 @@
           <a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">تنزيل من App Store</a>
         </nav>
       </header>
+      <nav class="breadcrumbs" aria-label="Breadcrumb" data-breadcrumb-trail="visible">
+        <a href="https://markdown.cybergame.ai/ar/" data-breadcrumb-home="true">الرئيسية</a>
+        <span class="separator" aria-hidden="true">/</span>
+        <span aria-current="page" data-breadcrumb-current="true">Best Markdown Viewer for iPhone and iPad على iPhone و iPad</span>
+      </nav>
 
       <section class="hero" aria-labelledby="hero-title">
         <div>

@@ -48,6 +48,8 @@
       "iPhone",
       "iPad"
     ],
+    "minimumOsVersion": "17.0",
+    "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
     "fileHandling": "local preview on device",
     "subscriptions": "none",
     "inAppPurchases": "none",
@@ -91,6 +93,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -278,6 +282,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -490,6 +496,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -729,6 +737,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, Claude exports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -933,6 +943,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/",
@@ -1145,6 +1157,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/articles/open-markdown-file-from-google-drive-on-iphone/",
@@ -1338,6 +1352,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files, .rmd and .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/articles/open-mdx-file-on-iphone/",
@@ -1532,6 +1548,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/"
@@ -1724,6 +1742,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/"
@@ -1916,6 +1936,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/"
@@ -2108,6 +2130,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -2327,6 +2351,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -2547,6 +2573,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -2767,6 +2795,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -2986,6 +3016,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -3206,6 +3238,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop, iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -3426,6 +3460,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -3646,6 +3682,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -3866,6 +3904,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -4086,6 +4126,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -4306,6 +4348,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -4526,6 +4570,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -4745,6 +4791,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -4965,6 +5013,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -5185,6 +5235,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".rmd and .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -5405,6 +5457,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -5624,6 +5678,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -5843,6 +5899,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -6063,6 +6121,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat and WhatsApp",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -6283,6 +6343,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -6503,6 +6565,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT downloads",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -6723,6 +6787,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -6942,6 +7008,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notion exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -7162,6 +7230,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -7382,6 +7452,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI meeting notes",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -7602,6 +7674,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -7789,6 +7863,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -8001,6 +8077,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/zh/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -8240,6 +8318,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, Claude exports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/zh/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -8444,6 +8524,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/zh/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/",
@@ -8656,6 +8738,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-google-drive-on-iphone/",
@@ -8849,6 +8933,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files, .rmd and .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/zh/articles/open-mdx-file-on-iphone/",
@@ -9043,6 +9129,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/zh/articles/offline-markdown-viewer-for-iphone/"
@@ -9235,6 +9323,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/zh/articles/preview-markdown-code-math-mermaid-on-ipad/"
@@ -9427,6 +9517,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/zh/articles/best-markdown-viewer-for-iphone-ipad/"
@@ -9619,6 +9711,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT、Claude、Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -9838,6 +9932,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPad 上的 ChatGPT",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -10058,6 +10154,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone 和 iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -10278,6 +10376,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub、Obsidian、Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -10497,6 +10597,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail、Gmail、Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -10717,6 +10819,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files、AirDrop、iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -10937,6 +11041,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README 文件",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -11157,6 +11263,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPad 上的 GitHub README 文件",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -11377,6 +11485,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Obsidian vault 导出",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -11597,6 +11707,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "代码、数学公式和 Mermaid 图表",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -11817,6 +11929,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "离线文件",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -12037,6 +12151,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -12256,6 +12372,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude 导出",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -12476,6 +12594,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx 文件",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -12696,6 +12816,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".rmd 和 .qmd 文件",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -12916,6 +13038,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -13135,6 +13259,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -13354,6 +13480,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -13574,6 +13702,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "微信和 WhatsApp",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -13794,6 +13924,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -14014,6 +14146,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT 下载",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -14234,6 +14368,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -14453,6 +14589,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notion 导出",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -14673,6 +14811,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub 文件",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -14893,6 +15033,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI 会议纪要",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -15113,6 +15255,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -15300,6 +15444,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -15512,6 +15658,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ja/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -15751,6 +15899,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, Claude exports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ja/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -15955,6 +16105,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ja/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/",
@@ -16167,6 +16319,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-google-drive-on-iphone/",
@@ -16360,6 +16514,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files, .rmd and .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ja/articles/open-mdx-file-on-iphone/",
@@ -16554,6 +16710,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ja/articles/offline-markdown-viewer-for-iphone/"
@@ -16746,6 +16904,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ja/articles/preview-markdown-code-math-mermaid-on-ipad/"
@@ -16938,6 +17098,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ja/articles/best-markdown-viewer-for-iphone-ipad/"
@@ -17130,6 +17292,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT、Claude、Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -17349,6 +17513,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -17569,6 +17735,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhoneとiPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -17789,6 +17957,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub、Obsidian、Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -18008,6 +18178,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -18228,6 +18400,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files、AirDrop、iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -18448,6 +18622,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub READMEファイル",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -18668,6 +18844,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -18888,6 +19066,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Obsidian vaultの書き出し",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -19108,6 +19288,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "コード、数式、Mermaid図",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -19328,6 +19510,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "オフラインファイル",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -19548,6 +19732,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -19767,6 +19953,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -19987,6 +20175,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdxファイル",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -20207,6 +20397,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".rmdと.qmdファイル",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -20427,6 +20619,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -20646,6 +20840,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -20865,6 +21061,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -21085,6 +21283,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChatとWhatsApp",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -21305,6 +21505,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -21525,6 +21727,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPTのダウンロード",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -21745,6 +21949,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -21964,6 +22170,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notionエクスポート",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -22184,6 +22392,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHubファイル",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -22404,6 +22614,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI会議メモ",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -22624,6 +22836,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -22811,6 +23025,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -23023,6 +23239,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/es/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -23262,6 +23480,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, Claude exports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/es/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -23466,6 +23686,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/es/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/",
@@ -23678,6 +23900,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-google-drive-on-iphone/",
@@ -23871,6 +24095,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files, .rmd and .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/es/articles/open-mdx-file-on-iphone/",
@@ -24065,6 +24291,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/es/articles/offline-markdown-viewer-for-iphone/"
@@ -24257,6 +24485,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/es/articles/preview-markdown-code-math-mermaid-on-ipad/"
@@ -24449,6 +24679,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/es/articles/best-markdown-viewer-for-iphone-ipad/"
@@ -24641,6 +24873,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude y Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -24861,6 +25095,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -25081,6 +25317,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone y iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -25301,6 +25539,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian y Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -25521,6 +25761,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -25741,6 +25983,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop e iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -25961,6 +26205,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "archivos README de GitHub",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -26181,6 +26427,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -26401,6 +26649,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "exportaciones de Obsidian",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -26621,6 +26871,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "código, matemáticas y Mermaid",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -26841,6 +27093,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "archivos offline",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -27061,6 +27315,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -27280,6 +27536,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -27500,6 +27758,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "archivos .mdx",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -27720,6 +27980,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "archivos .rmd y .qmd",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -27940,6 +28202,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -28159,6 +28423,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -28378,6 +28644,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -28598,6 +28866,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat y WhatsApp",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -28818,6 +29088,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -29038,6 +29310,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "descargas de ChatGPT",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -29258,6 +29532,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -29477,6 +29753,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "exportaciones de Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -29697,6 +29975,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "archivos de GitHub",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -29917,6 +30197,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "notas de reuniones de IA",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -30137,6 +30419,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -30324,6 +30608,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -30536,6 +30822,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/de/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -30775,6 +31063,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, Claude exports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/de/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -30979,6 +31269,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/de/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/",
@@ -31191,6 +31483,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-google-drive-on-iphone/",
@@ -31384,6 +31678,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files, .rmd and .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/de/articles/open-mdx-file-on-iphone/",
@@ -31578,6 +31874,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/de/articles/offline-markdown-viewer-for-iphone/"
@@ -31770,6 +32068,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/de/articles/preview-markdown-code-math-mermaid-on-ipad/"
@@ -31962,6 +32262,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/de/articles/best-markdown-viewer-for-iphone-ipad/"
@@ -32154,6 +32456,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude und Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -32374,6 +32678,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -32594,6 +32900,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone und iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -32814,6 +33122,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian und Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -33034,6 +33344,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -33254,6 +33566,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop und iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -33474,6 +33788,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub-README-Dateien",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -33694,6 +34010,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -33914,6 +34232,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Obsidian-Exporte",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -34134,6 +34454,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Code, Mathematik und Mermaid",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -34354,6 +34676,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Offline-Dateien",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -34574,6 +34898,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -34793,6 +35119,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -35013,6 +35341,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx-Dateien",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -35233,6 +35563,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".rmd- und .qmd-Dateien",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -35453,6 +35785,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -35672,6 +36006,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -35891,6 +36227,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -36111,6 +36449,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat und WhatsApp",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -36331,6 +36671,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -36551,6 +36893,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT-Downloads",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -36771,6 +37115,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -36990,6 +37336,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notion-Exporte",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -37210,6 +37558,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub-Dateien",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -37430,6 +37780,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "KI-Meeting-Notizen",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -37650,6 +38002,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -37837,6 +38191,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -38049,6 +38405,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/fr/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -38288,6 +38646,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, Claude exports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/fr/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -38492,6 +38852,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/fr/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/",
@@ -38704,6 +39066,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-google-drive-on-iphone/",
@@ -38897,6 +39261,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files, .rmd and .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/fr/articles/open-mdx-file-on-iphone/",
@@ -39091,6 +39457,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/fr/articles/offline-markdown-viewer-for-iphone/"
@@ -39283,6 +39651,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/fr/articles/preview-markdown-code-math-mermaid-on-ipad/"
@@ -39475,6 +39845,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/fr/articles/best-markdown-viewer-for-iphone-ipad/"
@@ -39667,6 +40039,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude et Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -39887,6 +40261,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -40107,6 +40483,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone et iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -40327,6 +40705,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian et Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -40547,6 +40927,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -40767,6 +41149,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop et iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -40987,6 +41371,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "README GitHub",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -41207,6 +41593,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -41427,6 +41815,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "exports Obsidian",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -41647,6 +42037,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, mathématiques et Mermaid",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -41867,6 +42259,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "fichiers hors ligne",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -42087,6 +42481,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -42306,6 +42702,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -42526,6 +42924,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "fichiers .mdx",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -42746,6 +43146,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "fichiers .rmd et .qmd",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -42966,6 +43368,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -43185,6 +43589,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -43404,6 +43810,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -43624,6 +44032,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat et WhatsApp",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -43844,6 +44254,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -44064,6 +44476,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "telechargements ChatGPT",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -44284,6 +44698,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -44503,6 +44919,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "exports Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -44723,6 +45141,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "fichiers GitHub",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -44943,6 +45363,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "notes de reunion IA",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -45163,6 +45585,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -45350,6 +45774,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -45562,6 +45988,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/pt-br/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -45801,6 +46229,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, Claude exports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/pt-br/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -46005,6 +46435,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/pt-br/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/",
@@ -46217,6 +46649,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-google-drive-on-iphone/",
@@ -46410,6 +46844,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files, .rmd and .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/pt-br/articles/open-mdx-file-on-iphone/",
@@ -46604,6 +47040,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/pt-br/articles/offline-markdown-viewer-for-iphone/"
@@ -46796,6 +47234,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/pt-br/articles/preview-markdown-code-math-mermaid-on-ipad/"
@@ -46988,6 +47428,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/pt-br/articles/best-markdown-viewer-for-iphone-ipad/"
@@ -47180,6 +47622,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude e Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -47400,6 +47844,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -47620,6 +48066,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone e iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -47840,6 +48288,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian e Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -48060,6 +48510,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -48280,6 +48732,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop e iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -48500,6 +48954,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "READMEs do GitHub",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -48720,6 +49176,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -48940,6 +49398,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "exports do Obsidian",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -49160,6 +49620,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "código, matemática e Mermaid",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -49380,6 +49842,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "arquivos offline",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -49600,6 +50064,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -49819,6 +50285,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -50039,6 +50507,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "arquivos .mdx",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -50259,6 +50729,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "arquivos .rmd e .qmd",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -50479,6 +50951,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -50698,6 +51172,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -50917,6 +51393,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -51137,6 +51615,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat e WhatsApp",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -51357,6 +51837,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -51577,6 +52059,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "downloads do ChatGPT",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -51797,6 +52281,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -52016,6 +52502,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "exportacoes do Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -52236,6 +52724,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "arquivos do GitHub",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -52456,6 +52946,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "notas de reuniao de IA",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -52676,6 +53168,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -52863,6 +53357,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -53075,6 +53571,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ko/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -53314,6 +53812,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, Claude exports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ko/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -53518,6 +54018,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ko/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/",
@@ -53730,6 +54232,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-google-drive-on-iphone/",
@@ -53923,6 +54427,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files, .rmd and .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ko/articles/open-mdx-file-on-iphone/",
@@ -54117,6 +54623,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ko/articles/offline-markdown-viewer-for-iphone/"
@@ -54309,6 +54817,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ko/articles/preview-markdown-code-math-mermaid-on-ipad/"
@@ -54501,6 +55011,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ko/articles/best-markdown-viewer-for-iphone-ipad/"
@@ -54693,6 +55205,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -54912,6 +55426,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -55132,6 +55648,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -55352,6 +55870,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -55571,6 +56091,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -55791,6 +56313,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop, iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -56011,6 +56535,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -56231,6 +56757,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -56451,6 +56979,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -56671,6 +57201,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -56891,6 +57423,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -57111,6 +57645,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -57330,6 +57866,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -57550,6 +58088,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx 파일",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -57770,6 +58310,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".rmd 및 .qmd 파일",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -57990,6 +58532,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -58209,6 +58753,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -58428,6 +58974,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -58648,6 +59196,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat과 WhatsApp",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -58868,6 +59418,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -59088,6 +59640,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT 다운로드",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -59308,6 +59862,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -59527,6 +60083,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notion 내보내기",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -59747,6 +60305,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub 파일",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -59967,6 +60527,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI 회의 노트",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -60187,6 +60749,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -60374,6 +60938,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -60586,6 +61152,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -60825,6 +61393,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, Claude exports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -61029,6 +61599,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/",
@@ -61241,6 +61813,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-google-drive-on-iphone/",
@@ -61434,6 +62008,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files, .rmd and .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ar/articles/open-mdx-file-on-iphone/",
@@ -61628,6 +62204,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/"
@@ -61820,6 +62398,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/"
@@ -62012,6 +62592,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/"
@@ -62204,6 +62786,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -62423,6 +63007,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -62643,6 +63229,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -62863,6 +63451,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -63082,6 +63672,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -63302,6 +63894,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop, iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -63522,6 +64116,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -63742,6 +64338,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -63962,6 +64560,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -64182,6 +64782,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -64402,6 +65004,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -64622,6 +65226,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -64841,6 +65447,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -65061,6 +65669,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ملفات .mdx",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -65281,6 +65891,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ملفات .rmd و .qmd",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -65501,6 +66113,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -65720,6 +66334,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -65939,6 +66555,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -66159,6 +66777,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat و WhatsApp",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -66379,6 +66999,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -66599,6 +67221,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "تنزيلات ChatGPT",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -66819,6 +67443,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -67038,6 +67664,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "صادرات Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -67258,6 +67886,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ملفات GitHub",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -67478,6 +68108,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ملاحظات اجتماعات AI",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -67698,6 +68330,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [],
       "articleUrls": [],
@@ -67885,6 +68519,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -68097,6 +68733,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -68336,6 +68974,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini, ChatGPT on iPad, Claude exports, Claude Artifacts, ChatGPT downloads, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/",
@@ -68540,6 +69180,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/",
@@ -68752,6 +69394,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive, Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-google-drive-on-iphone/",
@@ -68945,6 +69589,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files, .rmd and .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/hi/articles/open-mdx-file-on-iphone/",
@@ -69139,6 +69785,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/"
@@ -69331,6 +69979,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/"
@@ -69523,6 +70173,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [],
       "relatedUrls": [
         "https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/"
@@ -69715,6 +70367,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT, Claude, Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -69934,6 +70588,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -70154,6 +70810,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iPhone and iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -70374,6 +71032,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub, Obsidian, Notion",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -70593,6 +71253,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Mail, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -70813,6 +71475,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Files, AirDrop, iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -71033,6 +71697,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -71253,6 +71919,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -71473,6 +72141,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Obsidian vault exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -71693,6 +72363,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "code, math, and Mermaid diagrams",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -71913,6 +72585,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "offline files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -72133,6 +72807,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "iCloud Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -72352,6 +73028,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -72572,6 +73250,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".mdx files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -72792,6 +73472,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": ".rmd और .qmd files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -73012,6 +73694,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Google Drive",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -73231,6 +73915,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Dropbox",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -73450,6 +74136,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AirDrop",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -73670,6 +74358,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "WeChat और WhatsApp",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -73890,6 +74580,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Claude Artifacts",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -74110,6 +74802,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "ChatGPT downloads",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -74330,6 +75024,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Gemini",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -74549,6 +75245,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "Notion exports",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -74769,6 +75467,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "GitHub files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,
@@ -74989,6 +75689,8 @@
       "officialEvidence": "official-site-and-app-store",
       "source": "AI meeting notes",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "minimumOsVersion": "17.0",
+      "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "howToSteps": [
         {
           "position": 1,

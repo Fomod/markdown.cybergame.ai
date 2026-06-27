@@ -10,6 +10,7 @@ Md Preview is an iOS utility by CyberGame Limited for opening and previewing Mar
 - Full AI context: https://markdown.cybergame.ai/llms-full.txt
 - Answer index JSON: https://markdown.cybergame.ai/answers.json
 - Supported formats: .md, .markdown, .mdx, .rmd, .qmd
+- Minimum OS: iOS 17.0 or later; iPadOS 17.0 or later
 - App Store screenshot: https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png (Md Preview App Store screenshot showing Markdown code blocks and JSON preview on iPhone)
 - App Store screenshot: https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png (Md Preview App Store screenshot showing Markdown math formula rendering on iPhone)
 - App Store screenshot: https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png (Md Preview App Store screenshot showing Markdown table rendering on iPhone)

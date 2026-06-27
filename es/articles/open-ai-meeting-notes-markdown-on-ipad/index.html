@@ -242,6 +242,17 @@
         letter-spacing: 0;
       }
       .quick-answer p { color: var(--muted); font-size: 17px; }
+      .app-store-status {
+        min-height: 24px;
+        margin-top: 12px;
+        color: var(--muted);
+        font-size: 14px;
+        font-weight: 700;
+      }
+      [data-app-store-open-state="attempting"] .app-store-status,
+      [data-app-store-open-state="web-fallback"] .app-store-status {
+        color: var(--accent-strong);
+      }
       .install-panel {
         border: 1px solid var(--line);
         border-radius: 8px;
@@ -488,7 +499,7 @@
   </head>
   <body>
     <a class="skip" href="#content">Skip to content</a>
-    <main class="page" id="content" data-ux="mobile-first">
+    <main class="page" id="content" data-ux="mobile-first" data-app-store-open-state="idle">
       <header class="site-header">
         <a class="brand" href="https://markdown.cybergame.ai/es/" aria-label="Md Preview">
           <img src="../../../assets/app-icon.jpg" alt="App icon">
@@ -498,7 +509,7 @@
           <a href="https://markdown.cybergame.ai/es/">Inicio</a>
           <a href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/">Como abrir archivos</a>
           <a href="https://html.cybergame.ai/es/" data-cross-site-link="companion-nav">Html Preview</a>
-          <a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Descargar en App Store</a>
+          <a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="primary-nav">Descargar en App Store</a>
         </nav>
       </header>
       <nav class="breadcrumbs" aria-label="Breadcrumb" data-breadcrumb-trail="visible">
@@ -517,9 +528,10 @@
             <p>Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.</p>
           </div>
           <div class="actions">
-            <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-primary-app-store-link="true">Descargar en App Store</a>
+            <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="hero-primary" data-primary-app-store-link="true" data-auto-open-source="hero-primary">Descargar en App Store</a>
             <a class="secondary-link" href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/">Como abrir archivos</a>
           </div>
+          <p class="app-store-status" data-app-store-status role="status" aria-live="polite" data-status-ready="App Store se abre directamente en iPhone y iPad." data-status-opening="Abriendo App Store..." data-status-fallback="Si App Store no se abrió, toca de nuevo el botón de descarga." data-status-native-opened="App Store abierto.">App Store se abre directamente en iPhone y iPad.</p>
           <div class="proof-row" data-proof="no-subscriptions-no-iap-no-ads">
             <span class="proof">Sin suscripciones. Sin compras dentro de la app. Sin anuncios.</span>
             <span>Tus archivos permanecen en el dispositivo.</span>
@@ -548,7 +560,7 @@
               <span>4.4/5</span>
               <span>5 ratings</span>
             </div>
-            <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Descargar en App Store</a>
+            <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="install-panel">Descargar en App Store</a>
             <p class="file-chip">Previsualizacion local y privada en iPhone y iPad. Sin suscripciones. Sin compras dentro de la app. Sin anuncios.</p>
           </div>
         </aside>
@@ -560,7 +572,7 @@
             <h2 id="visual-title">Capturas de App Store</h2>
             <p class="section-copy">Las capturas oficiales de App Store muestran la tarea central: abrir archivos locales de IA, Files, nubes y correo en iPhone y iPad.</p>
           </div>
-          <a class="secondary-link" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Descargar en App Store</a>
+          <a class="secondary-link" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="screenshot-gallery">Descargar en App Store</a>
         </div>
         <div class="visual-gallery">
           <figure class="visual-card">
@@ -606,7 +618,7 @@
             <div data-citation-field="formats"><dt>Formatos</dt><dd>.md, .markdown, .mdx, .rmd, .qmd</dd></div>
             <div data-citation-field="platform"><dt>Plataforma</dt><dd>iPhone, iPad</dd></div>
             <div data-citation-field="proof"><dt>Prueba</dt><dd>Sin suscripciones. Sin compras dentro de la app. Sin anuncios. Tus archivos permanecen en el dispositivo.</dd></div>
-            <div data-citation-field="download"><dt>Descarga</dt><dd><a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">https://apps.apple.com/app/id6760341080</a></dd></div>
+            <div data-citation-field="download"><dt>Descarga</dt><dd><a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="citation-answer">https://apps.apple.com/app/id6760341080</a></dd></div>
           </dl>
         </div>
       </section>
@@ -617,7 +629,7 @@
             <h2 id="answer-targets-title">Respuestas para busquedas comunes</h2>
             <p class="section-copy">Respuestas breves para las preguntas que aparecen antes de descargar un visor de archivos en iPhone o iPad.</p>
           </div>
-          <a class="secondary-link" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Descargar en App Store</a>
+          <a class="secondary-link" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="answer-targets">Descargar en App Store</a>
         </div>
         <div class="answer-target-grid">
           <article class="answer-target" data-search-answer="true" data-answer-query="¿Cómo abrir notas Markdown de reuniones de IA en iPhone o iPad?"><h3>¿Cómo abrir notas Markdown de reuniones de IA en iPhone o iPad?</h3><p>Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.</p></article>
@@ -739,18 +751,18 @@
       <section class="section" aria-labelledby="download-title">
         <h2 id="download-title">Abre archivos en iPhone y iPad sin trucos.</h2>
         <div class="actions">
-          <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Descargar en App Store</a>
+          <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="final-cta">Descargar en App Store</a>
         </div>
       </section>
 
       <footer>
         <span>Copyright 2026 CyberGame Limited.</span>
         <a href="https://html.cybergame.ai/es/" data-cross-site-link="companion-footer">Html Preview website</a>
-        <a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Md Preview - Markdown Viewer on the App Store</a>
+        <a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="footer">Md Preview - Markdown Viewer on the App Store</a>
       </footer>
     </main>
 
-    <a class="install-bar" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-auto-open-app-store="ios-session-once" aria-label="Open Md Preview in the App Store">
+    <a class="install-bar" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="sticky-install-bar" data-auto-open-app-store="ios-session-once" aria-label="Open Md Preview in the App Store">
       <img src="../../../assets/app-icon.jpg" alt="App icon">
       <span class="install-copy">
         <strong>Md Preview</strong>
@@ -771,6 +783,14 @@
         }
         var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
         if (!isIOS) return;
+        var appRoot = document.querySelector("[data-app-store-open-state]");
+        var statusRegion = document.querySelector("[data-app-store-status]");
+        var setStoreState = function (state) {
+          if (appRoot) appRoot.setAttribute("data-app-store-open-state", state);
+          if (!statusRegion) return;
+          var text = statusRegion.getAttribute("data-status-" + state) || statusRegion.getAttribute("data-status-ready") || "";
+          if (text) statusRegion.textContent = text;
+        };
         var primaryLink = document.querySelector("[data-primary-app-store-link]");
         var autoOpenKey = "app-store-auto-opened-6760341080";
         var openAppStore = function (link) {
@@ -778,12 +798,17 @@
           var iosUrl = link.getAttribute("data-ios-app-url");
           var webUrl = link.href;
           var leftPage = false;
+          setStoreState("attempting");
           document.addEventListener("visibilitychange", function () {
             if (document.hidden) leftPage = true;
+            if (document.hidden) setStoreState("native-opened");
           }, { once: true });
           window.location.href = iosUrl;
           window.setTimeout(function () {
-            if (!leftPage) window.location.href = webUrl;
+            if (!leftPage) {
+              setStoreState("web-fallback");
+              window.location.href = webUrl;
+            }
           }, 900);
         };
         document.querySelectorAll("[data-ios-app-url]").forEach(function (link) {

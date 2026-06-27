@@ -242,6 +242,17 @@
         letter-spacing: 0;
       }
       .quick-answer p { color: var(--muted); font-size: 17px; }
+      .app-store-status {
+        min-height: 24px;
+        margin-top: 12px;
+        color: var(--muted);
+        font-size: 14px;
+        font-weight: 700;
+      }
+      [data-app-store-open-state="attempting"] .app-store-status,
+      [data-app-store-open-state="web-fallback"] .app-store-status {
+        color: var(--accent-strong);
+      }
       .install-panel {
         border: 1px solid var(--line);
         border-radius: 8px;
@@ -488,7 +499,7 @@
   </head>
   <body>
     <a class="skip" href="#content">Skip to content</a>
-    <main class="page" id="content" data-ux="mobile-first">
+    <main class="page" id="content" data-ux="mobile-first" data-app-store-open-state="idle">
       <header class="site-header">
         <a class="brand" href="https://markdown.cybergame.ai/" aria-label="Md Preview">
           <img src="../../assets/app-icon.jpg" alt="App icon">
@@ -498,7 +509,7 @@
           <a href="https://markdown.cybergame.ai/">Home</a>
           <a href="https://markdown.cybergame.ai/open-markdown-file-iphone/">How to open files</a>
           <a href="https://html.cybergame.ai/" data-cross-site-link="companion-nav">Html Preview</a>
-          <a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Download on the App Store</a>
+          <a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="primary-nav">Download on the App Store</a>
         </nav>
       </header>
       <nav class="breadcrumbs" aria-label="Breadcrumb" data-breadcrumb-trail="visible">
@@ -517,9 +528,10 @@
             <p>Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.</p>
           </div>
           <div class="actions">
-            <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-primary-app-store-link="true">Download on the App Store</a>
+            <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="hero-primary" data-primary-app-store-link="true" data-auto-open-source="hero-primary">Download on the App Store</a>
             <a class="secondary-link" href="https://markdown.cybergame.ai/open-markdown-file-iphone/">How to open files</a>
           </div>
+          <p class="app-store-status" data-app-store-status role="status" aria-live="polite" data-status-ready="App Store opens directly on iPhone and iPad." data-status-opening="Opening App Store..." data-status-fallback="If App Store did not open, tap the download button again." data-status-native-opened="App Store opened.">App Store opens directly on iPhone and iPad.</p>
           <div class="proof-row" data-proof="no-subscriptions-no-iap-no-ads">
             <span class="proof">No subscriptions. No in-app purchases. No ads.</span>
             <span>Files stay on your device.</span>
@@ -548,7 +560,7 @@
               <span>4.4/5</span>
               <span>5 ratings</span>
             </div>
-            <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Download on the App Store</a>
+            <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="install-panel">Download on the App Store</a>
             <p class="file-chip">Private local preview for iPhone and iPad. No subscriptions. No in-app purchases. No ads.</p>
           </div>
         </aside>
@@ -560,7 +572,7 @@
             <h2 id="visual-title">App Store screenshots</h2>
             <p class="section-copy">Official App Store screenshots show the exact job: open local files from AI, Files, cloud drives, and email on iPhone and iPad.</p>
           </div>
-          <a class="secondary-link" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Download on the App Store</a>
+          <a class="secondary-link" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="screenshot-gallery">Download on the App Store</a>
         </div>
         <div class="visual-gallery">
           <figure class="visual-card">
@@ -606,7 +618,7 @@
             <div data-citation-field="formats"><dt>Formats</dt><dd>.md, .markdown, .mdx, .rmd, .qmd</dd></div>
             <div data-citation-field="platform"><dt>Platform</dt><dd>iPhone, iPad</dd></div>
             <div data-citation-field="proof"><dt>Proof</dt><dd>No subscriptions. No in-app purchases. No ads. Files stay on your device.</dd></div>
-            <div data-citation-field="download"><dt>Download</dt><dd><a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">https://apps.apple.com/app/id6760341080</a></dd></div>
+            <div data-citation-field="download"><dt>Download</dt><dd><a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="citation-answer">https://apps.apple.com/app/id6760341080</a></dd></div>
           </dl>
         </div>
       </section>
@@ -617,7 +629,7 @@
             <h2 id="answer-targets-title">Answers for common searches</h2>
             <p class="section-copy">Short, direct answers for the iPhone and iPad file-opening questions people search before downloading.</p>
           </div>
-          <a class="secondary-link" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Download on the App Store</a>
+          <a class="secondary-link" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="answer-targets">Download on the App Store</a>
         </div>
         <div class="answer-target-grid">
           <article class="answer-target" data-search-answer="true" data-answer-query="How do I open Markdown files from GitHub, Obsidian, or Notion on iPhone or iPad?"><h3>How do I open Markdown files from GitHub, Obsidian, or Notion on iPhone or iPad?</h3><p>Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.</p></article>
@@ -739,18 +751,18 @@
       <section class="section" aria-labelledby="download-title">
         <h2 id="download-title">Open files on iPhone and iPad without workarounds.</h2>
         <div class="actions">
-          <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Download on the App Store</a>
+          <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="final-cta">Download on the App Store</a>
         </div>
       </section>
 
       <footer>
         <span>Copyright 2026 CyberGame Limited.</span>
         <a href="https://html.cybergame.ai/" data-cross-site-link="companion-footer">Html Preview website</a>
-        <a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Md Preview - Markdown Viewer on the App Store</a>
+        <a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="footer">Md Preview - Markdown Viewer on the App Store</a>
       </footer>
     </main>
 
-    <a class="install-bar" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-auto-open-app-store="ios-session-once" aria-label="Open Md Preview in the App Store">
+    <a class="install-bar" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" data-app-store-conversion-link="true" data-conversion-surface="sticky-install-bar" data-auto-open-app-store="ios-session-once" aria-label="Open Md Preview in the App Store">
       <img src="../../assets/app-icon.jpg" alt="App icon">
       <span class="install-copy">
         <strong>Md Preview</strong>
@@ -771,6 +783,14 @@
         }
         var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
         if (!isIOS) return;
+        var appRoot = document.querySelector("[data-app-store-open-state]");
+        var statusRegion = document.querySelector("[data-app-store-status]");
+        var setStoreState = function (state) {
+          if (appRoot) appRoot.setAttribute("data-app-store-open-state", state);
+          if (!statusRegion) return;
+          var text = statusRegion.getAttribute("data-status-" + state) || statusRegion.getAttribute("data-status-ready") || "";
+          if (text) statusRegion.textContent = text;
+        };
         var primaryLink = document.querySelector("[data-primary-app-store-link]");
         var autoOpenKey = "app-store-auto-opened-6760341080";
         var openAppStore = function (link) {
@@ -778,12 +798,17 @@
           var iosUrl = link.getAttribute("data-ios-app-url");
           var webUrl = link.href;
           var leftPage = false;
+          setStoreState("attempting");
           document.addEventListener("visibilitychange", function () {
             if (document.hidden) leftPage = true;
+            if (document.hidden) setStoreState("native-opened");
           }, { once: true });
           window.location.href = iosUrl;
           window.setTimeout(function () {
-            if (!leftPage) window.location.href = webUrl;
+            if (!leftPage) {
+              setStoreState("web-fallback");
+              window.location.href = webUrl;
+            }
           }, 900);
         };
         document.querySelectorAll("[data-ios-app-url]").forEach(function (link) {

@@ -1,0 +1,357 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Md Preview - Markdown Viewer for iPhone</title>
+    <meta name="description" content="Open and preview Markdown files on iPhone and iPad. Md Preview renders GFM, code blocks, tables, math, and Mermaid diagrams offline on iOS.">
+    <link rel="canonical" href="https://markdown.cybergame.ai/">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="Md Preview - Markdown Viewer">
+    <meta property="og:description" content="A fast, clean Markdown viewer for iPhone and iPad.">
+    <meta property="og:url" content="https://markdown.cybergame.ai/">
+    <meta property="og:image" content="https://markdown.cybergame.ai/assets/app-icon.jpg">
+    <meta name="twitter:card" content="summary">
+    <meta name="theme-color" content="#6f7fef">
+    <link rel="icon" href="assets/app-icon.jpg">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "SoftwareApplication",
+        "name": "Md Preview - Markdown Viewer",
+        "operatingSystem": "iOS",
+        "applicationCategory": "UtilitiesApplication",
+        "description": "Open and preview Markdown files on iPhone and iPad with support for GFM, syntax highlighting, LaTeX math, Mermaid diagrams, and offline rendering.",
+        "url": "https://markdown.cybergame.ai/",
+        "downloadUrl": "https://apps.apple.com/app/id6760341080",
+        "offers": {
+          "@type": "Offer",
+          "url": "https://apps.apple.com/app/id6760341080"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "CyberGame Limited"
+        }
+      }
+    </script>
+    <style>
+      :root {
+        color-scheme: light dark;
+        --bg: #f5f7ff;
+        --surface: #ffffff;
+        --text: #171a22;
+        --muted: #5c6374;
+        --line: #dce2f7;
+        --accent: #5867d8;
+        --accent-strong: #3341b7;
+        --shadow: 0 22px 70px rgba(43, 53, 122, 0.15);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+        background: var(--bg);
+        color: var(--text);
+        line-height: 1.6;
+      }
+
+      a {
+        color: inherit;
+      }
+
+      .page {
+        width: min(1120px, calc(100% - 40px));
+        margin: 0 auto;
+      }
+
+      header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 20px;
+        padding: 28px 0;
+      }
+
+      .brand {
+        display: inline-flex;
+        align-items: center;
+        gap: 12px;
+        font-weight: 700;
+      }
+
+      .brand img {
+        width: 40px;
+        height: 40px;
+        border-radius: 10px;
+      }
+
+      .nav-link {
+        color: var(--muted);
+        font-size: 15px;
+        text-decoration: none;
+      }
+
+      .hero {
+        display: grid;
+        grid-template-columns: minmax(0, 1.1fr) minmax(320px, 0.9fr);
+        gap: 52px;
+        align-items: center;
+        padding: 58px 0 72px;
+      }
+
+      .eyebrow {
+        margin: 0 0 14px;
+        color: var(--accent-strong);
+        font-size: 14px;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0;
+      }
+
+      h1 {
+        margin: 0;
+        max-width: 780px;
+        font-size: clamp(42px, 6vw, 74px);
+        line-height: 0.98;
+        letter-spacing: 0;
+      }
+
+      .lede {
+        max-width: 690px;
+        margin: 24px 0 0;
+        color: var(--muted);
+        font-size: 21px;
+      }
+
+      .actions {
+        display: flex;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 14px;
+        margin-top: 34px;
+      }
+
+      .button {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 52px;
+        padding: 0 22px;
+        border-radius: 8px;
+        background: var(--accent);
+        color: #fff;
+        font-weight: 800;
+        text-decoration: none;
+        box-shadow: var(--shadow);
+      }
+
+      .note {
+        color: var(--muted);
+        font-size: 15px;
+      }
+
+      .reader {
+        min-height: 480px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+        box-shadow: var(--shadow);
+        overflow: hidden;
+      }
+
+      .reader-top {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 16px;
+        padding: 18px;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .reader-title {
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      .reader-body {
+        padding: 30px;
+      }
+
+      .reader-body img {
+        width: 96px;
+        height: 96px;
+        border-radius: 22px;
+        box-shadow: 0 16px 32px rgba(33, 38, 94, 0.16);
+      }
+
+      .reader-body h2 {
+        margin: 24px 0 12px;
+        font-size: 30px;
+        line-height: 1.15;
+      }
+
+      .code {
+        margin-top: 24px;
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #f9faff;
+        color: var(--muted);
+        font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+        font-size: 14px;
+        overflow-wrap: anywhere;
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 18px;
+        padding: 20px 0 70px;
+      }
+
+      .card {
+        padding: 26px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+      }
+
+      .card h3 {
+        margin: 0 0 10px;
+        font-size: 20px;
+      }
+
+      .card p {
+        margin: 0;
+        color: var(--muted);
+      }
+
+      footer {
+        display: flex;
+        justify-content: space-between;
+        gap: 20px;
+        padding: 28px 0 42px;
+        color: var(--muted);
+        font-size: 14px;
+        border-top: 1px solid var(--line);
+      }
+
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --bg: #12141d;
+          --surface: #1b1f2d;
+          --text: #f4f6ff;
+          --muted: #c8cde1;
+          --line: #30364f;
+          --accent: #7f8bff;
+          --accent-strong: #aab1ff;
+          --shadow: 0 22px 70px rgba(0, 0, 0, 0.3);
+        }
+
+        .code {
+          background: #141722;
+        }
+      }
+
+      @media (max-width: 860px) {
+        .hero {
+          grid-template-columns: 1fr;
+          gap: 34px;
+          padding-top: 28px;
+        }
+
+        .reader {
+          min-height: auto;
+        }
+
+        .grid {
+          grid-template-columns: 1fr;
+        }
+      }
+
+      @media (max-width: 560px) {
+        .page {
+          width: min(100% - 28px, 1120px);
+        }
+
+        header,
+        footer {
+          align-items: flex-start;
+          flex-direction: column;
+        }
+
+        h1 {
+          font-size: 42px;
+        }
+
+        .lede {
+          font-size: 18px;
+        }
+
+        .button {
+          width: 100%;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main class="page">
+      <header>
+        <a class="brand" href="https://markdown.cybergame.ai/" aria-label="Md Preview home">
+          <img src="assets/app-icon.jpg" alt="App icon">
+          <span>Md Preview</span>
+        </a>
+        <a class="nav-link" href="https://apps.apple.com/app/id6760341080">Download on the App Store</a>
+      </header>
+
+      <section class="hero" aria-labelledby="hero-title">
+        <div>
+          <p class="eyebrow">Markdown viewer for iPhone and iPad</p>
+          <h1 id="hero-title">Read Markdown files beautifully on iOS.</h1>
+          <p class="lede">Md Preview opens .md and Markdown files from ChatGPT, Obsidian, Notion, GitHub, Files, and other apps with clean offline rendering.</p>
+          <div class="actions">
+            <a class="button" href="https://apps.apple.com/app/id6760341080">Download on the App Store</a>
+            <span class="note">Offline rendering. Your files stay on your device.</span>
+          </div>
+        </div>
+
+        <aside class="reader" aria-label="App preview">
+          <div class="reader-top">
+            <span class="reader-title">README.md</span>
+            <span class="reader-title">Preview</span>
+          </div>
+          <div class="reader-body">
+            <img src="assets/app-icon.jpg" alt="App icon">
+            <h2>Markdown previews without clutter.</h2>
+            <p>Open notes, AI reports, developer docs, and technical files directly on iPhone or iPad.</p>
+            <div class="code"># Features<br>GFM tables, code highlighting, LaTeX math, Mermaid diagrams, and more.</div>
+          </div>
+        </aside>
+      </section>
+
+      <section class="grid" aria-label="Key features">
+        <article class="card">
+          <h3>Full Markdown preview</h3>
+          <p>Render GFM tables, task lists, footnotes, strikethrough, links, and common Markdown formats.</p>
+        </article>
+        <article class="card">
+          <h3>Technical content ready</h3>
+          <p>Read code blocks, LaTeX math, and Mermaid diagrams on your iPhone or iPad.</p>
+        </article>
+        <article class="card">
+          <h3>100% offline</h3>
+          <p>Rendering happens on device. No server upload and no cloud processing required.</p>
+        </article>
+      </section>
+
+      <footer>
+        <span>Copyright 2026 CyberGame Limited.</span>
+        <a href="https://apps.apple.com/app/id6760341080">Md Preview on the App Store</a>
+      </footer>
+    </main>
+  </body>
+</html>

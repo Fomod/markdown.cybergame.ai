@@ -1228,9 +1228,9 @@
         "在 iPhone 和 iPad 上打开 Markdown 文件"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from iOS 文件预览问题 need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS 有时只显示文件图标、源码或不完整预览，而不是可读的 Markdown 页面。",
+        "来自 iOS 文件预览问题 的 Markdown 文件需要一个 iPhone/iPad 本机预览路径。",
+        "Md Preview 面向打开文件这个明确需求，核心卖点是无订阅、无内购、无广告。",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -1419,9 +1419,9 @@
         "在 iPhone 和 iPad 上打开 Markdown 文件"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Markdown 原始文本预览 need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS 有时只显示文件图标、源码或不完整预览，而不是可读的 Markdown 页面。",
+        "来自 Markdown 原始文本预览 的 Markdown 文件需要一个 iPhone/iPad 本机预览路径。",
+        "Md Preview 面向打开文件这个明确需求，核心卖点是无订阅、无内购、无广告。",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -1610,9 +1610,9 @@
         "在 iPhone 和 iPad 上打开 Markdown 文件"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Files App 预览问题 need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS 有时只显示文件图标、源码或不完整预览，而不是可读的 Markdown 页面。",
+        "来自 Files App 预览问题 的 Markdown 文件需要一个 iPhone/iPad 本机预览路径。",
+        "Md Preview 面向打开文件这个明确需求，核心卖点是无订阅、无内购、无广告。",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -1801,9 +1801,9 @@
         "在 iPhone 和 iPad 上打开 Markdown 文件"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Quick Look 预览问题 need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS 有时只显示文件图标、源码或不完整预览，而不是可读的 Markdown 页面。",
+        "来自 Quick Look 预览问题 的 Markdown 文件需要一个 iPhone/iPad 本机预览路径。",
+        "Md Preview 面向打开文件这个明确需求，核心卖点是无订阅、无内购、无广告。",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",
@@ -1992,9 +1992,9 @@
         "iPhone と iPad で Markdown ファイルを開く"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from iOSプレビュー問題 need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOSではファイルアイコン、ソース、途中までの表示になり、読みやすいMarkdownページにならないことがあります。",
+        "iOSプレビュー問題のMarkdownファイルには、iPhoneやiPad上で開けるローカル表示の導線が必要です。",
+        "Md Previewはファイルを開く用途に絞ったApp Storeビューアで、サブスク、アプリ内課金、広告はありません。",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -2183,9 +2183,9 @@
         "iPhone と iPad で Markdown ファイルを開く"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Markdownの生テキスト表示 need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOSではファイルアイコン、ソース、途中までの表示になり、読みやすいMarkdownページにならないことがあります。",
+        "Markdownの生テキスト表示のMarkdownファイルには、iPhoneやiPad上で開けるローカル表示の導線が必要です。",
+        "Md Previewはファイルを開く用途に絞ったApp Storeビューアで、サブスク、アプリ内課金、広告はありません。",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -2374,9 +2374,9 @@
         "iPhone と iPad で Markdown ファイルを開く"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Filesプレビュー問題 need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOSではファイルアイコン、ソース、途中までの表示になり、読みやすいMarkdownページにならないことがあります。",
+        "Filesプレビュー問題のMarkdownファイルには、iPhoneやiPad上で開けるローカル表示の導線が必要です。",
+        "Md Previewはファイルを開く用途に絞ったApp Storeビューアで、サブスク、アプリ内課金、広告はありません。",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -2565,9 +2565,9 @@
         "iPhone と iPad で Markdown ファイルを開く"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Quick Look need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOSではファイルアイコン、ソース、途中までの表示になり、読みやすいMarkdownページにならないことがあります。",
+        "Quick LookのMarkdownファイルには、iPhoneやiPad上で開けるローカル表示の導線が必要です。",
+        "Md Previewはファイルを開く用途に絞ったApp Storeビューアで、サブスク、アプリ内課金、広告はありません。",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",
@@ -2756,9 +2756,9 @@
         "Abrir archivos Markdown en iPhone y iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from problema de vista previa en iOS need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina Markdown legible.",
+        "Los archivos Markdown de problema de vista previa en iOS necesitan una ruta de vista previa local en iPhone o iPad.",
+        "Md Preview es un visor enfocado de App Store sin suscripciones, compras dentro de la app ni anuncios.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -2947,9 +2947,9 @@
         "Abrir archivos Markdown en iPhone y iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Markdown como texto sin formato need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina Markdown legible.",
+        "Los archivos Markdown de Markdown como texto sin formato necesitan una ruta de vista previa local en iPhone o iPad.",
+        "Md Preview es un visor enfocado de App Store sin suscripciones, compras dentro de la app ni anuncios.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -3138,9 +3138,9 @@
         "Abrir archivos Markdown en iPhone y iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from problema de vista previa en Files need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina Markdown legible.",
+        "Los archivos Markdown de problema de vista previa en Files necesitan una ruta de vista previa local en iPhone o iPad.",
+        "Md Preview es un visor enfocado de App Store sin suscripciones, compras dentro de la app ni anuncios.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -3329,9 +3329,9 @@
         "Abrir archivos Markdown en iPhone y iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Quick Look need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS puede mostrar un icono, codigo sin renderizar o una vista incompleta en vez de una pagina Markdown legible.",
+        "Los archivos Markdown de Quick Look necesitan una ruta de vista previa local en iPhone o iPad.",
+        "Md Preview es un visor enfocado de App Store sin suscripciones, compras dentro de la app ni anuncios.",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",
@@ -3520,9 +3520,9 @@
         "Markdown Dateien auf iPhone und iPad offnen"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from iOS-Vorschauproblem need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren Markdown-Seite.",
+        "Markdown-Dateien aus iOS-Vorschauproblem brauchen einen lokalen Vorschaupfad auf iPhone oder iPad.",
+        "Md Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Kaeufe oder Werbung.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -3711,9 +3711,9 @@
         "Markdown Dateien auf iPhone und iPad offnen"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Markdown als Rohtext need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren Markdown-Seite.",
+        "Markdown-Dateien aus Markdown als Rohtext brauchen einen lokalen Vorschaupfad auf iPhone oder iPad.",
+        "Md Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Kaeufe oder Werbung.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -3902,9 +3902,9 @@
         "Markdown Dateien auf iPhone und iPad offnen"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Files-Vorschauproblem need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren Markdown-Seite.",
+        "Markdown-Dateien aus Files-Vorschauproblem brauchen einen lokalen Vorschaupfad auf iPhone oder iPad.",
+        "Md Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Kaeufe oder Werbung.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -4093,9 +4093,9 @@
         "Markdown Dateien auf iPhone und iPad offnen"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Quick Look need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS zeigt manchmal nur ein Dateisymbol, Quellcode oder eine unvollstaendige Vorschau statt einer lesbaren Markdown-Seite.",
+        "Markdown-Dateien aus Quick Look brauchen einen lokalen Vorschaupfad auf iPhone oder iPad.",
+        "Md Preview ist ein fokussierter App-Store-Viewer ohne Abos, In-App-Kaeufe oder Werbung.",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",
@@ -4284,9 +4284,9 @@
         "Ouvrir des fichiers Markdown sur iPhone et iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from problème d'aperçu iOS need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page Markdown lisible.",
+        "Les fichiers Markdown issus de problème d'aperçu iOS ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Md Preview est un lecteur App Store cible, sans abonnement, achat integre ni publicite.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -4475,9 +4475,9 @@
         "Ouvrir des fichiers Markdown sur iPhone et iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Markdown en texte brut need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page Markdown lisible.",
+        "Les fichiers Markdown issus de Markdown en texte brut ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Md Preview est un lecteur App Store cible, sans abonnement, achat integre ni publicite.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -4666,9 +4666,9 @@
         "Ouvrir des fichiers Markdown sur iPhone et iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from problème d'aperçu Files need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page Markdown lisible.",
+        "Les fichiers Markdown issus de problème d'aperçu Files ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Md Preview est un lecteur App Store cible, sans abonnement, achat integre ni publicite.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -4857,9 +4857,9 @@
         "Ouvrir des fichiers Markdown sur iPhone et iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Quick Look need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS peut afficher une icone, du code brut ou un apercu incomplet au lieu d'une page Markdown lisible.",
+        "Les fichiers Markdown issus de Quick Look ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Md Preview est un lecteur App Store cible, sans abonnement, achat integre ni publicite.",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",
@@ -5048,9 +5048,9 @@
         "Abrir arquivos Markdown no iPhone e iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from problema de previa no iOS need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina Markdown legivel.",
+        "Arquivos Markdown de problema de previa no iOS precisam de um caminho de visualizacao local no iPhone ou iPad.",
+        "Md Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -5239,9 +5239,9 @@
         "Abrir arquivos Markdown no iPhone e iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Markdown como texto bruto need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina Markdown legivel.",
+        "Arquivos Markdown de Markdown como texto bruto precisam de um caminho de visualizacao local no iPhone ou iPad.",
+        "Md Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -5430,9 +5430,9 @@
         "Abrir arquivos Markdown no iPhone e iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from problema de previa no Files need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina Markdown legivel.",
+        "Arquivos Markdown de problema de previa no Files precisam de um caminho de visualizacao local no iPhone ou iPad.",
+        "Md Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -5621,9 +5621,9 @@
         "Abrir arquivos Markdown no iPhone e iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Quick Look need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "O iOS pode mostrar apenas um icone, codigo bruto ou uma previa incompleta em vez de uma pagina Markdown legivel.",
+        "Arquivos Markdown de Quick Look precisam de um caminho de visualizacao local no iPhone ou iPad.",
+        "Md Preview e um visualizador focado da App Store, sem assinaturas, compras no app ou anuncios.",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",
@@ -5812,9 +5812,9 @@
         "iPhone과 iPad에서 Markdown 파일 열기"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from iOS 미리보기 문제 need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS가 읽기 좋은 Markdown 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
+        "iOS 미리보기 문제에서 온 Markdown 파일에는 iPhone 또는 iPad의 로컬 미리보기 경로가 필요합니다.",
+        "Md Preview은 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -6003,9 +6003,9 @@
         "iPhone과 iPad에서 Markdown 파일 열기"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Markdown 원문 표시 need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS가 읽기 좋은 Markdown 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
+        "Markdown 원문 표시에서 온 Markdown 파일에는 iPhone 또는 iPad의 로컬 미리보기 경로가 필요합니다.",
+        "Md Preview은 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -6194,9 +6194,9 @@
         "iPhone과 iPad에서 Markdown 파일 열기"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Files 미리보기 문제 need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS가 읽기 좋은 Markdown 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
+        "Files 미리보기 문제에서 온 Markdown 파일에는 iPhone 또는 iPad의 로컬 미리보기 경로가 필요합니다.",
+        "Md Preview은 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -6385,9 +6385,9 @@
         "iPhone과 iPad에서 Markdown 파일 열기"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Quick Look need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS가 읽기 좋은 Markdown 페이지 대신 파일 아이콘, 원본 코드 또는 불완전한 미리보기를 보여줄 수 있습니다.",
+        "Quick Look에서 온 Markdown 파일에는 iPhone 또는 iPad의 로컬 미리보기 경로가 필요합니다.",
+        "Md Preview은 구독, 인앱 구매, 광고 없이 파일 열기에 집중한 App Store 뷰어입니다.",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",
@@ -6576,9 +6576,9 @@
         "فتح ملفات Markdown على iPhone و iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from مشكلة معاينة iOS need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "قد يعرض iOS ايقونة ملف او كودا خاما او معاينة ناقصة بدلا من صفحة Markdown مقروءة.",
+        "تحتاج ملفات Markdown من مشكلة معاينة iOS الى مسار معاينة محلي على iPhone او iPad.",
+        "Md Preview عارض مركز من App Store بلا اشتراكات او مشتريات داخل التطبيق او اعلانات.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -6767,9 +6767,9 @@
         "فتح ملفات Markdown على iPhone و iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Markdown كنص خام need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "قد يعرض iOS ايقونة ملف او كودا خاما او معاينة ناقصة بدلا من صفحة Markdown مقروءة.",
+        "تحتاج ملفات Markdown من Markdown كنص خام الى مسار معاينة محلي على iPhone او iPad.",
+        "Md Preview عارض مركز من App Store بلا اشتراكات او مشتريات داخل التطبيق او اعلانات.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -6958,9 +6958,9 @@
         "فتح ملفات Markdown على iPhone و iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from مشكلة معاينة Files need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "قد يعرض iOS ايقونة ملف او كودا خاما او معاينة ناقصة بدلا من صفحة Markdown مقروءة.",
+        "تحتاج ملفات Markdown من مشكلة معاينة Files الى مسار معاينة محلي على iPhone او iPad.",
+        "Md Preview عارض مركز من App Store بلا اشتراكات او مشتريات داخل التطبيق او اعلانات.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -7149,9 +7149,9 @@
         "فتح ملفات Markdown على iPhone و iPad"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Quick Look need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "قد يعرض iOS ايقونة ملف او كودا خاما او معاينة ناقصة بدلا من صفحة Markdown مقروءة.",
+        "تحتاج ملفات Markdown من Quick Look الى مسار معاينة محلي على iPhone او iPad.",
+        "Md Preview عارض مركز من App Store بلا اشتراكات او مشتريات داخل التطبيق او اعلانات.",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",
@@ -7340,9 +7340,9 @@
         "iPhone और iPad पर Markdown फाइल खोलें"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from iOS preview problem need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS kabhi-kabhi readable Markdown page ke bajay file icon, raw code ya adhura preview dikhata hai.",
+        "iOS preview problem se aayi Markdown files ko iPhone ya iPad par local preview path chahiye.",
+        "Md Preview App Store ka focused viewer hai, bina subscription, in-app purchases ya ads.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -7531,9 +7531,9 @@
         "iPhone और iPad पर Markdown फाइल खोलें"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from raw Markdown preview need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS kabhi-kabhi readable Markdown page ke bajay file icon, raw code ya adhura preview dikhata hai.",
+        "raw Markdown preview se aayi Markdown files ko iPhone ya iPad par local preview path chahiye.",
+        "Md Preview App Store ka focused viewer hai, bina subscription, in-app purchases ya ads.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -7722,9 +7722,9 @@
         "iPhone और iPad पर Markdown फाइल खोलें"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Files preview problem need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS kabhi-kabhi readable Markdown page ke bajay file icon, raw code ya adhura preview dikhata hai.",
+        "Files preview problem se aayi Markdown files ko iPhone ya iPad par local preview path chahiye.",
+        "Md Preview App Store ka focused viewer hai, bina subscription, in-app purchases ya ads.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -7913,9 +7913,9 @@
         "iPhone और iPad पर Markdown फाइल खोलें"
       ],
       "diagnosticSignals": [
-        "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Quick Look preview issue need a local preview path on iPhone or iPad.",
-        "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
+        "iOS kabhi-kabhi readable Markdown page ke bajay file icon, raw code ya adhura preview dikhata hai.",
+        "Quick Look preview issue se aayi Markdown files ko iPhone ya iPad par local preview path chahiye.",
+        "Md Preview App Store ka focused viewer hai, bina subscription, in-app purchases ya ads.",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",

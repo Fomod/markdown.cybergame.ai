@@ -120,7 +120,7 @@
       "position": 9,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/#troubleshooting-card",
-        "name": "iOS file preview problem Markdownファイルを開くには？",
+        "name": "iOSで開けないMarkdownファイルを開くには？",
         "url": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/"
       }
     },
@@ -129,7 +129,7 @@
       "position": 10,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-card",
-        "name": "iPhoneやiPadでraw Markdown text preview Markdownファイルを開くには？",
+        "name": "iPhoneやiPadで生テキスト表示のMarkdownを開くには？",
         "url": "https://markdown.cybergame.ai/ja/articles/markdown-file-shows-raw-text-on-iphone/"
       }
     },
@@ -138,7 +138,7 @@
       "position": 11,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-card",
-        "name": "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
+        "name": "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
         "url": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/"
       }
     },
@@ -1936,8 +1936,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/#troubleshooting-card",
-      "name": "iOS file preview problem Markdownファイルを開くには？",
-      "text": "iOS file preview problem Markdownファイルを開くには？",
+      "name": "iOSで開けないMarkdownファイルを開くには？",
+      "text": "iOSで開けないMarkdownファイルを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/#troubleshooting-answer",
@@ -1970,9 +1970,9 @@
       "articleSlug": "iphone-cant-open-md-file",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "iOS file preview problem Markdownファイルを開くには？",
+      "userQuestion": "iOSで開けないMarkdownファイルを開くには？",
       "promptVariants": [
-        "iOS file preview problem Markdownファイルを開くには？",
+        "iOSで開けないMarkdownファイルを開くには？",
         "iPhone can't open md file",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -1984,16 +1984,16 @@
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
         "Md Preview",
-        "iOS file preview problem MarkdownファイルをiPhoneで開く方法",
-        "iOS file preview problem",
-        "iOS file preview problem Markdownファイルを開く",
+        "iOSで開けないMarkdownファイルをiPhoneで開く方法",
+        "iOSプレビュー問題",
+        "iOSで開けないMarkdownファイルを開く",
         "Markdown viewer iOS",
         "Md Preview App Store",
         "iPhone と iPad で Markdown ファイルを開く"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from iOS file preview problem need a local preview path on iPhone or iPad.",
+        "Markdown files from iOSプレビュー問題 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
@@ -2042,7 +2042,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "iOS file preview problem",
+      "source": "iOSプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -2127,8 +2127,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/ja/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-card",
-      "name": "iPhoneやiPadでraw Markdown text preview Markdownファイルを開くには？",
-      "text": "iPhoneやiPadでraw Markdown text preview Markdownファイルを開くには？",
+      "name": "iPhoneやiPadで生テキスト表示のMarkdownを開くには？",
+      "text": "iPhoneやiPadで生テキスト表示のMarkdownを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/ja/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
@@ -2161,9 +2161,9 @@
       "articleSlug": "markdown-file-shows-raw-text-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "iPhoneやiPadでraw Markdown text preview Markdownファイルを開くには？",
+      "userQuestion": "iPhoneやiPadで生テキスト表示のMarkdownを開くには？",
       "promptVariants": [
-        "iPhoneやiPadでraw Markdown text preview Markdownファイルを開くには？",
+        "iPhoneやiPadで生テキスト表示のMarkdownを開くには？",
         "Markdown file shows raw text on iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -2175,16 +2175,16 @@
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
         "Md Preview",
-        "raw Markdown text preview MarkdownファイルをiPhoneで開く方法",
-        "raw Markdown text preview",
-        "raw Markdown text preview Markdownファイルを開く",
+        "生テキスト表示のMarkdownをiPhoneで開く方法",
+        "Markdownの生テキスト表示",
+        "生テキスト表示のMarkdownを開く",
         "Markdown viewer iOS",
         "Md Preview App Store",
         "iPhone と iPad で Markdown ファイルを開く"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from raw Markdown text preview need a local preview path on iPhone or iPad.",
+        "Markdown files from Markdownの生テキスト表示 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
@@ -2233,7 +2233,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "raw Markdown text preview",
+      "source": "Markdownの生テキスト表示",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -2318,8 +2318,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-card",
-      "name": "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
-      "text": "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
+      "name": "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
+      "text": "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
@@ -2352,9 +2352,9 @@
       "articleSlug": "files-app-cant-preview-markdown-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
+      "userQuestion": "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
       "promptVariants": [
-        "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
+        "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
         "Files app can't preview Markdown on iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -2366,16 +2366,16 @@
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
         "Md Preview",
-        "Files app preview problem MarkdownファイルをiPhoneで開く方法",
-        "Files app preview problem",
-        "Files app preview problem Markdownファイルを開く",
+        "FilesでプレビューできないMarkdownファイルをiPhoneで開く方法",
+        "Filesプレビュー問題",
+        "FilesでプレビューできないMarkdownファイルを開く",
         "Markdown viewer iOS",
         "Md Preview App Store",
         "iPhone と iPad で Markdown ファイルを開く"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Files app preview problem need a local preview path on iPhone or iPad.",
+        "Markdown files from Filesプレビュー問題 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
@@ -2424,7 +2424,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "Files app preview problem",
+      "source": "Filesプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -5804,16 +5804,16 @@
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
         "Md Preview",
-        "iPhone에서 iOS file preview problem Markdown 파일 열기",
-        "iOS file preview problem",
-        "iOS file preview problem Markdown 파일 열기",
+        "iPhone에서 iOS에서 열리지 않는 Markdown 파일 열기",
+        "iOS 미리보기 문제",
+        "iOS에서 열리지 않는 Markdown 파일 열기",
         "Markdown viewer iOS",
         "Md Preview App Store",
         "iPhone과 iPad에서 Markdown 파일 열기"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from iOS file preview problem need a local preview path on iPhone or iPad.",
+        "Markdown files from iOS 미리보기 문제 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
@@ -5862,7 +5862,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "iOS file preview problem",
+      "source": "iOS 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -5995,16 +5995,16 @@
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
         "Md Preview",
-        "iPhone에서 raw Markdown text preview Markdown 파일 열기",
-        "raw Markdown text preview",
-        "raw Markdown text preview Markdown 파일 열기",
+        "iPhone에서 원문으로 보이는 Markdown 열기",
+        "Markdown 원문 표시",
+        "원문으로 보이는 Markdown 열기",
         "Markdown viewer iOS",
         "Md Preview App Store",
         "iPhone과 iPad에서 Markdown 파일 열기"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from raw Markdown text preview need a local preview path on iPhone or iPad.",
+        "Markdown files from Markdown 원문 표시 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
@@ -6053,7 +6053,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "raw Markdown text preview",
+      "source": "Markdown 원문 표시",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -6186,16 +6186,16 @@
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
         "Md Preview",
-        "iPhone에서 Files app preview problem Markdown 파일 열기",
-        "Files app preview problem",
-        "Files app preview problem Markdown 파일 열기",
+        "iPhone에서 Files에서 미리보기 안 되는 Markdown 파일 열기",
+        "Files 미리보기 문제",
+        "Files에서 미리보기 안 되는 Markdown 파일 열기",
         "Markdown viewer iOS",
         "Md Preview App Store",
         "iPhone과 iPad에서 Markdown 파일 열기"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Files app preview problem need a local preview path on iPhone or iPad.",
+        "Markdown files from Files 미리보기 문제 need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
@@ -6244,7 +6244,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "Files app preview problem",
+      "source": "Files 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",

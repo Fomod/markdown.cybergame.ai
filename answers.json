@@ -49340,12 +49340,12 @@
       "localeName": "日本語",
       "pageType": "article",
       "topicKey": null,
-      "title": "zipped Markdown exports MarkdownファイルをiPhoneで開く方法",
+      "title": "ZIP形式のMarkdownエクスポートをiPhoneで開く方法",
       "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/",
-      "query": "iPhoneやiPadでzipped Markdown exports Markdownファイルを開くには？",
+      "query": "iPhoneやiPadでZIP形式のMarkdownエクスポートを開くには？",
       "queryVariants": [
-        "iPhoneやiPadでzipped Markdown exports Markdownファイルを開くには？",
+        "iPhoneやiPadでZIP形式のMarkdownエクスポートを開くには？",
         "open zipped Markdown export on iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -49367,7 +49367,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "zipped Markdown exports",
+      "source": "ZIP形式のMarkdownエクスポート",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -49378,7 +49378,7 @@
         {
           "position": 1,
           "name": "元ファイルを保存",
-          "text": "zipped Markdown exportsから受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "text": "ZIP形式のMarkdownエクスポートから受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
           "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/#step-1"
         },
         {
@@ -49390,7 +49390,7 @@
         {
           "position": 3,
           "name": "ビューアを選ぶ",
-          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でzipped Markdown exports Markdownファイルを開くをローカルに行います。",
+          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でZIP形式のMarkdownエクスポートを開くをローカルに行います。",
           "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/#step-3"
         },
         {
@@ -49413,7 +49413,7 @@
         {
           "factor": "best-fit",
           "heading": "一致する検索意図",
-          "text": "zipped Markdown exportsから受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
+          "text": "ZIP形式のMarkdownエクスポートから受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
         },
         {
           "factor": "native-ios-path",
@@ -49472,11 +49472,11 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from zipped Markdown exports need a local preview path on iPhone or iPad.",
+          "Markdown files from ZIP形式のMarkdownエクスポート need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "iPhoneやiPadでzipped Markdown exports Markdownファイルを開くには？",
+          "iPhoneやiPadでZIP形式のMarkdownエクスポートを開くには？",
           "open zipped Markdown export on iPhone",
           "Markdown viewer iPhone",
           "Markdown viewer iPad",
@@ -49488,9 +49488,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "zipped Markdown exports MarkdownファイルをiPhoneで開く方法",
-          "zipped Markdown exports",
-          "zipped Markdown exports Markdownファイルを開く",
+          "ZIP形式のMarkdownエクスポートをiPhoneで開く方法",
+          "ZIP形式のMarkdownエクスポート",
+          "ZIP形式のMarkdownエクスポートを開く",
           "Markdown viewer iOS",
           "Md Preview App Store",
           "iPhone と iPad で Markdown ファイルを開く",
@@ -49912,12 +49912,12 @@
       "localeName": "日本語",
       "pageType": "article",
       "topicKey": null,
-      "title": "GitHub README files on iPad Markdownファイルを開く方法",
+      "title": "iPadのGitHub README Markdownを開く方法",
       "url": "https://markdown.cybergame.ai/ja/articles/open-github-readme-markdown-on-ipad/",
       "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/open-github-readme-markdown-on-ipad/",
-      "query": "GitHub README files on iPad Markdownファイルを開くには？",
+      "query": "iPadのGitHub README Markdownを開くには？",
       "queryVariants": [
-        "GitHub README files on iPad Markdownファイルを開くには？",
+        "iPadのGitHub README Markdownを開くには？",
         "open GitHub README Markdown on iPad",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -49939,7 +49939,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "GitHub README files on iPad",
+      "source": "iPadのGitHub README",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -49950,7 +49950,7 @@
         {
           "position": 1,
           "name": "元ファイルを保存",
-          "text": "GitHub README files on iPadから受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "text": "iPadのGitHub READMEから受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
           "url": "https://markdown.cybergame.ai/ja/articles/open-github-readme-markdown-on-ipad/#step-1"
         },
         {
@@ -49962,7 +49962,7 @@
         {
           "position": 3,
           "name": "ビューアを選ぶ",
-          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でGitHub README files on iPad Markdownファイルを開くをローカルに行います。",
+          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でiPadのGitHub README Markdownを開くをローカルに行います。",
           "url": "https://markdown.cybergame.ai/ja/articles/open-github-readme-markdown-on-ipad/#step-3"
         },
         {
@@ -49985,7 +49985,7 @@
         {
           "factor": "best-fit",
           "heading": "一致する検索意図",
-          "text": "GitHub README files on iPadから受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
+          "text": "iPadのGitHub READMEから受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
         },
         {
           "factor": "native-ios-path",
@@ -50044,11 +50044,11 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from GitHub README files on iPad need a local preview path on iPhone or iPad.",
+          "Markdown files from iPadのGitHub README need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "GitHub README files on iPad Markdownファイルを開くには？",
+          "iPadのGitHub README Markdownを開くには？",
           "open GitHub README Markdown on iPad",
           "Markdown viewer iPhone",
           "Markdown viewer iPad",
@@ -50060,9 +50060,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "GitHub README files on iPad Markdownファイルを開く方法",
-          "GitHub README files on iPad",
-          "GitHub README files on iPad Markdownファイルを開く",
+          "iPadのGitHub README Markdownを開く方法",
+          "iPadのGitHub README",
+          "iPadのGitHub README Markdownを開く",
           "Markdown viewer iOS",
           "Md Preview App Store",
           "iPhone と iPad で Markdown ファイルを開く",
@@ -56776,12 +56776,12 @@
       "localeName": "日本語",
       "pageType": "article",
       "topicKey": null,
-      "title": "iOS file preview problem MarkdownファイルをiPhoneで開く方法",
+      "title": "iOSで開けないMarkdownファイルをiPhoneで開く方法",
       "url": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/",
       "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/",
-      "query": "iOS file preview problem Markdownファイルを開くには？",
+      "query": "iOSで開けないMarkdownファイルを開くには？",
       "queryVariants": [
-        "iOS file preview problem Markdownファイルを開くには？",
+        "iOSで開けないMarkdownファイルを開くには？",
         "iPhone can't open md file",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -56803,7 +56803,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "iOS file preview problem",
+      "source": "iOSプレビュー問題",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -56814,7 +56814,7 @@
         {
           "position": 1,
           "name": "元ファイルを保存",
-          "text": "iOS file preview problemから受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "text": "iOSプレビュー問題から受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
           "url": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/#step-1"
         },
         {
@@ -56826,7 +56826,7 @@
         {
           "position": 3,
           "name": "ビューアを選ぶ",
-          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でiOS file preview problem Markdownファイルを開くをローカルに行います。",
+          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でiOSで開けないMarkdownファイルを開くをローカルに行います。",
           "url": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/#step-3"
         },
         {
@@ -56849,7 +56849,7 @@
         {
           "factor": "best-fit",
           "heading": "一致する検索意図",
-          "text": "iOS file preview problemから受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
+          "text": "iOSプレビュー問題から受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
         },
         {
           "factor": "native-ios-path",
@@ -56908,11 +56908,11 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from iOS file preview problem need a local preview path on iPhone or iPad.",
+          "Markdown files from iOSプレビュー問題 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "iOS file preview problem Markdownファイルを開くには？",
+          "iOSで開けないMarkdownファイルを開くには？",
           "iPhone can't open md file",
           "Markdown viewer iPhone",
           "Markdown viewer iPad",
@@ -56924,9 +56924,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "iOS file preview problem MarkdownファイルをiPhoneで開く方法",
-          "iOS file preview problem",
-          "iOS file preview problem Markdownファイルを開く",
+          "iOSで開けないMarkdownファイルをiPhoneで開く方法",
+          "iOSプレビュー問題",
+          "iOSで開けないMarkdownファイルを開く",
           "Markdown viewer iOS",
           "Md Preview App Store",
           "iPhone と iPad で Markdown ファイルを開く",
@@ -57062,12 +57062,12 @@
       "localeName": "日本語",
       "pageType": "article",
       "topicKey": null,
-      "title": "raw Markdown text preview MarkdownファイルをiPhoneで開く方法",
+      "title": "生テキスト表示のMarkdownをiPhoneで開く方法",
       "url": "https://markdown.cybergame.ai/ja/articles/markdown-file-shows-raw-text-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/markdown-file-shows-raw-text-on-iphone/",
-      "query": "iPhoneやiPadでraw Markdown text preview Markdownファイルを開くには？",
+      "query": "iPhoneやiPadで生テキスト表示のMarkdownを開くには？",
       "queryVariants": [
-        "iPhoneやiPadでraw Markdown text preview Markdownファイルを開くには？",
+        "iPhoneやiPadで生テキスト表示のMarkdownを開くには？",
         "Markdown file shows raw text on iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -57089,7 +57089,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "raw Markdown text preview",
+      "source": "Markdownの生テキスト表示",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -57100,7 +57100,7 @@
         {
           "position": 1,
           "name": "元ファイルを保存",
-          "text": "raw Markdown text previewから受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "text": "Markdownの生テキスト表示から受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
           "url": "https://markdown.cybergame.ai/ja/articles/markdown-file-shows-raw-text-on-iphone/#step-1"
         },
         {
@@ -57112,7 +57112,7 @@
         {
           "position": 3,
           "name": "ビューアを選ぶ",
-          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でraw Markdown text preview Markdownファイルを開くをローカルに行います。",
+          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上で生テキスト表示のMarkdownを開くをローカルに行います。",
           "url": "https://markdown.cybergame.ai/ja/articles/markdown-file-shows-raw-text-on-iphone/#step-3"
         },
         {
@@ -57135,7 +57135,7 @@
         {
           "factor": "best-fit",
           "heading": "一致する検索意図",
-          "text": "raw Markdown text previewから受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
+          "text": "Markdownの生テキスト表示から受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
         },
         {
           "factor": "native-ios-path",
@@ -57194,11 +57194,11 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from raw Markdown text preview need a local preview path on iPhone or iPad.",
+          "Markdown files from Markdownの生テキスト表示 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "iPhoneやiPadでraw Markdown text preview Markdownファイルを開くには？",
+          "iPhoneやiPadで生テキスト表示のMarkdownを開くには？",
           "Markdown file shows raw text on iPhone",
           "Markdown viewer iPhone",
           "Markdown viewer iPad",
@@ -57210,9 +57210,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "raw Markdown text preview MarkdownファイルをiPhoneで開く方法",
-          "raw Markdown text preview",
-          "raw Markdown text preview Markdownファイルを開く",
+          "生テキスト表示のMarkdownをiPhoneで開く方法",
+          "Markdownの生テキスト表示",
+          "生テキスト表示のMarkdownを開く",
           "Markdown viewer iOS",
           "Md Preview App Store",
           "iPhone と iPad で Markdown ファイルを開く",
@@ -57348,12 +57348,12 @@
       "localeName": "日本語",
       "pageType": "article",
       "topicKey": null,
-      "title": "Files app preview problem MarkdownファイルをiPhoneで開く方法",
+      "title": "FilesでプレビューできないMarkdownファイルをiPhoneで開く方法",
       "url": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/",
-      "query": "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
+      "query": "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
       "queryVariants": [
-        "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
+        "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
         "Files app can't preview Markdown on iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -57375,7 +57375,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "Files app preview problem",
+      "source": "Filesプレビュー問題",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -57386,7 +57386,7 @@
         {
           "position": 1,
           "name": "元ファイルを保存",
-          "text": "Files app preview problemから受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "text": "Filesプレビュー問題から受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
           "url": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/#step-1"
         },
         {
@@ -57398,7 +57398,7 @@
         {
           "position": 3,
           "name": "ビューアを選ぶ",
-          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でFiles app preview problem Markdownファイルを開くをローカルに行います。",
+          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でFilesでプレビューできないMarkdownファイルを開くをローカルに行います。",
           "url": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/#step-3"
         },
         {
@@ -57421,7 +57421,7 @@
         {
           "factor": "best-fit",
           "heading": "一致する検索意図",
-          "text": "Files app preview problemから受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
+          "text": "Filesプレビュー問題から受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
         },
         {
           "factor": "native-ios-path",
@@ -57480,11 +57480,11 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from Files app preview problem need a local preview path on iPhone or iPad.",
+          "Markdown files from Filesプレビュー問題 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
+          "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
           "Files app can't preview Markdown on iPhone",
           "Markdown viewer iPhone",
           "Markdown viewer iPad",
@@ -57496,9 +57496,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "Files app preview problem MarkdownファイルをiPhoneで開く方法",
-          "Files app preview problem",
-          "Files app preview problem Markdownファイルを開く",
+          "FilesでプレビューできないMarkdownファイルをiPhoneで開く方法",
+          "Filesプレビュー問題",
+          "FilesでプレビューできないMarkdownファイルを開く",
           "Markdown viewer iOS",
           "Md Preview App Store",
           "iPhone と iPad で Markdown ファイルを開く",
@@ -148575,7 +148575,7 @@
       "localeName": "한국어",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPhone에서 zipped Markdown exports Markdown 파일 열기",
+      "title": "iPhone에서 ZIP Markdown 내보내기 열기",
       "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/",
       "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
@@ -148602,7 +148602,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "zipped Markdown exports",
+      "source": "ZIP Markdown 내보내기",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -148613,7 +148613,7 @@
         {
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "zipped Markdown exports에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "ZIP Markdown 내보내기에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/#step-1"
         },
         {
@@ -148625,7 +148625,7 @@
         {
           "position": 3,
           "name": "뷰어 선택",
-          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 zipped Markdown exports Markdown 파일 열기를 로컬로 진행합니다.",
+          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 ZIP Markdown 내보내기 열기를 로컬로 진행합니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/#step-3"
         },
         {
@@ -148648,7 +148648,7 @@
         {
           "factor": "best-fit",
           "heading": "맞는 검색 의도",
-          "text": "zipped Markdown exports에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
+          "text": "ZIP Markdown 내보내기에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
         },
         {
           "factor": "native-ios-path",
@@ -148707,7 +148707,7 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from zipped Markdown exports need a local preview path on iPhone or iPad.",
+          "Markdown files from ZIP Markdown 내보내기 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -148723,9 +148723,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "iPhone에서 zipped Markdown exports Markdown 파일 열기",
-          "zipped Markdown exports",
-          "zipped Markdown exports Markdown 파일 열기",
+          "iPhone에서 ZIP Markdown 내보내기 열기",
+          "ZIP Markdown 내보내기",
+          "ZIP Markdown 내보내기 열기",
           "Markdown viewer iOS",
           "Md Preview App Store",
           "iPhone과 iPad에서 Markdown 파일 열기",
@@ -149147,7 +149147,7 @@
       "localeName": "한국어",
       "pageType": "article",
       "topicKey": null,
-      "title": "GitHub README files on iPad Markdown 파일 열기",
+      "title": "iPad GitHub README Markdown 열기",
       "url": "https://markdown.cybergame.ai/ko/articles/open-github-readme-markdown-on-ipad/",
       "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/open-github-readme-markdown-on-ipad/",
       "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
@@ -149174,7 +149174,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "GitHub README files on iPad",
+      "source": "iPad GitHub README",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -149185,7 +149185,7 @@
         {
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "GitHub README files on iPad에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "iPad GitHub README에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/open-github-readme-markdown-on-ipad/#step-1"
         },
         {
@@ -149197,7 +149197,7 @@
         {
           "position": 3,
           "name": "뷰어 선택",
-          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 GitHub README files on iPad Markdown 파일 열기를 로컬로 진행합니다.",
+          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 iPad GitHub README Markdown 열기를 로컬로 진행합니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/open-github-readme-markdown-on-ipad/#step-3"
         },
         {
@@ -149220,7 +149220,7 @@
         {
           "factor": "best-fit",
           "heading": "맞는 검색 의도",
-          "text": "GitHub README files on iPad에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
+          "text": "iPad GitHub README에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
         },
         {
           "factor": "native-ios-path",
@@ -149279,7 +149279,7 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from GitHub README files on iPad need a local preview path on iPhone or iPad.",
+          "Markdown files from iPad GitHub README need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -149295,8 +149295,8 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "GitHub README files on iPad Markdown 파일 열기",
-          "GitHub README files on iPad",
+          "iPad GitHub README Markdown 열기",
+          "iPad GitHub README",
           "Markdown viewer iOS",
           "Md Preview App Store",
           "iPhone과 iPad에서 Markdown 파일 열기",
@@ -149719,7 +149719,7 @@
       "localeName": "한국어",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPad에서 code, math, and Mermaid diagrams Markdown 파일 열기",
+      "title": "iPad에서 코드, 수식, Mermaid 포함 Markdown 열기",
       "url": "https://markdown.cybergame.ai/ko/articles/preview-markdown-code-math-mermaid-on-ipad/",
       "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/preview-markdown-code-math-mermaid-on-ipad/",
       "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
@@ -149746,7 +149746,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "code, math, and Mermaid diagrams",
+      "source": "코드, 수식, Mermaid",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -149757,7 +149757,7 @@
         {
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "code, math, and Mermaid diagrams에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "코드, 수식, Mermaid에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/preview-markdown-code-math-mermaid-on-ipad/#step-1"
         },
         {
@@ -149769,7 +149769,7 @@
         {
           "position": 3,
           "name": "뷰어 선택",
-          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 code, math, and Mermaid diagrams Markdown 파일 열기를 로컬로 진행합니다.",
+          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 코드, 수식, Mermaid 포함 Markdown 열기를 로컬로 진행합니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/preview-markdown-code-math-mermaid-on-ipad/#step-3"
         },
         {
@@ -149792,7 +149792,7 @@
         {
           "factor": "best-fit",
           "heading": "맞는 검색 의도",
-          "text": "code, math, and Mermaid diagrams에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
+          "text": "코드, 수식, Mermaid에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
         },
         {
           "factor": "native-ios-path",
@@ -149851,7 +149851,7 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from code, math, and Mermaid diagrams need a local preview path on iPhone or iPad.",
+          "Markdown files from 코드, 수식, Mermaid need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -149867,9 +149867,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "iPad에서 code, math, and Mermaid diagrams Markdown 파일 열기",
-          "code, math, and Mermaid diagrams",
-          "code, math, and Mermaid diagrams Markdown 파일 열기",
+          "iPad에서 코드, 수식, Mermaid 포함 Markdown 열기",
+          "코드, 수식, Mermaid",
+          "코드, 수식, Mermaid 포함 Markdown 열기",
           "Markdown viewer iOS",
           "Md Preview App Store",
           "iPhone과 iPad에서 Markdown 파일 열기",
@@ -156011,7 +156011,7 @@
       "localeName": "한국어",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPhone에서 iOS file preview problem Markdown 파일 열기",
+      "title": "iPhone에서 iOS에서 열리지 않는 Markdown 파일 열기",
       "url": "https://markdown.cybergame.ai/ko/articles/iphone-cant-open-md-file/",
       "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/iphone-cant-open-md-file/",
       "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
@@ -156038,7 +156038,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "iOS file preview problem",
+      "source": "iOS 미리보기 문제",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -156049,7 +156049,7 @@
         {
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "iOS file preview problem에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "iOS 미리보기 문제에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/iphone-cant-open-md-file/#step-1"
         },
         {
@@ -156061,7 +156061,7 @@
         {
           "position": 3,
           "name": "뷰어 선택",
-          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 iOS file preview problem Markdown 파일 열기를 로컬로 진행합니다.",
+          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 iOS에서 열리지 않는 Markdown 파일 열기를 로컬로 진행합니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/iphone-cant-open-md-file/#step-3"
         },
         {
@@ -156084,7 +156084,7 @@
         {
           "factor": "best-fit",
           "heading": "맞는 검색 의도",
-          "text": "iOS file preview problem에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
+          "text": "iOS 미리보기 문제에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
         },
         {
           "factor": "native-ios-path",
@@ -156143,7 +156143,7 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from iOS file preview problem need a local preview path on iPhone or iPad.",
+          "Markdown files from iOS 미리보기 문제 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -156159,9 +156159,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "iPhone에서 iOS file preview problem Markdown 파일 열기",
-          "iOS file preview problem",
-          "iOS file preview problem Markdown 파일 열기",
+          "iPhone에서 iOS에서 열리지 않는 Markdown 파일 열기",
+          "iOS 미리보기 문제",
+          "iOS에서 열리지 않는 Markdown 파일 열기",
           "Markdown viewer iOS",
           "Md Preview App Store",
           "iPhone과 iPad에서 Markdown 파일 열기",
@@ -156297,7 +156297,7 @@
       "localeName": "한국어",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPhone에서 raw Markdown text preview Markdown 파일 열기",
+      "title": "iPhone에서 원문으로 보이는 Markdown 열기",
       "url": "https://markdown.cybergame.ai/ko/articles/markdown-file-shows-raw-text-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/markdown-file-shows-raw-text-on-iphone/",
       "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
@@ -156324,7 +156324,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "raw Markdown text preview",
+      "source": "Markdown 원문 표시",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -156335,7 +156335,7 @@
         {
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "raw Markdown text preview에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "Markdown 원문 표시에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/markdown-file-shows-raw-text-on-iphone/#step-1"
         },
         {
@@ -156347,7 +156347,7 @@
         {
           "position": 3,
           "name": "뷰어 선택",
-          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 raw Markdown text preview Markdown 파일 열기를 로컬로 진행합니다.",
+          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 원문으로 보이는 Markdown 열기를 로컬로 진행합니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/markdown-file-shows-raw-text-on-iphone/#step-3"
         },
         {
@@ -156370,7 +156370,7 @@
         {
           "factor": "best-fit",
           "heading": "맞는 검색 의도",
-          "text": "raw Markdown text preview에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
+          "text": "Markdown 원문 표시에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
         },
         {
           "factor": "native-ios-path",
@@ -156429,7 +156429,7 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from raw Markdown text preview need a local preview path on iPhone or iPad.",
+          "Markdown files from Markdown 원문 표시 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -156445,9 +156445,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "iPhone에서 raw Markdown text preview Markdown 파일 열기",
-          "raw Markdown text preview",
-          "raw Markdown text preview Markdown 파일 열기",
+          "iPhone에서 원문으로 보이는 Markdown 열기",
+          "Markdown 원문 표시",
+          "원문으로 보이는 Markdown 열기",
           "Markdown viewer iOS",
           "Md Preview App Store",
           "iPhone과 iPad에서 Markdown 파일 열기",
@@ -156583,7 +156583,7 @@
       "localeName": "한국어",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPhone에서 Files app preview problem Markdown 파일 열기",
+      "title": "iPhone에서 Files에서 미리보기 안 되는 Markdown 파일 열기",
       "url": "https://markdown.cybergame.ai/ko/articles/files-app-cant-preview-markdown-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/files-app-cant-preview-markdown-on-iphone/",
       "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
@@ -156610,7 +156610,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "Files app preview problem",
+      "source": "Files 미리보기 문제",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -156621,7 +156621,7 @@
         {
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "Files app preview problem에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "Files 미리보기 문제에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/files-app-cant-preview-markdown-on-iphone/#step-1"
         },
         {
@@ -156633,7 +156633,7 @@
         {
           "position": 3,
           "name": "뷰어 선택",
-          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 Files app preview problem Markdown 파일 열기를 로컬로 진행합니다.",
+          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 Files에서 미리보기 안 되는 Markdown 파일 열기를 로컬로 진행합니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/files-app-cant-preview-markdown-on-iphone/#step-3"
         },
         {
@@ -156656,7 +156656,7 @@
         {
           "factor": "best-fit",
           "heading": "맞는 검색 의도",
-          "text": "Files app preview problem에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
+          "text": "Files 미리보기 문제에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
         },
         {
           "factor": "native-ios-path",
@@ -156715,7 +156715,7 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from Files app preview problem need a local preview path on iPhone or iPad.",
+          "Markdown files from Files 미리보기 문제 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -156731,9 +156731,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "iPhone에서 Files app preview problem Markdown 파일 열기",
-          "Files app preview problem",
-          "Files app preview problem Markdown 파일 열기",
+          "iPhone에서 Files에서 미리보기 안 되는 Markdown 파일 열기",
+          "Files 미리보기 문제",
+          "Files에서 미리보기 안 되는 Markdown 파일 열기",
           "Markdown viewer iOS",
           "Md Preview App Store",
           "iPhone과 iPad에서 Markdown 파일 열기",

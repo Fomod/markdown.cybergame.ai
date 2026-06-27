@@ -422,7 +422,7 @@
       "position": 43,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/#citation-card",
-        "name": "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
+        "name": "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
         "url": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/"
       }
     },
@@ -449,7 +449,7 @@
       "position": 46,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/#citation-card",
-        "name": "iOS file preview problem Markdownファイルを開くには？",
+        "name": "iOSで開けないMarkdownファイルを開くには？",
         "url": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/"
       }
     },
@@ -8799,11 +8799,11 @@
       "topicKey": null,
       "articleSlug": "files-app-cant-preview-markdown-on-iphone",
       "priority": 980,
-      "name": "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
-      "text": "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
-      "userQuestion": "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
+      "name": "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
+      "text": "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
+      "userQuestion": "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
       "promptVariants": [
-        "iPhoneやiPadでFiles app preview problem Markdownファイルを開くには？",
+        "iPhoneやiPadでFilesでプレビューできないMarkdownファイルを開くには？",
         "What app should I use to open Markdown files on iPhone?",
         "What app opens Markdown files on iPhone?",
         "Best app to open Markdown files on iPhone",
@@ -8830,7 +8830,7 @@
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
         "Md Preview",
-        "Files app preview problem MarkdownファイルをiPhoneで開く方法"
+        "FilesでプレビューできないMarkdownファイルをiPhoneで開く方法"
       ],
       "acceptedAnswer": {
         "@type": "Answer",
@@ -8881,7 +8881,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
-      "source": "Files app preview problem",
+      "source": "Filesプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -9321,11 +9321,11 @@
       "topicKey": null,
       "articleSlug": "iphone-cant-open-md-file",
       "priority": 968,
-      "name": "iOS file preview problem Markdownファイルを開くには？",
-      "text": "iOS file preview problem Markdownファイルを開くには？",
-      "userQuestion": "iOS file preview problem Markdownファイルを開くには？",
+      "name": "iOSで開けないMarkdownファイルを開くには？",
+      "text": "iOSで開けないMarkdownファイルを開くには？",
+      "userQuestion": "iOSで開けないMarkdownファイルを開くには？",
       "promptVariants": [
-        "iOS file preview problem Markdownファイルを開くには？",
+        "iOSで開けないMarkdownファイルを開くには？",
         "What app should I use to open Markdown files on iPhone?",
         "What app opens Markdown files on iPhone?",
         "Best app to open Markdown files on iPhone",
@@ -9352,7 +9352,7 @@
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
         "Md Preview",
-        "iOS file preview problem MarkdownファイルをiPhoneで開く方法"
+        "iOSで開けないMarkdownファイルをiPhoneで開く方法"
       ],
       "acceptedAnswer": {
         "@type": "Answer",
@@ -9403,7 +9403,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
-      "source": "iOS file preview problem",
+      "source": "iOSプレビュー問題",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -22750,7 +22750,7 @@
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
         "Md Preview",
-        "iPhone에서 Files app preview problem Markdown 파일 열기"
+        "iPhone에서 Files에서 미리보기 안 되는 Markdown 파일 열기"
       ],
       "acceptedAnswer": {
         "@type": "Answer",
@@ -22801,7 +22801,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
-      "source": "Files app preview problem",
+      "source": "Files 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -23272,7 +23272,7 @@
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
         "Md Preview",
-        "iPhone에서 iOS file preview problem Markdown 파일 열기"
+        "iPhone에서 iOS에서 열리지 않는 Markdown 파일 열기"
       ],
       "acceptedAnswer": {
         "@type": "Answer",
@@ -23323,7 +23323,7 @@
       "minimumOsVersion": "17.0",
       "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
-      "source": "iOS file preview problem",
+      "source": "iOS 미리보기 문제",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",

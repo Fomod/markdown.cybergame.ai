@@ -257,7 +257,7 @@
       "height": 2688
     }
   ],
-  "pageCount": 650,
+  "pageCount": 660,
   "localeCount": 10,
   "pages": [
     {
@@ -876,7 +876,7 @@
       "title": "Files and Share Sheet Markdown guides",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Messages, iMessage, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -2910,6 +2910,127 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_en_applemail_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-markdown-file-from-messages-on-iphone",
+      "title": "How to Open Markdown Files from Messages on iPhone",
+      "query": "How do I open a Markdown file from Messages on iPhone or iPad?",
+      "primaryKeyword": "open Markdown file from Messages on iPhone",
+      "source": "Messages, iMessage",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_en_messages_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -8741,7 +8862,7 @@
       "title": "Files and Share Sheet Markdown 简体中文",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Messages, iMessage, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -10775,6 +10896,127 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_zh_applemail_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-markdown-file-from-messages-on-iphone",
+      "title": "如何在 iPhone 上打开 Messages 里的 Markdown 文件",
+      "query": "如何在 iPhone 或 iPad 上打开 Messages 中的 Markdown 文件？",
+      "primaryKeyword": "open Markdown file from Messages on iPhone",
+      "source": "Messages、iMessage",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_zh_messages_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -16606,7 +16848,7 @@
       "title": "Files and Share Sheet Markdown 日本語",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Messages, iMessage, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -17813,10 +18055,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-ai-generated-markdown-file-on-iphone",
-      "title": "AI-generated files MarkdownファイルをiPhoneで開く方法",
-      "query": "iPhoneやiPadでAI-generated files Markdownファイルを開くには？",
+      "title": "AI生成MarkdownファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadでAI生成Markdownファイルを開くには？",
       "primaryKeyword": "open AI generated Markdown file on iPhone",
-      "source": "AI-generated files",
+      "source": "AI生成ファイル",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -18653,6 +18895,127 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-markdown-file-from-messages-on-iphone",
+      "title": "Messages, iMessage MarkdownファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadでMessages, iMessage Markdownファイルを開くには？",
+      "primaryKeyword": "open Markdown file from Messages on iPhone",
+      "source": "Messages, iMessage",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ja_messages_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/ja/articles/open-gmail-markdown-attachment-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/open-gmail-markdown-attachment-on-iphone/",
       "locale": "ja",
@@ -19386,10 +19749,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-markdown-file-on-iphone",
-      "title": "local Markdown files MarkdownファイルをiPhoneで開く方法",
-      "query": "iPhoneやiPadでlocal Markdown files Markdownファイルを開くには？",
+      "title": "ローカルMarkdownファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadでローカルMarkdownファイルを開くには？",
       "primaryKeyword": "open local Markdown file on iPhone",
-      "source": "local Markdown files",
+      "source": "ローカルMarkdownファイル",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -24471,7 +24834,7 @@
       "title": "Files and Share Sheet Markdown Español",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Messages, iMessage, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -25678,10 +26041,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-ai-generated-markdown-file-on-iphone",
-      "title": "Cómo abrir archivos Markdown de AI-generated files en iPhone",
-      "query": "¿Cómo abrir archivos Markdown de AI-generated files en iPhone o iPad?",
+      "title": "Cómo abrir archivos Markdown generados por IA en iPhone",
+      "query": "¿Cómo abrir archivos Markdown generados por IA en iPhone o iPad?",
       "primaryKeyword": "open AI generated Markdown file on iPhone",
-      "source": "AI-generated files",
+      "source": "archivos generados por IA",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -26518,6 +26881,127 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-markdown-file-from-messages-on-iphone",
+      "title": "Cómo abrir archivos Markdown de Messages, iMessage en iPhone",
+      "query": "¿Cómo abrir archivos Markdown de Messages, iMessage en iPhone o iPad?",
+      "primaryKeyword": "open Markdown file from Messages on iPhone",
+      "source": "Messages, iMessage",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_es_messages_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/es/articles/open-gmail-markdown-attachment-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/es/articles/open-gmail-markdown-attachment-on-iphone/",
       "locale": "es",
@@ -27251,10 +27735,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-markdown-file-on-iphone",
-      "title": "Cómo abrir archivos Markdown de local Markdown files en iPhone",
-      "query": "¿Cómo abrir archivos Markdown de local Markdown files en iPhone o iPad?",
+      "title": "Cómo abrir archivos Markdown locales en iPhone",
+      "query": "¿Cómo abrir archivos Markdown locales en iPhone o iPad?",
       "primaryKeyword": "open local Markdown file on iPhone",
-      "source": "local Markdown files",
+      "source": "archivos Markdown locales",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -32336,7 +32820,7 @@
       "title": "Files and Share Sheet Markdown Deutsch",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Messages, iMessage, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -33543,10 +34027,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-ai-generated-markdown-file-on-iphone",
-      "title": "AI-generated files Markdown-Dateien auf iPhone öffnen",
-      "query": "Wie kann ich AI-generated files Markdown-Dateien öffnen auf iPhone oder iPad?",
+      "title": "KI-generierte Markdown-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich KI-generierte Markdown-Dateien öffnen auf iPhone oder iPad?",
       "primaryKeyword": "open AI generated Markdown file on iPhone",
-      "source": "AI-generated files",
+      "source": "KI-generierte Dateien",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -34383,6 +34867,127 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-markdown-file-from-messages-on-iphone",
+      "title": "Messages, iMessage Markdown-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich Messages, iMessage Markdown-Dateien öffnen auf iPhone oder iPad?",
+      "primaryKeyword": "open Markdown file from Messages on iPhone",
+      "source": "Messages, iMessage",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_de_messages_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/de/articles/open-gmail-markdown-attachment-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/de/articles/open-gmail-markdown-attachment-on-iphone/",
       "locale": "de",
@@ -35116,10 +35721,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-markdown-file-on-iphone",
-      "title": "local Markdown files Markdown-Dateien auf iPhone öffnen",
-      "query": "Wie kann ich local Markdown files Markdown-Dateien öffnen auf iPhone oder iPad?",
+      "title": "lokale Markdown-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich lokale Markdown-Dateien öffnen auf iPhone oder iPad?",
       "primaryKeyword": "open local Markdown file on iPhone",
-      "source": "local Markdown files",
+      "source": "lokale Markdown-Dateien",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -40201,7 +40806,7 @@
       "title": "Files and Share Sheet Markdown Francais",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Messages, iMessage, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -41408,10 +42013,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-ai-generated-markdown-file-on-iphone",
-      "title": "Ouvrir des fichiers Markdown de AI-generated files sur iPhone",
-      "query": "Comment ouvrir des fichiers Markdown de AI-generated files sur iPhone ou iPad ?",
+      "title": "Ouvrir fichiers Markdown générés par IA sur iPhone",
+      "query": "Comment ouvrir fichiers Markdown générés par IA sur iPhone ou iPad ?",
       "primaryKeyword": "open AI generated Markdown file on iPhone",
-      "source": "AI-generated files",
+      "source": "fichiers générés par IA",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -42248,6 +42853,127 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-markdown-file-from-messages-on-iphone",
+      "title": "Ouvrir des fichiers Markdown de Messages, iMessage sur iPhone",
+      "query": "Comment ouvrir des fichiers Markdown de Messages, iMessage sur iPhone ou iPad ?",
+      "primaryKeyword": "open Markdown file from Messages on iPhone",
+      "source": "Messages, iMessage",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_fr_messages_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/fr/articles/open-gmail-markdown-attachment-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/fr/articles/open-gmail-markdown-attachment-on-iphone/",
       "locale": "fr",
@@ -42981,10 +43707,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-markdown-file-on-iphone",
-      "title": "Ouvrir des fichiers Markdown de local Markdown files sur iPhone",
-      "query": "Comment ouvrir des fichiers Markdown de local Markdown files sur iPhone ou iPad ?",
+      "title": "Ouvrir fichiers Markdown locaux sur iPhone",
+      "query": "Comment ouvrir fichiers Markdown locaux sur iPhone ou iPad ?",
       "primaryKeyword": "open local Markdown file on iPhone",
-      "source": "local Markdown files",
+      "source": "fichiers Markdown locaux",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -48066,7 +48792,7 @@
       "title": "Files and Share Sheet Markdown Portugues do Brasil",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Messages, iMessage, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -49273,10 +49999,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-ai-generated-markdown-file-on-iphone",
-      "title": "Abrir arquivos Markdown do AI-generated files no iPhone",
-      "query": "Como abrir arquivos Markdown do AI-generated files no iPhone ou iPad?",
+      "title": "Abrir arquivos Markdown gerados por IA no iPhone",
+      "query": "Como abrir arquivos Markdown gerados por IA no iPhone ou iPad?",
       "primaryKeyword": "open AI generated Markdown file on iPhone",
-      "source": "AI-generated files",
+      "source": "arquivos gerados por IA",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -50113,6 +50839,127 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-markdown-file-from-messages-on-iphone",
+      "title": "Abrir arquivos Markdown do Messages, iMessage no iPhone",
+      "query": "Como abrir arquivos Markdown do Messages, iMessage no iPhone ou iPad?",
+      "primaryKeyword": "open Markdown file from Messages on iPhone",
+      "source": "Messages, iMessage",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ptbr_messages_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/pt-br/articles/open-gmail-markdown-attachment-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/pt-br/articles/open-gmail-markdown-attachment-on-iphone/",
       "locale": "pt-br",
@@ -50846,10 +51693,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-markdown-file-on-iphone",
-      "title": "Abrir arquivos Markdown do local Markdown files no iPhone",
-      "query": "Como abrir arquivos Markdown do local Markdown files no iPhone ou iPad?",
+      "title": "Abrir arquivos Markdown locais no iPhone",
+      "query": "Como abrir arquivos Markdown locais no iPhone ou iPad?",
       "primaryKeyword": "open local Markdown file on iPhone",
-      "source": "local Markdown files",
+      "source": "arquivos Markdown locais",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -55931,7 +56778,7 @@
       "title": "Files and Share Sheet Markdown 한국어",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Messages, iMessage, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -57138,10 +57985,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-ai-generated-markdown-file-on-iphone",
-      "title": "iPhone에서 AI-generated files Markdown 파일 열기",
+      "title": "iPhone에서 AI 생성 Markdown 파일 열기",
       "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
       "primaryKeyword": "open AI generated Markdown file on iPhone",
-      "source": "AI-generated files",
+      "source": "AI 생성 파일",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -57978,6 +58825,127 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-markdown-file-from-messages-on-iphone",
+      "title": "iPhone에서 Messages, iMessage Markdown 파일 열기",
+      "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
+      "primaryKeyword": "open Markdown file from Messages on iPhone",
+      "source": "Messages, iMessage",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ko_messages_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/ko/articles/open-gmail-markdown-attachment-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/open-gmail-markdown-attachment-on-iphone/",
       "locale": "ko",
@@ -58711,10 +59679,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-markdown-file-on-iphone",
-      "title": "iPhone에서 local Markdown files Markdown 파일 열기",
+      "title": "iPhone에서 로컬 Markdown 파일 열기",
       "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
       "primaryKeyword": "open local Markdown file on iPhone",
-      "source": "local Markdown files",
+      "source": "로컬 Markdown 파일",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -63796,7 +64764,7 @@
       "title": "Files and Share Sheet Markdown العربية",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Messages, iMessage, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -65003,10 +65971,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-ai-generated-markdown-file-on-iphone",
-      "title": "فتح ملفات Markdown من AI-generated files على iPhone",
+      "title": "فتح ملفات Markdown من AI على iPhone",
       "query": "كيف تفتح ملف Markdown على iPhone او iPad؟",
       "primaryKeyword": "open AI generated Markdown file on iPhone",
-      "source": "AI-generated files",
+      "source": "ملفات من AI",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -65843,6 +66811,127 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-markdown-file-from-messages-on-iphone",
+      "title": "فتح ملفات Markdown من Messages, iMessage على iPhone",
+      "query": "كيف تفتح ملف Markdown على iPhone او iPad؟",
+      "primaryKeyword": "open Markdown file from Messages on iPhone",
+      "source": "Messages, iMessage",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ar_messages_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/ar/articles/open-gmail-markdown-attachment-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ar/articles/open-gmail-markdown-attachment-on-iphone/",
       "locale": "ar",
@@ -66576,10 +67665,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-markdown-file-on-iphone",
-      "title": "فتح ملفات Markdown من local Markdown files على iPhone",
+      "title": "فتح ملفات Markdown المحلية على iPhone",
       "query": "كيف تفتح ملف Markdown على iPhone او iPad؟",
       "primaryKeyword": "open local Markdown file on iPhone",
-      "source": "local Markdown files",
+      "source": "ملفات Markdown المحلية",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -71661,7 +72750,7 @@
       "title": "Files and Share Sheet Markdown हिन्दी",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Apple Mail, Messages, iMessage, Gmail, Outlook",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -72868,10 +73957,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-ai-generated-markdown-file-on-iphone",
-      "title": "iPhone पर AI-generated files Markdown files खोलें",
+      "title": "iPhone पर AI से बनी Markdown files खोलें",
       "query": "iPhone या iPad पर Markdown file कैसे खोलें?",
       "primaryKeyword": "open AI generated Markdown file on iPhone",
-      "source": "AI-generated files",
+      "source": "AI से बनी files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -73708,6 +74797,127 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-markdown-file-from-messages-on-iphone",
+      "title": "iPhone पर Messages, iMessage Markdown files खोलें",
+      "query": "iPhone या iPad पर Markdown file कैसे खोलें?",
+      "primaryKeyword": "open Markdown file from Messages on iPhone",
+      "source": "Messages, iMessage",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-messages-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-messages-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_hi_messages_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/hi/articles/open-gmail-markdown-attachment-on-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/hi/articles/open-gmail-markdown-attachment-on-iphone/",
       "locale": "hi",
@@ -74441,10 +75651,10 @@
       "pageType": "article",
       "topicKey": null,
       "articleSlug": "open-local-markdown-file-on-iphone",
-      "title": "iPhone पर local Markdown files Markdown files खोलें",
+      "title": "iPhone पर Markdown की local files खोलें",
       "query": "iPhone या iPad पर Markdown file कैसे खोलें?",
       "primaryKeyword": "open local Markdown file on iPhone",
-      "source": "local Markdown files",
+      "source": "Markdown की local files",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",

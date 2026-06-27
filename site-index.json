@@ -53,10 +53,26 @@
   "endpoints": [
     {
       "@type": "Dataset",
+      "name": "Md Preview sitemap index",
+      "url": "https://markdown.cybergame.ai/sitemap-index.xml",
+      "encodingFormat": "application/xml",
+      "purpose": "sitemap index",
+      "dateModified": "2026-06-28"
+    },
+    {
+      "@type": "Dataset",
       "name": "Md Preview canonical sitemap",
       "url": "https://markdown.cybergame.ai/sitemap.xml",
       "encodingFormat": "application/xml",
       "purpose": "canonical sitemap",
+      "dateModified": "2026-06-28"
+    },
+    {
+      "@type": "Dataset",
+      "name": "Md Preview machine-readable endpoint sitemap",
+      "url": "https://markdown.cybergame.ai/data-sitemap.xml",
+      "encodingFormat": "application/xml",
+      "purpose": "machine-readable endpoint sitemap",
       "dateModified": "2026-06-28"
     },
     {
@@ -227,7 +243,7 @@
       "height": 2688
     }
   ],
-  "pageCount": 400,
+  "pageCount": 410,
   "localeCount": 10,
   "pages": [
     {
@@ -1193,7 +1209,7 @@
       "title": "Offline privacy Markdown guides",
       "query": "How do I preview Markdown files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy Markdown iPhone",
-      "source": "offline files",
+      "source": "offline files, online Markdown renderers",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -2955,6 +2971,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_en_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-markdown-renderer-alternative-iphone",
+      "title": "Online Markdown Renderer Alternative for iPhone",
+      "query": "How do I replace an online Markdown renderer on iPhone?",
+      "primaryKeyword": "online Markdown renderer alternative iPhone",
+      "source": "online Markdown renderers",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_en_onlinerenderer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -5953,7 +6088,7 @@
       "title": "Offline privacy Markdown 简体中文",
       "query": "How do I preview Markdown files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy Markdown iPhone",
-      "source": "offline files",
+      "source": "offline files, online Markdown renderers",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -7715,6 +7850,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_zh_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-markdown-renderer-alternative-iphone",
+      "title": "iPhone 上在线 Markdown 渲染器的替代方案",
+      "query": "如何在 iPhone 上替代在线 Markdown 渲染器？",
+      "primaryKeyword": "online Markdown renderer alternative iPhone",
+      "source": "在线 Markdown 渲染器",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_zh_onlinerenderer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -10713,7 +10967,7 @@
       "title": "Offline privacy Markdown 日本語",
       "query": "How do I preview Markdown files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy Markdown iPhone",
-      "source": "offline files",
+      "source": "offline files, online Markdown renderers",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -12475,6 +12729,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ja_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-markdown-renderer-alternative-iphone",
+      "title": "online Markdown renderers MarkdownファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadでonline Markdown renderers Markdownファイルを開くには？",
+      "primaryKeyword": "online Markdown renderer alternative iPhone",
+      "source": "online Markdown renderers",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ja_onlinerenderer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -15473,7 +15846,7 @@
       "title": "Offline privacy Markdown Español",
       "query": "How do I preview Markdown files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy Markdown iPhone",
-      "source": "offline files",
+      "source": "offline files, online Markdown renderers",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -17235,6 +17608,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_es_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-markdown-renderer-alternative-iphone",
+      "title": "Cómo abrir archivos Markdown de online Markdown renderers en iPhone",
+      "query": "¿Cómo abrir archivos Markdown de online Markdown renderers en iPhone o iPad?",
+      "primaryKeyword": "online Markdown renderer alternative iPhone",
+      "source": "online Markdown renderers",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_es_onlinerenderer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -20233,7 +20725,7 @@
       "title": "Offline privacy Markdown Deutsch",
       "query": "How do I preview Markdown files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy Markdown iPhone",
-      "source": "offline files",
+      "source": "offline files, online Markdown renderers",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -21995,6 +22487,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_de_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-markdown-renderer-alternative-iphone",
+      "title": "online Markdown renderers Markdown-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich online Markdown renderers Markdown-Dateien öffnen auf iPhone oder iPad?",
+      "primaryKeyword": "online Markdown renderer alternative iPhone",
+      "source": "online Markdown renderers",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_de_onlinerenderer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -24993,7 +25604,7 @@
       "title": "Offline privacy Markdown Francais",
       "query": "How do I preview Markdown files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy Markdown iPhone",
-      "source": "offline files",
+      "source": "offline files, online Markdown renderers",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -26755,6 +27366,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_fr_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-markdown-renderer-alternative-iphone",
+      "title": "Ouvrir des fichiers Markdown de online Markdown renderers sur iPhone",
+      "query": "Comment ouvrir des fichiers Markdown de online Markdown renderers sur iPhone ou iPad ?",
+      "primaryKeyword": "online Markdown renderer alternative iPhone",
+      "source": "online Markdown renderers",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_fr_onlinerenderer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -29753,7 +30483,7 @@
       "title": "Offline privacy Markdown Portugues do Brasil",
       "query": "How do I preview Markdown files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy Markdown iPhone",
-      "source": "offline files",
+      "source": "offline files, online Markdown renderers",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -31515,6 +32245,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ptbr_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-markdown-renderer-alternative-iphone",
+      "title": "Abrir arquivos Markdown do online Markdown renderers no iPhone",
+      "query": "Como abrir arquivos Markdown do online Markdown renderers no iPhone ou iPad?",
+      "primaryKeyword": "online Markdown renderer alternative iPhone",
+      "source": "online Markdown renderers",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ptbr_onlinerenderer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -34513,7 +35362,7 @@
       "title": "Offline privacy Markdown 한국어",
       "query": "How do I preview Markdown files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy Markdown iPhone",
-      "source": "offline files",
+      "source": "offline files, online Markdown renderers",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -36275,6 +37124,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ko_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-markdown-renderer-alternative-iphone",
+      "title": "iPhone에서 online Markdown renderers Markdown 파일 열기",
+      "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
+      "primaryKeyword": "online Markdown renderer alternative iPhone",
+      "source": "online Markdown renderers",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ko_onlinerenderer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -39273,7 +40241,7 @@
       "title": "Offline privacy Markdown العربية",
       "query": "How do I preview Markdown files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy Markdown iPhone",
-      "source": "offline files",
+      "source": "offline files, online Markdown renderers",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -41035,6 +42003,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ar_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-markdown-renderer-alternative-iphone",
+      "title": "فتح ملفات Markdown من online Markdown renderers على iPhone",
+      "query": "كيف تفتح ملف Markdown على iPhone او iPad؟",
+      "primaryKeyword": "online Markdown renderer alternative iPhone",
+      "source": "online Markdown renderers",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ar_onlinerenderer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -44033,7 +45120,7 @@
       "title": "Offline privacy Markdown हिन्दी",
       "query": "How do I preview Markdown files privately on iPhone or iPad?",
       "primaryKeyword": "Offline privacy Markdown iPhone",
-      "source": "offline files",
+      "source": "offline files, online Markdown renderers",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -45795,6 +46882,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_hi_offline_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "online-markdown-renderer-alternative-iphone",
+      "title": "iPhone पर online Markdown renderers Markdown files खोलें",
+      "query": "iPhone या iPad पर Markdown file कैसे खोलें?",
+      "primaryKeyword": "online Markdown renderer alternative iPhone",
+      "source": "online Markdown renderers",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_hi_onlinerenderer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",

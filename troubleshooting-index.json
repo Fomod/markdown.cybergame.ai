@@ -7905,16 +7905,16 @@
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
         "Md Preview",
-        "iPhone पर Quick Look preview problem Markdown files खोलें",
-        "Quick Look preview problem",
-        "Quick Look preview problem Markdown files खोलना",
+        "iPhone पर Quick Look preview issue Markdown files खोलें",
+        "Quick Look preview issue",
+        "Quick Look preview issue Markdown files खोलना",
         "Markdown viewer iOS",
         "Md Preview App Store",
         "iPhone और iPad पर Markdown फाइल खोलें"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-        "Markdown files from Quick Look preview problem need a local preview path on iPhone or iPad.",
+        "Markdown files from Quick Look preview issue need a local preview path on iPhone or iPad.",
         "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
@@ -7963,7 +7963,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "Quick Look preview problem",
+      "source": "Quick Look preview issue",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",

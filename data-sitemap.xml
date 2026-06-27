@@ -9,6 +9,10 @@
     <lastmod>2026-06-28</lastmod>
   </url>
   <url>
+    <loc>https://markdown.cybergame.ai/ai.txt</loc>
+    <lastmod>2026-06-28</lastmod>
+  </url>
+  <url>
     <loc>https://markdown.cybergame.ai/app-store-facts.json</loc>
     <lastmod>2026-06-28</lastmod>
   </url>
@@ -46,6 +50,14 @@
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/llms.txt</loc>
+    <lastmod>2026-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/.well-known/ai.txt</loc>
+    <lastmod>2026-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/.well-known/llms.txt</loc>
     <lastmod>2026-06-28</lastmod>
   </url>
   <url>

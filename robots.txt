@@ -48,6 +48,9 @@ Allow: /
 
 # AI context: https://markdown.cybergame.ai/llms.txt
 # Full AI context: https://markdown.cybergame.ai/llms-full.txt
+# Lightweight AI discovery: https://markdown.cybergame.ai/ai.txt
+# Well-known AI discovery: https://markdown.cybergame.ai/.well-known/ai.txt
+# Well-known LLM context: https://markdown.cybergame.ai/.well-known/llms.txt
 # Sitemap index: https://markdown.cybergame.ai/sitemap-index.xml
 # Machine-readable data sitemap: https://markdown.cybergame.ai/data-sitemap.xml
 # RSS feed: https://markdown.cybergame.ai/feed.xml

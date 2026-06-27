@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Md Preview technical Markdown preview</title>
+  <desc id="desc">A product preview showing Md Preview rendering code, math, and diagram style Markdown on iPad.</desc>
+  <rect width="900" height="1200" fill="#f8fafc"/>
+  <rect x="92" y="74" width="716" height="1052" rx="52" fill="#111418"/>
+  <rect x="126" y="124" width="648" height="952" rx="34" fill="#ffffff"/>
+  <text x="166" y="210" fill="#16181d" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="44" font-weight="850">Technical Markdown</text>
+  <text x="166" y="258" fill="#5d6674" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="24">Code, math, tables, and diagrams</text>
+  <rect x="166" y="326" width="568" height="168" rx="22" fill="#111418"/>
+  <text x="198" y="376" fill="#7d8dff" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="22">function render(md) {</text>
+  <text x="230" y="420" fill="#f6f8fb" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="22">return preview(md)</text>
+  <text x="198" y="464" fill="#7d8dff" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="22">}</text>
+  <rect x="166" y="558" width="568" height="118" rx="22" fill="#eef1ff"/>
+  <text x="204" y="626" fill="#3041a6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="30" font-weight="850">E = mc^2</text>
+  <text x="386" y="626" fill="#3041a6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="30" font-weight="850">a^2 + b^2 = c^2</text>
+  <rect x="166" y="742" width="568" height="208" rx="22" fill="#f1f5f9"/>
+  <rect x="210" y="800" width="128" height="54" rx="14" fill="#4f65d9"/>
+  <rect x="386" y="800" width="128" height="54" rx="14" fill="#4f65d9"/>
+  <rect x="562" y="800" width="128" height="54" rx="14" fill="#4f65d9"/>
+  <path d="M338 827h48M514 827h48" stroke="#3041a6" stroke-width="8" stroke-linecap="round"/>
+  <text x="244" y="835" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" font-weight="850">Idea</text>
+  <text x="421" y="835" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" font-weight="850">Plan</text>
+  <text x="594" y="835" fill="#ffffff" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="16" font-weight="850">Ship</text>
+  <text x="166" y="1032" fill="#16181d" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="28" font-weight="850">No subscriptions / No IAP / No ads</text>
+</svg>

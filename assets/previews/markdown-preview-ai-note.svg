@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="1200" viewBox="0 0 900 1200" role="img" aria-labelledby="title desc">
+  <title id="title">Md Preview AI Markdown note preview</title>
+  <desc id="desc">A product preview showing Md Preview rendering AI generated Markdown on iPhone.</desc>
+  <rect width="900" height="1200" fill="#f8fafc"/>
+  <rect x="74" y="72" width="752" height="1056" rx="48" fill="#111418"/>
+  <rect x="102" y="112" width="696" height="976" rx="34" fill="#ffffff"/>
+  <rect x="102" y="112" width="696" height="118" rx="34" fill="#eef1ff"/>
+  <rect x="102" y="196" width="696" height="34" fill="#eef1ff"/>
+  <circle cx="162" cy="170" r="28" fill="#4f65d9"/>
+  <text x="210" y="160" fill="#16181d" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="28" font-weight="800">Md Preview</text>
+  <text x="210" y="195" fill="#5d6674" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="20">AI Markdown note</text>
+  <text x="148" y="302" fill="#16181d" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="46" font-weight="850">Research Summary</text>
+  <text x="148" y="350" fill="#5d6674" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="24">Rendered from a local .md file</text>
+  <rect x="148" y="410" width="604" height="54" rx="16" fill="#eef1ff"/>
+  <text x="176" y="445" fill="#3041a6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="22" font-weight="850"># AI answer exported as Markdown</text>
+  <rect x="148" y="520" width="520" height="26" rx="13" fill="#e8edf4"/>
+  <rect x="148" y="570" width="604" height="26" rx="13" fill="#e8edf4"/>
+  <rect x="148" y="620" width="486" height="26" rx="13" fill="#e8edf4"/>
+  <rect x="148" y="716" width="604" height="176" rx="22" fill="#111418"/>
+  <text x="182" y="768" fill="#7d8dff" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="22">```swift</text>
+  <text x="182" y="812" fill="#f6f8fb" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="22">let file = "notes.md"</text>
+  <text x="182" y="856" fill="#f6f8fb" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="22">preview(file)</text>
+  <text x="182" y="900" fill="#7d8dff" font-family="SFMono-Regular,Menlo,Consolas,monospace" font-size="22">```</text>
+  <rect x="148" y="950" width="154" height="46" rx="23" fill="#eef1ff"/>
+  <rect x="322" y="950" width="148" height="46" rx="23" fill="#eef1ff"/>
+  <rect x="490" y="950" width="116" height="46" rx="23" fill="#eef1ff"/>
+  <text x="178" y="980" fill="#3041a6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18" font-weight="850">ChatGPT</text>
+  <text x="356" y="980" fill="#3041a6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18" font-weight="850">Claude</text>
+  <text x="522" y="980" fill="#3041a6" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="18" font-weight="850">Gemini</text>
+  <text x="128" y="1148" fill="#16181d" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,sans-serif" font-size="28" font-weight="850">Open Markdown files on iPhone and iPad</text>
+</svg>

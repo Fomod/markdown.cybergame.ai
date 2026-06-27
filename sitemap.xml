@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://markdown.cybergame.ai/</loc>
     <lastmod>2026-06-27</lastmod>
@@ -14,6 +14,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/zh/</loc>
@@ -29,6 +41,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ja/</loc>
@@ -44,6 +68,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/es/</loc>
@@ -59,6 +95,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/de/</loc>
@@ -74,6 +122,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/fr/</loc>
@@ -89,6 +149,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/pt-br/</loc>
@@ -104,6 +176,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ko/</loc>
@@ -119,6 +203,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ar/</loc>
@@ -134,6 +230,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/hi/</loc>
@@ -149,6 +257,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/open-markdown-file-iphone/</loc>
@@ -164,6 +284,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/zh/open-markdown-file-iphone/</loc>
@@ -179,6 +311,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ja/open-markdown-file-iphone/</loc>
@@ -194,6 +338,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/es/open-markdown-file-iphone/</loc>
@@ -209,6 +365,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/de/open-markdown-file-iphone/</loc>
@@ -224,6 +392,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/fr/open-markdown-file-iphone/</loc>
@@ -239,6 +419,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/</loc>
@@ -254,6 +446,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ko/open-markdown-file-iphone/</loc>
@@ -269,6 +473,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ar/open-markdown-file-iphone/</loc>
@@ -284,6 +500,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/hi/open-markdown-file-iphone/</loc>
@@ -299,6 +527,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/</loc>
@@ -314,6 +554,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/zh/articles/open-chatgpt-markdown-file-on-iphone/</loc>
@@ -329,6 +581,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ja/articles/open-chatgpt-markdown-file-on-iphone/</loc>
@@ -344,6 +608,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/es/articles/open-chatgpt-markdown-file-on-iphone/</loc>
@@ -359,6 +635,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/de/articles/open-chatgpt-markdown-file-on-iphone/</loc>
@@ -374,6 +662,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/fr/articles/open-chatgpt-markdown-file-on-iphone/</loc>
@@ -389,6 +689,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/pt-br/articles/open-chatgpt-markdown-file-on-iphone/</loc>
@@ -404,6 +716,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ko/articles/open-chatgpt-markdown-file-on-iphone/</loc>
@@ -419,6 +743,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/</loc>
@@ -434,6 +770,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/</loc>
@@ -449,6 +797,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/</loc>
@@ -464,6 +824,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/zh/articles/best-markdown-viewer-for-iphone-ipad/</loc>
@@ -479,6 +851,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ja/articles/best-markdown-viewer-for-iphone-ipad/</loc>
@@ -494,6 +878,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/es/articles/best-markdown-viewer-for-iphone-ipad/</loc>
@@ -509,6 +905,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/de/articles/best-markdown-viewer-for-iphone-ipad/</loc>
@@ -524,6 +932,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/fr/articles/best-markdown-viewer-for-iphone-ipad/</loc>
@@ -539,6 +959,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/pt-br/articles/best-markdown-viewer-for-iphone-ipad/</loc>
@@ -554,6 +986,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ko/articles/best-markdown-viewer-for-iphone-ipad/</loc>
@@ -569,6 +1013,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/</loc>
@@ -584,6 +1040,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/</loc>
@@ -599,6 +1067,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/best-markdown-viewer-for-iphone-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/</loc>
@@ -614,6 +1094,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/zh/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/</loc>
@@ -629,6 +1121,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ja/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/</loc>
@@ -644,6 +1148,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/es/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/</loc>
@@ -659,6 +1175,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/de/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/</loc>
@@ -674,6 +1202,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/fr/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/</loc>
@@ -689,6 +1229,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/pt-br/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/</loc>
@@ -704,6 +1256,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ko/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/</loc>
@@ -719,6 +1283,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/</loc>
@@ -734,6 +1310,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/</loc>
@@ -749,6 +1337,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/</loc>
@@ -764,6 +1364,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/zh/articles/open-md-file-from-files-app-on-iphone/</loc>
@@ -779,6 +1391,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ja/articles/open-md-file-from-files-app-on-iphone/</loc>
@@ -794,6 +1418,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/es/articles/open-md-file-from-files-app-on-iphone/</loc>
@@ -809,6 +1445,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/de/articles/open-md-file-from-files-app-on-iphone/</loc>
@@ -824,6 +1472,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/fr/articles/open-md-file-from-files-app-on-iphone/</loc>
@@ -839,6 +1499,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/pt-br/articles/open-md-file-from-files-app-on-iphone/</loc>
@@ -854,6 +1526,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ko/articles/open-md-file-from-files-app-on-iphone/</loc>
@@ -869,6 +1553,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/</loc>
@@ -884,6 +1580,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/</loc>
@@ -899,6 +1607,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/</loc>
@@ -914,6 +1634,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/zh/articles/open-github-readme-markdown-on-iphone/</loc>
@@ -929,6 +1661,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ja/articles/open-github-readme-markdown-on-iphone/</loc>
@@ -944,6 +1688,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/es/articles/open-github-readme-markdown-on-iphone/</loc>
@@ -959,6 +1715,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/de/articles/open-github-readme-markdown-on-iphone/</loc>
@@ -974,6 +1742,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/fr/articles/open-github-readme-markdown-on-iphone/</loc>
@@ -989,6 +1769,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/pt-br/articles/open-github-readme-markdown-on-iphone/</loc>
@@ -1004,6 +1796,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ko/articles/open-github-readme-markdown-on-iphone/</loc>
@@ -1019,6 +1823,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/</loc>
@@ -1034,6 +1850,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/</loc>
@@ -1049,6 +1877,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/</loc>
@@ -1064,6 +1904,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/zh/articles/open-obsidian-markdown-on-iphone/</loc>
@@ -1079,6 +1931,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ja/articles/open-obsidian-markdown-on-iphone/</loc>
@@ -1094,6 +1958,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/es/articles/open-obsidian-markdown-on-iphone/</loc>
@@ -1109,6 +1985,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/de/articles/open-obsidian-markdown-on-iphone/</loc>
@@ -1124,6 +2012,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/fr/articles/open-obsidian-markdown-on-iphone/</loc>
@@ -1139,6 +2039,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/pt-br/articles/open-obsidian-markdown-on-iphone/</loc>
@@ -1154,6 +2066,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ko/articles/open-obsidian-markdown-on-iphone/</loc>
@@ -1169,6 +2093,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/</loc>
@@ -1184,6 +2120,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/</loc>
@@ -1199,6 +2147,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/</loc>
@@ -1214,6 +2174,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/zh/articles/preview-markdown-code-math-mermaid-on-ipad/</loc>
@@ -1229,6 +2201,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ja/articles/preview-markdown-code-math-mermaid-on-ipad/</loc>
@@ -1244,6 +2228,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/es/articles/preview-markdown-code-math-mermaid-on-ipad/</loc>
@@ -1259,6 +2255,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/de/articles/preview-markdown-code-math-mermaid-on-ipad/</loc>
@@ -1274,6 +2282,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/fr/articles/preview-markdown-code-math-mermaid-on-ipad/</loc>
@@ -1289,6 +2309,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/pt-br/articles/preview-markdown-code-math-mermaid-on-ipad/</loc>
@@ -1304,6 +2336,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ko/articles/preview-markdown-code-math-mermaid-on-ipad/</loc>
@@ -1319,6 +2363,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/</loc>
@@ -1334,6 +2390,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/</loc>
@@ -1349,6 +2417,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/</loc>
@@ -1364,6 +2444,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/zh/articles/offline-markdown-viewer-for-iphone/</loc>
@@ -1379,6 +2471,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ja/articles/offline-markdown-viewer-for-iphone/</loc>
@@ -1394,6 +2498,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/es/articles/offline-markdown-viewer-for-iphone/</loc>
@@ -1409,6 +2525,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/de/articles/offline-markdown-viewer-for-iphone/</loc>
@@ -1424,6 +2552,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/fr/articles/offline-markdown-viewer-for-iphone/</loc>
@@ -1439,6 +2579,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/pt-br/articles/offline-markdown-viewer-for-iphone/</loc>
@@ -1454,6 +2606,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ko/articles/offline-markdown-viewer-for-iphone/</loc>
@@ -1469,6 +2633,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/</loc>
@@ -1484,6 +2660,18 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/</loc>
@@ -1499,5 +2687,17 @@
     <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/" />
     <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/" />
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-ai-note.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview opening AI generated Markdown files on iPhone and iPad</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-readme.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering GitHub README Markdown on iPhone</image:caption>
+    </image:image>
+    <image:image>
+      <image:loc>https://markdown.cybergame.ai/assets/previews/markdown-preview-technical.svg</image:loc>
+      <image:caption>Md Preview iPhone app preview rendering code math and Mermaid Markdown on iPad</image:caption>
+    </image:image>
   </url>
 </urlset>

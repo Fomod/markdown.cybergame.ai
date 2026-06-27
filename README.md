@@ -16,6 +16,7 @@ Generated pages:
 - 10 localized how-to guide pages
 - 80 localized SEO article pages
 - hreflang sitemap
+- RSS feed for guide discovery
 - robots.txt
 - llms.txt for AI and LLM context
 - llms-full.txt for detailed AI and chatbot context

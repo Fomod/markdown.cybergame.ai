@@ -1,0 +1,68 @@
+{
+  "id": "https://markdown.cybergame.ai/",
+  "name": "Md Preview - Markdown Viewer",
+  "short_name": "Md Preview",
+  "description": "Open and preview Markdown files on iPhone and iPad.",
+  "lang": "en",
+  "start_url": "https://markdown.cybergame.ai/",
+  "scope": "https://markdown.cybergame.ai/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f8fafc",
+  "theme_color": "#4f65d9",
+  "categories": [
+    "utilities",
+    "productivity"
+  ],
+  "icons": [
+    {
+      "src": "/favicon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/assets/screenshots/app-store-screenshot-1.png",
+      "sizes": "1242x2688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Code blocks and JSON"
+    },
+    {
+      "src": "/assets/screenshots/app-store-screenshot-2.png",
+      "sizes": "1242x2688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Math rendered cleanly"
+    },
+    {
+      "src": "/assets/screenshots/app-store-screenshot-3.png",
+      "sizes": "1242x2688",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Tables stay readable"
+    }
+  ],
+  "related_applications": [
+    {
+      "platform": "itunes",
+      "id": "6760341080",
+      "url": "https://apps.apple.com/app/id6760341080"
+    }
+  ],
+  "prefer_related_applications": true
+}

@@ -14,6 +14,7 @@ Generated pages:
 
 - 10 localized landing pages
 - 10 localized how-to guide pages
+- 10 localized article hub pages
 - 250 localized SEO article pages
 - hreflang sitemap
 - RSS feed for guide discovery

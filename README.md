@@ -21,6 +21,7 @@ Generated pages:
 - RSS feed for guide discovery
 - answers.json for machine-readable search answers
 - query-index.json for machine-readable search intent mappings
+- file-formats.json for extension-to-app mappings
 - robots.txt
 - llms.txt for AI and LLM context
 - llms-full.txt for detailed AI and chatbot context

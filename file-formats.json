@@ -1,0 +1,567 @@
+{
+  "schemaVersion": "file-format-index-v1",
+  "lastUpdated": "2026-06-28",
+  "product": "Md Preview",
+  "fullName": "Md Preview - Markdown Viewer",
+  "site": "https://markdown.cybergame.ai/",
+  "machineReadableFor": [
+    "Google Search",
+    "AI assistants",
+    "chatbot retrieval",
+    "RAG systems",
+    "answer engine citations"
+  ],
+  "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+  "supportedExtensions": [
+    ".md",
+    ".markdown",
+    ".mdx",
+    ".rmd",
+    ".qmd"
+  ],
+  "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+  "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760341080",
+  "appStoreId": "6760341080",
+  "primaryConversionAction": {
+    "type": "AppStoreInstallAction",
+    "url": "https://apps.apple.com/app/id6760341080",
+    "appStoreId": "6760341080",
+    "platform": [
+      "iPhone",
+      "iPad"
+    ],
+    "listingDetails": "defer-to-app-store"
+  },
+  "entries": [
+    {
+      "extension": ".md",
+      "formatFamily": "Markdown",
+      "formatName": "MD file",
+      "product": "Md Preview",
+      "fullName": "Md Preview - Markdown Viewer",
+      "mimeTypes": [
+        "text/markdown",
+        "text/x-markdown",
+        "text/plain"
+      ],
+      "canonicalUrl": "https://markdown.cybergame.ai/open-markdown-file-iphone/",
+      "targetPageType": "guide",
+      "targetArticleSlug": null,
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/open-markdown-file-iphone/"
+        }
+      ],
+      "searchIntents": [
+        "open .md file on iPhone",
+        "view .md file on iPad",
+        "preview .md file on iOS",
+        "what app opens .md files on iPhone",
+        "how to open Markdown .md file from ChatGPT on iPhone",
+        "Files app .md preview on iPad"
+      ],
+      "supportedDevices": [
+        "iPhone",
+        "iPad"
+      ],
+      "sourceWorkflows": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "GitHub",
+        "Obsidian",
+        "Notion",
+        "Files",
+        "Mail",
+        "iCloud Drive",
+        "Google Drive",
+        "Dropbox"
+      ],
+      "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+      "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760341080",
+      "appStoreId": "6760341080",
+      "conversionIntent": "open-app-store-listing",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ]
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "extension": ".markdown",
+      "formatFamily": "Markdown",
+      "formatName": "MARKDOWN file",
+      "product": "Md Preview",
+      "fullName": "Md Preview - Markdown Viewer",
+      "mimeTypes": [
+        "text/markdown",
+        "text/x-markdown",
+        "text/plain"
+      ],
+      "canonicalUrl": "https://markdown.cybergame.ai/open-markdown-file-iphone/",
+      "targetPageType": "guide",
+      "targetArticleSlug": null,
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/open-markdown-file-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/open-markdown-file-iphone/"
+        }
+      ],
+      "searchIntents": [
+        "open .markdown file on iPhone",
+        "view .markdown file on iPad",
+        "preview .markdown file on iOS",
+        "what app opens .markdown files on iPhone",
+        "how to open Markdown .markdown file from ChatGPT on iPhone",
+        "Files app .markdown preview on iPad"
+      ],
+      "supportedDevices": [
+        "iPhone",
+        "iPad"
+      ],
+      "sourceWorkflows": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "GitHub",
+        "Obsidian",
+        "Notion",
+        "Files",
+        "Mail",
+        "iCloud Drive",
+        "Google Drive",
+        "Dropbox"
+      ],
+      "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+      "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760341080",
+      "appStoreId": "6760341080",
+      "conversionIntent": "open-app-store-listing",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ]
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "extension": ".mdx",
+      "formatFamily": "Markdown",
+      "formatName": "MDX file",
+      "product": "Md Preview",
+      "fullName": "Md Preview - Markdown Viewer",
+      "mimeTypes": [
+        "text/markdown",
+        "text/x-markdown",
+        "text/plain"
+      ],
+      "canonicalUrl": "https://markdown.cybergame.ai/articles/open-mdx-file-on-iphone/",
+      "targetPageType": "article",
+      "targetArticleSlug": "open-mdx-file-on-iphone",
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-mdx-file-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-mdx-file-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-mdx-file-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-mdx-file-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-mdx-file-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-mdx-file-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-mdx-file-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-mdx-file-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-mdx-file-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-mdx-file-on-iphone/"
+        }
+      ],
+      "searchIntents": [
+        "open .mdx file on iPhone",
+        "view .mdx file on iPad",
+        "preview .mdx file on iOS",
+        "what app opens .mdx files on iPhone",
+        "how to open Markdown .mdx file from ChatGPT on iPhone",
+        "Files app .mdx preview on iPad"
+      ],
+      "supportedDevices": [
+        "iPhone",
+        "iPad"
+      ],
+      "sourceWorkflows": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "GitHub",
+        "Obsidian",
+        "Notion",
+        "Files",
+        "Mail",
+        "iCloud Drive",
+        "Google Drive",
+        "Dropbox"
+      ],
+      "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+      "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760341080",
+      "appStoreId": "6760341080",
+      "conversionIntent": "open-app-store-listing",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ]
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "extension": ".rmd",
+      "formatFamily": "Markdown",
+      "formatName": "RMD file",
+      "product": "Md Preview",
+      "fullName": "Md Preview - Markdown Viewer",
+      "mimeTypes": [
+        "text/markdown",
+        "text/x-markdown",
+        "text/plain"
+      ],
+      "canonicalUrl": "https://markdown.cybergame.ai/articles/open-rmd-qmd-markdown-file-on-ipad/",
+      "targetPageType": "article",
+      "targetArticleSlug": "open-rmd-qmd-markdown-file-on-ipad",
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        }
+      ],
+      "searchIntents": [
+        "open .rmd file on iPhone",
+        "view .rmd file on iPad",
+        "preview .rmd file on iOS",
+        "what app opens .rmd files on iPhone",
+        "how to open Markdown .rmd file from ChatGPT on iPhone",
+        "Files app .rmd preview on iPad"
+      ],
+      "supportedDevices": [
+        "iPhone",
+        "iPad"
+      ],
+      "sourceWorkflows": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "GitHub",
+        "Obsidian",
+        "Notion",
+        "Files",
+        "Mail",
+        "iCloud Drive",
+        "Google Drive",
+        "Dropbox"
+      ],
+      "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+      "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760341080",
+      "appStoreId": "6760341080",
+      "conversionIntent": "open-app-store-listing",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ]
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "extension": ".qmd",
+      "formatFamily": "Markdown",
+      "formatName": "QMD file",
+      "product": "Md Preview",
+      "fullName": "Md Preview - Markdown Viewer",
+      "mimeTypes": [
+        "text/markdown",
+        "text/x-markdown",
+        "text/plain"
+      ],
+      "canonicalUrl": "https://markdown.cybergame.ai/articles/open-rmd-qmd-markdown-file-on-ipad/",
+      "targetPageType": "article",
+      "targetArticleSlug": "open-rmd-qmd-markdown-file-on-ipad",
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-rmd-qmd-markdown-file-on-ipad/"
+        }
+      ],
+      "searchIntents": [
+        "open .qmd file on iPhone",
+        "view .qmd file on iPad",
+        "preview .qmd file on iOS",
+        "what app opens .qmd files on iPhone",
+        "how to open Markdown .qmd file from ChatGPT on iPhone",
+        "Files app .qmd preview on iPad"
+      ],
+      "supportedDevices": [
+        "iPhone",
+        "iPad"
+      ],
+      "sourceWorkflows": [
+        "ChatGPT",
+        "Claude",
+        "Gemini",
+        "GitHub",
+        "Obsidian",
+        "Notion",
+        "Files",
+        "Mail",
+        "iCloud Drive",
+        "Google Drive",
+        "Dropbox"
+      ],
+      "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+      "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760341080",
+      "appStoreId": "6760341080",
+      "conversionIntent": "open-app-store-listing",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ]
+      },
+      "lastUpdated": "2026-06-28"
+    }
+  ]
+}

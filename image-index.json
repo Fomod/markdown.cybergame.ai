@@ -1,0 +1,299 @@
+{
+  "schemaVersion": "image-index-v1",
+  "lastUpdated": "2026-06-28",
+  "product": "Md Preview",
+  "fullName": "Md Preview - Markdown Viewer",
+  "site": "https://markdown.cybergame.ai/",
+  "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+  "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+  "appStoreId": "6760341080",
+  "imageSitemap": "https://markdown.cybergame.ai/image-sitemap.xml",
+  "machineReadableFor": [
+    "Google Search",
+    "Google Images",
+    "AI assistants",
+    "chatbot retrieval",
+    "RAG systems"
+  ],
+  "dimensions": {
+    "width": 1242,
+    "height": 2688,
+    "deviceContext": "iPhone App Store portrait screenshot"
+  },
+  "primaryConversionAction": {
+    "type": "AppStoreInstallAction",
+    "url": "https://apps.apple.com/app/id6760341080",
+    "appStoreId": "6760341080",
+    "platform": [
+      "iPhone",
+      "iPad"
+    ],
+    "listingDetails": "defer-to-app-store"
+  },
+  "screenshots": [
+    {
+      "id": "screenshot-1",
+      "url": "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+      "contentUrl": "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+      "webpUrl": "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.webp",
+      "width": 1242,
+      "height": 2688,
+      "encodingFormat": "image/png",
+      "alternateEncodingFormat": "image/webp",
+      "representativeOfPage": true,
+      "sourceType": "local App Store screenshot asset",
+      "primaryPage": "https://markdown.cybergame.ai/screenshots/",
+      "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+      "appStoreId": "6760341080",
+      "conversionIntent": "open-app-store-listing",
+      "localized": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "title": "Code blocks and JSON",
+          "alt": "Md Preview App Store screenshot showing Markdown code blocks and JSON preview on iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/screenshots/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "title": "代码块和 JSON 清晰预览",
+          "alt": "Md Preview App Store screenshot: 在 iPhone 上预览 Markdown 代码块和 JSON",
+          "pageUrl": "https://markdown.cybergame.ai/zh/screenshots/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "title": "コードブロックとJSONを表示",
+          "alt": "Md Preview App Store screenshot: iPhoneでMarkdownのコードブロックとJSONを表示する画面",
+          "pageUrl": "https://markdown.cybergame.ai/ja/screenshots/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "title": "Bloques de codigo y JSON",
+          "alt": "Md Preview App Store screenshot: previsualizar bloques de codigo Markdown y JSON en iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/es/screenshots/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "title": "Codeblocke und JSON",
+          "alt": "Md Preview App Store screenshot: Markdown-Codeblocke und JSON auf dem iPhone anzeigen",
+          "pageUrl": "https://markdown.cybergame.ai/de/screenshots/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "title": "Blocs de code et JSON",
+          "alt": "Md Preview App Store screenshot: previsualiser des blocs de code Markdown et JSON sur iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/fr/screenshots/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "title": "Blocos de codigo e JSON",
+          "alt": "Md Preview App Store screenshot: visualizar blocos de codigo Markdown e JSON no iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/pt-br/screenshots/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "title": "코드 블록과 JSON 미리보기",
+          "alt": "Md Preview App Store screenshot: iPhone에서 Markdown 코드 블록과 JSON을 미리보는 화면",
+          "pageUrl": "https://markdown.cybergame.ai/ko/screenshots/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "title": "كتل كود و JSON",
+          "alt": "Md Preview App Store screenshot: معاينة كتل كود Markdown و JSON على iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/ar/screenshots/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "title": "Code blocks और JSON preview",
+          "alt": "Md Preview App Store screenshot: iPhone पर Markdown code blocks और JSON preview screen",
+          "pageUrl": "https://markdown.cybergame.ai/hi/screenshots/"
+        }
+      ]
+    },
+    {
+      "id": "screenshot-2",
+      "url": "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+      "contentUrl": "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+      "webpUrl": "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.webp",
+      "width": 1242,
+      "height": 2688,
+      "encodingFormat": "image/png",
+      "alternateEncodingFormat": "image/webp",
+      "representativeOfPage": false,
+      "sourceType": "local App Store screenshot asset",
+      "primaryPage": "https://markdown.cybergame.ai/screenshots/",
+      "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+      "appStoreId": "6760341080",
+      "conversionIntent": "open-app-store-listing",
+      "localized": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "title": "Math rendered cleanly",
+          "alt": "Md Preview App Store screenshot showing Markdown math formula rendering on iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/screenshots/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "title": "数学公式清晰渲染",
+          "alt": "Md Preview App Store screenshot: 在 iPhone 上渲染 Markdown 数学公式",
+          "pageUrl": "https://markdown.cybergame.ai/zh/screenshots/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "title": "数式をきれいにレンダリング",
+          "alt": "Md Preview App Store screenshot: iPhoneでMarkdownの数式をレンダリングする画面",
+          "pageUrl": "https://markdown.cybergame.ai/ja/screenshots/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "title": "Matematicas bien renderizadas",
+          "alt": "Md Preview App Store screenshot: renderizar formulas matematicas Markdown en iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/es/screenshots/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "title": "Mathematik sauber gerendert",
+          "alt": "Md Preview App Store screenshot: Markdown-Formeln auf dem iPhone rendern",
+          "pageUrl": "https://markdown.cybergame.ai/de/screenshots/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "title": "Formules bien rendues",
+          "alt": "Md Preview App Store screenshot: afficher des formules mathematiques Markdown sur iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/fr/screenshots/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "title": "Matematica renderizada com clareza",
+          "alt": "Md Preview App Store screenshot: renderizar formulas matematicas Markdown no iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/pt-br/screenshots/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "title": "수식이 깔끔하게 렌더링",
+          "alt": "Md Preview App Store screenshot: iPhone에서 Markdown 수식을 렌더링하는 화면",
+          "pageUrl": "https://markdown.cybergame.ai/ko/screenshots/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "title": "عرض المعادلات بوضوح",
+          "alt": "Md Preview App Store screenshot: عرض معادلات Markdown على iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/ar/screenshots/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "title": "Math formulas साफ render होती हैं",
+          "alt": "Md Preview App Store screenshot: iPhone पर Markdown math formulas render screen",
+          "pageUrl": "https://markdown.cybergame.ai/hi/screenshots/"
+        }
+      ]
+    },
+    {
+      "id": "screenshot-3",
+      "url": "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png",
+      "contentUrl": "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png",
+      "webpUrl": "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.webp",
+      "width": 1242,
+      "height": 2688,
+      "encodingFormat": "image/png",
+      "alternateEncodingFormat": "image/webp",
+      "representativeOfPage": false,
+      "sourceType": "local App Store screenshot asset",
+      "primaryPage": "https://markdown.cybergame.ai/screenshots/",
+      "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+      "appStoreId": "6760341080",
+      "conversionIntent": "open-app-store-listing",
+      "localized": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "title": "Tables stay readable",
+          "alt": "Md Preview App Store screenshot showing Markdown table rendering on iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/screenshots/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "title": "表格保持易读",
+          "alt": "Md Preview App Store screenshot: 在 iPhone 上阅读 Markdown 表格",
+          "pageUrl": "https://markdown.cybergame.ai/zh/screenshots/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "title": "表を読みやすく表示",
+          "alt": "Md Preview App Store screenshot: iPhoneでMarkdownの表を読みやすく表示する画面",
+          "pageUrl": "https://markdown.cybergame.ai/ja/screenshots/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "title": "Tablas faciles de leer",
+          "alt": "Md Preview App Store screenshot: leer tablas Markdown en iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/es/screenshots/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "title": "Tabellen bleiben lesbar",
+          "alt": "Md Preview App Store screenshot: Markdown-Tabellen auf dem iPhone lesen",
+          "pageUrl": "https://markdown.cybergame.ai/de/screenshots/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "title": "Tableaux faciles a lire",
+          "alt": "Md Preview App Store screenshot: lire des tableaux Markdown sur iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/fr/screenshots/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "title": "Tabelas continuam legiveis",
+          "alt": "Md Preview App Store screenshot: ler tabelas Markdown no iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/pt-br/screenshots/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "title": "표를 읽기 쉽게 표시",
+          "alt": "Md Preview App Store screenshot: iPhone에서 Markdown 표를 읽는 화면",
+          "pageUrl": "https://markdown.cybergame.ai/ko/screenshots/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "title": "جداول سهلة القراءة",
+          "alt": "Md Preview App Store screenshot: قراءة جداول Markdown على iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/ar/screenshots/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "title": "Tables readable रहती हैं",
+          "alt": "Md Preview App Store screenshot: iPhone पर Markdown tables पढ़ने की screen",
+          "pageUrl": "https://markdown.cybergame.ai/hi/screenshots/"
+        }
+      ]
+    }
+  ]
+}

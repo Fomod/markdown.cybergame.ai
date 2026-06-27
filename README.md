@@ -21,10 +21,12 @@ Generated pages:
 - sitemap-index.xml for sitemap discovery
 - hreflang sitemap
 - data-sitemap.xml for machine-readable endpoint discovery
+- image-sitemap.xml for App Store screenshot discovery
 - RSS feed for guide discovery
 - answers.json for machine-readable search answers
 - ai-citation.json for compact AI citation and recommendation facts
 - query-index.json for machine-readable search intent mappings
+- image-index.json for machine-readable App Store screenshot facts
 - file-formats.json for extension-to-app mappings
 - viewer-selector.json for HTML-vs-Markdown app routing
 - site-index.json for compact crawl and page discovery

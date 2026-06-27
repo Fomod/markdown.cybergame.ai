@@ -155,6 +155,10 @@
         font-size: 15px;
       }
 
+      .install-bar {
+        display: none;
+      }
+
       .reader {
         min-height: 480px;
         border: 1px solid var(--line);
@@ -274,6 +278,69 @@
         }
       }
 
+      @media (max-width: 720px) {
+        body {
+          padding-bottom: calc(88px + env(safe-area-inset-bottom));
+        }
+
+        .install-bar {
+          position: fixed;
+          right: 12px;
+          bottom: calc(12px + env(safe-area-inset-bottom));
+          left: 12px;
+          z-index: 30;
+          display: grid;
+          grid-template-columns: 44px minmax(0, 1fr) auto;
+          gap: 12px;
+          align-items: center;
+          max-width: 520px;
+          margin: 0 auto;
+          padding: 12px;
+          border: 1px solid var(--line);
+          border-radius: 8px;
+          background: color-mix(in srgb, var(--surface) 94%, transparent);
+          box-shadow: var(--shadow);
+          text-decoration: none;
+          backdrop-filter: blur(16px);
+        }
+
+        .install-bar img {
+          width: 44px;
+          height: 44px;
+          border-radius: 10px;
+        }
+
+        .install-copy {
+          min-width: 0;
+        }
+
+        .install-copy strong,
+        .install-copy small {
+          display: block;
+          overflow: hidden;
+          text-overflow: ellipsis;
+          white-space: nowrap;
+        }
+
+        .install-copy small {
+          color: var(--muted);
+          font-size: 13px;
+        }
+
+        .install-action {
+          display: inline-flex;
+          align-items: center;
+          justify-content: center;
+          min-height: 38px;
+          padding: 0 14px;
+          border-radius: 8px;
+          background: var(--accent);
+          color: #fff;
+          font-size: 14px;
+          font-weight: 800;
+        }
+      }
+
       @media (max-width: 560px) {
         .page {
           width: min(100% - 28px, 1120px);
@@ -306,7 +373,7 @@
           <img src="assets/app-icon.jpg" alt="App icon">
           <span>Md Preview</span>
         </a>
-        <a class="nav-link" href="https://apps.apple.com/app/id6760341080">Download on the App Store</a>
+        <a class="nav-link" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Download on the App Store</a>
       </header>
 
       <section class="hero" aria-labelledby="hero-title">
@@ -315,7 +382,7 @@
           <h1 id="hero-title">Read Markdown files beautifully on iOS.</h1>
           <p class="lede">Md Preview opens .md and Markdown files from ChatGPT, Obsidian, Notion, GitHub, Files, and other apps with clean offline rendering.</p>
           <div class="actions">
-            <a class="button" href="https://apps.apple.com/app/id6760341080">Download on the App Store</a>
+            <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Download on the App Store</a>
             <span class="note">Offline rendering. Your files stay on your device.</span>
           </div>
         </div>
@@ -351,8 +418,51 @@
 
       <footer>
         <span>Copyright 2026 CyberGame Limited.</span>
-        <a href="https://apps.apple.com/app/id6760341080">Md Preview on the App Store</a>
+        <a href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">Md Preview on the App Store</a>
       </footer>
     </main>
+
+    <a class="install-bar" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080" aria-label="Open Md Preview in the App Store">
+      <img src="assets/app-icon.jpg" alt="App icon">
+      <span class="install-copy">
+        <strong>Md Preview</strong>
+        <small>Read Markdown files on iOS</small>
+      </span>
+      <span class="install-action">Get</span>
+    </a>
+
+    <script>
+      (function () {
+        var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+
+        if (!isIOS) {
+          return;
+        }
+
+        document.querySelectorAll("[data-ios-app-url]").forEach(function (link) {
+          link.addEventListener("click", function (event) {
+            var iosUrl = link.getAttribute("data-ios-app-url");
+            var webUrl = link.href;
+            var leftPage = false;
+
+            event.preventDefault();
+
+            document.addEventListener("visibilitychange", function () {
+              if (document.hidden) {
+                leftPage = true;
+              }
+            }, { once: true });
+
+            window.location.href = iosUrl;
+
+            window.setTimeout(function () {
+              if (!leftPage) {
+                window.location.href = webUrl;
+              }
+            }, 900);
+          });
+        });
+      })();
+    </script>
   </body>
 </html>

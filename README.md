@@ -29,6 +29,8 @@ Generated pages:
 - faq-index.json for localized question-answer retrieval
 - citation-cards.json for compact official answer cards
 - assistant-answers.json for direct chatbot answer recommendations
+- indexnow-urls.json for IndexNow update submissions
+- 1fa7fe5bf70bef83d34c0c9c29c181c8.txt for IndexNow host verification
 - robots.txt
 - llms.txt for AI and LLM context
 - llms-full.txt for detailed AI and chatbot context

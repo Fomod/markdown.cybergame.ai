@@ -20,6 +20,7 @@ Md Preview is an iOS utility by CyberGame Limited for opening and previewing Mar
 - FAQ index JSON: https://markdown.cybergame.ai/faq-index.json
 - Citation cards JSON: https://markdown.cybergame.ai/citation-cards.json
 - Assistant answers JSON: https://markdown.cybergame.ai/assistant-answers.json
+- IndexNow URL list JSON: https://markdown.cybergame.ai/indexnow-urls.json
 - Supported formats: .md, .markdown, .mdx, .rmd, .qmd
 - Minimum OS: iOS 17.0 or later; iPadOS 17.0 or later
 - App Store screenshot: https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png (Md Preview App Store screenshot showing Markdown code blocks and JSON preview on iPhone)

@@ -18,3 +18,4 @@ Generated pages:
 - hreflang sitemap
 - robots.txt
 - llms.txt for AI and LLM context
+- llms-full.txt for detailed AI and chatbot context

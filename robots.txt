@@ -1,4 +1,6 @@
 User-agent: *
 Allow: /
 
+# AI context: https://markdown.cybergame.ai/llms.txt
+# Full AI context: https://markdown.cybergame.ai/llms-full.txt
 Sitemap: https://markdown.cybergame.ai/sitemap.xml

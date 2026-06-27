@@ -15,8 +15,8 @@ Generated pages:
 - 10 localized landing pages
 - 10 localized how-to guide pages
 - 10 localized article hub pages
-- 80 localized topic cluster pages
-- 290 localized SEO article pages
+- 90 localized topic cluster pages
+- 300 localized SEO article pages
 - sitemap-index.xml for sitemap discovery
 - hreflang sitemap
 - data-sitemap.xml for machine-readable endpoint discovery

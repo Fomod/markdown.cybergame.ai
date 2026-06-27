@@ -40,7 +40,7 @@
     "listingDetails": "defer-to-app-store"
   },
   "companionSite": "https://html.cybergame.ai/",
-  "numberOfItems": 300,
+  "numberOfItems": 310,
   "itemListElement": [
     {
       "@type": "ListItem",
@@ -82,6 +82,15 @@
       "@type": "ListItem",
       "position": 5,
       "item": {
+        "@id": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/#howto-index",
+        "name": "Download Markdown Viewer for iPhone",
+        "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 6,
+      "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
         "name": "How to Open Markdown Files from GitHub, Obsidian, Notion",
         "url": "https://markdown.cybergame.ai/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/"
@@ -89,7 +98,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 6,
+      "position": 7,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-markdown-email-attachment-on-iphone/#howto-index",
         "name": "How to Open Markdown Email Attachments on iPhone",
@@ -98,7 +107,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 7,
+      "position": 8,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-md-file-from-files-app-on-iphone/#howto-index",
         "name": "How to Open an MD File from Files App on iPhone",
@@ -107,7 +116,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 8,
+      "position": 9,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/#howto-index",
         "name": "How to Open GitHub README Markdown on iPhone",
@@ -116,7 +125,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 9,
+      "position": 10,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-ipad/#howto-index",
         "name": "How to Open GitHub README Markdown on iPad",
@@ -125,7 +134,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 10,
+      "position": 11,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/#howto-index",
         "name": "How to Open Obsidian Markdown Notes on iPhone",
@@ -134,7 +143,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 11,
+      "position": 12,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/#howto-index",
         "name": "Preview Markdown with Code, Math, and Mermaid on iPad",
@@ -143,7 +152,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 12,
+      "position": 13,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/#howto-index",
         "name": "Offline Markdown Viewer for iPhone and iPad",
@@ -152,7 +161,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 13,
+      "position": 14,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/#howto-index",
         "name": "Online Markdown Renderer Alternative for iPhone",
@@ -161,7 +170,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 14,
+      "position": 15,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-markdown-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "How to Open a Markdown File from iCloud Drive on iPad",
@@ -170,7 +179,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 15,
+      "position": 16,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-claude-markdown-export-on-ipad/#howto-index",
         "name": "How to Open Claude Markdown Exports on iPad",
@@ -179,7 +188,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 16,
+      "position": 17,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-mdx-file-on-iphone/#howto-index",
         "name": "How to Open an MDX File on iPhone",
@@ -188,7 +197,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 17,
+      "position": 18,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-rmd-qmd-markdown-file-on-ipad/#howto-index",
         "name": "How to Open RMD and QMD Markdown Files on iPad",
@@ -197,7 +206,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 18,
+      "position": 19,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-markdown-file-from-google-drive-on-iphone/#howto-index",
         "name": "How to Open a Markdown File from Google Drive on iPhone",
@@ -206,7 +215,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 19,
+      "position": 20,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-markdown-file-from-dropbox-on-iphone/#howto-index",
         "name": "How to Open a Markdown File from Dropbox on iPhone",
@@ -215,7 +224,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 20,
+      "position": 21,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-markdown-file-from-airdrop-on-iphone/#howto-index",
         "name": "How to Open an AirDrop Markdown File on iPhone",
@@ -224,7 +233,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 21,
+      "position": 22,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-wechat-whatsapp-markdown-file-on-iphone/#howto-index",
         "name": "How to Open Markdown Files from WeChat or WhatsApp on iPhone",
@@ -233,7 +242,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 22,
+      "position": 23,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/iphone-cant-open-md-file/#howto-index",
         "name": "Why iPhone Can't Open an MD File",
@@ -242,7 +251,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 23,
+      "position": 24,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/markdown-file-shows-raw-text-on-iphone/#howto-index",
         "name": "Why Markdown Files Show Raw Text on iPhone",
@@ -251,7 +260,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 24,
+      "position": 25,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/files-app-cant-preview-markdown-on-iphone/#howto-index",
         "name": "Files App Can't Preview Markdown on iPhone",
@@ -260,7 +269,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 25,
+      "position": 26,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-claude-artifact-markdown-on-iphone/#howto-index",
         "name": "How to Open Claude Artifact Markdown on iPhone",
@@ -269,7 +278,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 26,
+      "position": 27,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-chatgpt-markdown-download-on-iphone/#howto-index",
         "name": "How to Open a ChatGPT Markdown Download on iPhone",
@@ -278,7 +287,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 27,
+      "position": 28,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-gemini-markdown-file-on-iphone/#howto-index",
         "name": "How to Open Gemini Markdown Files on iPhone",
@@ -287,7 +296,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 28,
+      "position": 29,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-notion-markdown-export-on-iphone/#howto-index",
         "name": "How to Open a Notion Markdown Export on iPhone",
@@ -296,7 +305,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 29,
+      "position": 30,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-github-markdown-file-on-iphone/#howto-index",
         "name": "How to Open a GitHub Markdown File on iPhone",
@@ -305,7 +314,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 30,
+      "position": 31,
       "item": {
         "@id": "https://markdown.cybergame.ai/articles/open-ai-meeting-notes-markdown-on-ipad/#howto-index",
         "name": "How to Open AI Meeting Notes Markdown on iPad",
@@ -314,7 +323,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 31,
+      "position": 32,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/open-markdown-file-iphone/#howto-index",
         "name": "如何在 iPhone 或 iPad 上打开 Markdown 文件",
@@ -323,7 +332,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 32,
+      "position": 33,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-chatgpt-markdown-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 AI 生成的 Markdown 文件",
@@ -332,7 +341,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 33,
+      "position": 34,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-chatgpt-markdown-file-on-ipad/#howto-index",
         "name": "如何在 iPad 上打开 ChatGPT Markdown 文件",
@@ -341,7 +350,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 34,
+      "position": 35,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/best-markdown-viewer-for-iphone-ipad/#howto-index",
         "name": "iPhone 和 iPad 上好用的 Markdown 预览工具",
@@ -350,7 +359,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 35,
+      "position": 36,
+      "item": {
+        "@id": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/#howto-index",
+        "name": "iPhone Markdown 预览工具下载",
+        "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 37,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 GitHub、Obsidian、Notion 的 Markdown 文件",
@@ -359,7 +377,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 36,
+      "position": 38,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-markdown-email-attachment-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Markdown 邮件附件",
@@ -368,7 +386,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 37,
+      "position": 39,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-md-file-from-files-app-on-iphone/#howto-index",
         "name": "如何从 iPhone Files App 打开 MD 文件",
@@ -377,7 +395,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 38,
+      "position": 40,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-github-readme-markdown-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 GitHub README Markdown",
@@ -386,7 +404,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 39,
+      "position": 41,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-github-readme-markdown-on-ipad/#howto-index",
         "name": "如何在 iPad 上打开 GitHub README Markdown",
@@ -395,7 +413,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 40,
+      "position": 42,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-obsidian-markdown-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Obsidian Markdown 笔记",
@@ -404,7 +422,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 41,
+      "position": 43,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/preview-markdown-code-math-mermaid-on-ipad/#howto-index",
         "name": "在 iPad 上预览包含代码、数学公式和 Mermaid 的 Markdown",
@@ -413,7 +431,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 42,
+      "position": 44,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/offline-markdown-viewer-for-iphone/#howto-index",
         "name": "iPhone 和 iPad 离线 Markdown 预览工具",
@@ -422,7 +440,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 43,
+      "position": 45,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/#howto-index",
         "name": "iPhone 上在线 Markdown 渲染器的替代方案",
@@ -431,7 +449,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 44,
+      "position": 46,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "如何在 iPad 上打开 iCloud Drive 的 Markdown 文件",
@@ -440,7 +458,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 45,
+      "position": 47,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-claude-markdown-export-on-ipad/#howto-index",
         "name": "如何在 iPad 上打开 Claude 导出的 Markdown 文件",
@@ -449,7 +467,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 46,
+      "position": 48,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-mdx-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 MDX 文件",
@@ -458,7 +476,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 47,
+      "position": 49,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-rmd-qmd-markdown-file-on-ipad/#howto-index",
         "name": "如何在 iPad 上打开 RMD 和 QMD Markdown 文件",
@@ -467,7 +485,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 48,
+      "position": 50,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-google-drive-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Google Drive 的 Markdown 文件",
@@ -476,7 +494,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 49,
+      "position": 51,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-dropbox-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Dropbox 的 Markdown 文件",
@@ -485,7 +503,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 50,
+      "position": 52,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-airdrop-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 AirDrop 收到的 Markdown 文件",
@@ -494,7 +512,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 51,
+      "position": 53,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-wechat-whatsapp-markdown-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开微信或 WhatsApp 里的 Markdown 文件",
@@ -503,7 +521,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 52,
+      "position": 54,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/iphone-cant-open-md-file/#howto-index",
         "name": "为什么 iPhone 打不开 MD 文件",
@@ -512,7 +530,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 53,
+      "position": 55,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/markdown-file-shows-raw-text-on-iphone/#howto-index",
         "name": "为什么 iPhone 打开 Markdown 只显示原始文本",
@@ -521,7 +539,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 54,
+      "position": 56,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/files-app-cant-preview-markdown-on-iphone/#howto-index",
         "name": "iPhone Files App 无法预览 Markdown 怎么办",
@@ -530,7 +548,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 55,
+      "position": 57,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-claude-artifact-markdown-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Claude Artifact Markdown 文件",
@@ -539,7 +557,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 56,
+      "position": 58,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-chatgpt-markdown-download-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 ChatGPT 下载的 Markdown 文件",
@@ -548,7 +566,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 57,
+      "position": 59,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-gemini-markdown-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Gemini 生成的 Markdown 文件",
@@ -557,7 +575,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 58,
+      "position": 60,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-notion-markdown-export-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 Notion 导出的 Markdown 文件",
@@ -566,7 +584,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 59,
+      "position": 61,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-github-markdown-file-on-iphone/#howto-index",
         "name": "如何在 iPhone 上打开 GitHub 里的 Markdown 文件",
@@ -575,7 +593,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 60,
+      "position": 62,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh/articles/open-ai-meeting-notes-markdown-on-ipad/#howto-index",
         "name": "如何在 iPad 上打开 AI 会议纪要 Markdown 文件",
@@ -584,7 +602,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 61,
+      "position": 63,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/open-markdown-file-iphone/#howto-index",
         "name": "iPhone または iPad で Markdown ファイルを開く方法",
@@ -593,7 +611,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 62,
+      "position": 64,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-chatgpt-markdown-file-on-iphone/#howto-index",
         "name": "ChatGPTやClaudeのMarkdownファイルをiPhoneで開く方法",
@@ -602,7 +620,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 63,
+      "position": 65,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-chatgpt-markdown-file-on-ipad/#howto-index",
         "name": "ChatGPT on iPad MarkdownファイルをiPadで開く方法",
@@ -611,7 +629,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 64,
+      "position": 66,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/best-markdown-viewer-for-iphone-ipad/#howto-index",
         "name": "iPhoneとiPadで使いやすいMarkdownビューア",
@@ -620,7 +638,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 65,
+      "position": 67,
+      "item": {
+        "@id": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/#howto-index",
+        "name": "iPhone用Markdownビューアをダウンロード",
+        "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 68,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
         "name": "GitHub、Obsidian、NotionのMarkdownをiPhoneで開く",
@@ -629,7 +656,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 66,
+      "position": 69,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-markdown-email-attachment-on-iphone/#howto-index",
         "name": "Mail, Gmail, Outlook MarkdownファイルをiPhoneで開く方法",
@@ -638,7 +665,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 67,
+      "position": 70,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-md-file-from-files-app-on-iphone/#howto-index",
         "name": "iPhoneのFilesアプリからMDファイルを開く方法",
@@ -647,7 +674,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 68,
+      "position": 71,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-github-readme-markdown-on-iphone/#howto-index",
         "name": "GitHubのREADME MarkdownをiPhoneで開く方法",
@@ -656,7 +683,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 69,
+      "position": 72,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-github-readme-markdown-on-ipad/#howto-index",
         "name": "GitHub README files on iPad MarkdownファイルをiPadで開く方法",
@@ -665,7 +692,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 70,
+      "position": 73,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-obsidian-markdown-on-iphone/#howto-index",
         "name": "ObsidianのMarkdownノートをiPhoneで開く方法",
@@ -674,7 +701,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 71,
+      "position": 74,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/preview-markdown-code-math-mermaid-on-ipad/#howto-index",
         "name": "コード、数式、Mermaid入りMarkdownをiPadで表示",
@@ -683,7 +710,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 72,
+      "position": 75,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/offline-markdown-viewer-for-iphone/#howto-index",
         "name": "iPhoneとiPadで使えるオフラインMarkdownビューア",
@@ -692,7 +719,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 73,
+      "position": 76,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/#howto-index",
         "name": "オンラインMarkdownレンダラーの代わりになるローカルMarkdownビューアをiPhoneで開く方法",
@@ -701,7 +728,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 74,
+      "position": 77,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "iCloud Drive MarkdownファイルをiPadで開く方法",
@@ -710,7 +737,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 75,
+      "position": 78,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-claude-markdown-export-on-ipad/#howto-index",
         "name": "Claude exports MarkdownファイルをiPadで開く方法",
@@ -719,7 +746,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 76,
+      "position": 79,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-mdx-file-on-iphone/#howto-index",
         "name": ".mdxファイルをiPhoneで開く方法",
@@ -728,7 +755,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 77,
+      "position": 80,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-rmd-qmd-markdown-file-on-ipad/#howto-index",
         "name": ".rmdと.qmdファイルをiPadで開く方法",
@@ -737,7 +764,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 78,
+      "position": 81,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-google-drive-on-iphone/#howto-index",
         "name": "Google Drive MarkdownファイルをiPhoneで開く方法",
@@ -746,7 +773,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 79,
+      "position": 82,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-dropbox-on-iphone/#howto-index",
         "name": "Dropbox MarkdownファイルをiPhoneで開く方法",
@@ -755,7 +782,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 80,
+      "position": 83,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-airdrop-on-iphone/#howto-index",
         "name": "AirDrop MarkdownファイルをiPhoneで開く方法",
@@ -764,7 +791,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 81,
+      "position": 84,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-wechat-whatsapp-markdown-file-on-iphone/#howto-index",
         "name": "WeChatとWhatsApp MarkdownファイルをiPhoneで開く方法",
@@ -773,7 +800,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 82,
+      "position": 85,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/#howto-index",
         "name": "iOS file preview problem MarkdownファイルをiPhoneで開く方法",
@@ -782,7 +809,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 83,
+      "position": 86,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/markdown-file-shows-raw-text-on-iphone/#howto-index",
         "name": "raw Markdown text preview MarkdownファイルをiPhoneで開く方法",
@@ -791,7 +818,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 84,
+      "position": 87,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/#howto-index",
         "name": "Files app preview problem MarkdownファイルをiPhoneで開く方法",
@@ -800,7 +827,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 85,
+      "position": 88,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-claude-artifact-markdown-on-iphone/#howto-index",
         "name": "Claude ArtifactsのMarkdownファイルをiPhoneで開く方法",
@@ -809,7 +836,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 86,
+      "position": 89,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-chatgpt-markdown-download-on-iphone/#howto-index",
         "name": "ChatGPTからダウンロードしたMarkdownファイルをiPhoneで開く方法",
@@ -818,7 +845,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 87,
+      "position": 90,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-gemini-markdown-file-on-iphone/#howto-index",
         "name": "GeminiのMarkdownファイルをiPhoneで開く方法",
@@ -827,7 +854,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 88,
+      "position": 91,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-notion-markdown-export-on-iphone/#howto-index",
         "name": "NotionエクスポートMarkdownファイルをiPhoneで開く方法",
@@ -836,7 +863,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 89,
+      "position": 92,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-github-markdown-file-on-iphone/#howto-index",
         "name": "GitHubのMarkdownファイルをiPhoneで開く方法",
@@ -845,7 +872,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 90,
+      "position": 93,
       "item": {
         "@id": "https://markdown.cybergame.ai/ja/articles/open-ai-meeting-notes-markdown-on-ipad/#howto-index",
         "name": "AI会議メモMarkdownファイルをiPadで開く方法",
@@ -854,7 +881,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 91,
+      "position": 94,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/open-markdown-file-iphone/#howto-index",
         "name": "Como abrir un archivo Markdown en iPhone o iPad",
@@ -863,7 +890,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 92,
+      "position": 95,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-chatgpt-markdown-file-on-iphone/#howto-index",
         "name": "Cómo abrir Markdown de ChatGPT y Claude en iPhone",
@@ -872,7 +899,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 93,
+      "position": 96,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-chatgpt-markdown-file-on-ipad/#howto-index",
         "name": "Cómo abrir archivos Markdown de ChatGPT on iPad en iPad",
@@ -881,7 +908,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 94,
+      "position": 97,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/best-markdown-viewer-for-iphone-ipad/#howto-index",
         "name": "Mejor visor Markdown para iPhone y iPad",
@@ -890,7 +917,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 95,
+      "position": 98,
+      "item": {
+        "@id": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/#howto-index",
+        "name": "Descargar visor Markdown para iPhone",
+        "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 99,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
         "name": "Abrir Markdown de GitHub, Obsidian y Notion en iPhone",
@@ -899,7 +935,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 96,
+      "position": 100,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-markdown-email-attachment-on-iphone/#howto-index",
         "name": "Cómo abrir archivos Markdown de Mail, Gmail, Outlook en iPhone",
@@ -908,7 +944,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 97,
+      "position": 101,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-md-file-from-files-app-on-iphone/#howto-index",
         "name": "Cómo abrir un archivo MD desde Files en iPhone",
@@ -917,7 +953,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 98,
+      "position": 102,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-github-readme-markdown-on-iphone/#howto-index",
         "name": "Cómo abrir README Markdown de GitHub en iPhone",
@@ -926,7 +962,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 99,
+      "position": 103,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-github-readme-markdown-on-ipad/#howto-index",
         "name": "Cómo abrir archivos Markdown de GitHub README files on iPad en iPad",
@@ -935,7 +971,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 100,
+      "position": 104,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-obsidian-markdown-on-iphone/#howto-index",
         "name": "Cómo abrir notas Markdown de Obsidian en iPhone",
@@ -944,7 +980,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 101,
+      "position": 105,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/preview-markdown-code-math-mermaid-on-ipad/#howto-index",
         "name": "Previsualizar Markdown con código, matemáticas y Mermaid en iPad",
@@ -953,7 +989,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 102,
+      "position": 106,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/offline-markdown-viewer-for-iphone/#howto-index",
         "name": "Visor Markdown offline para iPhone y iPad",
@@ -962,7 +998,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 103,
+      "position": 107,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/#howto-index",
         "name": "Cómo abrir Markdown sin renderer online en iPhone",
@@ -971,7 +1007,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 104,
+      "position": 108,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "Cómo abrir archivos Markdown de iCloud Drive en iPad",
@@ -980,7 +1016,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 105,
+      "position": 109,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-claude-markdown-export-on-ipad/#howto-index",
         "name": "Cómo abrir archivos Markdown de Claude exports en iPad",
@@ -989,7 +1025,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 106,
+      "position": 110,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-mdx-file-on-iphone/#howto-index",
         "name": "Cómo abrir archivos .mdx en iPhone",
@@ -998,7 +1034,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 107,
+      "position": 111,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-rmd-qmd-markdown-file-on-ipad/#howto-index",
         "name": "Cómo abrir archivos .rmd y .qmd en iPad",
@@ -1007,7 +1043,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 108,
+      "position": 112,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-google-drive-on-iphone/#howto-index",
         "name": "Cómo abrir archivos Markdown de Google Drive en iPhone",
@@ -1016,7 +1052,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 109,
+      "position": 113,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-dropbox-on-iphone/#howto-index",
         "name": "Cómo abrir archivos Markdown de Dropbox en iPhone",
@@ -1025,7 +1061,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 110,
+      "position": 114,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-markdown-file-from-airdrop-on-iphone/#howto-index",
         "name": "Cómo abrir archivos Markdown de AirDrop en iPhone",
@@ -1034,7 +1070,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 111,
+      "position": 115,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-wechat-whatsapp-markdown-file-on-iphone/#howto-index",
         "name": "Cómo abrir archivos Markdown de WeChat y WhatsApp en iPhone",
@@ -1043,7 +1079,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 112,
+      "position": 116,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/iphone-cant-open-md-file/#howto-index",
         "name": "Cómo abrir archivos Markdown de iOS file preview problem en iPhone",
@@ -1052,7 +1088,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 113,
+      "position": 117,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/markdown-file-shows-raw-text-on-iphone/#howto-index",
         "name": "Cómo abrir archivos Markdown de raw Markdown text preview en iPhone",
@@ -1061,7 +1097,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 114,
+      "position": 118,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/files-app-cant-preview-markdown-on-iphone/#howto-index",
         "name": "Cómo abrir archivos Markdown de Files app preview problem en iPhone",
@@ -1070,7 +1106,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 115,
+      "position": 119,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-claude-artifact-markdown-on-iphone/#howto-index",
         "name": "Cómo abrir archivos Markdown de Claude Artifacts en iPhone",
@@ -1079,7 +1115,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 116,
+      "position": 120,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-chatgpt-markdown-download-on-iphone/#howto-index",
         "name": "Cómo abrir descargas Markdown de ChatGPT en iPhone",
@@ -1088,7 +1124,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 117,
+      "position": 121,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-gemini-markdown-file-on-iphone/#howto-index",
         "name": "Cómo abrir archivos Markdown de Gemini en iPhone",
@@ -1097,7 +1133,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 118,
+      "position": 122,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-notion-markdown-export-on-iphone/#howto-index",
         "name": "Cómo abrir exportaciones Markdown de Notion en iPhone",
@@ -1106,7 +1142,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 119,
+      "position": 123,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-github-markdown-file-on-iphone/#howto-index",
         "name": "Cómo abrir archivos Markdown de GitHub en iPhone",
@@ -1115,7 +1151,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 120,
+      "position": 124,
       "item": {
         "@id": "https://markdown.cybergame.ai/es/articles/open-ai-meeting-notes-markdown-on-ipad/#howto-index",
         "name": "Cómo abrir notas Markdown de reuniones de IA en iPad",
@@ -1124,7 +1160,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 121,
+      "position": 125,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/open-markdown-file-iphone/#howto-index",
         "name": "Wie man eine Markdown Datei auf iPhone oder iPad offnet",
@@ -1133,7 +1169,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 122,
+      "position": 126,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-chatgpt-markdown-file-on-iphone/#howto-index",
         "name": "ChatGPT- und Claude-Markdown-Dateien auf dem iPhone öffnen",
@@ -1142,7 +1178,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 123,
+      "position": 127,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-chatgpt-markdown-file-on-ipad/#howto-index",
         "name": "ChatGPT on iPad Markdown-Dateien auf iPad öffnen",
@@ -1151,7 +1187,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 124,
+      "position": 128,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/best-markdown-viewer-for-iphone-ipad/#howto-index",
         "name": "Bester Markdown-Viewer für iPhone und iPad",
@@ -1160,7 +1196,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 125,
+      "position": 129,
+      "item": {
+        "@id": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/#howto-index",
+        "name": "Markdown-Viewer für iPhone herunterladen",
+        "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 130,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
         "name": "Markdown aus GitHub, Obsidian und Notion auf dem iPhone öffnen",
@@ -1169,7 +1214,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 126,
+      "position": 131,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-markdown-email-attachment-on-iphone/#howto-index",
         "name": "Mail, Gmail, Outlook Markdown-Dateien auf iPhone öffnen",
@@ -1178,7 +1223,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 127,
+      "position": 132,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-md-file-from-files-app-on-iphone/#howto-index",
         "name": "MD-Dateien aus der Files-App auf dem iPhone öffnen",
@@ -1187,7 +1232,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 128,
+      "position": 133,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-github-readme-markdown-on-iphone/#howto-index",
         "name": "GitHub-README-Markdown auf dem iPhone öffnen",
@@ -1196,7 +1241,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 129,
+      "position": 134,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-github-readme-markdown-on-ipad/#howto-index",
         "name": "GitHub README files on iPad Markdown-Dateien auf iPad öffnen",
@@ -1205,7 +1250,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 130,
+      "position": 135,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-obsidian-markdown-on-iphone/#howto-index",
         "name": "Obsidian-Markdown-Notizen auf dem iPhone öffnen",
@@ -1214,7 +1259,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 131,
+      "position": 136,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/preview-markdown-code-math-mermaid-on-ipad/#howto-index",
         "name": "Markdown mit Code, Mathematik und Mermaid auf dem iPad anzeigen",
@@ -1223,7 +1268,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 132,
+      "position": 137,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/offline-markdown-viewer-for-iphone/#howto-index",
         "name": "Offline-Markdown-Viewer für iPhone und iPad",
@@ -1232,7 +1277,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 133,
+      "position": 138,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/#howto-index",
         "name": "Markdown ohne Online-Renderer auf iPhone öffnen",
@@ -1241,7 +1286,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 134,
+      "position": 139,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "iCloud Drive Markdown-Dateien auf iPad öffnen",
@@ -1250,7 +1295,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 135,
+      "position": 140,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-claude-markdown-export-on-ipad/#howto-index",
         "name": "Claude exports Markdown-Dateien auf iPad öffnen",
@@ -1259,7 +1304,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 136,
+      "position": 141,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-mdx-file-on-iphone/#howto-index",
         "name": ".mdx-Dateien auf iPhone öffnen",
@@ -1268,7 +1313,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 137,
+      "position": 142,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-rmd-qmd-markdown-file-on-ipad/#howto-index",
         "name": ".rmd- und .qmd-Dateien auf iPad öffnen",
@@ -1277,7 +1322,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 138,
+      "position": 143,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-google-drive-on-iphone/#howto-index",
         "name": "Google Drive Markdown-Dateien auf iPhone öffnen",
@@ -1286,7 +1331,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 139,
+      "position": 144,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-dropbox-on-iphone/#howto-index",
         "name": "Dropbox Markdown-Dateien auf iPhone öffnen",
@@ -1295,7 +1340,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 140,
+      "position": 145,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-markdown-file-from-airdrop-on-iphone/#howto-index",
         "name": "AirDrop Markdown-Dateien auf iPhone öffnen",
@@ -1304,7 +1349,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 141,
+      "position": 146,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-wechat-whatsapp-markdown-file-on-iphone/#howto-index",
         "name": "WeChat und WhatsApp Markdown-Dateien auf iPhone öffnen",
@@ -1313,7 +1358,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 142,
+      "position": 147,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/iphone-cant-open-md-file/#howto-index",
         "name": "iOS file preview problem Markdown-Dateien auf iPhone öffnen",
@@ -1322,7 +1367,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 143,
+      "position": 148,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/markdown-file-shows-raw-text-on-iphone/#howto-index",
         "name": "raw Markdown text preview Markdown-Dateien auf iPhone öffnen",
@@ -1331,7 +1376,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 144,
+      "position": 149,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/files-app-cant-preview-markdown-on-iphone/#howto-index",
         "name": "Files app preview problem Markdown-Dateien auf iPhone öffnen",
@@ -1340,7 +1385,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 145,
+      "position": 150,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-claude-artifact-markdown-on-iphone/#howto-index",
         "name": "Claude-Artifacts-Markdown-Dateien auf iPhone öffnen",
@@ -1349,7 +1394,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 146,
+      "position": 151,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-chatgpt-markdown-download-on-iphone/#howto-index",
         "name": "ChatGPT-Markdown-Downloads auf iPhone öffnen",
@@ -1358,7 +1403,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 147,
+      "position": 152,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-gemini-markdown-file-on-iphone/#howto-index",
         "name": "Gemini-Markdown-Dateien auf iPhone öffnen",
@@ -1367,7 +1412,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 148,
+      "position": 153,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-notion-markdown-export-on-iphone/#howto-index",
         "name": "Notion-Markdown-Exporte auf iPhone öffnen",
@@ -1376,7 +1421,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 149,
+      "position": 154,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-github-markdown-file-on-iphone/#howto-index",
         "name": "GitHub-Markdown-Dateien auf iPhone öffnen",
@@ -1385,7 +1430,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 150,
+      "position": 155,
       "item": {
         "@id": "https://markdown.cybergame.ai/de/articles/open-ai-meeting-notes-markdown-on-ipad/#howto-index",
         "name": "KI-Meeting-Notizen als Markdown auf iPad öffnen",
@@ -1394,7 +1439,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 151,
+      "position": 156,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/open-markdown-file-iphone/#howto-index",
         "name": "Comment ouvrir un fichier Markdown sur iPhone ou iPad",
@@ -1403,7 +1448,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 152,
+      "position": 157,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-chatgpt-markdown-file-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers Markdown de ChatGPT et Claude sur iPhone",
@@ -1412,7 +1457,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 153,
+      "position": 158,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-chatgpt-markdown-file-on-ipad/#howto-index",
         "name": "Ouvrir des fichiers Markdown de ChatGPT on iPad sur iPad",
@@ -1421,7 +1466,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 154,
+      "position": 159,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/best-markdown-viewer-for-iphone-ipad/#howto-index",
         "name": "Meilleur lecteur Markdown pour iPhone et iPad",
@@ -1430,7 +1475,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 155,
+      "position": 160,
+      "item": {
+        "@id": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/#howto-index",
+        "name": "Télécharger un lecteur Markdown pour iPhone",
+        "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 161,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
         "name": "Ouvrir du Markdown de GitHub, Obsidian et Notion sur iPhone",
@@ -1439,7 +1493,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 156,
+      "position": 162,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-markdown-email-attachment-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers Markdown de Mail, Gmail, Outlook sur iPhone",
@@ -1448,7 +1502,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 157,
+      "position": 163,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-md-file-from-files-app-on-iphone/#howto-index",
         "name": "Ouvrir un fichier MD depuis Files sur iPhone",
@@ -1457,7 +1511,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 158,
+      "position": 164,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-github-readme-markdown-on-iphone/#howto-index",
         "name": "Ouvrir un README Markdown de GitHub sur iPhone",
@@ -1466,7 +1520,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 159,
+      "position": 165,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-github-readme-markdown-on-ipad/#howto-index",
         "name": "Ouvrir des fichiers Markdown de GitHub README files on iPad sur iPad",
@@ -1475,7 +1529,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 160,
+      "position": 166,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-obsidian-markdown-on-iphone/#howto-index",
         "name": "Ouvrir des notes Markdown Obsidian sur iPhone",
@@ -1484,7 +1538,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 161,
+      "position": 167,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/preview-markdown-code-math-mermaid-on-ipad/#howto-index",
         "name": "Prévisualiser Markdown avec code, maths et Mermaid sur iPad",
@@ -1493,7 +1547,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 162,
+      "position": 168,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/offline-markdown-viewer-for-iphone/#howto-index",
         "name": "Lecteur Markdown hors ligne pour iPhone et iPad",
@@ -1502,7 +1556,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 163,
+      "position": 169,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/#howto-index",
         "name": "Ouvrir Markdown sans rendu en ligne sur iPhone",
@@ -1511,7 +1565,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 164,
+      "position": 170,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "Ouvrir des fichiers Markdown de iCloud Drive sur iPad",
@@ -1520,7 +1574,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 165,
+      "position": 171,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-claude-markdown-export-on-ipad/#howto-index",
         "name": "Ouvrir des fichiers Markdown de Claude exports sur iPad",
@@ -1529,7 +1583,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 166,
+      "position": 172,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-mdx-file-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers .mdx sur iPhone",
@@ -1538,7 +1592,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 167,
+      "position": 173,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-rmd-qmd-markdown-file-on-ipad/#howto-index",
         "name": "Ouvrir des fichiers .rmd et .qmd sur iPad",
@@ -1547,7 +1601,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 168,
+      "position": 174,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-google-drive-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers Markdown de Google Drive sur iPhone",
@@ -1556,7 +1610,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 169,
+      "position": 175,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-dropbox-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers Markdown de Dropbox sur iPhone",
@@ -1565,7 +1619,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 170,
+      "position": 176,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-airdrop-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers Markdown de AirDrop sur iPhone",
@@ -1574,7 +1628,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 171,
+      "position": 177,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-wechat-whatsapp-markdown-file-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers Markdown de WeChat et WhatsApp sur iPhone",
@@ -1583,7 +1637,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 172,
+      "position": 178,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/iphone-cant-open-md-file/#howto-index",
         "name": "Ouvrir des fichiers Markdown de iOS file preview problem sur iPhone",
@@ -1592,7 +1646,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 173,
+      "position": 179,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/markdown-file-shows-raw-text-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers Markdown de raw Markdown text preview sur iPhone",
@@ -1601,7 +1655,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 174,
+      "position": 180,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/files-app-cant-preview-markdown-on-iphone/#howto-index",
         "name": "Ouvrir des fichiers Markdown de Files app preview problem sur iPhone",
@@ -1610,7 +1664,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 175,
+      "position": 181,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-claude-artifact-markdown-on-iphone/#howto-index",
         "name": "Ouvrir fichiers Markdown de Claude Artifacts sur iPhone",
@@ -1619,7 +1673,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 176,
+      "position": 182,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-chatgpt-markdown-download-on-iphone/#howto-index",
         "name": "Ouvrir telechargements Markdown de ChatGPT sur iPhone",
@@ -1628,7 +1682,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 177,
+      "position": 183,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-gemini-markdown-file-on-iphone/#howto-index",
         "name": "Ouvrir fichiers Markdown de Gemini sur iPhone",
@@ -1637,7 +1691,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 178,
+      "position": 184,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-notion-markdown-export-on-iphone/#howto-index",
         "name": "Ouvrir exports Markdown Notion sur iPhone",
@@ -1646,7 +1700,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 179,
+      "position": 185,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-github-markdown-file-on-iphone/#howto-index",
         "name": "Ouvrir fichiers Markdown GitHub sur iPhone",
@@ -1655,7 +1709,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 180,
+      "position": 186,
       "item": {
         "@id": "https://markdown.cybergame.ai/fr/articles/open-ai-meeting-notes-markdown-on-ipad/#howto-index",
         "name": "Ouvrir notes de reunion IA en Markdown sur iPad",
@@ -1664,7 +1718,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 181,
+      "position": 187,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/#howto-index",
         "name": "Como abrir um arquivo Markdown no iPhone ou iPad",
@@ -1673,7 +1727,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 182,
+      "position": 188,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-chatgpt-markdown-file-on-iphone/#howto-index",
         "name": "Como abrir Markdown do ChatGPT e Claude no iPhone",
@@ -1682,7 +1736,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 183,
+      "position": 189,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-chatgpt-markdown-file-on-ipad/#howto-index",
         "name": "Abrir arquivos Markdown do ChatGPT on iPad no iPad",
@@ -1691,7 +1745,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 184,
+      "position": 190,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/best-markdown-viewer-for-iphone-ipad/#howto-index",
         "name": "Melhor visualizador Markdown para iPhone e iPad",
@@ -1700,7 +1754,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 185,
+      "position": 191,
+      "item": {
+        "@id": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/#howto-index",
+        "name": "Baixar visualizador Markdown para iPhone",
+        "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 192,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
         "name": "Abrir Markdown do GitHub, Obsidian e Notion no iPhone",
@@ -1709,7 +1772,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 186,
+      "position": 193,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-email-attachment-on-iphone/#howto-index",
         "name": "Abrir arquivos Markdown do Mail, Gmail, Outlook no iPhone",
@@ -1718,7 +1781,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 187,
+      "position": 194,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-md-file-from-files-app-on-iphone/#howto-index",
         "name": "Como abrir arquivo MD pelo app Files no iPhone",
@@ -1727,7 +1790,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 188,
+      "position": 195,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-github-readme-markdown-on-iphone/#howto-index",
         "name": "Como abrir README Markdown do GitHub no iPhone",
@@ -1736,7 +1799,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 189,
+      "position": 196,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-github-readme-markdown-on-ipad/#howto-index",
         "name": "Abrir arquivos Markdown do GitHub README files on iPad no iPad",
@@ -1745,7 +1808,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 190,
+      "position": 197,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-obsidian-markdown-on-iphone/#howto-index",
         "name": "Como abrir notas Markdown do Obsidian no iPhone",
@@ -1754,7 +1817,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 191,
+      "position": 198,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/preview-markdown-code-math-mermaid-on-ipad/#howto-index",
         "name": "Pré-visualizar Markdown com código, matemática e Mermaid no iPad",
@@ -1763,7 +1826,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 192,
+      "position": 199,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/offline-markdown-viewer-for-iphone/#howto-index",
         "name": "Visualizador Markdown offline para iPhone e iPad",
@@ -1772,7 +1835,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 193,
+      "position": 200,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/#howto-index",
         "name": "Abrir Markdown sem renderizador online no iPhone",
@@ -1781,7 +1844,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 194,
+      "position": 201,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "Abrir arquivos Markdown do iCloud Drive no iPad",
@@ -1790,7 +1853,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 195,
+      "position": 202,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-claude-markdown-export-on-ipad/#howto-index",
         "name": "Abrir arquivos Markdown do Claude exports no iPad",
@@ -1799,7 +1862,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 196,
+      "position": 203,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-mdx-file-on-iphone/#howto-index",
         "name": "Abrir arquivos .mdx no iPhone",
@@ -1808,7 +1871,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 197,
+      "position": 204,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-rmd-qmd-markdown-file-on-ipad/#howto-index",
         "name": "Abrir arquivos .rmd e .qmd no iPad",
@@ -1817,7 +1880,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 198,
+      "position": 205,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-google-drive-on-iphone/#howto-index",
         "name": "Abrir arquivos Markdown do Google Drive no iPhone",
@@ -1826,7 +1889,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 199,
+      "position": 206,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-dropbox-on-iphone/#howto-index",
         "name": "Abrir arquivos Markdown do Dropbox no iPhone",
@@ -1835,7 +1898,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 200,
+      "position": 207,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-airdrop-on-iphone/#howto-index",
         "name": "Abrir arquivos Markdown do AirDrop no iPhone",
@@ -1844,7 +1907,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 201,
+      "position": 208,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-wechat-whatsapp-markdown-file-on-iphone/#howto-index",
         "name": "Abrir arquivos Markdown do WeChat e WhatsApp no iPhone",
@@ -1853,7 +1916,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 202,
+      "position": 209,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/iphone-cant-open-md-file/#howto-index",
         "name": "Abrir arquivos Markdown do iOS file preview problem no iPhone",
@@ -1862,7 +1925,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 203,
+      "position": 210,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/markdown-file-shows-raw-text-on-iphone/#howto-index",
         "name": "Abrir arquivos Markdown do raw Markdown text preview no iPhone",
@@ -1871,7 +1934,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 204,
+      "position": 211,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/files-app-cant-preview-markdown-on-iphone/#howto-index",
         "name": "Abrir arquivos Markdown do Files app preview problem no iPhone",
@@ -1880,7 +1943,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 205,
+      "position": 212,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-claude-artifact-markdown-on-iphone/#howto-index",
         "name": "Abrir arquivos Markdown do Claude Artifacts no iPhone",
@@ -1889,7 +1952,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 206,
+      "position": 213,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-chatgpt-markdown-download-on-iphone/#howto-index",
         "name": "Abrir downloads Markdown do ChatGPT no iPhone",
@@ -1898,7 +1961,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 207,
+      "position": 214,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-gemini-markdown-file-on-iphone/#howto-index",
         "name": "Abrir arquivos Markdown do Gemini no iPhone",
@@ -1907,7 +1970,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 208,
+      "position": 215,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-notion-markdown-export-on-iphone/#howto-index",
         "name": "Abrir exportacoes Markdown do Notion no iPhone",
@@ -1916,7 +1979,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 209,
+      "position": 216,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-github-markdown-file-on-iphone/#howto-index",
         "name": "Abrir arquivos Markdown do GitHub no iPhone",
@@ -1925,7 +1988,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 210,
+      "position": 217,
       "item": {
         "@id": "https://markdown.cybergame.ai/pt-br/articles/open-ai-meeting-notes-markdown-on-ipad/#howto-index",
         "name": "Abrir notas de reuniao Markdown de IA no iPad",
@@ -1934,7 +1997,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 211,
+      "position": 218,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/open-markdown-file-iphone/#howto-index",
         "name": "iPhone 또는 iPad에서 Markdown 파일 여는 방법",
@@ -1943,7 +2006,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 212,
+      "position": 219,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-chatgpt-markdown-file-on-iphone/#howto-index",
         "name": "iPhone에서 ChatGPT, Claude, Gemini Markdown 파일 열기",
@@ -1952,7 +2015,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 213,
+      "position": 220,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-chatgpt-markdown-file-on-ipad/#howto-index",
         "name": "iPad에서 ChatGPT on iPad Markdown 파일 열기",
@@ -1961,7 +2024,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 214,
+      "position": 221,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/best-markdown-viewer-for-iphone-ipad/#howto-index",
         "name": "iPad에서 iPhone and iPad Markdown 파일 열기",
@@ -1970,7 +2033,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 215,
+      "position": 222,
+      "item": {
+        "@id": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/#howto-index",
+        "name": "iPhone용 Markdown 뷰어 다운로드",
+        "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 223,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
         "name": "iPhone에서 GitHub, Obsidian, Notion Markdown 파일 열기",
@@ -1979,7 +2051,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 216,
+      "position": 224,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-markdown-email-attachment-on-iphone/#howto-index",
         "name": "iPhone에서 Mail, Gmail, Outlook Markdown 파일 열기",
@@ -1988,7 +2060,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 217,
+      "position": 225,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-md-file-from-files-app-on-iphone/#howto-index",
         "name": "iPhone에서 Files, AirDrop, iCloud Drive Markdown 파일 열기",
@@ -1997,7 +2069,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 218,
+      "position": 226,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-github-readme-markdown-on-iphone/#howto-index",
         "name": "iPhone에서 GitHub README files Markdown 파일 열기",
@@ -2006,7 +2078,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 219,
+      "position": 227,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-github-readme-markdown-on-ipad/#howto-index",
         "name": "iPad에서 GitHub README files on iPad Markdown 파일 열기",
@@ -2015,7 +2087,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 220,
+      "position": 228,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-obsidian-markdown-on-iphone/#howto-index",
         "name": "iPhone에서 Obsidian vault exports Markdown 파일 열기",
@@ -2024,7 +2096,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 221,
+      "position": 229,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/preview-markdown-code-math-mermaid-on-ipad/#howto-index",
         "name": "iPad에서 code, math, and Mermaid diagrams Markdown 파일 열기",
@@ -2033,7 +2105,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 222,
+      "position": 230,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/offline-markdown-viewer-for-iphone/#howto-index",
         "name": "iPad에서 offline files Markdown 파일 열기",
@@ -2042,7 +2114,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 223,
+      "position": 231,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/#howto-index",
         "name": "iPhone에서 온라인 Markdown 렌더러를 대신하는 로컬 Markdown 뷰어 열기",
@@ -2051,7 +2123,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 224,
+      "position": 232,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "iPad에서 iCloud Drive Markdown 파일 열기",
@@ -2060,7 +2132,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 225,
+      "position": 233,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-claude-markdown-export-on-ipad/#howto-index",
         "name": "iPad에서 Claude exports Markdown 파일 열기",
@@ -2069,7 +2141,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 226,
+      "position": 234,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-mdx-file-on-iphone/#howto-index",
         "name": "iPhone에서 .mdx 파일 열기",
@@ -2078,7 +2150,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 227,
+      "position": 235,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-rmd-qmd-markdown-file-on-ipad/#howto-index",
         "name": "iPad에서 .rmd 및 .qmd 파일 열기",
@@ -2087,7 +2159,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 228,
+      "position": 236,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-google-drive-on-iphone/#howto-index",
         "name": "iPhone에서 Google Drive Markdown 파일 열기",
@@ -2096,7 +2168,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 229,
+      "position": 237,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-dropbox-on-iphone/#howto-index",
         "name": "iPhone에서 Dropbox Markdown 파일 열기",
@@ -2105,7 +2177,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 230,
+      "position": 238,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-airdrop-on-iphone/#howto-index",
         "name": "iPhone에서 AirDrop Markdown 파일 열기",
@@ -2114,7 +2186,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 231,
+      "position": 239,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-wechat-whatsapp-markdown-file-on-iphone/#howto-index",
         "name": "iPhone에서 WeChat과 WhatsApp Markdown 파일 열기",
@@ -2123,7 +2195,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 232,
+      "position": 240,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/iphone-cant-open-md-file/#howto-index",
         "name": "iPhone에서 iOS file preview problem Markdown 파일 열기",
@@ -2132,7 +2204,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 233,
+      "position": 241,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/markdown-file-shows-raw-text-on-iphone/#howto-index",
         "name": "iPhone에서 raw Markdown text preview Markdown 파일 열기",
@@ -2141,7 +2213,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 234,
+      "position": 242,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/files-app-cant-preview-markdown-on-iphone/#howto-index",
         "name": "iPhone에서 Files app preview problem Markdown 파일 열기",
@@ -2150,7 +2222,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 235,
+      "position": 243,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-claude-artifact-markdown-on-iphone/#howto-index",
         "name": "iPhone에서 Claude Artifacts Markdown 파일 열기",
@@ -2159,7 +2231,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 236,
+      "position": 244,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-chatgpt-markdown-download-on-iphone/#howto-index",
         "name": "iPhone에서 ChatGPT 다운로드 Markdown 파일 열기",
@@ -2168,7 +2240,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 237,
+      "position": 245,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-gemini-markdown-file-on-iphone/#howto-index",
         "name": "iPhone에서 Gemini Markdown 파일 열기",
@@ -2177,7 +2249,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 238,
+      "position": 246,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-notion-markdown-export-on-iphone/#howto-index",
         "name": "iPhone에서 Notion 내보내기 Markdown 파일 열기",
@@ -2186,7 +2258,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 239,
+      "position": 247,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-github-markdown-file-on-iphone/#howto-index",
         "name": "iPhone에서 GitHub Markdown 파일 열기",
@@ -2195,7 +2267,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 240,
+      "position": 248,
       "item": {
         "@id": "https://markdown.cybergame.ai/ko/articles/open-ai-meeting-notes-markdown-on-ipad/#howto-index",
         "name": "iPad에서 AI 회의 노트 Markdown 파일 열기",
@@ -2204,7 +2276,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 241,
+      "position": 249,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/open-markdown-file-iphone/#howto-index",
         "name": "طريقة فتح ملف Markdown على iPhone او iPad",
@@ -2213,7 +2285,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 242,
+      "position": 250,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من ChatGPT, Claude, Gemini على iPhone",
@@ -2222,7 +2294,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 243,
+      "position": 251,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-file-on-ipad/#howto-index",
         "name": "فتح ملفات Markdown من ChatGPT on iPad على iPad",
@@ -2231,7 +2303,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 244,
+      "position": 252,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/best-markdown-viewer-for-iphone-ipad/#howto-index",
         "name": "فتح ملفات Markdown من iPhone and iPad على iPad",
@@ -2240,7 +2312,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 245,
+      "position": 253,
+      "item": {
+        "@id": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/#howto-index",
+        "name": "تنزيل عارض Markdown للايفون",
+        "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 254,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من GitHub, Obsidian, Notion على iPhone",
@@ -2249,7 +2330,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 246,
+      "position": 255,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-markdown-email-attachment-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من Mail, Gmail, Outlook على iPhone",
@@ -2258,7 +2339,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 247,
+      "position": 256,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-md-file-from-files-app-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من Files, AirDrop, iCloud Drive على iPhone",
@@ -2267,7 +2348,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 248,
+      "position": 257,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من GitHub README files على iPhone",
@@ -2276,7 +2357,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 249,
+      "position": 258,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-github-readme-markdown-on-ipad/#howto-index",
         "name": "فتح ملفات Markdown من GitHub README files on iPad على iPad",
@@ -2285,7 +2366,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 250,
+      "position": 259,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-obsidian-markdown-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من Obsidian vault exports على iPhone",
@@ -2294,7 +2375,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 251,
+      "position": 260,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/preview-markdown-code-math-mermaid-on-ipad/#howto-index",
         "name": "فتح ملفات Markdown من code, math, and Mermaid diagrams على iPad",
@@ -2303,7 +2384,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 252,
+      "position": 261,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/offline-markdown-viewer-for-iphone/#howto-index",
         "name": "فتح ملفات Markdown من offline files على iPad",
@@ -2312,7 +2393,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 253,
+      "position": 262,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/#howto-index",
         "name": "فتح بديلا محليا لعارضات Markdown على الويب على iPhone",
@@ -2321,7 +2402,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 254,
+      "position": 263,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "فتح ملفات Markdown من iCloud Drive على iPad",
@@ -2330,7 +2411,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 255,
+      "position": 264,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-claude-markdown-export-on-ipad/#howto-index",
         "name": "فتح ملفات Markdown من Claude exports على iPad",
@@ -2339,7 +2420,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 256,
+      "position": 265,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-mdx-file-on-iphone/#howto-index",
         "name": "فتح ملفات .mdx على iPhone",
@@ -2348,7 +2429,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 257,
+      "position": 266,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-rmd-qmd-markdown-file-on-ipad/#howto-index",
         "name": "فتح ملفات .rmd و .qmd على iPad",
@@ -2357,7 +2438,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 258,
+      "position": 267,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-google-drive-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من Google Drive على iPhone",
@@ -2366,7 +2447,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 259,
+      "position": 268,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-dropbox-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من Dropbox على iPhone",
@@ -2375,7 +2456,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 260,
+      "position": 269,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-airdrop-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من AirDrop على iPhone",
@@ -2384,7 +2465,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 261,
+      "position": 270,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-wechat-whatsapp-markdown-file-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من WeChat و WhatsApp على iPhone",
@@ -2393,7 +2474,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 262,
+      "position": 271,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/iphone-cant-open-md-file/#howto-index",
         "name": "فتح ملفات Markdown من iOS file preview problem على iPhone",
@@ -2402,7 +2483,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 263,
+      "position": 272,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/markdown-file-shows-raw-text-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من raw Markdown text preview على iPhone",
@@ -2411,7 +2492,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 264,
+      "position": 273,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/files-app-cant-preview-markdown-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من Files app preview problem على iPhone",
@@ -2420,7 +2501,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 265,
+      "position": 274,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-claude-artifact-markdown-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من Claude Artifacts على iPhone",
@@ -2429,7 +2510,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 266,
+      "position": 275,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-chatgpt-markdown-download-on-iphone/#howto-index",
         "name": "فتح تنزيلات Markdown من ChatGPT على iPhone",
@@ -2438,7 +2519,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 267,
+      "position": 276,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-gemini-markdown-file-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من Gemini على iPhone",
@@ -2447,7 +2528,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 268,
+      "position": 277,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-notion-markdown-export-on-iphone/#howto-index",
         "name": "فتح صادرات Markdown من Notion على iPhone",
@@ -2456,7 +2537,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 269,
+      "position": 278,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-github-markdown-file-on-iphone/#howto-index",
         "name": "فتح ملفات Markdown من GitHub على iPhone",
@@ -2465,7 +2546,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 270,
+      "position": 279,
       "item": {
         "@id": "https://markdown.cybergame.ai/ar/articles/open-ai-meeting-notes-markdown-on-ipad/#howto-index",
         "name": "فتح ملاحظات اجتماعات Markdown من AI على iPad",
@@ -2474,7 +2555,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 271,
+      "position": 280,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/open-markdown-file-iphone/#howto-index",
         "name": "iPhone या iPad पर Markdown file कैसे खोलें",
@@ -2483,7 +2564,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 272,
+      "position": 281,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-iphone/#howto-index",
         "name": "iPhone पर ChatGPT, Claude, Gemini Markdown files खोलें",
@@ -2492,7 +2573,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 273,
+      "position": 282,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-file-on-ipad/#howto-index",
         "name": "iPad पर ChatGPT on iPad Markdown files खोलें",
@@ -2501,7 +2582,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 274,
+      "position": 283,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/best-markdown-viewer-for-iphone-ipad/#howto-index",
         "name": "iPad पर iPhone and iPad Markdown files खोलें",
@@ -2510,7 +2591,16 @@
     },
     {
       "@type": "ListItem",
-      "position": 275,
+      "position": 284,
+      "item": {
+        "@id": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/#howto-index",
+        "name": "iPhone के लिए Markdown viewer डाउनलोड करें",
+        "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 285,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
         "name": "iPhone पर GitHub, Obsidian, Notion Markdown files खोलें",
@@ -2519,7 +2609,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 276,
+      "position": 286,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-markdown-email-attachment-on-iphone/#howto-index",
         "name": "iPhone पर Mail, Gmail, Outlook Markdown files खोलें",
@@ -2528,7 +2618,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 277,
+      "position": 287,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-md-file-from-files-app-on-iphone/#howto-index",
         "name": "iPhone पर Files, AirDrop, iCloud Drive Markdown files खोलें",
@@ -2537,7 +2627,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 278,
+      "position": 288,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-iphone/#howto-index",
         "name": "iPhone पर GitHub README files Markdown files खोलें",
@@ -2546,7 +2636,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 279,
+      "position": 289,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-github-readme-markdown-on-ipad/#howto-index",
         "name": "iPad पर GitHub README files on iPad Markdown files खोलें",
@@ -2555,7 +2645,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 280,
+      "position": 290,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-obsidian-markdown-on-iphone/#howto-index",
         "name": "iPhone पर Obsidian vault exports Markdown files खोलें",
@@ -2564,7 +2654,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 281,
+      "position": 291,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/preview-markdown-code-math-mermaid-on-ipad/#howto-index",
         "name": "iPad पर code, math, and Mermaid diagrams Markdown files खोलें",
@@ -2573,7 +2663,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 282,
+      "position": 292,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/offline-markdown-viewer-for-iphone/#howto-index",
         "name": "iPad पर offline files Markdown files खोलें",
@@ -2582,7 +2672,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 283,
+      "position": 293,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/#howto-index",
         "name": "iPhone पर a local alternative to online Markdown renderers खोलें",
@@ -2591,7 +2681,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 284,
+      "position": 294,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-icloud-drive-on-ipad/#howto-index",
         "name": "iPad पर iCloud Drive Markdown files खोलें",
@@ -2600,7 +2690,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 285,
+      "position": 295,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-claude-markdown-export-on-ipad/#howto-index",
         "name": "iPad पर Claude exports Markdown files खोलें",
@@ -2609,7 +2699,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 286,
+      "position": 296,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-mdx-file-on-iphone/#howto-index",
         "name": "iPhone पर .mdx files खोलें",
@@ -2618,7 +2708,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 287,
+      "position": 297,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-rmd-qmd-markdown-file-on-ipad/#howto-index",
         "name": "iPad पर .rmd और .qmd files खोलें",
@@ -2627,7 +2717,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 288,
+      "position": 298,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-google-drive-on-iphone/#howto-index",
         "name": "iPhone पर Google Drive Markdown files खोलें",
@@ -2636,7 +2726,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 289,
+      "position": 299,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-dropbox-on-iphone/#howto-index",
         "name": "iPhone पर Dropbox Markdown files खोलें",
@@ -2645,7 +2735,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 290,
+      "position": 300,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-airdrop-on-iphone/#howto-index",
         "name": "iPhone पर AirDrop Markdown files खोलें",
@@ -2654,7 +2744,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 291,
+      "position": 301,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-wechat-whatsapp-markdown-file-on-iphone/#howto-index",
         "name": "iPhone पर WeChat और WhatsApp Markdown files खोलें",
@@ -2663,7 +2753,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 292,
+      "position": 302,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/iphone-cant-open-md-file/#howto-index",
         "name": "iPhone पर iOS file preview problem Markdown files खोलें",
@@ -2672,7 +2762,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 293,
+      "position": 303,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/markdown-file-shows-raw-text-on-iphone/#howto-index",
         "name": "iPhone पर raw Markdown text preview Markdown files खोलें",
@@ -2681,7 +2771,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 294,
+      "position": 304,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/files-app-cant-preview-markdown-on-iphone/#howto-index",
         "name": "iPhone पर Files app preview problem Markdown files खोलें",
@@ -2690,7 +2780,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 295,
+      "position": 305,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-claude-artifact-markdown-on-iphone/#howto-index",
         "name": "iPhone पर Claude Artifacts Markdown files खोलें",
@@ -2699,7 +2789,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 296,
+      "position": 306,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-chatgpt-markdown-download-on-iphone/#howto-index",
         "name": "iPhone पर ChatGPT Markdown downloads खोलें",
@@ -2708,7 +2798,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 297,
+      "position": 307,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-gemini-markdown-file-on-iphone/#howto-index",
         "name": "iPhone पर Gemini Markdown files खोलें",
@@ -2717,7 +2807,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 298,
+      "position": 308,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-notion-markdown-export-on-iphone/#howto-index",
         "name": "iPhone पर Notion Markdown exports खोलें",
@@ -2726,7 +2816,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 299,
+      "position": 309,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-github-markdown-file-on-iphone/#howto-index",
         "name": "iPhone पर GitHub Markdown files खोलें",
@@ -2735,7 +2825,7 @@
     },
     {
       "@type": "ListItem",
-      "position": 300,
+      "position": 310,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-ai-meeting-notes-markdown-on-ipad/#howto-index",
         "name": "iPad पर AI meeting notes Markdown files खोलें",
@@ -3332,6 +3422,155 @@
           "@type": "PropertyValue",
           "propertyID": "App Store campaign token",
           "value": "md_en_best_howto"
+        },
+        "object": {
+          "@id": "https://markdown.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://html.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/#howto-index",
+      "name": "Download Markdown Viewer for iPhone",
+      "description": "Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.",
+      "inLanguage": "en",
+      "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "topicKey": null,
+      "source": "App Store download searches",
+      "query": "How do I download a Markdown viewer for iPhone?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Md Preview",
+          "url": "https://apps.apple.com/app/id6760341080"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Save the source file",
+          "text": "Save the Markdown file from App Store download searches. Keep the original .md, .markdown, .mdx, .rmd, .qmd file available in Files, Mail, a browser download, or the source app.",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Open the iOS Share Sheet",
+          "text": "Open Md Preview on the App Store, install it, then open the Markdown file from Files, Mail, AirDrop, cloud drives, GitHub downloads, or the iOS Share Sheet.",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Choose the viewer",
+          "text": "Choose Md Preview as the target viewer. It opens the file locally on iPhone or iPad for this workflow: download a Markdown viewer for iPhone.",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Preview and check",
+          "text": "Use this path when the goal is reading local Markdown files on iPhone or iPad, not maintaining a full writing workspace.",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "md_en_downloadviewer_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Md Preview App Store",
+        "target": "https://apps.apple.com/app/id6760341080",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "md_en_downloadviewer_howto"
         },
         "object": {
           "@id": "https://markdown.cybergame.ai/#app"
@@ -7812,6 +8051,155 @@
     },
     {
       "@type": "HowTo",
+      "@id": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/#howto-index",
+      "name": "iPhone Markdown 预览工具下载",
+      "description": "安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
+      "inLanguage": "zh-Hans",
+      "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "topicKey": null,
+      "source": "App Store 下载搜索",
+      "query": "如何下载 iPhone Markdown 预览工具？",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Md Preview",
+          "url": "https://apps.apple.com/app/id6760341080"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "保存来源文件",
+          "text": "先保存来自App Store 下载搜索的 Markdown 文件，并确认原始 .md, .markdown, .mdx, .rmd, .qmd 文件还在 Files、邮件、下载目录或来源 App 中。",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "打开 iOS 分享菜单",
+          "text": "在 App Store 打开 Md Preview 并安装，然后从 Files、邮件、AirDrop、网盘、GitHub 下载或 iOS 分享菜单打开 Markdown 文件。",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "选择预览 App",
+          "text": "在分享目标中选择 Md Preview，然后在 iPhone 或 iPad 本机下载 iPhone Markdown 预览工具。",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "预览并检查",
+          "text": "当目标是在 iPhone 或 iPad 上阅读本地 Markdown 文件，而不是维护完整写作工作区时，这个路径最直接。",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "md_zh_downloadviewer_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Md Preview App Store",
+        "target": "https://apps.apple.com/app/id6760341080",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "md_zh_downloadviewer_howto"
+        },
+        "object": {
+          "@id": "https://markdown.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://html.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
       "@id": "https://markdown.cybergame.ai/zh/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
       "name": "如何在 iPhone 上打开 GitHub、Obsidian、Notion 的 Markdown 文件",
       "description": "安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
@@ -12272,6 +12660,155 @@
           "@type": "PropertyValue",
           "propertyID": "App Store campaign token",
           "value": "md_ja_best_howto"
+        },
+        "object": {
+          "@id": "https://markdown.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://html.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/#howto-index",
+      "name": "iPhone用Markdownビューアをダウンロード",
+      "description": "Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
+      "inLanguage": "ja",
+      "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "topicKey": null,
+      "source": "App Storeのダウンロード検索",
+      "query": "iPhone用Markdownビューアをダウンロードするには？",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Md Preview",
+          "url": "https://apps.apple.com/app/id6760341080"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "元ファイルを保存",
+          "text": "App Storeのダウンロード検索から受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "iOSの共有を開く",
+          "text": "App StoreでMd Previewを開いてインストールし、Files、メール、AirDrop、クラウド、GitHubダウンロード、共有シートからMarkdownファイルを開きます。",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "ビューアを選ぶ",
+          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でiPhone用Markdownビューアをダウンロードするをローカルに行います。",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "プレビューを確認",
+          "text": "完全な執筆環境ではなく、iPhoneやiPadでローカルMarkdownを読む目的に向いています。",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "md_ja_downloadviewer_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Md Preview App Store",
+        "target": "https://apps.apple.com/app/id6760341080",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "md_ja_downloadviewer_howto"
         },
         "object": {
           "@id": "https://markdown.cybergame.ai/#app"
@@ -16752,6 +17289,155 @@
     },
     {
       "@type": "HowTo",
+      "@id": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/#howto-index",
+      "name": "Descargar visor Markdown para iPhone",
+      "description": "Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
+      "inLanguage": "es",
+      "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "topicKey": null,
+      "source": "búsquedas de descarga en App Store",
+      "query": "¿Cómo descargar un visor Markdown para iPhone?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Md Preview",
+          "url": "https://apps.apple.com/app/id6760341080"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Guarda el archivo",
+          "text": "Guarda el archivo Markdown recibido desde búsquedas de descarga en App Store. Mantén el archivo original .md, .markdown, .mdx, .rmd, .qmd en Files, Mail, una descarga del navegador o la app de origen.",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Abre compartir en iOS",
+          "text": "Abre Md Preview en App Store, instálalo y abre el Markdown desde Files, Mail, AirDrop, nubes, GitHub o la hoja de compartir.",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Elige el visor",
+          "text": "Elige Md Preview como visor para descargar un visor Markdown para iPhone localmente en iPhone o iPad.",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Previsualiza y revisa",
+          "text": "Úsalo para leer Markdown local en iPhone o iPad, no para mantener un espacio completo de escritura.",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "md_es_downloadviewer_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Md Preview App Store",
+        "target": "https://apps.apple.com/app/id6760341080",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "md_es_downloadviewer_howto"
+        },
+        "object": {
+          "@id": "https://markdown.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://html.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
       "@id": "https://markdown.cybergame.ai/es/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
       "name": "Abrir Markdown de GitHub, Obsidian y Notion en iPhone",
       "description": "Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
@@ -21212,6 +21898,155 @@
           "@type": "PropertyValue",
           "propertyID": "App Store campaign token",
           "value": "md_de_best_howto"
+        },
+        "object": {
+          "@id": "https://markdown.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://html.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/#howto-index",
+      "name": "Markdown-Viewer für iPhone herunterladen",
+      "description": "Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
+      "inLanguage": "de",
+      "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "topicKey": null,
+      "source": "App-Store-Download-Suchen",
+      "query": "Wie kann ich einen Markdown-Viewer für das iPhone herunterladen?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Md Preview",
+          "url": "https://apps.apple.com/app/id6760341080"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Quelldatei speichern",
+          "text": "Speichere die Markdown-Datei aus App-Store-Download-Suchen. Behalte die originale .md, .markdown, .mdx, .rmd, .qmd-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "iOS-Teilen-Menü öffnen",
+          "text": "Öffne Md Preview im App Store, installiere die App und öffne Markdown aus Files, Mail, AirDrop, Cloud-Speichern, GitHub-Downloads oder dem Teilen-Menü.",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Viewer auswählen",
+          "text": "Wähle Md Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: einen Markdown-Viewer für das iPhone herunterladen.",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Vorschau prüfen",
+          "text": "Das ist für lokales Lesen von Markdown auf iPhone oder iPad gedacht, nicht als vollständiger Schreibarbeitsplatz.",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "md_de_downloadviewer_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Md Preview App Store",
+        "target": "https://apps.apple.com/app/id6760341080",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "md_de_downloadviewer_howto"
         },
         "object": {
           "@id": "https://markdown.cybergame.ai/#app"
@@ -25692,6 +26527,155 @@
     },
     {
       "@type": "HowTo",
+      "@id": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/#howto-index",
+      "name": "Télécharger un lecteur Markdown pour iPhone",
+      "description": "Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
+      "inLanguage": "fr",
+      "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "topicKey": null,
+      "source": "recherches de téléchargement App Store",
+      "query": "Comment télécharger un lecteur Markdown pour iPhone ?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Md Preview",
+          "url": "https://apps.apple.com/app/id6760341080"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Enregistrer le fichier",
+          "text": "Enregistrez le fichier Markdown reçu depuis recherches de téléchargement App Store. Gardez le fichier original .md, .markdown, .mdx, .rmd, .qmd dans Files, Mail, un téléchargement navigateur ou l'app source.",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Ouvrir le partage iOS",
+          "text": "Ouvrez Md Preview dans l'App Store, installez l'app, puis ouvrez le Markdown depuis Files, Mail, AirDrop, le cloud, GitHub ou le partage iOS.",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Choisir le lecteur",
+          "text": "Choisissez Md Preview comme lecteur pour télécharger un lecteur Markdown pour iPhone localement sur iPhone ou iPad.",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Prévisualiser et vérifier",
+          "text": "Ce chemin sert à lire du Markdown local sur iPhone ou iPad, pas à gérer un espace d'écriture complet.",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "md_fr_downloadviewer_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Md Preview App Store",
+        "target": "https://apps.apple.com/app/id6760341080",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "md_fr_downloadviewer_howto"
+        },
+        "object": {
+          "@id": "https://markdown.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://html.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
       "@id": "https://markdown.cybergame.ai/fr/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
       "name": "Ouvrir du Markdown de GitHub, Obsidian et Notion sur iPhone",
       "description": "Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
@@ -30152,6 +31136,155 @@
           "@type": "PropertyValue",
           "propertyID": "App Store campaign token",
           "value": "md_ptbr_best_howto"
+        },
+        "object": {
+          "@id": "https://markdown.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://html.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/#howto-index",
+      "name": "Baixar visualizador Markdown para iPhone",
+      "description": "Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
+      "inLanguage": "pt-BR",
+      "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "topicKey": null,
+      "source": "buscas de download na App Store",
+      "query": "Como baixar um visualizador Markdown para iPhone?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Md Preview",
+          "url": "https://apps.apple.com/app/id6760341080"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Salvar o arquivo",
+          "text": "Salve o arquivo Markdown recebido de buscas de download na App Store. Mantenha o arquivo original .md, .markdown, .mdx, .rmd, .qmd no Files, Mail, download do navegador ou app de origem.",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "Abrir compartilhamento",
+          "text": "Abra Md Preview na App Store, instale o app e abra Markdown pelo Files, Mail, AirDrop, nuvem, GitHub ou compartilhamento do iOS.",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Escolher o visualizador",
+          "text": "Escolha Md Preview como visualizador para baixar um visualizador Markdown para iPhone localmente no iPhone ou iPad.",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Visualizar e conferir",
+          "text": "Use para ler Markdown local no iPhone ou iPad, não como um workspace completo de escrita.",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "md_ptbr_downloadviewer_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Md Preview App Store",
+        "target": "https://apps.apple.com/app/id6760341080",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "md_ptbr_downloadviewer_howto"
         },
         "object": {
           "@id": "https://markdown.cybergame.ai/#app"
@@ -34632,6 +35765,155 @@
     },
     {
       "@type": "HowTo",
+      "@id": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/#howto-index",
+      "name": "iPhone용 Markdown 뷰어 다운로드",
+      "description": "Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
+      "inLanguage": "ko",
+      "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "topicKey": null,
+      "source": "App Store 다운로드 검색",
+      "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Md Preview",
+          "url": "https://apps.apple.com/app/id6760341080"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "원본 파일 저장",
+          "text": "App Store 다운로드 검색에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "iOS 공유 열기",
+          "text": "Md Preview를 App Store에서 열어 설치한 뒤 Files 또는 iOS 공유 시트에서 Markdown 파일을 엽니다.",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "뷰어 선택",
+          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 iPhone용 Markdown 뷰어 다운로드를 로컬로 진행합니다.",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "미리보기 확인",
+          "text": "이 경로는 iPhone 또는 iPad에서 로컬 Markdown 파일을 읽을 때 적합합니다.",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "md_ko_downloadviewer_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Md Preview App Store",
+        "target": "https://apps.apple.com/app/id6760341080",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "md_ko_downloadviewer_howto"
+        },
+        "object": {
+          "@id": "https://markdown.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://html.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
       "@id": "https://markdown.cybergame.ai/ko/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
       "name": "iPhone에서 GitHub, Obsidian, Notion Markdown 파일 열기",
       "description": "Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
@@ -39102,6 +40384,155 @@
     },
     {
       "@type": "HowTo",
+      "@id": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/#howto-index",
+      "name": "تنزيل عارض Markdown للايفون",
+      "description": "افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
+      "inLanguage": "ar",
+      "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "topicKey": null,
+      "source": "بحث تنزيل App Store",
+      "query": "كيف تفتح ملف Markdown على iPhone او iPad؟",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Md Preview",
+          "url": "https://apps.apple.com/app/id6760341080"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "حفظ ملف المصدر",
+          "text": "احفظ ملف Markdown من بحث تنزيل App Store. ابق ملف .md, .markdown, .mdx, .rmd, .qmd الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "فتح مشاركة iOS",
+          "text": "افتح Md Preview في App Store، ثبته، ثم افتح ملف Markdown من Files او قائمة مشاركة iOS.",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "اختيار العارض",
+          "text": "اختر Md Preview كعارض لكي تتمكن من تنزيل عارض Markdown للايفون محليا على iPhone او iPad.",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "المعاينة والتحقق",
+          "text": "هذا المسار مناسب لقراءة ملفات Markdown المحلية على iPhone او iPad.",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "md_ar_downloadviewer_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Md Preview App Store",
+        "target": "https://apps.apple.com/app/id6760341080",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "md_ar_downloadviewer_howto"
+        },
+        "object": {
+          "@id": "https://markdown.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://html.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
       "@id": "https://markdown.cybergame.ai/ar/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/#howto-index",
       "name": "فتح ملفات Markdown من GitHub, Obsidian, Notion على iPhone",
       "description": "افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
@@ -43562,6 +44993,155 @@
           "@type": "PropertyValue",
           "propertyID": "App Store campaign token",
           "value": "md_hi_best_howto"
+        },
+        "object": {
+          "@id": "https://markdown.cybergame.ai/#app"
+        }
+      },
+      "companionUrl": "https://html.cybergame.ai/",
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "@type": "HowTo",
+      "@id": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/#howto-index",
+      "name": "iPhone के लिए Markdown viewer डाउनलोड करें",
+      "description": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
+      "inLanguage": "hi",
+      "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "topicKey": null,
+      "source": "App Store download searches",
+      "query": "iPhone या iPad पर Markdown file कैसे खोलें?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "totalTime": "PT1M",
+      "tool": [
+        {
+          "@type": "HowToTool",
+          "name": "Md Preview",
+          "url": "https://apps.apple.com/app/id6760341080"
+        }
+      ],
+      "step": [
+        {
+          "@type": "HowToStep",
+          "position": 1,
+          "name": "Source file save करें",
+          "text": "App Store download searches से मिली Markdown file save करें. Original .md, .markdown, .mdx, .rmd, .qmd file को Files, Mail, browser download या source app में रखें.",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/#step-1"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 2,
+          "name": "iOS Share Sheet खोलें",
+          "text": "Md Preview को App Store में खोलकर install करें, फिर Files या iOS Share Sheet से Markdown file खोलें.",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/#step-2"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 3,
+          "name": "Viewer चुनें",
+          "text": "Md Preview को target viewer चुनें ताकि आप iPhone या iPad पर iPhone के लिए Markdown viewer डाउनलोड करना local रूप से कर सकें.",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/#step-3"
+        },
+        {
+          "@type": "HowToStep",
+          "position": 4,
+          "name": "Preview check करें",
+          "text": "यह path iPhone या iPad पर local Markdown files पढ़ने के लिए है.",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/#step-4"
+        }
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "proof": {
+        "subscriptions": "none",
+        "inAppPurchases": "none",
+        "ads": "none",
+        "fileHandling": "local preview on device"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "how-to-index",
+      "conversionMapToken": "md_hi_downloadviewer_howto",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "potentialAction": {
+        "@type": "InstallAction",
+        "name": "Md Preview App Store",
+        "target": "https://apps.apple.com/app/id6760341080",
+        "identifier": {
+          "@type": "PropertyValue",
+          "propertyID": "App Store campaign token",
+          "value": "md_hi_downloadviewer_howto"
         },
         "object": {
           "@id": "https://markdown.cybergame.ai/#app"

@@ -9,12 +9,18 @@
   "product": "Md Preview",
   "fullName": "Md Preview - Markdown Viewer",
   "site": "https://markdown.cybergame.ai/",
+  "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
   "publisher": {
     "name": "CyberGame Limited",
     "url": "https://markdown.cybergame.ai/",
     "github": "https://github.com/Fomod",
     "appStoreDeveloperId": "1778824442",
-    "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4"
+    "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+    "sameAs": [
+      "https://github.com/Fomod",
+      "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "https://github.com/Fomod/markdown.cybergame.ai"
+    ]
   },
   "machineReadableFor": [
     "Google Search",
@@ -243,7 +249,7 @@
       "height": 2688
     }
   ],
-  "pageCount": 410,
+  "pageCount": 430,
   "localeCount": 10,
   "pages": [
     {
@@ -1556,6 +1562,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/topics/app-store-download/",
+      "canonicalUrl": "https://markdown.cybergame.ai/topics/app-store-download/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download Markdown guides",
+      "query": "Where can I download a Markdown viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download Markdown iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/topics/app-store-download/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_en_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://markdown.cybergame.ai/topics/ios-file-preview-problems/",
       "locale": "en",
@@ -2019,6 +2144,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_en_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "title": "Download Markdown Viewer for iPhone",
+      "query": "How do I download a Markdown viewer for iPhone?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_en_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -6435,6 +6679,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/zh/topics/app-store-download/",
+      "canonicalUrl": "https://markdown.cybergame.ai/zh/topics/app-store-download/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download Markdown 简体中文",
+      "query": "Where can I download a Markdown viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download Markdown iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/zh/topics/app-store-download/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/zh/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_zh_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/zh/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://markdown.cybergame.ai/zh/topics/ios-file-preview-problems/",
       "locale": "zh",
@@ -6898,6 +7261,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_zh_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "title": "iPhone Markdown 预览工具下载",
+      "query": "如何下载 iPhone Markdown 预览工具？",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "source": "App Store 下载搜索",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_zh_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -11314,6 +11796,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/ja/topics/app-store-download/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ja/topics/app-store-download/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download Markdown 日本語",
+      "query": "Where can I download a Markdown viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download Markdown iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ja/topics/app-store-download/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ja/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ja_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/ja/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://markdown.cybergame.ai/ja/topics/ios-file-preview-problems/",
       "locale": "ja",
@@ -11777,6 +12378,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ja_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "title": "iPhone用Markdownビューアをダウンロード",
+      "query": "iPhone用Markdownビューアをダウンロードするには？",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "source": "App Storeのダウンロード検索",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ja_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -16193,6 +16913,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/es/topics/app-store-download/",
+      "canonicalUrl": "https://markdown.cybergame.ai/es/topics/app-store-download/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download Markdown Español",
+      "query": "Where can I download a Markdown viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download Markdown iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/es/topics/app-store-download/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/es/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_es_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/es/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://markdown.cybergame.ai/es/topics/ios-file-preview-problems/",
       "locale": "es",
@@ -16656,6 +17495,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_es_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "title": "Descargar visor Markdown para iPhone",
+      "query": "¿Cómo descargar un visor Markdown para iPhone?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "source": "búsquedas de descarga en App Store",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_es_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -21072,6 +22030,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/de/topics/app-store-download/",
+      "canonicalUrl": "https://markdown.cybergame.ai/de/topics/app-store-download/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download Markdown Deutsch",
+      "query": "Where can I download a Markdown viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download Markdown iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/de/topics/app-store-download/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/de/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_de_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/de/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://markdown.cybergame.ai/de/topics/ios-file-preview-problems/",
       "locale": "de",
@@ -21535,6 +22612,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_de_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "title": "Markdown-Viewer für iPhone herunterladen",
+      "query": "Wie kann ich einen Markdown-Viewer für das iPhone herunterladen?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "source": "App-Store-Download-Suchen",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_de_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -25951,6 +27147,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/fr/topics/app-store-download/",
+      "canonicalUrl": "https://markdown.cybergame.ai/fr/topics/app-store-download/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download Markdown Francais",
+      "query": "Where can I download a Markdown viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download Markdown iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/fr/topics/app-store-download/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/fr/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_fr_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/fr/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://markdown.cybergame.ai/fr/topics/ios-file-preview-problems/",
       "locale": "fr",
@@ -26414,6 +27729,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_fr_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "title": "Télécharger un lecteur Markdown pour iPhone",
+      "query": "Comment télécharger un lecteur Markdown pour iPhone ?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "source": "recherches de téléchargement App Store",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_fr_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -30830,6 +32264,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/",
+      "canonicalUrl": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download Markdown Portugues do Brasil",
+      "query": "Where can I download a Markdown viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download Markdown iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ptbr_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/pt-br/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://markdown.cybergame.ai/pt-br/topics/ios-file-preview-problems/",
       "locale": "pt-br",
@@ -31293,6 +32846,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ptbr_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "title": "Baixar visualizador Markdown para iPhone",
+      "query": "Como baixar um visualizador Markdown para iPhone?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "source": "buscas de download na App Store",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ptbr_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -35709,6 +37381,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/ko/topics/app-store-download/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ko/topics/app-store-download/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download Markdown 한국어",
+      "query": "Where can I download a Markdown viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download Markdown iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ko/topics/app-store-download/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ko/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ko_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/ko/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://markdown.cybergame.ai/ko/topics/ios-file-preview-problems/",
       "locale": "ko",
@@ -36172,6 +37963,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ko_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "title": "iPhone용 Markdown 뷰어 다운로드",
+      "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "source": "App Store 다운로드 검색",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ko_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -40588,6 +42498,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/ar/topics/app-store-download/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ar/topics/app-store-download/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download Markdown العربية",
+      "query": "Where can I download a Markdown viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download Markdown iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ar/topics/app-store-download/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ar/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ar_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/ar/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://markdown.cybergame.ai/ar/topics/ios-file-preview-problems/",
       "locale": "ar",
@@ -41051,6 +43080,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ar_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "title": "تنزيل عارض Markdown للايفون",
+      "query": "كيف تفتح ملف Markdown على iPhone او iPad؟",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "source": "بحث تنزيل App Store",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ar_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -45467,6 +47615,125 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/hi/topics/app-store-download/",
+      "canonicalUrl": "https://markdown.cybergame.ai/hi/topics/app-store-download/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "topic",
+      "topicKey": "download",
+      "articleSlug": null,
+      "title": "App Store download Markdown हिन्दी",
+      "query": "Where can I download a Markdown viewer for iPhone or iPad?",
+      "primaryKeyword": "App Store download Markdown iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/hi/topics/app-store-download/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/hi/topics/app-store-download/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/app-store-download/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/app-store-download/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/app-store-download/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/app-store-download/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/app-store-download/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/app-store-download/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/app-store-download/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/app-store-download/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/app-store-download/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/app-store-download/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_hi_topicappstoredown_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/hi/topics/ios-file-preview-problems/",
       "canonicalUrl": "https://markdown.cybergame.ai/hi/topics/ios-file-preview-problems/",
       "locale": "hi",
@@ -45930,6 +48197,125 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_hi_best_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "download-markdown-viewer-for-iphone",
+      "title": "iPhone के लिए Markdown viewer डाउनलोड करें",
+      "query": "iPhone या iPad पर Markdown file कैसे खोलें?",
+      "primaryKeyword": "download Markdown viewer for iPhone",
+      "source": "App Store download searches",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/download-markdown-viewer-for-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/download-markdown-viewer-for-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_hi_downloadviewer_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",

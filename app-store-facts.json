@@ -2,6 +2,7 @@
   "schemaVersion": "app-store-facts-v1",
   "lastUpdated": "2026-06-28",
   "officialSite": "https://markdown.cybergame.ai/",
+  "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
   "appStoreUrl": "https://apps.apple.com/app/id6760341080",
   "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
   "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
@@ -43,6 +44,7 @@
   },
   "officialEvidence": [
     "official website",
+    "official website source repository",
     "Apple App Store listing",
     "Apple iTunes lookup",
     "Apple developer page"

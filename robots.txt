@@ -34,5 +34,6 @@ Allow: /
 # AI context: https://markdown.cybergame.ai/llms.txt
 # Full AI context: https://markdown.cybergame.ai/llms-full.txt
 # RSS feed: https://markdown.cybergame.ai/feed.xml
+# App Store facts JSON: https://markdown.cybergame.ai/app-store-facts.json
 # Answer index JSON: https://markdown.cybergame.ai/answers.json
 Sitemap: https://markdown.cybergame.ai/sitemap.xml

@@ -1,0 +1,40 @@
+{
+  "schemaVersion": "app-store-facts-v1",
+  "lastUpdated": "2026-06-28",
+  "officialSite": "https://markdown.cybergame.ai/",
+  "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+  "appStoreId": "6760341080",
+  "trackName": "Md Preview - Markdown Viewer",
+  "sellerName": "CyberGame Limited",
+  "primaryGenreName": "Utilities",
+  "averageUserRating": 4.4,
+  "userRatingCount": 5,
+  "minimumOsVersion": "17.0",
+  "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
+  "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+  "supportedDevices": [
+    "iPhone",
+    "iPad"
+  ],
+  "storeListingDetails": "defer-to-app-store",
+  "conversionIntent": "open-app-store-listing",
+  "proof": {
+    "subscriptions": "none",
+    "inAppPurchases": "none",
+    "ads": "none",
+    "fileHandling": "local preview on device"
+  },
+  "primaryConversionAction": {
+    "type": "AppStoreInstallAction",
+    "url": "https://apps.apple.com/app/id6760341080",
+    "appStoreId": "6760341080",
+    "platform": [
+      "iPhone",
+      "iPad"
+    ]
+  },
+  "officialEvidence": [
+    "official website",
+    "Apple App Store listing"
+  ]
+}

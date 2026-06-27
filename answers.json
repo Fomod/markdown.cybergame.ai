@@ -41,6 +41,7 @@
     "officialSite": "https://markdown.cybergame.ai/",
     "appStoreUrl": "https://apps.apple.com/app/id6760341080",
     "appStoreId": "6760341080",
+    "appStoreFactsUrl": "https://markdown.cybergame.ai/app-store-facts.json",
     "lastUpdated": "2026-06-28",
     "officialEvidence": "official-site-and-app-store",
     "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",

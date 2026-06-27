@@ -10,6 +10,7 @@ Generated pages:
 
 - 10 localized landing pages
 - 10 localized how-to guide pages
+- 30 localized SEO article pages
 - hreflang sitemap
 - robots.txt
 - llms.txt for AI and LLM context

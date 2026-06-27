@@ -145,6 +145,9 @@
       .step::before { counter-increment: step; content: counter(step); display: inline-grid; place-items: center; width: 44px; height: 44px; border-radius: 50%; background: var(--accent); color: #fff; font-weight: 850; }
       .faq { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-top: 26px; }
       .faq-item { padding: 22px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+      .article-body { display: grid; gap: 30px; }
+      .article-body article { max-width: 820px; }
+      .article-body p { color: var(--muted); font-size: 18px; }
       .related { display: grid; grid-template-columns: 72px minmax(0, 1fr) auto; gap: 16px; align-items: center; padding: 22px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
       .related img { width: 72px; height: 72px; border-radius: 16px; }
       .language-row { margin-top: 22px; font-size: 14px; }
@@ -284,6 +287,8 @@
         </div>
       </section>
 
+      
+
       <section class="section" aria-labelledby="faq-title">
         <h2 id="faq-title">常见问题</h2>
         <div class="faq">
@@ -291,6 +296,15 @@
           <article class="faq-item"><h3>Md Preview 能离线使用吗？</h3><p>可以。渲染发生在你的 iPhone 或 iPad 上。</p></article>
           <article class="faq-item"><h3>支持 ChatGPT 和 Claude 生成的 Markdown 吗？</h3><p>支持。它适合 ChatGPT、Claude、Gemini 等 AI 工具输出的 Markdown 文件。</p></article>
           <article class="faq-item"><h3>有订阅、内购或广告吗？</h3><p>没有。Md Preview 无订阅、无内购、无广告。</p></article>
+        </div>
+      </section>
+
+      <section class="section" aria-labelledby="articles-title">
+        <h2 id="articles-title">文章</h2>
+        <div class="cards">
+          <article class="card"><h3><a href="https://markdown.cybergame.ai/zh/articles/open-chatgpt-markdown-file-on-iphone/">如何在 iPhone 上打开 ChatGPT, Claude, Gemini 生成的 Markdown 文件</a></h3><p>面向 iPhone 和 iPad 用户，讲清楚如何打开 Markdown 文件、AI 生成文件和 iOS 文件预览问题。Md Preview 无订阅、无内购、无广告。</p></article>
+          <article class="card"><h3><a href="https://markdown.cybergame.ai/zh/articles/best-markdown-viewer-for-iphone-ipad/">iPhone 和 iPad 上好用的 Markdown 预览工具</a></h3><p>面向 iPhone 和 iPad 用户，讲清楚如何打开 Markdown 文件、AI 生成文件和 iOS 文件预览问题。Md Preview 无订阅、无内购、无广告。</p></article>
+          <article class="card"><h3><a href="https://markdown.cybergame.ai/zh/articles/open-markdown-files-from-github-obsidian-notion-on-iphone/">如何在 iPhone 上打开 GitHub、Obsidian、Notion 的 Markdown 文件</a></h3><p>面向 iPhone 和 iPad 用户，讲清楚如何打开 Markdown 文件、AI 生成文件和 iOS 文件预览问题。Md Preview 无订阅、无内购、无广告。</p></article>
         </div>
       </section>
 

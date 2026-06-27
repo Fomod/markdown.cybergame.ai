@@ -249,7 +249,7 @@
       "height": 2688
     }
   ],
-  "pageCount": 560,
+  "pageCount": 570,
   "localeCount": 10,
   "pages": [
     {
@@ -263,7 +263,7 @@
       "title": "Open Markdown Files on iPhone and iPad",
       "query": "How to Open a Markdown File on iPhone or iPad",
       "primaryKeyword": "Markdown viewer for iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -383,7 +383,7 @@
       "title": "How to Open a Markdown File on iPhone or iPad",
       "query": "How to Open a Markdown File on iPhone or iPad",
       "primaryKeyword": "how to open Markdown file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -503,7 +503,7 @@
       "title": "Markdown viewer guides for iPhone and iPad",
       "query": "Which guides explain how to open Markdown files on iPhone or iPad?",
       "primaryKeyword": "open md file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -863,7 +863,7 @@
       "title": "Files and Share Sheet Markdown guides",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, zipped Markdown exports, GitHub README files, GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -2760,6 +2760,126 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_en_files_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-zipped-markdown-export-on-iphone",
+      "title": "How to Open a Zipped Markdown Export on iPhone",
+      "query": "How do I open a zipped Markdown export on iPhone or iPad?",
+      "primaryKeyword": "open zipped Markdown export on iPhone",
+      "source": "zipped Markdown exports",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_en_zip_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -6983,7 +7103,7 @@
       "title": "在 iPhone 和 iPad 上打开 Markdown 文件",
       "query": "如何在 iPhone 或 iPad 上打开 Markdown 文件",
       "primaryKeyword": "Markdown viewer for iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -7103,7 +7223,7 @@
       "title": "如何在 iPhone 或 iPad 上打开 Markdown 文件",
       "query": "如何在 iPhone 或 iPad 上打开 Markdown 文件",
       "primaryKeyword": "how to open Markdown file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -7223,7 +7343,7 @@
       "title": "Markdown 文件打开指南",
       "query": "哪些指南能解决 iPhone 或 iPad 打开 Markdown 文件的问题？",
       "primaryKeyword": "open md file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -7583,7 +7703,7 @@
       "title": "Files and Share Sheet Markdown 简体中文",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, zipped Markdown exports, GitHub README files, GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -9480,6 +9600,126 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_zh_files_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-zipped-markdown-export-on-iphone",
+      "title": "如何在 iPhone 上打开 ZIP 里的 Markdown 导出文件",
+      "query": "如何在 iPhone 或 iPad 上打开 ZIP 中的 Markdown 导出文件？",
+      "primaryKeyword": "open zipped Markdown export on iPhone",
+      "source": "ZIP Markdown 导出包",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_zh_zip_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -13703,7 +13943,7 @@
       "title": "iPhone と iPad で Markdown ファイルを開く",
       "query": "iPhone または iPad で Markdown ファイルを開く方法",
       "primaryKeyword": "Markdown viewer for iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -13823,7 +14063,7 @@
       "title": "iPhone または iPad で Markdown ファイルを開く方法",
       "query": "iPhone または iPad で Markdown ファイルを開く方法",
       "primaryKeyword": "how to open Markdown file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -13943,7 +14183,7 @@
       "title": "Markdown iPhone/iPad ガイド",
       "query": "iPhone や iPad で Markdown ファイルを開くにはどのガイドを見るべきですか？",
       "primaryKeyword": "open md file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -14303,7 +14543,7 @@
       "title": "Files and Share Sheet Markdown 日本語",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, zipped Markdown exports, GitHub README files, GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -16200,6 +16440,126 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ja_files_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-zipped-markdown-export-on-iphone",
+      "title": "zipped Markdown exports MarkdownファイルをiPhoneで開く方法",
+      "query": "iPhoneやiPadでzipped Markdown exports Markdownファイルを開くには？",
+      "primaryKeyword": "open zipped Markdown export on iPhone",
+      "source": "zipped Markdown exports",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ja_zip_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -20423,7 +20783,7 @@
       "title": "Abrir archivos Markdown en iPhone y iPad",
       "query": "Como abrir un archivo Markdown en iPhone o iPad",
       "primaryKeyword": "Markdown viewer for iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -20543,7 +20903,7 @@
       "title": "Como abrir un archivo Markdown en iPhone o iPad",
       "query": "Como abrir un archivo Markdown en iPhone o iPad",
       "primaryKeyword": "how to open Markdown file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -20663,7 +21023,7 @@
       "title": "Guias para abrir Markdown en iPhone y iPad",
       "query": "Que guia ayuda a abrir archivos Markdown en iPhone o iPad?",
       "primaryKeyword": "open md file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -21023,7 +21383,7 @@
       "title": "Files and Share Sheet Markdown Español",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, zipped Markdown exports, GitHub README files, GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -22920,6 +23280,126 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_es_files_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-zipped-markdown-export-on-iphone",
+      "title": "Cómo abrir archivos Markdown de zipped Markdown exports en iPhone",
+      "query": "¿Cómo abrir archivos Markdown de zipped Markdown exports en iPhone o iPad?",
+      "primaryKeyword": "open zipped Markdown export on iPhone",
+      "source": "zipped Markdown exports",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_es_zip_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -27143,7 +27623,7 @@
       "title": "Markdown Dateien auf iPhone und iPad offnen",
       "query": "Wie man eine Markdown Datei auf iPhone oder iPad offnet",
       "primaryKeyword": "Markdown viewer for iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -27263,7 +27743,7 @@
       "title": "Wie man eine Markdown Datei auf iPhone oder iPad offnet",
       "query": "Wie man eine Markdown Datei auf iPhone oder iPad offnet",
       "primaryKeyword": "how to open Markdown file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -27383,7 +27863,7 @@
       "title": "Markdown auf iPhone und iPad oeffnen",
       "query": "Welche Anleitung hilft beim Oeffnen von Markdown Dateien auf iPhone oder iPad?",
       "primaryKeyword": "open md file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -27743,7 +28223,7 @@
       "title": "Files and Share Sheet Markdown Deutsch",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, zipped Markdown exports, GitHub README files, GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -29640,6 +30120,126 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_de_files_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-zipped-markdown-export-on-iphone",
+      "title": "zipped Markdown exports Markdown-Dateien auf iPhone öffnen",
+      "query": "Wie kann ich zipped Markdown exports Markdown-Dateien öffnen auf iPhone oder iPad?",
+      "primaryKeyword": "open zipped Markdown export on iPhone",
+      "source": "zipped Markdown exports",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_de_zip_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -33863,7 +34463,7 @@
       "title": "Ouvrir des fichiers Markdown sur iPhone et iPad",
       "query": "Comment ouvrir un fichier Markdown sur iPhone ou iPad",
       "primaryKeyword": "Markdown viewer for iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -33983,7 +34583,7 @@
       "title": "Comment ouvrir un fichier Markdown sur iPhone ou iPad",
       "query": "Comment ouvrir un fichier Markdown sur iPhone ou iPad",
       "primaryKeyword": "how to open Markdown file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -34103,7 +34703,7 @@
       "title": "Guides Markdown pour iPhone et iPad",
       "query": "Quel guide aide a ouvrir des fichiers Markdown sur iPhone ou iPad ?",
       "primaryKeyword": "open md file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -34463,7 +35063,7 @@
       "title": "Files and Share Sheet Markdown Francais",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, zipped Markdown exports, GitHub README files, GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -36360,6 +36960,126 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_fr_files_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-zipped-markdown-export-on-iphone",
+      "title": "Ouvrir des fichiers Markdown de zipped Markdown exports sur iPhone",
+      "query": "Comment ouvrir des fichiers Markdown de zipped Markdown exports sur iPhone ou iPad ?",
+      "primaryKeyword": "open zipped Markdown export on iPhone",
+      "source": "zipped Markdown exports",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_fr_zip_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -40583,7 +41303,7 @@
       "title": "Abrir arquivos Markdown no iPhone e iPad",
       "query": "Como abrir um arquivo Markdown no iPhone ou iPad",
       "primaryKeyword": "Markdown viewer for iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -40703,7 +41423,7 @@
       "title": "Como abrir um arquivo Markdown no iPhone ou iPad",
       "query": "Como abrir um arquivo Markdown no iPhone ou iPad",
       "primaryKeyword": "how to open Markdown file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -40823,7 +41543,7 @@
       "title": "Guias Markdown para iPhone e iPad",
       "query": "Qual guia ajuda a abrir arquivos Markdown no iPhone ou iPad?",
       "primaryKeyword": "open md file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -41183,7 +41903,7 @@
       "title": "Files and Share Sheet Markdown Portugues do Brasil",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, zipped Markdown exports, GitHub README files, GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -43080,6 +43800,126 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ptbr_files_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-zipped-markdown-export-on-iphone",
+      "title": "Abrir arquivos Markdown do zipped Markdown exports no iPhone",
+      "query": "Como abrir arquivos Markdown do zipped Markdown exports no iPhone ou iPad?",
+      "primaryKeyword": "open zipped Markdown export on iPhone",
+      "source": "zipped Markdown exports",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ptbr_zip_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -47303,7 +48143,7 @@
       "title": "iPhone과 iPad에서 Markdown 파일 열기",
       "query": "iPhone 또는 iPad에서 Markdown 파일 여는 방법",
       "primaryKeyword": "Markdown viewer for iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -47423,7 +48263,7 @@
       "title": "iPhone 또는 iPad에서 Markdown 파일 여는 방법",
       "query": "iPhone 또는 iPad에서 Markdown 파일 여는 방법",
       "primaryKeyword": "how to open Markdown file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -47543,7 +48383,7 @@
       "title": "Markdown iPhone iPad 가이드",
       "query": "iPhone 또는 iPad에서 Markdown 파일을 열려면 어떤 가이드를 보면 되나요?",
       "primaryKeyword": "open md file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -47903,7 +48743,7 @@
       "title": "Files and Share Sheet Markdown 한국어",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, zipped Markdown exports, GitHub README files, GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -49800,6 +50640,126 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ko_files_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-zipped-markdown-export-on-iphone",
+      "title": "iPhone에서 zipped Markdown exports Markdown 파일 열기",
+      "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
+      "primaryKeyword": "open zipped Markdown export on iPhone",
+      "source": "zipped Markdown exports",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ko_zip_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -54023,7 +54983,7 @@
       "title": "فتح ملفات Markdown على iPhone و iPad",
       "query": "طريقة فتح ملف Markdown على iPhone او iPad",
       "primaryKeyword": "Markdown viewer for iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -54143,7 +55103,7 @@
       "title": "طريقة فتح ملف Markdown على iPhone او iPad",
       "query": "طريقة فتح ملف Markdown على iPhone او iPad",
       "primaryKeyword": "how to open Markdown file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -54263,7 +55223,7 @@
       "title": "ادلة Markdown على iPhone و iPad",
       "query": "اي دليل يساعد على فتح ملفات Markdown على iPhone او iPad؟",
       "primaryKeyword": "open md file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -54623,7 +55583,7 @@
       "title": "Files and Share Sheet Markdown العربية",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, zipped Markdown exports, GitHub README files, GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -56520,6 +57480,126 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ar_files_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-zipped-markdown-export-on-iphone",
+      "title": "فتح ملفات Markdown من zipped Markdown exports على iPhone",
+      "query": "كيف تفتح ملف Markdown على iPhone او iPad؟",
+      "primaryKeyword": "open zipped Markdown export on iPhone",
+      "source": "zipped Markdown exports",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ar_zip_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -60743,7 +61823,7 @@
       "title": "iPhone और iPad पर Markdown फाइल खोलें",
       "query": "iPhone या iPad पर Markdown file कैसे खोलें",
       "primaryKeyword": "Markdown viewer for iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -60863,7 +61943,7 @@
       "title": "iPhone या iPad पर Markdown file कैसे खोलें",
       "query": "iPhone या iPad पर Markdown file कैसे खोलें",
       "primaryKeyword": "how to open Markdown file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -60983,7 +62063,7 @@
       "title": "Markdown iPhone iPad guides",
       "query": "iPhone ya iPad par Markdown files kholne ke liye kaunsa guide dekhen?",
       "primaryKeyword": "open md file on iPhone",
-      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram",
+      "source": "ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -61343,7 +62423,7 @@
       "title": "Files and Share Sheet Markdown हिन्दी",
       "query": "How do I open Markdown files from Files, Mail, or the iOS Share Sheet?",
       "primaryKeyword": "Files and Share Sheet Markdown iPhone",
-      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, GitHub README files, GitHub README files on iPad, Obsidian vault exports",
+      "source": "GitHub, Obsidian, Notion, Mail, Gmail, Outlook, Files, AirDrop, iCloud Drive, zipped Markdown exports, GitHub README files, GitHub README files on iPad",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "fileExtensions": [
         ".md",
@@ -63240,6 +64320,126 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_hi_files_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/",
+      "canonicalUrl": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "article",
+      "topicKey": null,
+      "articleSlug": "open-zipped-markdown-export-on-iphone",
+      "title": "iPhone पर zipped Markdown exports Markdown files खोलें",
+      "query": "iPhone या iPad पर Markdown file कैसे खोलें?",
+      "primaryKeyword": "open zipped Markdown export on iPhone",
+      "source": "zipped Markdown exports",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/#article",
+        "howTo": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/#howto"
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/articles/open-zipped-markdown-export-on-iphone/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/"
+        }
+      ],
+      "machineReadableData": {
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_hi_zip_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",

@@ -450,6 +450,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -459,9 +461,7 @@
         "fix an MD file that iPhone cannot open",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Open Markdown Files on iPhone and iPad",
-        "How to Open a Markdown File on iPhone or iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Open Markdown Files on iPhone and iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -641,6 +641,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -650,9 +652,7 @@
         "render a Markdown file that shows raw text",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Open Markdown Files on iPhone and iPad",
-        "How to Open a Markdown File on iPhone or iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Open Markdown Files on iPhone and iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -832,6 +832,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -841,9 +843,7 @@
         "preview a Markdown file that Files cannot preview",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Open Markdown Files on iPhone and iPad",
-        "How to Open a Markdown File on iPhone or iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Open Markdown Files on iPhone and iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -1023,6 +1023,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -1032,9 +1034,7 @@
         "preview a Markdown file that Quick Look cannot preview",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Open Markdown Files on iPhone and iPad",
-        "How to Open a Markdown File on iPhone or iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Open Markdown Files on iPhone and iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -1214,6 +1214,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -1223,9 +1225,7 @@
         "解决 iPhone 打不开 MD 文件的问题",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "在 iPhone 和 iPad 上打开 Markdown 文件",
-        "如何在 iPhone 或 iPad 上打开 Markdown 文件",
-        "What app should I use to open Markdown files on iPhone?"
+        "在 iPhone 和 iPad 上打开 Markdown 文件"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -1405,6 +1405,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -1414,9 +1416,7 @@
         "渲染只显示原始文本的 Markdown 文件",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "在 iPhone 和 iPad 上打开 Markdown 文件",
-        "如何在 iPhone 或 iPad 上打开 Markdown 文件",
-        "What app should I use to open Markdown files on iPhone?"
+        "在 iPhone 和 iPad 上打开 Markdown 文件"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -1596,6 +1596,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -1605,9 +1607,7 @@
         "预览 Files 无法打开的 Markdown 文件",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "在 iPhone 和 iPad 上打开 Markdown 文件",
-        "如何在 iPhone 或 iPad 上打开 Markdown 文件",
-        "What app should I use to open Markdown files on iPhone?"
+        "在 iPhone 和 iPad 上打开 Markdown 文件"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -1787,6 +1787,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -1796,9 +1798,7 @@
         "预览 Quick Look 无法打开的 Markdown 文件",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "在 iPhone 和 iPad 上打开 Markdown 文件",
-        "如何在 iPhone 或 iPad 上打开 Markdown 文件",
-        "What app should I use to open Markdown files on iPhone?"
+        "在 iPhone 和 iPad 上打开 Markdown 文件"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -1978,6 +1978,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -1987,9 +1989,7 @@
         "iOS file preview problem Markdownファイルを開く",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone と iPad で Markdown ファイルを開く",
-        "iPhone または iPad で Markdown ファイルを開く方法",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone と iPad で Markdown ファイルを開く"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -2169,6 +2169,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -2178,9 +2180,7 @@
         "raw Markdown text preview Markdownファイルを開く",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone と iPad で Markdown ファイルを開く",
-        "iPhone または iPad で Markdown ファイルを開く方法",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone と iPad で Markdown ファイルを開く"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -2360,6 +2360,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -2369,9 +2371,7 @@
         "Files app preview problem Markdownファイルを開く",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone と iPad で Markdown ファイルを開く",
-        "iPhone または iPad で Markdown ファイルを開く方法",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone と iPad で Markdown ファイルを開く"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -2551,6 +2551,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -2560,9 +2562,7 @@
         "Quick Look Markdownファイルを開く",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone と iPad で Markdown ファイルを開く",
-        "iPhone または iPad で Markdown ファイルを開く方法",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone と iPad で Markdown ファイルを開く"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -2742,6 +2742,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -2751,9 +2753,7 @@
         "abrir archivos Markdown de iOS file preview problem",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Abrir archivos Markdown en iPhone y iPad",
-        "Como abrir un archivo Markdown en iPhone o iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Abrir archivos Markdown en iPhone y iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -2933,6 +2933,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -2942,9 +2944,7 @@
         "abrir archivos Markdown de raw Markdown text preview",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Abrir archivos Markdown en iPhone y iPad",
-        "Como abrir un archivo Markdown en iPhone o iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Abrir archivos Markdown en iPhone y iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -3124,6 +3124,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -3133,9 +3135,7 @@
         "abrir archivos Markdown de Files app preview problem",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Abrir archivos Markdown en iPhone y iPad",
-        "Como abrir un archivo Markdown en iPhone o iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Abrir archivos Markdown en iPhone y iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -3315,6 +3315,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -3324,9 +3326,7 @@
         "abrir archivos Markdown de Quick Look",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Abrir archivos Markdown en iPhone y iPad",
-        "Como abrir un archivo Markdown en iPhone o iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Abrir archivos Markdown en iPhone y iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -3506,6 +3506,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -3515,9 +3517,7 @@
         "iOS file preview problem Markdown-Dateien öffnen",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Markdown Dateien auf iPhone und iPad offnen",
-        "Wie man eine Markdown Datei auf iPhone oder iPad offnet",
-        "What app should I use to open Markdown files on iPhone?"
+        "Markdown Dateien auf iPhone und iPad offnen"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -3697,6 +3697,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -3706,9 +3708,7 @@
         "raw Markdown text preview Markdown-Dateien öffnen",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Markdown Dateien auf iPhone und iPad offnen",
-        "Wie man eine Markdown Datei auf iPhone oder iPad offnet",
-        "What app should I use to open Markdown files on iPhone?"
+        "Markdown Dateien auf iPhone und iPad offnen"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -3888,6 +3888,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -3897,9 +3899,7 @@
         "Files app preview problem Markdown-Dateien öffnen",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Markdown Dateien auf iPhone und iPad offnen",
-        "Wie man eine Markdown Datei auf iPhone oder iPad offnet",
-        "What app should I use to open Markdown files on iPhone?"
+        "Markdown Dateien auf iPhone und iPad offnen"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -4079,6 +4079,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -4088,9 +4090,7 @@
         "Quick Look Markdown-Dateien öffnen",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Markdown Dateien auf iPhone und iPad offnen",
-        "Wie man eine Markdown Datei auf iPhone oder iPad offnet",
-        "What app should I use to open Markdown files on iPhone?"
+        "Markdown Dateien auf iPhone und iPad offnen"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -4270,6 +4270,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -4279,9 +4281,7 @@
         "ouvrir des fichiers Markdown de iOS file preview problem",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Ouvrir des fichiers Markdown sur iPhone et iPad",
-        "Comment ouvrir un fichier Markdown sur iPhone ou iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Ouvrir des fichiers Markdown sur iPhone et iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -4461,6 +4461,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -4470,9 +4472,7 @@
         "ouvrir des fichiers Markdown de raw Markdown text preview",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Ouvrir des fichiers Markdown sur iPhone et iPad",
-        "Comment ouvrir un fichier Markdown sur iPhone ou iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Ouvrir des fichiers Markdown sur iPhone et iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -4652,6 +4652,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -4661,9 +4663,7 @@
         "ouvrir des fichiers Markdown de Files app preview problem",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Ouvrir des fichiers Markdown sur iPhone et iPad",
-        "Comment ouvrir un fichier Markdown sur iPhone ou iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Ouvrir des fichiers Markdown sur iPhone et iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -4843,6 +4843,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -4852,9 +4854,7 @@
         "ouvrir des fichiers Markdown de Quick Look",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Ouvrir des fichiers Markdown sur iPhone et iPad",
-        "Comment ouvrir un fichier Markdown sur iPhone ou iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Ouvrir des fichiers Markdown sur iPhone et iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -5034,6 +5034,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -5043,9 +5045,7 @@
         "abrir arquivos Markdown do iOS file preview problem",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Abrir arquivos Markdown no iPhone e iPad",
-        "Como abrir um arquivo Markdown no iPhone ou iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Abrir arquivos Markdown no iPhone e iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -5225,6 +5225,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -5234,9 +5236,7 @@
         "abrir arquivos Markdown do raw Markdown text preview",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Abrir arquivos Markdown no iPhone e iPad",
-        "Como abrir um arquivo Markdown no iPhone ou iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Abrir arquivos Markdown no iPhone e iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -5416,6 +5416,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -5425,9 +5427,7 @@
         "abrir arquivos Markdown do Files app preview problem",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Abrir arquivos Markdown no iPhone e iPad",
-        "Como abrir um arquivo Markdown no iPhone ou iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Abrir arquivos Markdown no iPhone e iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -5607,6 +5607,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -5616,9 +5618,7 @@
         "abrir arquivos Markdown do Quick Look",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "Abrir arquivos Markdown no iPhone e iPad",
-        "Como abrir um arquivo Markdown no iPhone ou iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "Abrir arquivos Markdown no iPhone e iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -5798,6 +5798,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -5807,9 +5809,7 @@
         "iOS file preview problem Markdown 파일 열기",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone과 iPad에서 Markdown 파일 열기",
-        "iPhone 또는 iPad에서 Markdown 파일 여는 방법",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone과 iPad에서 Markdown 파일 열기"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -5989,6 +5989,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -5998,9 +6000,7 @@
         "raw Markdown text preview Markdown 파일 열기",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone과 iPad에서 Markdown 파일 열기",
-        "iPhone 또는 iPad에서 Markdown 파일 여는 방법",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone과 iPad에서 Markdown 파일 열기"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -6180,6 +6180,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -6189,9 +6191,7 @@
         "Files app preview problem Markdown 파일 열기",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone과 iPad에서 Markdown 파일 열기",
-        "iPhone 또는 iPad에서 Markdown 파일 여는 방법",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone과 iPad에서 Markdown 파일 열기"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -6371,6 +6371,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -6380,9 +6382,7 @@
         "Quick Look Markdown 파일 열기",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone과 iPad에서 Markdown 파일 열기",
-        "iPhone 또는 iPad에서 Markdown 파일 여는 방법",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone과 iPad에서 Markdown 파일 열기"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -6562,6 +6562,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -6571,9 +6573,7 @@
         "فتح ملفات Markdown من iOS file preview problem",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "فتح ملفات Markdown على iPhone و iPad",
-        "طريقة فتح ملف Markdown على iPhone او iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "فتح ملفات Markdown على iPhone و iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -6753,6 +6753,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -6762,9 +6764,7 @@
         "فتح ملفات Markdown من raw Markdown text preview",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "فتح ملفات Markdown على iPhone و iPad",
-        "طريقة فتح ملف Markdown على iPhone او iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "فتح ملفات Markdown على iPhone و iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -6944,6 +6944,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -6953,9 +6955,7 @@
         "فتح ملفات Markdown من Files app preview problem",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "فتح ملفات Markdown على iPhone و iPad",
-        "طريقة فتح ملف Markdown على iPhone او iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "فتح ملفات Markdown على iPhone و iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -7135,6 +7135,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -7144,9 +7146,7 @@
         "فتح ملفات Markdown من Quick Look",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "فتح ملفات Markdown على iPhone و iPad",
-        "طريقة فتح ملف Markdown على iPhone او iPad",
-        "What app should I use to open Markdown files on iPhone?"
+        "فتح ملفات Markdown على iPhone و iPad"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -7326,6 +7326,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -7335,9 +7337,7 @@
         "iOS file preview problem Markdown files खोलना",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone और iPad पर Markdown फाइल खोलें",
-        "iPhone या iPad पर Markdown file कैसे खोलें",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone और iPad पर Markdown फाइल खोलें"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -7517,6 +7517,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -7526,9 +7528,7 @@
         "raw Markdown text preview Markdown files खोलना",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone और iPad पर Markdown फाइल खोलें",
-        "iPhone या iPad पर Markdown file कैसे खोलें",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone और iPad पर Markdown फाइल खोलें"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -7708,6 +7708,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -7717,9 +7719,7 @@
         "Files app preview problem Markdown files खोलना",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone और iPad पर Markdown फाइल खोलें",
-        "iPhone या iPad पर Markdown file कैसे खोलें",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone और iPad पर Markdown फाइल खोलें"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
@@ -7899,6 +7899,8 @@
         "Markdown viewer iPad",
         "open md file on iPhone",
         "open md file on iPad",
+        "open Markdown file on iOS",
+        "open Markdown files on iOS",
         "Markdown file viewer iOS",
         "ChatGPT Markdown file iPhone",
         "Claude Markdown file iPad",
@@ -7908,9 +7910,7 @@
         "Quick Look preview problem Markdown files खोलना",
         "Markdown viewer iOS",
         "Md Preview App Store",
-        "iPhone और iPad पर Markdown फाइल खोलें",
-        "iPhone या iPad पर Markdown file कैसे खोलें",
-        "What app should I use to open Markdown files on iPhone?"
+        "iPhone और iPad पर Markdown फाइल खोलें"
       ],
       "diagnosticSignals": [
         "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",

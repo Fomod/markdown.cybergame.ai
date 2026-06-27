@@ -298,6 +298,7 @@
       .visual-card picture { display: block; }
       .visual-card img { display: block; width: 100%; height: auto; aspect-ratio: 1242 / 2688; object-fit: contain; background: var(--surface-soft); }
       .visual-card figcaption { padding: 12px 14px; color: var(--muted); font-size: 14px; font-weight: 750; }
+      .screenshot-card-link { display: inline-flex; margin: 0 14px 14px; min-height: 44px; align-items: center; }
       .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 26px; }
       .card { padding: 24px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
       .card a { text-decoration: none; }

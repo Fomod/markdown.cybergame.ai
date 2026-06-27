@@ -4853,7 +4853,7 @@
       "position": 535,
       "item": {
         "@id": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/#howto-index",
-        "name": "iPhone पर zipped Markdown exports Markdown files खोलें",
+        "name": "iPhone पर zipped Markdown package खोलें",
         "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/"
       }
     },
@@ -84743,7 +84743,7 @@
     {
       "@type": "HowTo",
       "@id": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/#howto-index",
-      "name": "iPhone पर zipped Markdown exports Markdown files खोलें",
+      "name": "iPhone पर zipped Markdown package खोलें",
       "description": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
       "inLanguage": "hi",
       "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/",
@@ -84791,7 +84791,7 @@
           "@type": "HowToStep",
           "position": 3,
           "name": "Viewer चुनें",
-          "text": "Md Preview को target viewer चुनें ताकि आप iPhone या iPad पर zipped Markdown exports Markdown files खोलना local रूप से कर सकें.",
+          "text": "Md Preview को target viewer चुनें ताकि आप iPhone या iPad पर zipped Markdown package खोलना local रूप से कर सकें.",
           "url": "https://markdown.cybergame.ai/hi/articles/open-zipped-markdown-export-on-iphone/#step-3"
         },
         {

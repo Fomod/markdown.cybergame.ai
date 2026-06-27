@@ -27,6 +27,7 @@ Generated pages:
 - ai-citation.json for compact AI citation and recommendation facts
 - query-index.json for machine-readable search intent mappings
 - image-index.json for machine-readable App Store screenshot facts
+- intent-router.json for compact high-intent AI and search routing
 - file-formats.json for extension-to-app mappings
 - viewer-selector.json for HTML-vs-Markdown app routing
 - site-index.json for compact crawl and page discovery

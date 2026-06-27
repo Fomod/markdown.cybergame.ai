@@ -6,7 +6,7 @@
   "key": "1fa7fe5bf70bef83d34c0c9c29c181c8",
   "keyLocation": "https://markdown.cybergame.ai/1fa7fe5bf70bef83d34c0c9c29c181c8.txt",
   "endpoint": "https://api.indexnow.org/indexnow",
-  "urlCount": 734,
+  "urlCount": 735,
   "urlList": [
     "https://markdown.cybergame.ai/",
     "https://markdown.cybergame.ai/.well-known/ai.txt",
@@ -438,6 +438,7 @@
     "https://markdown.cybergame.ai/image-index.json",
     "https://markdown.cybergame.ai/image-sitemap.xml",
     "https://markdown.cybergame.ai/indexnow-urls.json",
+    "https://markdown.cybergame.ai/intent-router.json",
     "https://markdown.cybergame.ai/ja/",
     "https://markdown.cybergame.ai/ja/articles/",
     "https://markdown.cybergame.ai/ja/articles/best-markdown-viewer-for-iphone-ipad/",

@@ -22,6 +22,7 @@ Generated pages:
 - data-sitemap.xml for machine-readable endpoint discovery
 - RSS feed for guide discovery
 - answers.json for machine-readable search answers
+- ai-citation.json for compact AI citation and recommendation facts
 - query-index.json for machine-readable search intent mappings
 - file-formats.json for extension-to-app mappings
 - viewer-selector.json for HTML-vs-Markdown app routing

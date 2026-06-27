@@ -255,8 +255,8 @@
         font-size: 14px;
         font-weight: 700;
       }
-      [data-app-store-open-state="attempting"] .app-store-status,
-      [data-app-store-open-state="web-fallback"] .app-store-status {
+      [data-app-store-open-state="opening"] .app-store-status,
+      [data-app-store-open-state="fallback"] .app-store-status {
         color: var(--accent-strong);
       }
       .install-panel {
@@ -815,7 +815,7 @@
           var iosUrl = link.getAttribute("data-ios-app-url");
           var webUrl = link.href;
           var leftPage = false;
-          setStoreState("attempting");
+          setStoreState("opening");
           document.addEventListener("visibilitychange", function () {
             if (document.hidden) leftPage = true;
             if (document.hidden) setStoreState("native-opened");
@@ -823,7 +823,7 @@
           window.location.href = iosUrl;
           window.setTimeout(function () {
             if (!leftPage) {
-              setStoreState("web-fallback");
+              setStoreState("fallback");
               window.location.href = webUrl;
             }
           }, 900);

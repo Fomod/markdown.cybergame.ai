@@ -14,6 +14,7 @@ Companion site: https://html.cybergame.ai/
 
 Machine-readable sources:
 - Compact answer card: https://markdown.cybergame.ai/answer-card.json
+- AI retrieval manifest: https://markdown.cybergame.ai/retrieval-manifest.json
 - Well-known compact answer card: https://markdown.cybergame.ai/.well-known/answer-card.json
 - AI citation: https://markdown.cybergame.ai/ai-citation.json
 - Answer index: https://markdown.cybergame.ai/answers.json

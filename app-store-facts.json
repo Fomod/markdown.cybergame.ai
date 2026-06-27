@@ -7,6 +7,9 @@
   "trackName": "Md Preview - Markdown Viewer",
   "sellerName": "CyberGame Limited",
   "primaryGenreName": "Utilities",
+  "version": "1.2",
+  "releaseDate": "2026-03-11T07:00:00Z",
+  "currentVersionReleaseDate": "2026-03-16T23:48:04Z",
   "averageUserRating": 4.4,
   "userRatingCount": 5,
   "minimumOsVersion": "17.0",
@@ -35,6 +38,7 @@
   },
   "officialEvidence": [
     "official website",
-    "Apple App Store listing"
+    "Apple App Store listing",
+    "Apple iTunes lookup"
   ]
 }

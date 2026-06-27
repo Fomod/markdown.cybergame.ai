@@ -3,7 +3,12 @@
   "lastUpdated": "2026-06-28",
   "officialSite": "https://markdown.cybergame.ai/",
   "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+  "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+  "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
   "appStoreId": "6760341080",
+  "appStoreDeveloperId": "1778824442",
+  "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+  "bundleId": "CyberGame.App-10",
   "trackName": "Md Preview - Markdown Viewer",
   "sellerName": "CyberGame Limited",
   "primaryGenreName": "Utilities",
@@ -39,6 +44,7 @@
   "officialEvidence": [
     "official website",
     "Apple App Store listing",
-    "Apple iTunes lookup"
+    "Apple iTunes lookup",
+    "Apple developer page"
   ]
 }

@@ -17,8 +17,13 @@
     "answer engine citations"
   ],
   "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+  "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+  "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
   "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760341080",
   "appStoreId": "6760341080",
+  "appStoreDeveloperId": "1778824442",
+  "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+  "bundleId": "CyberGame.App-10",
   "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
   "supportedDevices": [
     "iPhone",

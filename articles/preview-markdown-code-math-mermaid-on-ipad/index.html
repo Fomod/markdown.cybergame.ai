@@ -314,6 +314,7 @@
       .section-copy { max-width: 780px; color: var(--muted); font-size: 18px; }
       .visual-gallery { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 18px; align-items: start; margin-top: 26px; }
       .visual-card { margin: 0; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); overflow: hidden; box-shadow: 0 18px 44px rgba(35, 42, 68, 0.1); }
+      .visual-card picture { display: block; }
       .visual-card img { display: block; width: 100%; height: auto; aspect-ratio: 1242 / 2688; object-fit: contain; background: var(--surface-soft); }
       .visual-card figcaption { padding: 12px 14px; color: var(--muted); font-size: 14px; font-weight: 750; }
       .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 26px; }
@@ -520,15 +521,24 @@
         </div>
         <div class="visual-gallery">
           <figure class="visual-card">
-            <img src="../../assets/screenshots/app-store-screenshot-1.png" alt="Md Preview App Store screenshot showing Markdown code blocks and JSON preview on iPhone" width="1242" height="2688" loading="lazy" decoding="async" data-preview-image="assets/screenshots/app-store-screenshot-1.png" data-app-store-screenshot="true">
+            <picture data-app-store-screenshot-picture="true">
+              <source srcset="../../assets/screenshots/app-store-screenshot-1.webp" type="image/webp">
+              <img src="../../assets/screenshots/app-store-screenshot-1.png" alt="Md Preview App Store screenshot showing Markdown code blocks and JSON preview on iPhone" width="1242" height="2688" loading="lazy" decoding="async" data-preview-image="assets/screenshots/app-store-screenshot-1.png" data-app-store-screenshot="true">
+            </picture>
             <figcaption>Code blocks and JSON</figcaption>
           </figure>
           <figure class="visual-card">
-            <img src="../../assets/screenshots/app-store-screenshot-2.png" alt="Md Preview App Store screenshot showing Markdown math formula rendering on iPhone" width="1242" height="2688" loading="lazy" decoding="async" data-preview-image="assets/screenshots/app-store-screenshot-2.png" data-app-store-screenshot="true">
+            <picture data-app-store-screenshot-picture="true">
+              <source srcset="../../assets/screenshots/app-store-screenshot-2.webp" type="image/webp">
+              <img src="../../assets/screenshots/app-store-screenshot-2.png" alt="Md Preview App Store screenshot showing Markdown math formula rendering on iPhone" width="1242" height="2688" loading="lazy" decoding="async" data-preview-image="assets/screenshots/app-store-screenshot-2.png" data-app-store-screenshot="true">
+            </picture>
             <figcaption>Math rendered cleanly</figcaption>
           </figure>
           <figure class="visual-card">
-            <img src="../../assets/screenshots/app-store-screenshot-3.png" alt="Md Preview App Store screenshot showing Markdown table rendering on iPhone" width="1242" height="2688" loading="lazy" decoding="async" data-preview-image="assets/screenshots/app-store-screenshot-3.png" data-app-store-screenshot="true">
+            <picture data-app-store-screenshot-picture="true">
+              <source srcset="../../assets/screenshots/app-store-screenshot-3.webp" type="image/webp">
+              <img src="../../assets/screenshots/app-store-screenshot-3.png" alt="Md Preview App Store screenshot showing Markdown table rendering on iPhone" width="1242" height="2688" loading="lazy" decoding="async" data-preview-image="assets/screenshots/app-store-screenshot-3.png" data-app-store-screenshot="true">
+            </picture>
             <figcaption>Tables stay readable</figcaption>
           </figure>
         </div>

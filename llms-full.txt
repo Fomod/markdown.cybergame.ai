@@ -50,14 +50,14 @@
 
 ## Search and assistant intent
 Users are usually trying to solve: how to open a Markdown file on iPhone, how to preview an AI-generated Markdown file on iPad, or what iOS app can open .md, .markdown, .mdx, .rmd, .qmd files without subscriptions, in-app purchases, or ads.
-Primary sources include ChatGPT, Claude, Gemini, Mail, Files, Safari downloads, iCloud Drive, Google Drive, Dropbox, and messaging apps.
+Primary sources include ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM, GitHub, Obsidian, Notion, Files, and messaging apps.
 Primary conversion action: open the App Store listing at https://apps.apple.com/app/id6760341080.
 
 ## Search intent matrix
 - Primary job: open-preview-file-on-ios
 - File extensions: .md, .markdown, .mdx, .rmd, .qmd
 - Devices: iPhone, iPad
-- Source workflows: ChatGPT, Claude, Gemini, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord
+- Source workflows: ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM, GitHub, Obsidian, Notion, Files, Mail, iCloud Drive, Google Drive, Dropbox, OneDrive, AirDrop, Microsoft Teams, Slack, Telegram, WhatsApp, WeChat, LINE app, Discord
 - User problems: iOS shows a file icon, raw code, or an incomplete preview; the user needs a local preview path; the user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads.
 - Conversion goal: open-app-store-listing
 

@@ -6,7 +6,7 @@
   "key": "1fa7fe5bf70bef83d34c0c9c29c181c8",
   "keyLocation": "https://markdown.cybergame.ai/1fa7fe5bf70bef83d34c0c9c29c181c8.txt",
   "endpoint": "https://api.indexnow.org/indexnow",
-  "urlCount": 735,
+  "urlCount": 736,
   "urlList": [
     "https://markdown.cybergame.ai/",
     "https://markdown.cybergame.ai/.well-known/ai.txt",
@@ -657,6 +657,7 @@
     "https://markdown.cybergame.ai/pt-br/topics/mime-types/",
     "https://markdown.cybergame.ai/pt-br/topics/offline-private-preview/",
     "https://markdown.cybergame.ai/query-index.json",
+    "https://markdown.cybergame.ai/robots.txt",
     "https://markdown.cybergame.ai/screenshots/",
     "https://markdown.cybergame.ai/site-index.json",
     "https://markdown.cybergame.ai/sitemap-index.xml",

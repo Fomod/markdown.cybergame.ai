@@ -22,9 +22,11 @@ Generated pages:
 - answers.json for machine-readable search answers
 - query-index.json for machine-readable search intent mappings
 - file-formats.json for extension-to-app mappings
+- viewer-selector.json for HTML-vs-Markdown app routing
 - site-index.json for compact crawl and page discovery
 - how-to-index.json for step-by-step file-opening workflows
 - troubleshooting-index.json for problem diagnosis and fix mapping
+- faq-index.json for localized question-answer retrieval
 - citation-cards.json for compact official answer cards
 - assistant-answers.json for direct chatbot answer recommendations
 - robots.txt

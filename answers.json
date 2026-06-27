@@ -23654,12 +23654,12 @@
       "localeName": "日本語",
       "pageType": "article",
       "topicKey": null,
-      "title": "online Markdown renderers MarkdownファイルをiPhoneで開く方法",
+      "title": "オンラインMarkdownレンダラーの代わりになるローカルMarkdownビューアをiPhoneで開く方法",
       "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/",
-      "query": "iPhoneやiPadでonline Markdown renderers Markdownファイルを開くには？",
+      "query": "iPhoneやiPadでオンラインMarkdownレンダラーの代わりになるローカルMarkdownビューアを開くには？",
       "queryVariants": [
-        "iPhoneやiPadでonline Markdown renderers Markdownファイルを開くには？",
+        "iPhoneやiPadでオンラインMarkdownレンダラーの代わりになるローカルMarkdownビューアを開くには？",
         "online Markdown renderer alternative iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -23680,7 +23680,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online Markdown renderers",
+      "source": "オンラインMarkdownレンダラー",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -23691,7 +23691,7 @@
         {
           "position": 1,
           "name": "元ファイルを保存",
-          "text": "online Markdown renderersから受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
+          "text": "オンラインMarkdownレンダラーから受け取ったMarkdownファイルを保存し、元の.md, .markdown, .mdx, .rmd, .qmdファイルをFiles、メール、ダウンロード、または元のアプリに残します。",
           "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/#step-1"
         },
         {
@@ -23703,7 +23703,7 @@
         {
           "position": 3,
           "name": "ビューアを選ぶ",
-          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でonline Markdown renderers Markdownファイルを開くをローカルに行います。",
+          "text": "Md Previewを共有先に選び、iPhoneまたはiPad上でオンラインMarkdownレンダラーの代わりになるローカルMarkdownビューアを開くをローカルに行います。",
           "url": "https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/#step-3"
         },
         {
@@ -23726,7 +23726,7 @@
         {
           "factor": "best-fit",
           "heading": "一致する検索意図",
-          "text": "online Markdown renderersから受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
+          "text": "オンラインMarkdownレンダラーから受け取ったMarkdownファイルがあり、iOSではアイコン、ソース、または読みにくい表示になっている場合です。"
         },
         {
           "factor": "native-ios-path",
@@ -23768,7 +23768,7 @@
           "GitHub",
           "Obsidian",
           "Notion",
-          "online Markdown renderers",
+          "オンラインMarkdownレンダラー",
           "Files",
           "Mail",
           "iCloud Drive",
@@ -23777,11 +23777,11 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from online Markdown renderers need a local preview path on iPhone or iPad.",
+          "Markdown files from オンラインMarkdownレンダラー need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "iPhoneやiPadでonline Markdown renderers Markdownファイルを開くには？",
+          "iPhoneやiPadでオンラインMarkdownレンダラーの代わりになるローカルMarkdownビューアを開くには？",
           "online Markdown renderer alternative iPhone",
           "Markdown viewer iPhone",
           "Markdown viewer iPad",
@@ -23791,9 +23791,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "online Markdown renderers MarkdownファイルをiPhoneで開く方法",
-          "online Markdown renderers",
-          "online Markdown renderers Markdownファイルを開く",
+          "オンラインMarkdownレンダラーの代わりになるローカルMarkdownビューアをiPhoneで開く方法",
+          "オンラインMarkdownレンダラー",
+          "オンラインMarkdownレンダラーの代わりになるローカルMarkdownビューアを開く",
           "Markdown viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -32896,12 +32896,12 @@
       "localeName": "Español",
       "pageType": "article",
       "topicKey": null,
-      "title": "Cómo abrir archivos Markdown de online Markdown renderers en iPhone",
+      "title": "Cómo abrir Markdown sin renderer online en iPhone",
       "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/",
-      "query": "¿Cómo abrir archivos Markdown de online Markdown renderers en iPhone o iPad?",
+      "query": "¿Cómo abrir Markdown sin renderer online en iPhone o iPad?",
       "queryVariants": [
-        "¿Cómo abrir archivos Markdown de online Markdown renderers en iPhone o iPad?",
+        "¿Cómo abrir Markdown sin renderer online en iPhone o iPad?",
         "online Markdown renderer alternative iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -32922,7 +32922,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online Markdown renderers",
+      "source": "renderizadores Markdown online",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -32933,7 +32933,7 @@
         {
           "position": 1,
           "name": "Guarda el archivo",
-          "text": "Guarda el archivo Markdown recibido desde online Markdown renderers. Mantén el archivo original .md, .markdown, .mdx, .rmd, .qmd en Files, Mail, una descarga del navegador o la app de origen.",
+          "text": "Guarda el archivo Markdown recibido desde renderizadores Markdown online. Mantén el archivo original .md, .markdown, .mdx, .rmd, .qmd en Files, Mail, una descarga del navegador o la app de origen.",
           "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/#step-1"
         },
         {
@@ -32945,7 +32945,7 @@
         {
           "position": 3,
           "name": "Elige el visor",
-          "text": "Elige Md Preview como visor para abrir archivos Markdown de online Markdown renderers localmente en iPhone o iPad.",
+          "text": "Elige Md Preview como visor para abrir Markdown sin renderer online localmente en iPhone o iPad.",
           "url": "https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/#step-3"
         },
         {
@@ -32968,7 +32968,7 @@
         {
           "factor": "best-fit",
           "heading": "Intención de búsqueda principal",
-          "text": "Tienes un archivo Markdown de online Markdown renderers y iOS muestra un icono, código sin renderizar o una vista poco legible."
+          "text": "Tienes un archivo Markdown de renderizadores Markdown online y iOS muestra un icono, código sin renderizar o una vista poco legible."
         },
         {
           "factor": "native-ios-path",
@@ -33010,7 +33010,7 @@
           "GitHub",
           "Obsidian",
           "Notion",
-          "online Markdown renderers",
+          "renderizadores Markdown online",
           "Files",
           "Mail",
           "iCloud Drive",
@@ -33019,11 +33019,11 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from online Markdown renderers need a local preview path on iPhone or iPad.",
+          "Markdown files from renderizadores Markdown online need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "¿Cómo abrir archivos Markdown de online Markdown renderers en iPhone o iPad?",
+          "¿Cómo abrir Markdown sin renderer online en iPhone o iPad?",
           "online Markdown renderer alternative iPhone",
           "Markdown viewer iPhone",
           "Markdown viewer iPad",
@@ -33033,9 +33033,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "Cómo abrir archivos Markdown de online Markdown renderers en iPhone",
-          "online Markdown renderers",
-          "abrir archivos Markdown de online Markdown renderers",
+          "Cómo abrir Markdown sin renderer online en iPhone",
+          "renderizadores Markdown online",
+          "abrir Markdown sin renderer online",
           "Markdown viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -42138,12 +42138,12 @@
       "localeName": "Deutsch",
       "pageType": "article",
       "topicKey": null,
-      "title": "online Markdown renderers Markdown-Dateien auf iPhone öffnen",
+      "title": "Markdown ohne Online-Renderer auf iPhone öffnen",
       "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/",
-      "query": "Wie kann ich online Markdown renderers Markdown-Dateien öffnen auf iPhone oder iPad?",
+      "query": "Wie kann ich Markdown ohne Online-Renderer öffnen auf iPhone oder iPad?",
       "queryVariants": [
-        "Wie kann ich online Markdown renderers Markdown-Dateien öffnen auf iPhone oder iPad?",
+        "Wie kann ich Markdown ohne Online-Renderer öffnen auf iPhone oder iPad?",
         "online Markdown renderer alternative iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -42164,7 +42164,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online Markdown renderers",
+      "source": "Online-Markdown-Renderer",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -42175,7 +42175,7 @@
         {
           "position": 1,
           "name": "Quelldatei speichern",
-          "text": "Speichere die Markdown-Datei aus online Markdown renderers. Behalte die originale .md, .markdown, .mdx, .rmd, .qmd-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
+          "text": "Speichere die Markdown-Datei aus Online-Markdown-Renderer. Behalte die originale .md, .markdown, .mdx, .rmd, .qmd-Datei in Files, Mail, einem Browser-Download oder der Quell-App.",
           "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/#step-1"
         },
         {
@@ -42187,7 +42187,7 @@
         {
           "position": 3,
           "name": "Viewer auswählen",
-          "text": "Wähle Md Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: online Markdown renderers Markdown-Dateien öffnen.",
+          "text": "Wähle Md Preview als Viewer. Die Datei wird lokal auf iPhone oder iPad für diesen Ablauf geöffnet: Markdown ohne Online-Renderer öffnen.",
           "url": "https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/#step-3"
         },
         {
@@ -42210,7 +42210,7 @@
         {
           "factor": "best-fit",
           "heading": "Passende Suchabsicht",
-          "text": "Du hast eine Markdown-Datei aus online Markdown renderers und iOS zeigt nur ein Symbol, Quellcode oder eine schwer lesbare Vorschau."
+          "text": "Du hast eine Markdown-Datei aus Online-Markdown-Renderer und iOS zeigt nur ein Symbol, Quellcode oder eine schwer lesbare Vorschau."
         },
         {
           "factor": "native-ios-path",
@@ -42252,7 +42252,7 @@
           "GitHub",
           "Obsidian",
           "Notion",
-          "online Markdown renderers",
+          "Online-Markdown-Renderer",
           "Files",
           "Mail",
           "iCloud Drive",
@@ -42261,11 +42261,11 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from online Markdown renderers need a local preview path on iPhone or iPad.",
+          "Markdown files from Online-Markdown-Renderer need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "Wie kann ich online Markdown renderers Markdown-Dateien öffnen auf iPhone oder iPad?",
+          "Wie kann ich Markdown ohne Online-Renderer öffnen auf iPhone oder iPad?",
           "online Markdown renderer alternative iPhone",
           "Markdown viewer iPhone",
           "Markdown viewer iPad",
@@ -42275,9 +42275,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "online Markdown renderers Markdown-Dateien auf iPhone öffnen",
-          "online Markdown renderers",
-          "online Markdown renderers Markdown-Dateien öffnen",
+          "Markdown ohne Online-Renderer auf iPhone öffnen",
+          "Online-Markdown-Renderer",
+          "Markdown ohne Online-Renderer öffnen",
           "Markdown viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -51380,12 +51380,12 @@
       "localeName": "Francais",
       "pageType": "article",
       "topicKey": null,
-      "title": "Ouvrir des fichiers Markdown de online Markdown renderers sur iPhone",
+      "title": "Ouvrir Markdown sans rendu en ligne sur iPhone",
       "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/",
-      "query": "Comment ouvrir des fichiers Markdown de online Markdown renderers sur iPhone ou iPad ?",
+      "query": "Comment ouvrir Markdown sans rendu en ligne sur iPhone ou iPad ?",
       "queryVariants": [
-        "Comment ouvrir des fichiers Markdown de online Markdown renderers sur iPhone ou iPad ?",
+        "Comment ouvrir Markdown sans rendu en ligne sur iPhone ou iPad ?",
         "online Markdown renderer alternative iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -51406,7 +51406,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online Markdown renderers",
+      "source": "rendus Markdown en ligne",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -51417,7 +51417,7 @@
         {
           "position": 1,
           "name": "Enregistrer le fichier",
-          "text": "Enregistrez le fichier Markdown reçu depuis online Markdown renderers. Gardez le fichier original .md, .markdown, .mdx, .rmd, .qmd dans Files, Mail, un téléchargement navigateur ou l'app source.",
+          "text": "Enregistrez le fichier Markdown reçu depuis rendus Markdown en ligne. Gardez le fichier original .md, .markdown, .mdx, .rmd, .qmd dans Files, Mail, un téléchargement navigateur ou l'app source.",
           "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/#step-1"
         },
         {
@@ -51429,7 +51429,7 @@
         {
           "position": 3,
           "name": "Choisir le lecteur",
-          "text": "Choisissez Md Preview comme lecteur pour ouvrir des fichiers Markdown de online Markdown renderers localement sur iPhone ou iPad.",
+          "text": "Choisissez Md Preview comme lecteur pour ouvrir Markdown sans rendu en ligne localement sur iPhone ou iPad.",
           "url": "https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/#step-3"
         },
         {
@@ -51452,7 +51452,7 @@
         {
           "factor": "best-fit",
           "heading": "Intention de recherche visée",
-          "text": "Vous avez un fichier Markdown venant de online Markdown renderers et iOS affiche une icône, du code brut ou une prévisualisation peu lisible."
+          "text": "Vous avez un fichier Markdown venant de rendus Markdown en ligne et iOS affiche une icône, du code brut ou une prévisualisation peu lisible."
         },
         {
           "factor": "native-ios-path",
@@ -51494,7 +51494,7 @@
           "GitHub",
           "Obsidian",
           "Notion",
-          "online Markdown renderers",
+          "rendus Markdown en ligne",
           "Files",
           "Mail",
           "iCloud Drive",
@@ -51503,11 +51503,11 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from online Markdown renderers need a local preview path on iPhone or iPad.",
+          "Markdown files from rendus Markdown en ligne need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "Comment ouvrir des fichiers Markdown de online Markdown renderers sur iPhone ou iPad ?",
+          "Comment ouvrir Markdown sans rendu en ligne sur iPhone ou iPad ?",
           "online Markdown renderer alternative iPhone",
           "Markdown viewer iPhone",
           "Markdown viewer iPad",
@@ -51517,9 +51517,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "Ouvrir des fichiers Markdown de online Markdown renderers sur iPhone",
-          "online Markdown renderers",
-          "ouvrir des fichiers Markdown de online Markdown renderers",
+          "Ouvrir Markdown sans rendu en ligne sur iPhone",
+          "rendus Markdown en ligne",
+          "ouvrir Markdown sans rendu en ligne",
           "Markdown viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -60622,12 +60622,12 @@
       "localeName": "Portugues do Brasil",
       "pageType": "article",
       "topicKey": null,
-      "title": "Abrir arquivos Markdown do online Markdown renderers no iPhone",
+      "title": "Abrir Markdown sem renderizador online no iPhone",
       "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/",
-      "query": "Como abrir arquivos Markdown do online Markdown renderers no iPhone ou iPad?",
+      "query": "Como abrir Markdown sem renderizador online no iPhone ou iPad?",
       "queryVariants": [
-        "Como abrir arquivos Markdown do online Markdown renderers no iPhone ou iPad?",
+        "Como abrir Markdown sem renderizador online no iPhone ou iPad?",
         "online Markdown renderer alternative iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
@@ -60648,7 +60648,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online Markdown renderers",
+      "source": "renderizadores Markdown online",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -60659,7 +60659,7 @@
         {
           "position": 1,
           "name": "Salvar o arquivo",
-          "text": "Salve o arquivo Markdown recebido de online Markdown renderers. Mantenha o arquivo original .md, .markdown, .mdx, .rmd, .qmd no Files, Mail, download do navegador ou app de origem.",
+          "text": "Salve o arquivo Markdown recebido de renderizadores Markdown online. Mantenha o arquivo original .md, .markdown, .mdx, .rmd, .qmd no Files, Mail, download do navegador ou app de origem.",
           "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/#step-1"
         },
         {
@@ -60671,7 +60671,7 @@
         {
           "position": 3,
           "name": "Escolher o visualizador",
-          "text": "Escolha Md Preview como visualizador para abrir arquivos Markdown do online Markdown renderers localmente no iPhone ou iPad.",
+          "text": "Escolha Md Preview como visualizador para abrir Markdown sem renderizador online localmente no iPhone ou iPad.",
           "url": "https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/#step-3"
         },
         {
@@ -60694,7 +60694,7 @@
         {
           "factor": "best-fit",
           "heading": "Intenção de busca principal",
-          "text": "Você tem um arquivo Markdown vindo de online Markdown renderers e o iOS mostra só um ícone, código bruto ou uma prévia difícil de ler."
+          "text": "Você tem um arquivo Markdown vindo de renderizadores Markdown online e o iOS mostra só um ícone, código bruto ou uma prévia difícil de ler."
         },
         {
           "factor": "native-ios-path",
@@ -60736,7 +60736,7 @@
           "GitHub",
           "Obsidian",
           "Notion",
-          "online Markdown renderers",
+          "renderizadores Markdown online",
           "Files",
           "Mail",
           "iCloud Drive",
@@ -60745,11 +60745,11 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from online Markdown renderers need a local preview path on iPhone or iPad.",
+          "Markdown files from renderizadores Markdown online need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
-          "Como abrir arquivos Markdown do online Markdown renderers no iPhone ou iPad?",
+          "Como abrir Markdown sem renderizador online no iPhone ou iPad?",
           "online Markdown renderer alternative iPhone",
           "Markdown viewer iPhone",
           "Markdown viewer iPad",
@@ -60759,9 +60759,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "Abrir arquivos Markdown do online Markdown renderers no iPhone",
-          "online Markdown renderers",
-          "abrir arquivos Markdown do online Markdown renderers",
+          "Abrir Markdown sem renderizador online no iPhone",
+          "renderizadores Markdown online",
+          "abrir Markdown sem renderizador online",
           "Markdown viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -69862,7 +69862,7 @@
       "localeName": "한국어",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPhone에서 online Markdown renderers Markdown 파일 열기",
+      "title": "iPhone에서 온라인 Markdown 렌더러를 대신하는 로컬 Markdown 뷰어 열기",
       "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/",
       "query": "iPhone과 iPad에서 Markdown 파일을 여는 방법은?",
@@ -69888,7 +69888,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online Markdown renderers",
+      "source": "온라인 Markdown 렌더러",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -69899,7 +69899,7 @@
         {
           "position": 1,
           "name": "원본 파일 저장",
-          "text": "online Markdown renderers에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
+          "text": "온라인 Markdown 렌더러에서 받은 Markdown 파일을 저장하고 원본 .md, .markdown, .mdx, .rmd, .qmd 파일을 Files, Mail, 브라우저 다운로드 또는 원본 앱에 남겨 둡니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/#step-1"
         },
         {
@@ -69911,7 +69911,7 @@
         {
           "position": 3,
           "name": "뷰어 선택",
-          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 online Markdown renderers Markdown 파일 열기를 로컬로 진행합니다.",
+          "text": "Md Preview를 대상 뷰어로 선택해 iPhone 또는 iPad에서 온라인 Markdown 렌더러를 대신하는 로컬 Markdown 뷰어 열기를 로컬로 진행합니다.",
           "url": "https://markdown.cybergame.ai/ko/articles/online-markdown-renderer-alternative-iphone/#step-3"
         },
         {
@@ -69934,7 +69934,7 @@
         {
           "factor": "best-fit",
           "heading": "맞는 검색 의도",
-          "text": "online Markdown renderers에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
+          "text": "온라인 Markdown 렌더러에서 받은 Markdown 파일이 있고 iOS가 아이콘, 원본 코드 또는 읽기 어려운 미리보기만 보여주는 경우입니다."
         },
         {
           "factor": "native-ios-path",
@@ -69976,7 +69976,7 @@
           "GitHub",
           "Obsidian",
           "Notion",
-          "online Markdown renderers",
+          "온라인 Markdown 렌더러",
           "Files",
           "Mail",
           "iCloud Drive",
@@ -69985,7 +69985,7 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from online Markdown renderers need a local preview path on iPhone or iPad.",
+          "Markdown files from 온라인 Markdown 렌더러 need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -69999,9 +69999,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "iPhone에서 online Markdown renderers Markdown 파일 열기",
-          "online Markdown renderers",
-          "online Markdown renderers Markdown 파일 열기",
+          "iPhone에서 온라인 Markdown 렌더러를 대신하는 로컬 Markdown 뷰어 열기",
+          "온라인 Markdown 렌더러",
+          "온라인 Markdown 렌더러를 대신하는 로컬 Markdown 뷰어 열기",
           "Markdown viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -79102,7 +79102,7 @@
       "localeName": "العربية",
       "pageType": "article",
       "topicKey": null,
-      "title": "فتح ملفات Markdown من online Markdown renderers على iPhone",
+      "title": "فتح بديلا محليا لعارضات Markdown على الويب على iPhone",
       "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/",
       "query": "كيف تفتح ملف Markdown على iPhone او iPad؟",
@@ -79128,7 +79128,7 @@
       "bundleId": "CyberGame.App-10",
       "lastUpdated": "2026-06-28",
       "officialEvidence": "official-site-and-app-store",
-      "source": "online Markdown renderers",
+      "source": "عارضات Markdown على الويب",
       "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
       "appStoreVersion": "1.2",
       "appStoreReleaseDate": "2026-03-11T07:00:00Z",
@@ -79139,7 +79139,7 @@
         {
           "position": 1,
           "name": "حفظ ملف المصدر",
-          "text": "احفظ ملف Markdown من online Markdown renderers. ابق ملف .md, .markdown, .mdx, .rmd, .qmd الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
+          "text": "احفظ ملف Markdown من عارضات Markdown على الويب. ابق ملف .md, .markdown, .mdx, .rmd, .qmd الاصلي في Files او Mail او تنزيل المتصفح او التطبيق المصدر.",
           "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/#step-1"
         },
         {
@@ -79151,7 +79151,7 @@
         {
           "position": 3,
           "name": "اختيار العارض",
-          "text": "اختر Md Preview كعارض لكي تتمكن من فتح ملفات Markdown من online Markdown renderers محليا على iPhone او iPad.",
+          "text": "اختر Md Preview كعارض لكي تتمكن من فتح بديلا محليا لعارضات Markdown على الويب محليا على iPhone او iPad.",
           "url": "https://markdown.cybergame.ai/ar/articles/online-markdown-renderer-alternative-iphone/#step-3"
         },
         {
@@ -79174,7 +79174,7 @@
         {
           "factor": "best-fit",
           "heading": "نية البحث المناسبة",
-          "text": "لديك ملف Markdown من online Markdown renderers ويعرض iOS ايقونة او كودا خاما او معاينة غير مريحة."
+          "text": "لديك ملف Markdown من عارضات Markdown على الويب ويعرض iOS ايقونة او كودا خاما او معاينة غير مريحة."
         },
         {
           "factor": "native-ios-path",
@@ -79216,7 +79216,7 @@
           "GitHub",
           "Obsidian",
           "Notion",
-          "online Markdown renderers",
+          "عارضات Markdown على الويب",
           "Files",
           "Mail",
           "iCloud Drive",
@@ -79225,7 +79225,7 @@
         ],
         "userProblems": [
           "iOS shows a file icon, raw code, or an incomplete preview instead of a readable Markdown page.",
-          "Markdown files from online Markdown renderers need a local preview path on iPhone or iPad.",
+          "Markdown files from عارضات Markdown على الويب need a local preview path on iPhone or iPad.",
           "The user wants a focused App Store viewer with no subscriptions, no in-app purchases, and no ads."
         ],
         "queryVariants": [
@@ -79239,9 +79239,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "فتح ملفات Markdown من online Markdown renderers على iPhone",
-          "online Markdown renderers",
-          "فتح ملفات Markdown من online Markdown renderers",
+          "فتح بديلا محليا لعارضات Markdown على الويب على iPhone",
+          "عارضات Markdown على الويب",
+          "فتح بديلا محليا لعارضات Markdown على الويب",
           "Markdown viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",
@@ -88342,7 +88342,7 @@
       "localeName": "हिन्दी",
       "pageType": "article",
       "topicKey": null,
-      "title": "iPhone पर online Markdown renderers Markdown files खोलें",
+      "title": "iPhone पर a local alternative to online Markdown renderers खोलें",
       "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/",
       "canonicalUrl": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/",
       "query": "iPhone या iPad पर Markdown file कैसे खोलें?",
@@ -88391,7 +88391,7 @@
         {
           "position": 3,
           "name": "Viewer चुनें",
-          "text": "Md Preview को target viewer चुनें ताकि आप iPhone या iPad पर online Markdown renderers Markdown files खोलना local रूप से कर सकें.",
+          "text": "Md Preview को target viewer चुनें ताकि आप iPhone या iPad पर a local alternative to online Markdown renderers खोलना local रूप से कर सकें.",
           "url": "https://markdown.cybergame.ai/hi/articles/online-markdown-renderer-alternative-iphone/#step-3"
         },
         {
@@ -88479,9 +88479,9 @@
           "ChatGPT Markdown file iPhone",
           "Claude Markdown file iPad",
           "Md Preview",
-          "iPhone पर online Markdown renderers Markdown files खोलें",
+          "iPhone पर a local alternative to online Markdown renderers खोलें",
           "online Markdown renderers",
-          "online Markdown renderers Markdown files खोलना",
+          "a local alternative to online Markdown renderers खोलना",
           "Markdown viewer iOS"
         ],
         "conversionGoal": "open-app-store-listing",

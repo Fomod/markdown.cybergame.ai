@@ -2,9 +2,13 @@
 
 Static multilingual SEO site for Md Preview.
 
-Production domain: https://markdown.cybergame.ai/
+Official website: https://markdown.cybergame.ai/
 
-App Store link: https://apps.apple.com/app/id6760341080
+App Store: https://apps.apple.com/app/id6760341080
+
+Companion app website: https://html.cybergame.ai/
+
+This iOS app has no subscriptions, no in-app purchases, and no ads.
 
 Generated pages:
 

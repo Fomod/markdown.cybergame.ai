@@ -1,6 +1,283 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://markdown.cybergame.ai/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/zh/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/ja/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/es/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/de/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/fr/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/pt-br/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/ko/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/ar/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/hi/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/open-markdown-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/zh/open-markdown-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/ja/open-markdown-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/es/open-markdown-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/de/open-markdown-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/fr/open-markdown-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/ko/open-markdown-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/ar/open-markdown-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/hi/open-markdown-file-iphone/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://markdown.cybergame.ai/zh/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://markdown.cybergame.ai/ja/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://markdown.cybergame.ai/es/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://markdown.cybergame.ai/de/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://markdown.cybergame.ai/fr/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://markdown.cybergame.ai/pt-br/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ko" href="https://markdown.cybergame.ai/ko/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="ar" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://markdown.cybergame.ai/hi/open-markdown-file-iphone/" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://markdown.cybergame.ai/open-markdown-file-iphone/" />
   </url>
 </urlset>

@@ -24,7 +24,7 @@
     <meta property="og:url" content="https://markdown.cybergame.ai/ar/">
     <meta property="og:image" content="https://markdown.cybergame.ai/assets/app-icon.jpg">
     <meta name="twitter:card" content="summary">
-    <meta name="theme-color" content="#5867d8">
+    <meta name="theme-color" content="#4f65d9">
     <meta name="apple-itunes-app" content="app-id=6760341080">
     <link rel="icon" href="../assets/app-icon.jpg">
     <script type="application/ld+json">{"@context":"https://schema.org","@type":"SoftwareApplication","name":"Md Preview - Markdown Viewer","operatingSystem":"iOS","applicationCategory":"UtilitiesApplication","description":"افتح وعاين ملفات Markdown على iPhone و iPad. يعرض Md Preview ملفات .md و GFM والكود والمعادلات ومخططات Mermaid بدون اتصال.","url":"https://markdown.cybergame.ai/ar/","downloadUrl":"https://apps.apple.com/app/id6760341080","offers":{"@type":"Offer","url":"https://apps.apple.com/app/id6760341080","availability":"https://schema.org/InStock"},"publisher":{"@type":"Organization","name":"CyberGame Limited"}}</script>
@@ -33,14 +33,16 @@
     <style>
       :root {
         color-scheme: light dark;
-        --bg: #f5f7ff;
+        --bg: #f8fafc;
         --surface: #ffffff;
-        --text: #171a22;
-        --muted: #5c6374;
-        --line: #dce2f7;
-        --accent: #5867d8;
-        --accent-strong: #3341b7;
-        --shadow: 0 22px 70px rgba(35, 42, 68, 0.13);
+        --surface-soft: color-mix(in srgb, var(--surface) 76%, var(--bg));
+        --text: #16181d;
+        --muted: #5d6674;
+        --line: #d8e0ea;
+        --accent: #4f65d9;
+        --accent-strong: #3041a6;
+        --ring: color-mix(in srgb, var(--accent) 24%, transparent);
+        --shadow: 0 20px 60px rgba(35, 42, 68, 0.12);
       }
       * { box-sizing: border-box; }
       html { scroll-behavior: smooth; }
@@ -50,17 +52,53 @@
         background: var(--bg);
         color: var(--text);
         line-height: 1.6;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+        overflow-x: clip;
+        overscroll-behavior-y: contain;
       }
-      a { color: inherit; }
+      a, button, summary { color: inherit; touch-action: manipulation; }
+      a { text-underline-offset: 3px; }
+      a:focus-visible, summary:focus-visible {
+        outline: 3px solid var(--ring);
+        outline-offset: 3px;
+        border-radius: 8px;
+      }
       .page { width: min(1120px, calc(100% - 40px)); margin: 0 auto; }
-      .skip { position: absolute; left: -999px; top: 12px; z-index: 99; padding: 10px; background: var(--surface); }
-      .skip:focus { left: 12px; }
-      header {
+      .skip {
+        position: absolute;
+        inset-inline-start: 12px;
+        top: 12px;
+        z-index: 99;
+        width: 1px;
+        height: 1px;
+        padding: 0;
+        overflow: hidden;
+        clip-path: inset(50%);
+        white-space: nowrap;
+        background: var(--surface);
+        border: 1px solid var(--line);
+        border-radius: 8px;
+      }
+      .skip:focus {
+        width: auto;
+        height: auto;
+        padding: 10px;
+        clip-path: none;
+      }
+      .site-header {
+        position: sticky;
+        top: 0;
+        z-index: 20;
         display: flex;
         align-items: center;
         justify-content: space-between;
         gap: 18px;
-        padding: 24px 0;
+        padding: 14px 0;
+        background: color-mix(in srgb, var(--bg) 86%, transparent);
+        backdrop-filter: blur(18px);
+        -webkit-backdrop-filter: blur(18px);
+        border-bottom: 1px solid color-mix(in srgb, var(--line) 72%, transparent);
       }
       .brand, .nav, .language-row, .actions, .proof-row {
         display: flex;
@@ -68,16 +106,27 @@
         gap: 12px;
         flex-wrap: wrap;
       }
-      .brand { font-weight: 800; text-decoration: none; }
+      .brand {
+        min-height: 44px;
+        font-weight: 850;
+        text-decoration: none;
+      }
       .brand img, .install-bar img { width: 42px; height: 42px; border-radius: 10px; }
-      .nav a, .language-row a, footer a { color: var(--muted); text-decoration: none; }
-      .nav a:hover, .language-row a:hover, footer a:hover { color: var(--text); text-decoration: underline; }
+      .nav a, .language-row a, footer a, .secondary-link {
+        display: inline-flex;
+        align-items: center;
+        min-height: 44px;
+        color: var(--muted);
+        text-decoration: none;
+      }
+      .nav a { padding: 0 10px; border-radius: 8px; }
+      .nav a:hover, .language-row a:hover, footer a:hover, .secondary-link:hover { color: var(--text); text-decoration: underline; }
       .hero {
         display: grid;
-        grid-template-columns: minmax(0, 1.08fr) minmax(320px, 0.92fr);
+        grid-template-columns: minmax(0, 1.05fr) minmax(330px, 0.95fr);
         gap: 48px;
         align-items: center;
-        padding: 46px 0 60px;
+        padding: 40px 0 58px;
       }
       .eyebrow {
         margin: 0 0 14px;
@@ -89,11 +138,11 @@
       }
       h1 {
         margin: 0;
-        font-size: clamp(40px, 6vw, 72px);
-        line-height: 0.98;
+        font-size: 66px;
+        line-height: 1;
         letter-spacing: 0;
       }
-      h2 { margin: 0 0 16px; font-size: clamp(28px, 4vw, 44px); line-height: 1.08; letter-spacing: 0; }
+      h2 { margin: 0 0 16px; font-size: 38px; line-height: 1.12; letter-spacing: 0; }
       h3 { margin: 0 0 10px; font-size: 21px; line-height: 1.25; letter-spacing: 0; }
       p { margin: 0; }
       .lede { max-width: 710px; margin-top: 24px; color: var(--muted); font-size: 21px; }
@@ -109,36 +158,92 @@
         font-weight: 850;
         text-decoration: none;
         box-shadow: var(--shadow);
+        cursor: pointer;
+        transition: background-color 180ms ease, box-shadow 180ms ease, color 180ms ease;
       }
+      .button:hover { background: var(--accent-strong); }
       .secondary-link { color: var(--accent-strong); font-weight: 750; text-decoration: none; }
       .actions { margin-top: 32px; }
       .proof-row { margin-top: 22px; color: var(--muted); font-size: 15px; }
       .proof { display: inline-flex; padding: 7px 10px; border: 1px solid var(--line); border-radius: 999px; background: var(--surface); }
-      .preview {
+      .quick-answer {
+        max-width: 720px;
+        margin-top: 26px;
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-left: 4px solid var(--accent);
+        border-radius: 8px;
+        background: var(--surface);
+        box-shadow: 0 12px 34px rgba(35, 42, 68, 0.08);
+      }
+      .quick-answer strong {
+        display: block;
+        margin-bottom: 6px;
+        color: var(--text);
+        font-size: 14px;
+        text-transform: uppercase;
+        letter-spacing: 0;
+      }
+      .quick-answer p { color: var(--muted); font-size: 17px; }
+      .install-panel {
         border: 1px solid var(--line);
         border-radius: 8px;
         background: var(--surface);
         box-shadow: var(--shadow);
         overflow: hidden;
       }
-      .preview-top {
+      .install-panel-top {
         display: flex;
         align-items: center;
-        justify-content: space-between;
-        gap: 12px;
-        padding: 16px 18px;
+        gap: 16px;
+        padding: 22px;
         border-bottom: 1px solid var(--line);
+      }
+      .install-panel-top img {
+        width: 74px;
+        height: 74px;
+        border-radius: 18px;
+        box-shadow: 0 16px 32px rgba(35, 42, 68, 0.16);
+      }
+      .install-panel h2 { margin: 0; font-size: 28px; }
+      .install-panel p {
+        color: var(--muted);
+      }
+      .install-panel-body { padding: 22px; }
+      .panel-kicker {
+        display: block;
+        margin-bottom: 5px;
+        color: var(--accent-strong);
+        font-size: 13px;
+        font-weight: 850;
+        text-transform: uppercase;
+      }
+      .source-grid {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 18px;
+      }
+      .source-chip {
+        display: inline-flex;
+        align-items: center;
+        min-height: 36px;
+        padding: 0 11px;
+        border: 1px solid var(--line);
+        border-radius: 999px;
+        background: var(--surface-soft);
         color: var(--muted);
         font-size: 14px;
+        font-weight: 700;
       }
-      .preview-body { padding: 30px; }
-      .preview-body img { width: 92px; height: 92px; border-radius: 21px; box-shadow: 0 16px 32px rgba(35, 42, 68, 0.16); }
-      .preview-body h2 { margin-top: 24px; font-size: 30px; }
-      .file-chip { margin-top: 22px; padding: 16px; border: 1px solid var(--line); border-radius: 8px; background: color-mix(in srgb, var(--surface) 88%, var(--bg)); color: var(--muted); overflow-wrap: anywhere; }
+      .install-panel .button { width: 100%; margin-top: 20px; }
+      .file-chip { margin-top: 18px; padding: 14px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface-soft); color: var(--muted); overflow-wrap: anywhere; }
       .section { padding: 58px 0; border-top: 1px solid var(--line); }
       .section-copy { max-width: 780px; color: var(--muted); font-size: 18px; }
       .cards { display: grid; grid-template-columns: repeat(3, 1fr); gap: 18px; margin-top: 26px; }
       .card { padding: 24px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
+      .card a { text-decoration: none; }
+      .card a:hover { text-decoration: underline; }
       .card p, .faq-item p, .related p { color: var(--muted); }
       .steps { counter-reset: step; display: grid; gap: 14px; margin-top: 26px; }
       .step { display: grid; grid-template-columns: 44px minmax(0, 1fr); gap: 16px; align-items: start; padding: 18px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
@@ -150,36 +255,72 @@
       .article-body p { color: var(--muted); font-size: 18px; }
       .related { display: grid; grid-template-columns: 72px minmax(0, 1fr) auto; gap: 16px; align-items: center; padding: 22px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); }
       .related img { width: 72px; height: 72px; border-radius: 16px; }
-      .language-row { margin-top: 22px; font-size: 14px; }
-      .language-row a[aria-current="page"] { color: var(--text); font-weight: 850; }
+      .language-menu {
+        max-width: 860px;
+        margin-top: 22px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+      }
+      .language-menu summary {
+        min-height: 52px;
+        padding: 0 16px;
+        cursor: pointer;
+        font-weight: 850;
+      }
+      .language-row { padding: 0 16px 16px; font-size: 14px; }
+      .language-row a { min-height: 44px; padding: 0 10px; border-radius: 8px; }
+      .language-row a[aria-current="page"] { color: var(--text); font-weight: 850; background: var(--surface-soft); }
       footer { display: flex; justify-content: space-between; gap: 20px; padding: 28px 0 42px; color: var(--muted); font-size: 14px; border-top: 1px solid var(--line); }
       .install-bar { display: none; }
+      @media (prefers-reduced-motion: reduce) {
+        *, *::before, *::after {
+          scroll-behavior: auto !important;
+          transition-duration: 0.01ms !important;
+          animation-duration: 0.01ms !important;
+          animation-iteration-count: 1 !important;
+        }
+      }
       @media (prefers-color-scheme: dark) {
         :root {
-          --bg: #12141d;
-          --surface: #1b1f2d;
-          --text: #f4f6ff;
-          --muted: #c8cde1;
-          --line: #30364f;
-          --accent: #7f8bff;
-          --accent-strong: #aab1ff;
+          --bg: #111418;
+          --surface: #1a1f26;
+          --surface-soft: color-mix(in srgb, var(--surface) 78%, var(--bg));
+          --text: #f6f8fb;
+          --muted: #c5ced8;
+          --line: #303844;
+          --accent: #7d8dff;
+          --accent-strong: #a8b2ff;
+          --ring: color-mix(in srgb, var(--accent) 34%, transparent);
           --shadow: 0 22px 70px rgba(0, 0, 0, 0.3);
         }
       }
       @media (max-width: 900px) {
-        .hero { grid-template-columns: 1fr; gap: 32px; padding-top: 24px; }
+        .hero { grid-template-columns: 1fr; gap: 28px; padding-top: 24px; }
+        h1 { font-size: 52px; }
+        h2 { font-size: 32px; }
         .cards, .faq { grid-template-columns: 1fr; }
         .related { grid-template-columns: 56px minmax(0, 1fr); }
         .related .button { grid-column: 1 / -1; }
         .related img { width: 56px; height: 56px; border-radius: 13px; }
       }
       @media (max-width: 720px) {
-        body { padding-bottom: calc(88px + env(safe-area-inset-bottom)); }
-        header, footer { align-items: flex-start; flex-direction: column; }
+        body { padding-bottom: calc(92px + env(safe-area-inset-bottom)); }
+        .site-header, footer { align-items: flex-start; flex-direction: column; }
+        .site-header { gap: 10px; padding: 10px 0; }
+        .nav { width: 100%; display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+        .nav a { justify-content: center; border: 1px solid var(--line); background: var(--surface); }
+        .nav a:last-child { grid-column: 1 / -1; background: var(--accent); color: #fff; font-weight: 850; }
         .page { width: min(100% - 28px, 1120px); }
-        h1 { font-size: 42px; }
+        h1 { font-size: 38px; line-height: 1.05; }
+        h2 { font-size: 28px; }
         .lede { font-size: 18px; }
+        .hero { padding-bottom: 42px; }
+        .quick-answer { padding: 16px; }
         .button { width: 100%; }
+        .section { padding: 42px 0; }
+        .install-panel-top, .install-panel-body { padding: 18px; }
+        .source-chip { min-height: 34px; }
         .install-bar {
           position: fixed;
           right: 12px;
@@ -198,6 +339,15 @@
           background: var(--surface);
           box-shadow: var(--shadow);
           text-decoration: none;
+          opacity: 0;
+          pointer-events: none;
+          transform: translateY(calc(100% + 24px));
+          transition: opacity 180ms ease, transform 180ms ease;
+        }
+        .install-bar[data-visible="true"] {
+          opacity: 1;
+          pointer-events: auto;
+          transform: translateY(0);
         }
         .install-copy { min-width: 0; }
         .install-copy strong, .install-copy small { display: block; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
@@ -208,8 +358,8 @@
   </head>
   <body>
     <a class="skip" href="#content">Skip to content</a>
-    <main class="page" id="content">
-      <header>
+    <main class="page" id="content" data-ux="mobile-first">
+      <header class="site-header">
         <a class="brand" href="https://markdown.cybergame.ai/ar/" aria-label="Md Preview">
           <img src="../assets/app-icon.jpg" alt="App icon">
           <span>Md Preview</span>
@@ -227,6 +377,10 @@
           <h1 id="hero-title">اقرأ ملفات Markdown بوضوح على iPhone و iPad.</h1>
           <p class="lede">لا يوفر iOS معاينة Markdown كاملة وانيقة. يفتح Md Preview ملفات .md بسرعة وخصوصية وبدون تعقيد.</p>
           <p class="lede">Md Preview helps العربية users open Markdown files from ChatGPT, Claude, Gemini, iPhone, and iPad workflows.</p>
+          <div class="quick-answer">
+            <strong>إجابة سريعة</strong>
+            <p>Install Md Preview, open the Markdown file from iOS Files or any app, and preview the Markdown file locally on iPhone or iPad.</p>
+          </div>
           <div class="actions">
             <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">تنزيل من App Store</a>
             <a class="secondary-link" href="https://markdown.cybergame.ai/ar/open-markdown-file-iphone/">طريقة فتح الملفات</a>
@@ -236,16 +390,27 @@
             <span>تبقى ملفاتك على جهازك.</span>
           </div>
         </div>
-        <aside class="preview" aria-label="Md Preview preview">
-          <div class="preview-top">
-            <span>.md, .markdown, .mdx, .rmd, .qmd</span>
-            <span>App Store</span>
-          </div>
-          <div class="preview-body">
+        <aside class="install-panel" aria-label="Md Preview preview">
+          <div class="install-panel-top">
             <img src="../assets/app-icon.jpg" alt="App icon">
-            <h2>الفجوة في iOS التي يحلها التطبيق</h2>
+            <div>
+              <span class="panel-kicker">App Store</span>
+              <h2>افتح الملف الآن</h2>
+            </div>
+          </div>
+          <div class="install-panel-body">
             <p>تنتج ChatGPT وClaude وGitHub وتطبيقات الملاحظات ملفات Markdown يوميا. على iPhone و iPad تحتاج الى Markdown Preview مخصص.</p>
+            <div class="source-grid" aria-label="يعمل من">
+              <span class="source-chip">ChatGPT</span>
+              <span class="source-chip">Claude</span>
+              <span class="source-chip">Gemini</span>
+              <span class="source-chip">GitHub</span>
+              <span class="source-chip">Obsidian</span>
+              <span class="source-chip">Notion</span>
+            </div>
             <div class="file-chip">.md, .markdown, .mdx, .rmd, .qmd</div>
+            <a class="button" href="https://apps.apple.com/app/id6760341080" data-ios-app-url="itms-apps://itunes.apple.com/app/id6760341080">تنزيل من App Store</a>
+            <p class="file-chip">معاينة محلية وخاصة على iPhone و iPad. بلا اشتراكات. بلا مشتريات داخل التطبيق. بلا إعلانات.</p>
           </div>
         </aside>
       </section>
@@ -321,9 +486,21 @@
 
       <section class="section" aria-labelledby="languages-title">
         <h2 id="languages-title">متوفر بعشر لغات</h2>
-        <div class="language-row" aria-label="اللغة">
-          <a href="https://markdown.cybergame.ai/">English</a><a href="https://markdown.cybergame.ai/zh/">简体中文</a><a href="https://markdown.cybergame.ai/ja/">日本語</a><a href="https://markdown.cybergame.ai/es/">Español</a><a href="https://markdown.cybergame.ai/de/">Deutsch</a><a href="https://markdown.cybergame.ai/fr/">Francais</a><a href="https://markdown.cybergame.ai/pt-br/">Portugues do Brasil</a><a href="https://markdown.cybergame.ai/ko/">한국어</a><a href="https://markdown.cybergame.ai/ar/" aria-current="page">العربية</a><a href="https://markdown.cybergame.ai/hi/">हिन्दी</a>
-        </div>
+        <details class="language-menu">
+          <summary>اللغة: العربية</summary>
+          <div class="language-row" aria-label="اللغة">
+            <a href="https://markdown.cybergame.ai/">English</a>
+          <a href="https://markdown.cybergame.ai/zh/">简体中文</a>
+          <a href="https://markdown.cybergame.ai/ja/">日本語</a>
+          <a href="https://markdown.cybergame.ai/es/">Español</a>
+          <a href="https://markdown.cybergame.ai/de/">Deutsch</a>
+          <a href="https://markdown.cybergame.ai/fr/">Francais</a>
+          <a href="https://markdown.cybergame.ai/pt-br/">Portugues do Brasil</a>
+          <a href="https://markdown.cybergame.ai/ko/">한국어</a>
+          <a href="https://markdown.cybergame.ai/ar/" aria-current="page">العربية</a>
+          <a href="https://markdown.cybergame.ai/hi/">हिन्दी</a>
+          </div>
+        </details>
       </section>
 
       <section class="section" aria-labelledby="download-title">
@@ -350,6 +527,14 @@
 
     <script>
       (function () {
+        var installBar = document.querySelector(".install-bar");
+        if (installBar) {
+          var updateInstallBar = function () {
+            installBar.setAttribute("data-visible", window.scrollY > 260 ? "true" : "false");
+          };
+          updateInstallBar();
+          window.addEventListener("scroll", updateInstallBar, { passive: true });
+        }
         var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
         if (!isIOS) return;
         document.querySelectorAll("[data-ios-app-url]").forEach(function (link) {

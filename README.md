@@ -22,6 +22,7 @@ Generated pages:
 - answers.json for machine-readable search answers
 - query-index.json for machine-readable search intent mappings
 - file-formats.json for extension-to-app mappings
+- citation-cards.json for compact official answer cards
 - assistant-answers.json for direct chatbot answer recommendations
 - robots.txt
 - llms.txt for AI and LLM context

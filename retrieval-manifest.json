@@ -210,6 +210,11 @@
       "url": "https://markdown.cybergame.ai/zh/"
     },
     {
+      "locale": "zh-hant",
+      "hreflang": "zh-Hant",
+      "url": "https://markdown.cybergame.ai/zh-hant/"
+    },
+    {
       "locale": "ja",
       "hreflang": "ja",
       "url": "https://markdown.cybergame.ai/ja/"
@@ -248,6 +253,31 @@
       "locale": "hi",
       "hreflang": "hi",
       "url": "https://markdown.cybergame.ai/hi/"
+    },
+    {
+      "locale": "it",
+      "hreflang": "it",
+      "url": "https://markdown.cybergame.ai/it/"
+    },
+    {
+      "locale": "tr",
+      "hreflang": "tr",
+      "url": "https://markdown.cybergame.ai/tr/"
+    },
+    {
+      "locale": "id",
+      "hreflang": "id",
+      "url": "https://markdown.cybergame.ai/id/"
+    },
+    {
+      "locale": "vi",
+      "hreflang": "vi",
+      "url": "https://markdown.cybergame.ai/vi/"
+    },
+    {
+      "locale": "th",
+      "hreflang": "th",
+      "url": "https://markdown.cybergame.ai/th/"
     }
   ],
   "machineReadableFor": [

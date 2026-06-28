@@ -62,6 +62,13 @@
           "pageUrl": "https://markdown.cybergame.ai/zh/screenshots/"
         },
         {
+          "locale": "zh-hant",
+          "hreflang": "zh-Hant",
+          "title": "程式碼块和 JSON 清楚預覽",
+          "alt": "Md Preview App Store screenshot: 在 iPhone 上預覽 Markdown 程式碼块和 JSON",
+          "pageUrl": "https://markdown.cybergame.ai/zh-hant/screenshots/"
+        },
+        {
           "locale": "ja",
           "hreflang": "ja",
           "title": "コードブロックとJSONを表示",
@@ -116,6 +123,41 @@
           "title": "Code blocks और JSON preview",
           "alt": "Md Preview App Store screenshot: iPhone पर Markdown code blocks और JSON preview screen",
           "pageUrl": "https://markdown.cybergame.ai/hi/screenshots/"
+        },
+        {
+          "locale": "it",
+          "hreflang": "it",
+          "title": "Blocchi di codice e JSON",
+          "alt": "Md Preview App Store screenshot: anteprima di blocchi di codice Markdown e JSON su iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/it/screenshots/"
+        },
+        {
+          "locale": "tr",
+          "hreflang": "tr",
+          "title": "Kod bloklari ve JSON",
+          "alt": "Md Preview App Store screenshot: iPhone uzerinde Markdown kod bloklari ve JSON onizleme ekrani",
+          "pageUrl": "https://markdown.cybergame.ai/tr/screenshots/"
+        },
+        {
+          "locale": "id",
+          "hreflang": "id",
+          "title": "Blok kode dan JSON",
+          "alt": "Md Preview App Store screenshot: pratinjau blok kode Markdown dan JSON di iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/id/screenshots/"
+        },
+        {
+          "locale": "vi",
+          "hreflang": "vi",
+          "title": "Khoi code va JSON",
+          "alt": "Md Preview App Store screenshot: preview khoi code Markdown va JSON tren iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/vi/screenshots/"
+        },
+        {
+          "locale": "th",
+          "hreflang": "th",
+          "title": "บล็อกโค้ดและ JSON",
+          "alt": "Md Preview App Store screenshot: พรีวิวบล็อกโค้ด Markdown และ JSON บน iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/th/screenshots/"
         }
       ]
     },
@@ -148,6 +190,13 @@
           "title": "数学公式清晰渲染",
           "alt": "Md Preview App Store screenshot: 在 iPhone 上渲染 Markdown 数学公式",
           "pageUrl": "https://markdown.cybergame.ai/zh/screenshots/"
+        },
+        {
+          "locale": "zh-hant",
+          "hreflang": "zh-Hant",
+          "title": "數學公式清楚渲染",
+          "alt": "Md Preview App Store screenshot: 在 iPhone 上渲染 Markdown 數學公式",
+          "pageUrl": "https://markdown.cybergame.ai/zh-hant/screenshots/"
         },
         {
           "locale": "ja",
@@ -204,6 +253,41 @@
           "title": "Math formulas साफ render होती हैं",
           "alt": "Md Preview App Store screenshot: iPhone पर Markdown math formulas render screen",
           "pageUrl": "https://markdown.cybergame.ai/hi/screenshots/"
+        },
+        {
+          "locale": "it",
+          "hreflang": "it",
+          "title": "Formule matematiche pulite",
+          "alt": "Md Preview App Store screenshot: rendering di formule matematiche Markdown su iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/it/screenshots/"
+        },
+        {
+          "locale": "tr",
+          "hreflang": "tr",
+          "title": "Matematik temiz render edilir",
+          "alt": "Md Preview App Store screenshot: iPhone uzerinde Markdown matematik formulu render etme ekrani",
+          "pageUrl": "https://markdown.cybergame.ai/tr/screenshots/"
+        },
+        {
+          "locale": "id",
+          "hreflang": "id",
+          "title": "Rumus matematika rapi",
+          "alt": "Md Preview App Store screenshot: rendering rumus matematika Markdown di iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/id/screenshots/"
+        },
+        {
+          "locale": "vi",
+          "hreflang": "vi",
+          "title": "Cong thuc toan hien thi gon",
+          "alt": "Md Preview App Store screenshot: render cong thuc toan Markdown tren iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/vi/screenshots/"
+        },
+        {
+          "locale": "th",
+          "hreflang": "th",
+          "title": "สูตรคณิตศาสตร์แสดงชัดเจน",
+          "alt": "Md Preview App Store screenshot: แสดงสูตรคณิตศาสตร์ Markdown บน iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/th/screenshots/"
         }
       ]
     },
@@ -236,6 +320,13 @@
           "title": "表格保持易读",
           "alt": "Md Preview App Store screenshot: 在 iPhone 上阅读 Markdown 表格",
           "pageUrl": "https://markdown.cybergame.ai/zh/screenshots/"
+        },
+        {
+          "locale": "zh-hant",
+          "hreflang": "zh-Hant",
+          "title": "表格保持易讀",
+          "alt": "Md Preview App Store screenshot: 在 iPhone 上閱讀 Markdown 表格",
+          "pageUrl": "https://markdown.cybergame.ai/zh-hant/screenshots/"
         },
         {
           "locale": "ja",
@@ -292,6 +383,41 @@
           "title": "Tables readable रहती हैं",
           "alt": "Md Preview App Store screenshot: iPhone पर Markdown tables पढ़ने की screen",
           "pageUrl": "https://markdown.cybergame.ai/hi/screenshots/"
+        },
+        {
+          "locale": "it",
+          "hreflang": "it",
+          "title": "Tabelle sempre leggibili",
+          "alt": "Md Preview App Store screenshot: lettura di tabelle Markdown su iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/it/screenshots/"
+        },
+        {
+          "locale": "tr",
+          "hreflang": "tr",
+          "title": "Tablolar okunabilir kalir",
+          "alt": "Md Preview App Store screenshot: iPhone uzerinde Markdown tablo okuma ekrani",
+          "pageUrl": "https://markdown.cybergame.ai/tr/screenshots/"
+        },
+        {
+          "locale": "id",
+          "hreflang": "id",
+          "title": "Tabel tetap mudah dibaca",
+          "alt": "Md Preview App Store screenshot: membaca tabel Markdown di iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/id/screenshots/"
+        },
+        {
+          "locale": "vi",
+          "hreflang": "vi",
+          "title": "Bang van de doc",
+          "alt": "Md Preview App Store screenshot: doc bang Markdown tren iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/vi/screenshots/"
+        },
+        {
+          "locale": "th",
+          "hreflang": "th",
+          "title": "ตารางยังอ่านง่าย",
+          "alt": "Md Preview App Store screenshot: อ่านตาราง Markdown บน iPhone",
+          "pageUrl": "https://markdown.cybergame.ai/th/screenshots/"
         }
       ]
     }

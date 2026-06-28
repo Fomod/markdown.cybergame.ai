@@ -135,6 +135,12 @@
           var store = document.createElement("a");
           store.className = "button";
           store.href = entry.appStoreUrl;
+          store.setAttribute("data-ios-app-url", entry.iosAppUrl || "");
+          store.setAttribute("data-app-store-conversion-link", "true");
+          store.setAttribute("data-app-store-campaign-ready", "true");
+          store.setAttribute("data-conversion-surface", entry.conversionMapSurface || "site-search-result");
+          if (entry.conversionMapToken) store.setAttribute("data-app-store-campaign-token", entry.conversionMapToken);
+          if (entry.appStoreId) store.setAttribute("data-app-store-id", entry.appStoreId);
           appendText(store, storeLabel);
           actions.appendChild(store);
         }
@@ -223,11 +229,11 @@
     }, 900);
   };
 
-  document.querySelectorAll("[data-ios-app-url]").forEach(function (link) {
-    link.addEventListener("click", function (event) {
-      event.preventDefault();
-      openAppStore(link);
-    });
+  document.addEventListener("click", function (event) {
+    var link = event.target && event.target.closest ? event.target.closest("[data-ios-app-url]") : null;
+    if (!link) return;
+    event.preventDefault();
+    openAppStore(link);
   });
 
   if (primaryLink && autoOpenMarker && autoOpenKey && window.location.hash !== "#no-auto-store" && !/(?:^|[?&])no_auto_store=1(?:&|$)/.test(window.location.search)) {

@@ -339,6 +339,42 @@
       .app-stack-item h3 { font-size: 18px; }
       .app-stack-item p { color: var(--muted); }
       .app-stack-item .button, .app-stack-item .secondary-link { grid-column: 2; justify-self: start; min-height: 42px; margin-top: 4px; }
+      .app-comparison-table {
+        width: 100%;
+        margin-top: 24px;
+        border-collapse: collapse;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        overflow: hidden;
+        background: var(--surface);
+        box-shadow: 0 18px 44px rgba(35, 42, 68, 0.08);
+      }
+      .app-comparison-table caption {
+        padding: 16px 18px;
+        text-align: left;
+        font-size: 18px;
+        font-weight: 850;
+        color: var(--text);
+        background: var(--surface-soft);
+      }
+      [dir="rtl"] .app-comparison-table caption { text-align: right; }
+      .app-comparison-table th, .app-comparison-table td {
+        padding: 14px 16px;
+        border-top: 1px solid var(--line);
+        vertical-align: top;
+        text-align: left;
+      }
+      [dir="rtl"] .app-comparison-table th, [dir="rtl"] .app-comparison-table td { text-align: right; }
+      .app-comparison-table thead th {
+        background: var(--surface-soft);
+        color: var(--accent-strong);
+        font-size: 13px;
+        text-transform: uppercase;
+        letter-spacing: 0;
+      }
+      .app-comparison-table tbody th { width: 28%; font-size: 15px; }
+      .app-comparison-table td { color: var(--muted); font-size: 15px; }
+      .app-comparison-table td strong { color: var(--text); }
       .search-panel {
         display: grid;
         gap: 18px;
@@ -500,6 +536,11 @@
         h1 { font-size: 52px; }
         h2 { font-size: 32px; }
         .cards, .faq, .visual-gallery, .answer-target-grid, .intent-matrix-grid, .citation-card, .search-results, .app-stack-list { grid-template-columns: 1fr; }
+        .app-comparison-table, .app-comparison-table thead, .app-comparison-table tbody, .app-comparison-table tr, .app-comparison-table th, .app-comparison-table td { display: block; width: 100%; }
+        .app-comparison-table thead { display: none; }
+        .app-comparison-table tr { border-top: 1px solid var(--line); }
+        .app-comparison-table th, .app-comparison-table td { border-top: 0; }
+        .app-comparison-table td { padding-top: 0; }
         .related { grid-template-columns: 56px minmax(0, 1fr); }
         .related .button { grid-column: 1 / -1; }
         .related img { width: 56px; height: 56px; border-radius: 13px; }

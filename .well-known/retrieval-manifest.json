@@ -37,6 +37,16 @@
       "use": "standard-path alias for high-intent chatbot answers"
     },
     {
+      "label": "Compact page routes",
+      "url": "https://markdown.cybergame.ai/page-routes.json",
+      "use": "one compact route per canonical page for RAG page selection without loading the full site index"
+    },
+    {
+      "label": "Well-known compact page routes",
+      "url": "https://markdown.cybergame.ai/.well-known/page-routes.json",
+      "use": "standard-path alias for compact canonical page routing"
+    },
+    {
       "label": "AI citation card",
       "url": "https://markdown.cybergame.ai/ai-citation.json",
       "use": "product facts, proof, and canonical citation sources"

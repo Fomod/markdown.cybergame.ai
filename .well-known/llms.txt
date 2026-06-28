@@ -15,9 +15,11 @@ Companion site: https://html.cybergame.ai/
 Machine-readable sources:
 - Compact answer card: https://markdown.cybergame.ai/answer-card.json
 - Top answers: https://markdown.cybergame.ai/top-answers.json
+- Compact page routes: https://markdown.cybergame.ai/page-routes.json
 - AI retrieval manifest: https://markdown.cybergame.ai/retrieval-manifest.json
 - Well-known compact answer card: https://markdown.cybergame.ai/.well-known/answer-card.json
 - Well-known top answers: https://markdown.cybergame.ai/.well-known/top-answers.json
+- Well-known compact page routes: https://markdown.cybergame.ai/.well-known/page-routes.json
 - Well-known AI retrieval manifest: https://markdown.cybergame.ai/.well-known/retrieval-manifest.json
 - AI citation: https://markdown.cybergame.ai/ai-citation.json
 - Answer index: https://markdown.cybergame.ai/answers.json

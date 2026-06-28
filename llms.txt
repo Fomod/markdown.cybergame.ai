@@ -25,9 +25,11 @@ Md Preview is an iOS utility by CyberGame Limited for opening and previewing Mar
 - OpenSearch description: https://markdown.cybergame.ai/opensearch.xml
 - Compact answer card JSON: https://markdown.cybergame.ai/answer-card.json
 - Top answers JSON: https://markdown.cybergame.ai/top-answers.json
+- Compact page routes JSON: https://markdown.cybergame.ai/page-routes.json
 - AI retrieval manifest JSON: https://markdown.cybergame.ai/retrieval-manifest.json
 - Well-known compact answer card JSON: https://markdown.cybergame.ai/.well-known/answer-card.json
 - Well-known top answers JSON: https://markdown.cybergame.ai/.well-known/top-answers.json
+- Well-known compact page routes JSON: https://markdown.cybergame.ai/.well-known/page-routes.json
 - Well-known AI retrieval manifest JSON: https://markdown.cybergame.ai/.well-known/retrieval-manifest.json
 - Answer index JSON: https://markdown.cybergame.ai/answers.json
 - AI citation card JSON: https://markdown.cybergame.ai/ai-citation.json

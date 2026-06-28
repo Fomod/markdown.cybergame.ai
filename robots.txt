@@ -128,6 +128,7 @@ Allow: /
 # Machine-readable data sitemap: https://markdown.cybergame.ai/data-sitemap.xml
 # RSS feed: https://markdown.cybergame.ai/feed.xml
 # Compact answer card JSON: https://markdown.cybergame.ai/answer-card.json
+# Top answers JSON: https://markdown.cybergame.ai/top-answers.json
 # AI retrieval manifest JSON: https://markdown.cybergame.ai/retrieval-manifest.json
 # Well-known compact answer card JSON: https://markdown.cybergame.ai/.well-known/answer-card.json
 # AI citation card JSON: https://markdown.cybergame.ai/ai-citation.json

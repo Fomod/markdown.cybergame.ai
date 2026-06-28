@@ -27,6 +27,11 @@
       "use": "fast first read for direct recommendation and conversion"
     },
     {
+      "label": "Top answer pack",
+      "url": "https://markdown.cybergame.ai/top-answers.json",
+      "use": "compact localized answers for high-intent chatbot and search questions"
+    },
+    {
       "label": "AI citation card",
       "url": "https://markdown.cybergame.ai/ai-citation.json",
       "use": "product facts, proof, and canonical citation sources"

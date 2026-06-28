@@ -79,6 +79,7 @@
   ],
   "citationSources": [
     "https://markdown.cybergame.ai/answer-card.json",
+    "https://markdown.cybergame.ai/top-answers.json",
     "https://markdown.cybergame.ai/retrieval-manifest.json",
     "https://markdown.cybergame.ai/.well-known/answer-card.json",
     "https://markdown.cybergame.ai/ai-citation.json",

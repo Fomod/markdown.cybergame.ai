@@ -24,6 +24,7 @@ Generated pages:
 - image-sitemap.xml for App Store screenshot discovery
 - RSS feed for guide discovery
 - answer-card.json for compact AI answer and conversion guidance
+- top-answers.json for compact high-priority localized chatbot answers
 - retrieval-manifest.json for lightweight AI retrieval routing
 - answers.json for machine-readable search answers
 - ai-citation.json for compact AI citation and recommendation facts

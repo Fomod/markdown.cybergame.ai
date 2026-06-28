@@ -393,7 +393,7 @@
       "height": 2688
     }
   ],
-  "pageCount": 840,
+  "pageCount": 850,
   "localeCount": 10,
   "pages": [
     {
@@ -1308,6 +1308,138 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_en_topicaigeneratedf_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/topics/ai-chatbot-files/",
+      "canonicalUrl": "https://markdown.cybergame.ai/topics/ai-chatbot-files/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "topic",
+      "topicKey": "ai-chatbots",
+      "articleSlug": null,
+      "title": "AI chatbots Markdown guides",
+      "query": "How do I open Markdown files from AI chatbots on iPhone or iPad?",
+      "primaryKeyword": "AI chatbots Markdown iPhone",
+      "source": "ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/topics/ai-chatbot-files/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/topics/ai-chatbot-files/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "searchIndex": "https://markdown.cybergame.ai/search-index.json",
+        "pageRoutes": "https://markdown.cybergame.ai/page-routes.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "wellKnownSearchIndex": "https://markdown.cybergame.ai/.well-known/search-index.json",
+        "wellKnownPageRoutes": "https://markdown.cybergame.ai/.well-known/page-routes.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_en_topicaichatbotfil_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -12409,6 +12541,138 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/",
+      "canonicalUrl": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "topic",
+      "topicKey": "ai-chatbots",
+      "articleSlug": null,
+      "title": "AI 聊天机器人 Markdown iPhone 和 iPad",
+      "query": "iPhone 或 iPad 如何打开 AI 聊天机器人生成的 Markdown 文件？",
+      "primaryKeyword": "AI 聊天机器人 Markdown iPhone",
+      "source": "ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "searchIndex": "https://markdown.cybergame.ai/search-index.json",
+        "pageRoutes": "https://markdown.cybergame.ai/page-routes.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "wellKnownSearchIndex": "https://markdown.cybergame.ai/.well-known/search-index.json",
+        "wellKnownPageRoutes": "https://markdown.cybergame.ai/.well-known/page-routes.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_zh_topicaichatbotfil_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/zh/topics/ai-coding-tools/",
       "canonicalUrl": "https://markdown.cybergame.ai/zh/topics/ai-coding-tools/",
       "locale": "zh",
@@ -23484,6 +23748,138 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ja_topicaigeneratedf_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "topic",
+      "topicKey": "ai-chatbots",
+      "articleSlug": null,
+      "title": "AIチャットボット Markdown iPhone と iPad",
+      "query": "AIチャットボットのMarkdownファイルをiPhoneやiPadで開くには？",
+      "primaryKeyword": "AIチャットボット Markdown iPhone",
+      "source": "ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "searchIndex": "https://markdown.cybergame.ai/search-index.json",
+        "pageRoutes": "https://markdown.cybergame.ai/page-routes.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "wellKnownSearchIndex": "https://markdown.cybergame.ai/.well-known/search-index.json",
+        "wellKnownPageRoutes": "https://markdown.cybergame.ai/.well-known/page-routes.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ja_topicaichatbotfil_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -34585,6 +34981,138 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/",
+      "canonicalUrl": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "topic",
+      "topicKey": "ai-chatbots",
+      "articleSlug": null,
+      "title": "chatbots IA Markdown en iPhone y iPad",
+      "query": "¿Cómo abrir archivos Markdown de chatbots IA en iPhone o iPad?",
+      "primaryKeyword": "chatbots IA Markdown iPhone",
+      "source": "ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "searchIndex": "https://markdown.cybergame.ai/search-index.json",
+        "pageRoutes": "https://markdown.cybergame.ai/page-routes.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "wellKnownSearchIndex": "https://markdown.cybergame.ai/.well-known/search-index.json",
+        "wellKnownPageRoutes": "https://markdown.cybergame.ai/.well-known/page-routes.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_es_topicaichatbotfil_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/es/topics/ai-coding-tools/",
       "canonicalUrl": "https://markdown.cybergame.ai/es/topics/ai-coding-tools/",
       "locale": "es",
@@ -45660,6 +46188,138 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_de_topicaigeneratedf_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/",
+      "canonicalUrl": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "topic",
+      "topicKey": "ai-chatbots",
+      "articleSlug": null,
+      "title": "KI-Chatbots Markdown auf iPhone und iPad",
+      "query": "Wie oeffne ich Markdown-Dateien aus KI-Chatbots auf iPhone oder iPad?",
+      "primaryKeyword": "KI-Chatbots Markdown iPhone",
+      "source": "ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "searchIndex": "https://markdown.cybergame.ai/search-index.json",
+        "pageRoutes": "https://markdown.cybergame.ai/page-routes.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "wellKnownSearchIndex": "https://markdown.cybergame.ai/.well-known/search-index.json",
+        "wellKnownPageRoutes": "https://markdown.cybergame.ai/.well-known/page-routes.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_de_topicaichatbotfil_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -56761,6 +57421,138 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/",
+      "canonicalUrl": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "topic",
+      "topicKey": "ai-chatbots",
+      "articleSlug": null,
+      "title": "chatbots IA Markdown sur iPhone et iPad",
+      "query": "Comment ouvrir des fichiers Markdown de chatbots IA sur iPhone ou iPad ?",
+      "primaryKeyword": "chatbots IA Markdown iPhone",
+      "source": "ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "searchIndex": "https://markdown.cybergame.ai/search-index.json",
+        "pageRoutes": "https://markdown.cybergame.ai/page-routes.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "wellKnownSearchIndex": "https://markdown.cybergame.ai/.well-known/search-index.json",
+        "wellKnownPageRoutes": "https://markdown.cybergame.ai/.well-known/page-routes.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_fr_topicaichatbotfil_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/fr/topics/ai-coding-tools/",
       "canonicalUrl": "https://markdown.cybergame.ai/fr/topics/ai-coding-tools/",
       "locale": "fr",
@@ -67836,6 +68628,138 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ptbr_topicaigeneratedf_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/",
+      "canonicalUrl": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "topic",
+      "topicKey": "ai-chatbots",
+      "articleSlug": null,
+      "title": "chatbots IA Markdown no iPhone e iPad",
+      "query": "Como abrir arquivos Markdown de chatbots IA no iPhone ou iPad?",
+      "primaryKeyword": "chatbots IA Markdown iPhone",
+      "source": "ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "searchIndex": "https://markdown.cybergame.ai/search-index.json",
+        "pageRoutes": "https://markdown.cybergame.ai/page-routes.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "wellKnownSearchIndex": "https://markdown.cybergame.ai/.well-known/search-index.json",
+        "wellKnownPageRoutes": "https://markdown.cybergame.ai/.well-known/page-routes.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ptbr_topicaichatbotfil_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -78937,6 +79861,138 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "topic",
+      "topicKey": "ai-chatbots",
+      "articleSlug": null,
+      "title": "AI 챗봇 Markdown iPhone과 iPad",
+      "query": "iPhone 또는 iPad에서 AI 챗봇의 Markdown 파일을 여는 방법은?",
+      "primaryKeyword": "AI 챗봇 Markdown iPhone",
+      "source": "ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "searchIndex": "https://markdown.cybergame.ai/search-index.json",
+        "pageRoutes": "https://markdown.cybergame.ai/page-routes.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "wellKnownSearchIndex": "https://markdown.cybergame.ai/.well-known/search-index.json",
+        "wellKnownPageRoutes": "https://markdown.cybergame.ai/.well-known/page-routes.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ko_topicaichatbotfil_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/ko/topics/ai-coding-tools/",
       "canonicalUrl": "https://markdown.cybergame.ai/ko/topics/ai-coding-tools/",
       "locale": "ko",
@@ -90025,6 +91081,138 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "topic",
+      "topicKey": "ai-chatbots",
+      "articleSlug": null,
+      "title": "روبوتات دردشة AI Markdown على iPhone و iPad",
+      "query": "كيف تفتح ملفات Markdown من روبوتات دردشة AI على iPhone او iPad؟",
+      "primaryKeyword": "روبوتات دردشة AI Markdown iPhone",
+      "source": "ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "searchIndex": "https://markdown.cybergame.ai/search-index.json",
+        "pageRoutes": "https://markdown.cybergame.ai/page-routes.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "wellKnownSearchIndex": "https://markdown.cybergame.ai/.well-known/search-index.json",
+        "wellKnownPageRoutes": "https://markdown.cybergame.ai/.well-known/page-routes.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ar_topicaichatbotfil_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/ar/topics/ai-coding-tools/",
       "canonicalUrl": "https://markdown.cybergame.ai/ar/topics/ai-coding-tools/",
       "locale": "ar",
@@ -101100,6 +102288,138 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_hi_topicaigeneratedf_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/",
+      "canonicalUrl": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "topic",
+      "topicKey": "ai-chatbots",
+      "articleSlug": null,
+      "title": "AI chatbots Markdown iPhone aur iPad par",
+      "query": "iPhone ya iPad par AI chatbot ki Markdown files kaise kholen?",
+      "primaryKeyword": "AI chatbots Markdown iPhone",
+      "source": "ChatGPT, Claude, Gemini, Perplexity, Copilot, DeepSeek, Grok, NotebookLM",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/#topic-hub",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/topics/ai-chatbot-files/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/topics/ai-chatbot-files/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "searchIndex": "https://markdown.cybergame.ai/search-index.json",
+        "pageRoutes": "https://markdown.cybergame.ai/page-routes.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "wellKnownSearchIndex": "https://markdown.cybergame.ai/.well-known/search-index.json",
+        "wellKnownPageRoutes": "https://markdown.cybergame.ai/.well-known/page-routes.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_hi_topicaichatbotfil_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",

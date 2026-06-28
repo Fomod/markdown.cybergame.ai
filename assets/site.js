@@ -138,6 +138,7 @@
           store.setAttribute("data-ios-app-url", entry.iosAppUrl || "");
           store.setAttribute("data-app-store-conversion-link", "true");
           store.setAttribute("data-app-store-campaign-ready", "true");
+          store.setAttribute("data-app-store-campaign-params-active", entry.storeUrlIncludesCampaignParams ? "true" : "false");
           store.setAttribute("data-conversion-surface", entry.conversionMapSurface || "site-search-result");
           if (entry.conversionMapToken) store.setAttribute("data-app-store-campaign-token", entry.conversionMapToken);
           if (entry.appStoreId) store.setAttribute("data-app-store-id", entry.appStoreId);

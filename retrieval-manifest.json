@@ -105,7 +105,13 @@
     "Open Copilot Markdown file on iPhone",
     "Open DeepSeek Markdown file on iPhone",
     "Open Grok Markdown file on iPhone",
-    "Open NotebookLM Markdown file on iPhone"
+    "Open NotebookLM Markdown file on iPhone",
+    "Open Cursor Markdown file on iPhone",
+    "Open Claude Code Markdown file on iPhone",
+    "Open Codex Markdown file on iPhone",
+    "Open v0 Markdown file on iPhone",
+    "Open Bolt Markdown file on iPhone",
+    "Open Replit Markdown file on iPhone"
   ],
   "canonicalRoutes": [
     {

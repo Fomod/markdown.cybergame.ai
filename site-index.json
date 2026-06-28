@@ -147,6 +147,14 @@
     },
     {
       "@type": "Dataset",
+      "name": "Md Preview OpenSearch description",
+      "url": "https://markdown.cybergame.ai/opensearch.xml",
+      "encodingFormat": "application/opensearchdescription+xml",
+      "purpose": "OpenSearch description",
+      "dateModified": "2026-06-28"
+    },
+    {
+      "@type": "Dataset",
       "name": "Md Preview compact answer card",
       "url": "https://markdown.cybergame.ai/answer-card.json",
       "encodingFormat": "application/json",
@@ -353,7 +361,7 @@
       "height": 2688
     }
   ],
-  "pageCount": 760,
+  "pageCount": 770,
   "localeCount": 10,
   "pages": [
     {
@@ -984,6 +992,134 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_en_shots_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/search/",
+      "canonicalUrl": "https://markdown.cybergame.ai/search/",
+      "locale": "en",
+      "hreflang": "en",
+      "pageType": "search",
+      "topicKey": null,
+      "articleSlug": null,
+      "title": "Markdown File Search for iPhone and iPad",
+      "query": "Which Markdown viewer page should I open for my iPhone file problem?",
+      "primaryKeyword": "Markdown file search iPhone",
+      "source": "site search and top answer pack",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/search/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/search/#site-search",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/search/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/search/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/search/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/search/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/search/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/search/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/search/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/search/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/search/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/search/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_en_article_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -10725,6 +10861,134 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/zh/search/",
+      "canonicalUrl": "https://markdown.cybergame.ai/zh/search/",
+      "locale": "zh",
+      "hreflang": "zh-Hans",
+      "pageType": "search",
+      "topicKey": null,
+      "articleSlug": null,
+      "title": "iPhone 和 iPad Markdown 文件搜索",
+      "query": "iPhone 上遇到 Markdown 文件问题时应该看哪个页面？",
+      "primaryKeyword": "iPhone Markdown 文件搜索",
+      "source": "站内搜索和重点答案包",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/zh/search/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/zh/search/#site-search",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/search/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/search/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/search/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/search/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/search/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/search/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/search/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/search/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/search/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/search/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_zh_article_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/zh/topics/ai-generated-files/",
       "canonicalUrl": "https://markdown.cybergame.ai/zh/topics/ai-generated-files/",
       "locale": "zh",
@@ -20440,6 +20704,134 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ja_shots_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/ja/search/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ja/search/",
+      "locale": "ja",
+      "hreflang": "ja",
+      "pageType": "search",
+      "topicKey": null,
+      "articleSlug": null,
+      "title": "iPhoneとiPadのMarkdownファイル検索",
+      "query": "iPhoneのMarkdownファイル問題ではどのページを見るべきですか？",
+      "primaryKeyword": "Markdownファイル iPhone 検索",
+      "source": "サイト検索と主要回答パック",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ja/search/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ja/search/#site-search",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/search/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/search/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/search/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/search/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/search/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/search/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/search/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/search/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/search/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/search/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ja_article_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -30181,6 +30573,134 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/es/search/",
+      "canonicalUrl": "https://markdown.cybergame.ai/es/search/",
+      "locale": "es",
+      "hreflang": "es",
+      "pageType": "search",
+      "topicKey": null,
+      "articleSlug": null,
+      "title": "Busqueda de archivos Markdown para iPhone y iPad",
+      "query": "Que pagina de visor Markdown debo abrir para mi problema en iPhone?",
+      "primaryKeyword": "buscar archivo Markdown iPhone",
+      "source": "busqueda del sitio y paquete de respuestas",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/es/search/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/es/search/#site-search",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/search/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/search/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/search/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/search/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/search/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/search/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/search/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/search/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/search/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/search/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_es_article_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/es/topics/ai-generated-files/",
       "canonicalUrl": "https://markdown.cybergame.ai/es/topics/ai-generated-files/",
       "locale": "es",
@@ -39896,6 +40416,134 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_de_shots_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/de/search/",
+      "canonicalUrl": "https://markdown.cybergame.ai/de/search/",
+      "locale": "de",
+      "hreflang": "de",
+      "pageType": "search",
+      "topicKey": null,
+      "articleSlug": null,
+      "title": "Markdown-Dateisuche fur iPhone und iPad",
+      "query": "Welche Markdown-Viewer-Seite passt zu meinem iPhone-Dateiproblem?",
+      "primaryKeyword": "Markdown Datei Suche iPhone",
+      "source": "Seitensuche und Top-Antwortpaket",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/de/search/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/de/search/#site-search",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/search/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/search/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/search/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/search/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/search/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/search/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/search/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/search/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/search/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/search/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_de_article_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -49637,6 +50285,134 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/fr/search/",
+      "canonicalUrl": "https://markdown.cybergame.ai/fr/search/",
+      "locale": "fr",
+      "hreflang": "fr",
+      "pageType": "search",
+      "topicKey": null,
+      "articleSlug": null,
+      "title": "Recherche de fichiers Markdown pour iPhone et iPad",
+      "query": "Quelle page de lecteur Markdown ouvrir pour mon probleme sur iPhone ?",
+      "primaryKeyword": "recherche fichier Markdown iPhone",
+      "source": "recherche du site et pack de reponses",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/fr/search/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/fr/search/#site-search",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/search/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/search/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/search/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/search/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/search/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/search/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/search/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/search/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/search/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/search/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_fr_article_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/fr/topics/ai-generated-files/",
       "canonicalUrl": "https://markdown.cybergame.ai/fr/topics/ai-generated-files/",
       "locale": "fr",
@@ -59352,6 +60128,134 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_ptbr_shots_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/pt-br/search/",
+      "canonicalUrl": "https://markdown.cybergame.ai/pt-br/search/",
+      "locale": "pt-br",
+      "hreflang": "pt-BR",
+      "pageType": "search",
+      "topicKey": null,
+      "articleSlug": null,
+      "title": "Busca de arquivos Markdown para iPhone e iPad",
+      "query": "Qual pagina de visualizador Markdown devo abrir para meu problema no iPhone?",
+      "primaryKeyword": "busca arquivo Markdown iPhone",
+      "source": "busca do site e pacote de respostas",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/pt-br/search/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/pt-br/search/#site-search",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/search/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/search/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/search/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/search/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/search/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/search/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/search/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/search/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/search/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/search/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ptbr_article_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",
@@ -69093,6 +69997,134 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/ko/search/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ko/search/",
+      "locale": "ko",
+      "hreflang": "ko",
+      "pageType": "search",
+      "topicKey": null,
+      "articleSlug": null,
+      "title": "iPhone 및 iPad Markdown 파일 검색",
+      "query": "iPhone의 Markdown 파일 문제에는 어떤 페이지가 맞나요?",
+      "primaryKeyword": "Markdown 파일 검색 iPhone",
+      "source": "사이트 검색 및 상위 답변 팩",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ko/search/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ko/search/#site-search",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/search/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/search/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/search/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/search/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/search/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/search/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/search/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/search/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/search/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/search/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ko_article_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/ko/topics/ai-generated-files/",
       "canonicalUrl": "https://markdown.cybergame.ai/ko/topics/ai-generated-files/",
       "locale": "ko",
@@ -78821,6 +79853,134 @@
       "lastUpdated": "2026-06-28"
     },
     {
+      "url": "https://markdown.cybergame.ai/ar/search/",
+      "canonicalUrl": "https://markdown.cybergame.ai/ar/search/",
+      "locale": "ar",
+      "hreflang": "ar",
+      "pageType": "search",
+      "topicKey": null,
+      "articleSlug": null,
+      "title": "بحث ملفات Markdown على iPhone و iPad",
+      "query": "اي صفحة عارض Markdown تناسب مشكلة الملف على iPhone؟",
+      "primaryKeyword": "بحث ملف Markdown iPhone",
+      "source": "بحث الموقع وحزمة الاجابات",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/ar/search/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/ar/search/#site-search",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/search/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/search/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/search/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/search/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/search/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/search/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/search/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/search/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/search/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/search/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_ar_article_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
       "url": "https://markdown.cybergame.ai/ar/topics/ai-generated-files/",
       "canonicalUrl": "https://markdown.cybergame.ai/ar/topics/ai-generated-files/",
       "locale": "ar",
@@ -88536,6 +89696,134 @@
       "conversionIntent": "open-app-store-listing",
       "conversionMapSurface": "site-index-manifest",
       "conversionMapToken": "md_hi_shots_siteidx",
+      "conversionAction": {
+        "type": "AppStoreInstallAction",
+        "url": "https://apps.apple.com/app/id6760341080",
+        "appStoreId": "6760341080",
+        "platform": [
+          "iPhone",
+          "iPad"
+        ],
+        "listingDetails": "defer-to-app-store"
+      },
+      "lastUpdated": "2026-06-28"
+    },
+    {
+      "url": "https://markdown.cybergame.ai/hi/search/",
+      "canonicalUrl": "https://markdown.cybergame.ai/hi/search/",
+      "locale": "hi",
+      "hreflang": "hi",
+      "pageType": "search",
+      "topicKey": null,
+      "articleSlug": null,
+      "title": "iPhone aur iPad ke liye Markdown file search",
+      "query": "Mere iPhone Markdown file problem ke liye kaunsi viewer page sahi hai?",
+      "primaryKeyword": "Markdown file search iPhone",
+      "source": "site search and top answer pack",
+      "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+      "fileExtensions": [
+        ".md",
+        ".markdown",
+        ".mdx",
+        ".rmd",
+        ".qmd"
+      ],
+      "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+      "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+      "appStoreDeveloperId": "1778824442",
+      "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+      "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+      "bundleId": "CyberGame.App-10",
+      "appStoreVersion": "1.2",
+      "appStoreReleaseDate": "2026-03-11T07:00:00Z",
+      "appStoreCurrentVersionReleaseDate": "2026-03-16T23:48:04Z",
+      "schemaIds": {
+        "webPage": "https://markdown.cybergame.ai/hi/search/#webpage",
+        "app": "https://markdown.cybergame.ai/#app",
+        "mainEntity": "https://markdown.cybergame.ai/hi/search/#site-search",
+        "howTo": null
+      },
+      "screenshots": [
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-code-json-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-math-iphone.png",
+        "https://markdown.cybergame.ai/assets/screenshots/md-preview-markdown-tables-iphone.png"
+      ],
+      "languageAlternates": [
+        {
+          "locale": "en",
+          "hreflang": "en",
+          "url": "https://markdown.cybergame.ai/search/"
+        },
+        {
+          "locale": "zh",
+          "hreflang": "zh-Hans",
+          "url": "https://markdown.cybergame.ai/zh/search/"
+        },
+        {
+          "locale": "ja",
+          "hreflang": "ja",
+          "url": "https://markdown.cybergame.ai/ja/search/"
+        },
+        {
+          "locale": "es",
+          "hreflang": "es",
+          "url": "https://markdown.cybergame.ai/es/search/"
+        },
+        {
+          "locale": "de",
+          "hreflang": "de",
+          "url": "https://markdown.cybergame.ai/de/search/"
+        },
+        {
+          "locale": "fr",
+          "hreflang": "fr",
+          "url": "https://markdown.cybergame.ai/fr/search/"
+        },
+        {
+          "locale": "pt-br",
+          "hreflang": "pt-BR",
+          "url": "https://markdown.cybergame.ai/pt-br/search/"
+        },
+        {
+          "locale": "ko",
+          "hreflang": "ko",
+          "url": "https://markdown.cybergame.ai/ko/search/"
+        },
+        {
+          "locale": "ar",
+          "hreflang": "ar",
+          "url": "https://markdown.cybergame.ai/ar/search/"
+        },
+        {
+          "locale": "hi",
+          "hreflang": "hi",
+          "url": "https://markdown.cybergame.ai/hi/search/"
+        }
+      ],
+      "machineReadableData": {
+        "answerCard": "https://markdown.cybergame.ai/answer-card.json",
+        "topAnswers": "https://markdown.cybergame.ai/top-answers.json",
+        "wellKnownTopAnswers": "https://markdown.cybergame.ai/.well-known/top-answers.json",
+        "retrievalManifest": "https://markdown.cybergame.ai/retrieval-manifest.json",
+        "wellKnownRetrievalManifest": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+        "answerIndex": "https://markdown.cybergame.ai/answers.json",
+        "aiCitation": "https://markdown.cybergame.ai/ai-citation.json",
+        "queryIndex": "https://markdown.cybergame.ai/query-index.json",
+        "imageIndex": "https://markdown.cybergame.ai/image-index.json",
+        "intentRouter": "https://markdown.cybergame.ai/intent-router.json",
+        "fileFormats": "https://markdown.cybergame.ai/file-formats.json",
+        "viewerSelector": "https://markdown.cybergame.ai/viewer-selector.json",
+        "howToIndex": "https://markdown.cybergame.ai/how-to-index.json",
+        "troubleshootingIndex": "https://markdown.cybergame.ai/troubleshooting-index.json",
+        "faqIndex": "https://markdown.cybergame.ai/faq-index.json",
+        "citationCards": "https://markdown.cybergame.ai/citation-cards.json",
+        "assistantAnswers": "https://markdown.cybergame.ai/assistant-answers.json",
+        "conversionMap": "https://markdown.cybergame.ai/conversion-map.json",
+        "indexNowUrls": "https://markdown.cybergame.ai/indexnow-urls.json"
+      },
+      "conversionIntent": "open-app-store-listing",
+      "conversionMapSurface": "site-index-manifest",
+      "conversionMapToken": "md_hi_article_siteidx",
       "conversionAction": {
         "type": "AppStoreInstallAction",
         "url": "https://apps.apple.com/app/id6760341080",

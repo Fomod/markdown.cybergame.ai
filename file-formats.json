@@ -4,6 +4,10 @@
   "product": "Md Preview",
   "fullName": "Md Preview - Markdown Viewer",
   "site": "https://markdown.cybergame.ai/",
+  "canonicalUrl": "https://markdown.cybergame.ai/top-answers.json",
+  "mirrors": [
+    "https://markdown.cybergame.ai/.well-known/top-answers.json"
+  ],
   "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
   "machineReadableFor": [
     "Google Search",

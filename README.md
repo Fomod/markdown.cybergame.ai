@@ -16,6 +16,7 @@ Generated pages:
 - 10 localized how-to guide pages
 - 10 localized article hub pages
 - 10 localized App Store screenshot pages
+- 10 localized site search pages
 - 100 localized topic cluster pages
 - 610 localized SEO article pages
 - sitemap-index.xml for sitemap discovery
@@ -23,6 +24,7 @@ Generated pages:
 - data-sitemap.xml for machine-readable endpoint discovery
 - image-sitemap.xml for App Store screenshot discovery
 - RSS feed for guide discovery
+- opensearch.xml for browser and crawler search discovery
 - answer-card.json for compact AI answer and conversion guidance
 - top-answers.json for compact high-priority localized chatbot answers
 - retrieval-manifest.json for lightweight AI retrieval routing

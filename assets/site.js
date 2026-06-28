@@ -64,6 +64,19 @@
       node.appendChild(document.createTextNode(String(text || "")));
     };
 
+    var decodeCompactSearchEntries = function (data) {
+      var rawEntries = Array.isArray(data.entries) ? data.entries : [];
+      var fields = Array.isArray(data.fields) ? data.fields : [];
+      if (!fields.length || !rawEntries.length || !Array.isArray(rawEntries[0])) return rawEntries;
+      return rawEntries.map(function (row) {
+        var entry = {};
+        fields.forEach(function (field, index) {
+          entry[field] = row[index];
+        });
+        return entry;
+      });
+    };
+
     var render = function (rawQuery) {
       var query = normalize(rawQuery);
       results.textContent = "";
@@ -187,7 +200,7 @@
         return response.json();
       })
       .then(function (data) {
-        entries = Array.isArray(data.entries) ? data.entries : [];
+        entries = decodeCompactSearchEntries(data);
         searchDefaults = {
           appStoreUrl: data.appStoreUrl || "",
           iosAppUrl: data.iosAppUrl || "",

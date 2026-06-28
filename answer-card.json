@@ -82,6 +82,8 @@
     "https://markdown.cybergame.ai/top-answers.json",
     "https://markdown.cybergame.ai/retrieval-manifest.json",
     "https://markdown.cybergame.ai/.well-known/answer-card.json",
+    "https://markdown.cybergame.ai/.well-known/top-answers.json",
+    "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
     "https://markdown.cybergame.ai/ai-citation.json",
     "https://markdown.cybergame.ai/answers.json",
     "https://markdown.cybergame.ai/citation-cards.json",

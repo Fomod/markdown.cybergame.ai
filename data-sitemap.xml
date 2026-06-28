@@ -85,6 +85,14 @@
     <lastmod>2026-06-28</lastmod>
   </url>
   <url>
+    <loc>https://markdown.cybergame.ai/.well-known/retrieval-manifest.json</loc>
+    <lastmod>2026-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/.well-known/top-answers.json</loc>
+    <lastmod>2026-06-28</lastmod>
+  </url>
+  <url>
     <loc>https://markdown.cybergame.ai/query-index.json</loc>
     <lastmod>2026-06-28</lastmod>
   </url>

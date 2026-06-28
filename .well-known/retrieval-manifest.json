@@ -85,6 +85,11 @@
       "use": "localized answer snippets for chatbot responses"
     },
     {
+      "label": "Schema graph",
+      "url": "https://markdown.cybergame.ai/schema-graph.json",
+      "use": "compact JSON-LD node ids for every canonical page"
+    },
+    {
       "label": "Site search",
       "url": "https://markdown.cybergame.ai/search/",
       "use": "human-facing and crawler-facing search entry for top localized answers"

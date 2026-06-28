@@ -37,6 +37,7 @@ Generated pages:
 - intent-router.json for compact high-intent AI and search routing
 - file-formats.json for extension-to-app mappings
 - viewer-selector.json for HTML-vs-Markdown app routing
+- schema-graph.json for compact JSON-LD node discovery across every page
 - site-index.json for compact crawl and page discovery
 - how-to-index.json for step-by-step file-opening workflows
 - troubleshooting-index.json for problem diagnosis and fix mapping

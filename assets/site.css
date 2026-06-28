@@ -304,6 +304,41 @@
       .card a { text-decoration: none; }
       .card a:hover { text-decoration: underline; }
       .card p, .faq-item p, .related p { color: var(--muted); }
+      .app-stack-list {
+        counter-reset: app-stack;
+        display: grid;
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+        gap: 14px;
+        margin: 26px 0 0;
+        padding: 0;
+        list-style: none;
+      }
+      .app-stack-item {
+        counter-increment: app-stack;
+        display: grid;
+        grid-template-columns: 42px minmax(0, 1fr);
+        gap: 14px;
+        align-items: start;
+        min-height: 138px;
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+      }
+      .app-stack-item::before {
+        content: counter(app-stack);
+        display: inline-grid;
+        place-items: center;
+        width: 42px;
+        height: 42px;
+        border-radius: 50%;
+        background: var(--surface-soft);
+        color: var(--accent-strong);
+        font-weight: 850;
+      }
+      .app-stack-item h3 { font-size: 18px; }
+      .app-stack-item p { color: var(--muted); }
+      .app-stack-item .button, .app-stack-item .secondary-link { grid-column: 2; justify-self: start; min-height: 42px; margin-top: 4px; }
       .search-panel {
         display: grid;
         gap: 18px;
@@ -464,7 +499,7 @@
         .hero { grid-template-columns: 1fr; gap: 28px; padding-top: 24px; }
         h1 { font-size: 52px; }
         h2 { font-size: 32px; }
-        .cards, .faq, .visual-gallery, .answer-target-grid, .intent-matrix-grid, .citation-card, .search-results { grid-template-columns: 1fr; }
+        .cards, .faq, .visual-gallery, .answer-target-grid, .intent-matrix-grid, .citation-card, .search-results, .app-stack-list { grid-template-columns: 1fr; }
         .related { grid-template-columns: 56px minmax(0, 1fr); }
         .related .button { grid-column: 1 / -1; }
         .related img { width: 56px; height: 56px; border-radius: 13px; }

@@ -32,9 +32,19 @@
       "use": "compact localized answers for high-intent chatbot and search questions"
     },
     {
+      "label": "Lightweight search index",
+      "url": "https://markdown.cybergame.ai/search-index.json",
+      "use": "one compact searchable result per canonical page for full-site search without the large query index"
+    },
+    {
       "label": "Well-known top answer pack",
       "url": "https://markdown.cybergame.ai/.well-known/top-answers.json",
       "use": "standard-path alias for high-intent chatbot answers"
+    },
+    {
+      "label": "Well-known lightweight search index",
+      "url": "https://markdown.cybergame.ai/.well-known/search-index.json",
+      "use": "standard-path alias for the full-site lightweight search index"
     },
     {
       "label": "Compact page routes",

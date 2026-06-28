@@ -9,6 +9,10 @@
     <lastmod>2026-06-28</lastmod>
   </url>
   <url>
+    <loc>https://markdown.cybergame.ai/search-index.json</loc>
+    <lastmod>2026-06-28</lastmod>
+  </url>
+  <url>
     <loc>https://markdown.cybergame.ai/page-routes.json</loc>
     <lastmod>2026-06-28</lastmod>
   </url>
@@ -98,6 +102,10 @@
   </url>
   <url>
     <loc>https://markdown.cybergame.ai/.well-known/retrieval-manifest.json</loc>
+    <lastmod>2026-06-28</lastmod>
+  </url>
+  <url>
+    <loc>https://markdown.cybergame.ai/.well-known/search-index.json</loc>
     <lastmod>2026-06-28</lastmod>
   </url>
   <url>

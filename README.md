@@ -17,7 +17,7 @@ Generated pages:
 - 10 localized article hub pages
 - 10 localized App Store screenshot pages
 - 10 localized site search pages
-- 100 localized topic cluster pages
+- 110 localized topic cluster pages
 - 670 localized SEO article pages
 - sitemap-index.xml for sitemap discovery
 - hreflang sitemap
@@ -27,6 +27,7 @@ Generated pages:
 - opensearch.xml for browser and crawler search discovery
 - answer-card.json for compact AI answer and conversion guidance
 - top-answers.json for compact high-priority localized chatbot answers
+- search-index.json for lightweight full-site search across every generated page
 - page-routes.json for compact canonical page routing across every generated page
 - retrieval-manifest.json for lightweight AI retrieval routing
 - answers.json for machine-readable search answers
@@ -46,6 +47,6 @@ Generated pages:
 - 1fa7fe5bf70bef83d34c0c9c29c181c8.txt for IndexNow host verification
 - robots.txt
 - ai.txt for lightweight AI discovery
-- .well-known/answer-card.json, .well-known/top-answers.json, .well-known/page-routes.json, .well-known/retrieval-manifest.json, .well-known/ai.txt, and .well-known/llms.txt for agent discovery
+- .well-known/answer-card.json, .well-known/top-answers.json, .well-known/search-index.json, .well-known/page-routes.json, .well-known/retrieval-manifest.json, .well-known/ai.txt, and .well-known/llms.txt for agent discovery
 - llms.txt for AI and LLM context
 - llms-full.txt for detailed AI and chatbot context

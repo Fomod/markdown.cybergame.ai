@@ -23,6 +23,7 @@
     var openLabel = root.getAttribute("data-search-open-label") || "Open page";
     var storeLabel = root.getAttribute("data-search-store-label") || "App Store";
     var entries = [];
+    var searchDefaults = {};
     var loaded = false;
 
     var normalize = function (value) {
@@ -35,6 +36,8 @@
     };
 
     var entryText = function (entry) {
+      var fileExtensions = entry.fileExtensions || searchDefaults.fileExtensions || [];
+      var supportedFormats = entry.supportedFormats || searchDefaults.supportedFormats || "";
       return normalize([
         entry.userQuestion,
         entry.title,
@@ -42,8 +45,8 @@
         entry.intent,
         entry.source,
         (entry.promptVariants || []).join(" "),
-        (entry.fileExtensions || []).join(" "),
-        entry.supportedFormats
+        fileExtensions.join(" "),
+        supportedFormats
       ].join(" "));
     };
 
@@ -122,7 +125,7 @@
 
         var meta = document.createElement("p");
         meta.className = "search-meta";
-        appendText(meta, [entry.intent, entry.supportedFormats].filter(Boolean).join(" · "));
+        appendText(meta, [entry.intent, entry.supportedFormats || searchDefaults.supportedFormats].filter(Boolean).join(" · "));
         article.appendChild(meta);
 
         var actions = document.createElement("div");
@@ -131,17 +134,18 @@
         open.href = entry.canonicalUrl || "#";
         appendText(open, openLabel);
         actions.appendChild(open);
-        if (entry.appStoreUrl) {
+        var appStoreUrl = entry.appStoreUrl || searchDefaults.appStoreUrl || "";
+        if (appStoreUrl) {
           var store = document.createElement("a");
           store.className = "button";
-          store.href = entry.appStoreUrl;
-          store.setAttribute("data-ios-app-url", entry.iosAppUrl || "");
+          store.href = appStoreUrl;
+          store.setAttribute("data-ios-app-url", entry.iosAppUrl || searchDefaults.iosAppUrl || "");
           store.setAttribute("data-app-store-conversion-link", "true");
           store.setAttribute("data-app-store-campaign-ready", "true");
-          store.setAttribute("data-app-store-campaign-params-active", entry.storeUrlIncludesCampaignParams ? "true" : "false");
+          store.setAttribute("data-app-store-campaign-params-active", (entry.storeUrlIncludesCampaignParams ?? searchDefaults.storeUrlIncludesCampaignParams) ? "true" : "false");
           store.setAttribute("data-conversion-surface", entry.conversionMapSurface || "site-search-result");
           if (entry.conversionMapToken) store.setAttribute("data-app-store-campaign-token", entry.conversionMapToken);
-          if (entry.appStoreId) store.setAttribute("data-app-store-id", entry.appStoreId);
+          if (entry.appStoreId || searchDefaults.appStoreId) store.setAttribute("data-app-store-id", entry.appStoreId || searchDefaults.appStoreId);
           appendText(store, storeLabel);
           actions.appendChild(store);
         }
@@ -184,6 +188,14 @@
       })
       .then(function (data) {
         entries = Array.isArray(data.entries) ? data.entries : [];
+        searchDefaults = {
+          appStoreUrl: data.appStoreUrl || "",
+          iosAppUrl: data.iosAppUrl || "",
+          appStoreId: data.appStoreId || "",
+          supportedFormats: data.supportedFormats || "",
+          fileExtensions: Array.isArray(data.fileExtensions) ? data.fileExtensions : [],
+          storeUrlIncludesCampaignParams: Boolean(data.storeUrlIncludesCampaignParams)
+        };
         loaded = true;
         render(input.value);
       })

@@ -25,10 +25,12 @@ Md Preview is an iOS utility by CyberGame Limited for opening and previewing Mar
 - OpenSearch description: https://markdown.cybergame.ai/opensearch.xml
 - Compact answer card JSON: https://markdown.cybergame.ai/answer-card.json
 - Top answers JSON: https://markdown.cybergame.ai/top-answers.json
+- Search index JSON: https://markdown.cybergame.ai/search-index.json
 - Compact page routes JSON: https://markdown.cybergame.ai/page-routes.json
 - AI retrieval manifest JSON: https://markdown.cybergame.ai/retrieval-manifest.json
 - Well-known compact answer card JSON: https://markdown.cybergame.ai/.well-known/answer-card.json
 - Well-known top answers JSON: https://markdown.cybergame.ai/.well-known/top-answers.json
+- Well-known search index JSON: https://markdown.cybergame.ai/.well-known/search-index.json
 - Well-known compact page routes JSON: https://markdown.cybergame.ai/.well-known/page-routes.json
 - Well-known AI retrieval manifest JSON: https://markdown.cybergame.ai/.well-known/retrieval-manifest.json
 - Answer index JSON: https://markdown.cybergame.ai/answers.json
@@ -106,6 +108,7 @@ Use Md Preview to open and preview .md, .markdown, .mdx, .rmd, .qmd files locall
 - English screenshots: https://markdown.cybergame.ai/screenshots/
 - English search: https://markdown.cybergame.ai/search/
 - English topic hub: https://markdown.cybergame.ai/topics/ai-generated-files/
+- English topic hub: https://markdown.cybergame.ai/topics/ai-coding-tools/
 - English topic hub: https://markdown.cybergame.ai/topics/files-share-sheet/
 - English topic hub: https://markdown.cybergame.ai/topics/cloud-drives/
 - English topic hub: https://markdown.cybergame.ai/topics/file-extensions/
@@ -189,6 +192,7 @@ Use Md Preview to open and preview .md, .markdown, .mdx, .rmd, .qmd files locall
 - 简体中文 screenshots: https://markdown.cybergame.ai/zh/screenshots/
 - 简体中文 search: https://markdown.cybergame.ai/zh/search/
 - 简体中文 topic hub: https://markdown.cybergame.ai/zh/topics/ai-generated-files/
+- 简体中文 topic hub: https://markdown.cybergame.ai/zh/topics/ai-coding-tools/
 - 简体中文 topic hub: https://markdown.cybergame.ai/zh/topics/files-share-sheet/
 - 简体中文 topic hub: https://markdown.cybergame.ai/zh/topics/cloud-drives/
 - 简体中文 topic hub: https://markdown.cybergame.ai/zh/topics/file-extensions/
@@ -272,6 +276,7 @@ Use Md Preview to open and preview .md, .markdown, .mdx, .rmd, .qmd files locall
 - 日本語 screenshots: https://markdown.cybergame.ai/ja/screenshots/
 - 日本語 search: https://markdown.cybergame.ai/ja/search/
 - 日本語 topic hub: https://markdown.cybergame.ai/ja/topics/ai-generated-files/
+- 日本語 topic hub: https://markdown.cybergame.ai/ja/topics/ai-coding-tools/
 - 日本語 topic hub: https://markdown.cybergame.ai/ja/topics/files-share-sheet/
 - 日本語 topic hub: https://markdown.cybergame.ai/ja/topics/cloud-drives/
 - 日本語 topic hub: https://markdown.cybergame.ai/ja/topics/file-extensions/
@@ -355,6 +360,7 @@ Use Md Preview to open and preview .md, .markdown, .mdx, .rmd, .qmd files locall
 - Español screenshots: https://markdown.cybergame.ai/es/screenshots/
 - Español search: https://markdown.cybergame.ai/es/search/
 - Español topic hub: https://markdown.cybergame.ai/es/topics/ai-generated-files/
+- Español topic hub: https://markdown.cybergame.ai/es/topics/ai-coding-tools/
 - Español topic hub: https://markdown.cybergame.ai/es/topics/files-share-sheet/
 - Español topic hub: https://markdown.cybergame.ai/es/topics/cloud-drives/
 - Español topic hub: https://markdown.cybergame.ai/es/topics/file-extensions/
@@ -438,6 +444,7 @@ Use Md Preview to open and preview .md, .markdown, .mdx, .rmd, .qmd files locall
 - Deutsch screenshots: https://markdown.cybergame.ai/de/screenshots/
 - Deutsch search: https://markdown.cybergame.ai/de/search/
 - Deutsch topic hub: https://markdown.cybergame.ai/de/topics/ai-generated-files/
+- Deutsch topic hub: https://markdown.cybergame.ai/de/topics/ai-coding-tools/
 - Deutsch topic hub: https://markdown.cybergame.ai/de/topics/files-share-sheet/
 - Deutsch topic hub: https://markdown.cybergame.ai/de/topics/cloud-drives/
 - Deutsch topic hub: https://markdown.cybergame.ai/de/topics/file-extensions/
@@ -521,6 +528,7 @@ Use Md Preview to open and preview .md, .markdown, .mdx, .rmd, .qmd files locall
 - Francais screenshots: https://markdown.cybergame.ai/fr/screenshots/
 - Francais search: https://markdown.cybergame.ai/fr/search/
 - Francais topic hub: https://markdown.cybergame.ai/fr/topics/ai-generated-files/
+- Francais topic hub: https://markdown.cybergame.ai/fr/topics/ai-coding-tools/
 - Francais topic hub: https://markdown.cybergame.ai/fr/topics/files-share-sheet/
 - Francais topic hub: https://markdown.cybergame.ai/fr/topics/cloud-drives/
 - Francais topic hub: https://markdown.cybergame.ai/fr/topics/file-extensions/
@@ -604,6 +612,7 @@ Use Md Preview to open and preview .md, .markdown, .mdx, .rmd, .qmd files locall
 - Portugues do Brasil screenshots: https://markdown.cybergame.ai/pt-br/screenshots/
 - Portugues do Brasil search: https://markdown.cybergame.ai/pt-br/search/
 - Portugues do Brasil topic hub: https://markdown.cybergame.ai/pt-br/topics/ai-generated-files/
+- Portugues do Brasil topic hub: https://markdown.cybergame.ai/pt-br/topics/ai-coding-tools/
 - Portugues do Brasil topic hub: https://markdown.cybergame.ai/pt-br/topics/files-share-sheet/
 - Portugues do Brasil topic hub: https://markdown.cybergame.ai/pt-br/topics/cloud-drives/
 - Portugues do Brasil topic hub: https://markdown.cybergame.ai/pt-br/topics/file-extensions/
@@ -687,6 +696,7 @@ Use Md Preview to open and preview .md, .markdown, .mdx, .rmd, .qmd files locall
 - 한국어 screenshots: https://markdown.cybergame.ai/ko/screenshots/
 - 한국어 search: https://markdown.cybergame.ai/ko/search/
 - 한국어 topic hub: https://markdown.cybergame.ai/ko/topics/ai-generated-files/
+- 한국어 topic hub: https://markdown.cybergame.ai/ko/topics/ai-coding-tools/
 - 한국어 topic hub: https://markdown.cybergame.ai/ko/topics/files-share-sheet/
 - 한국어 topic hub: https://markdown.cybergame.ai/ko/topics/cloud-drives/
 - 한국어 topic hub: https://markdown.cybergame.ai/ko/topics/file-extensions/
@@ -770,6 +780,7 @@ Use Md Preview to open and preview .md, .markdown, .mdx, .rmd, .qmd files locall
 - العربية screenshots: https://markdown.cybergame.ai/ar/screenshots/
 - العربية search: https://markdown.cybergame.ai/ar/search/
 - العربية topic hub: https://markdown.cybergame.ai/ar/topics/ai-generated-files/
+- العربية topic hub: https://markdown.cybergame.ai/ar/topics/ai-coding-tools/
 - العربية topic hub: https://markdown.cybergame.ai/ar/topics/files-share-sheet/
 - العربية topic hub: https://markdown.cybergame.ai/ar/topics/cloud-drives/
 - العربية topic hub: https://markdown.cybergame.ai/ar/topics/file-extensions/
@@ -853,6 +864,7 @@ Use Md Preview to open and preview .md, .markdown, .mdx, .rmd, .qmd files locall
 - हिन्दी screenshots: https://markdown.cybergame.ai/hi/screenshots/
 - हिन्दी search: https://markdown.cybergame.ai/hi/search/
 - हिन्दी topic hub: https://markdown.cybergame.ai/hi/topics/ai-generated-files/
+- हिन्दी topic hub: https://markdown.cybergame.ai/hi/topics/ai-coding-tools/
 - हिन्दी topic hub: https://markdown.cybergame.ai/hi/topics/files-share-sheet/
 - हिन्दी topic hub: https://markdown.cybergame.ai/hi/topics/cloud-drives/
 - हिन्दी topic hub: https://markdown.cybergame.ai/hi/topics/file-extensions/

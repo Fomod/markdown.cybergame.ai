@@ -5,7 +5,7 @@
   "schemaVersion": "troubleshooting-index-v1",
   "name": "Md Preview iOS file preview troubleshooting index",
   "description": "Official problem-to-fix mappings for iPhone and iPad file preview failures.",
-  "lastUpdated": "2026-06-28",
+  "lastUpdated": "2026-06-29",
   "product": "Md Preview",
   "fullName": "Md Preview - Markdown Viewer",
   "site": "https://markdown.cybergame.ai/",
@@ -847,7 +847,7 @@
         "@id": "https://markdown.cybergame.ai/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.",
         "url": "https://markdown.cybergame.ai/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -1086,7 +1086,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -1098,7 +1098,7 @@
         "@id": "https://markdown.cybergame.ai/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.",
         "url": "https://markdown.cybergame.ai/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -1337,7 +1337,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -1349,7 +1349,7 @@
         "@id": "https://markdown.cybergame.ai/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.",
         "url": "https://markdown.cybergame.ai/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -1588,7 +1588,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -1600,7 +1600,7 @@
         "@id": "https://markdown.cybergame.ai/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.",
         "url": "https://markdown.cybergame.ai/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -1839,7 +1839,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -1851,7 +1851,7 @@
         "@id": "https://markdown.cybergame.ai/zh/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
         "url": "https://markdown.cybergame.ai/zh/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -2090,7 +2090,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -2102,7 +2102,7 @@
         "@id": "https://markdown.cybergame.ai/zh/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
         "url": "https://markdown.cybergame.ai/zh/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -2341,7 +2341,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -2353,7 +2353,7 @@
         "@id": "https://markdown.cybergame.ai/zh/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
         "url": "https://markdown.cybergame.ai/zh/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -2592,7 +2592,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -2604,7 +2604,7 @@
         "@id": "https://markdown.cybergame.ai/zh/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。",
         "url": "https://markdown.cybergame.ai/zh/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -2843,7 +2843,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -2855,7 +2855,7 @@
         "@id": "https://markdown.cybergame.ai/zh-hant/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://markdown.cybergame.ai/zh-hant/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -3094,7 +3094,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -3106,7 +3106,7 @@
         "@id": "https://markdown.cybergame.ai/zh-hant/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://markdown.cybergame.ai/zh-hant/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -3345,7 +3345,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -3357,7 +3357,7 @@
         "@id": "https://markdown.cybergame.ai/zh-hant/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://markdown.cybergame.ai/zh-hant/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -3596,7 +3596,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -3608,7 +3608,7 @@
         "@id": "https://markdown.cybergame.ai/zh-hant/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://markdown.cybergame.ai/zh-hant/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -3847,7 +3847,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -3859,7 +3859,7 @@
         "@id": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
         "url": "https://markdown.cybergame.ai/ja/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -4098,7 +4098,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -4110,7 +4110,7 @@
         "@id": "https://markdown.cybergame.ai/ja/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
         "url": "https://markdown.cybergame.ai/ja/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -4349,7 +4349,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -4361,7 +4361,7 @@
         "@id": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
         "url": "https://markdown.cybergame.ai/ja/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -4600,7 +4600,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -4612,7 +4612,7 @@
         "@id": "https://markdown.cybergame.ai/ja/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。",
         "url": "https://markdown.cybergame.ai/ja/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -4851,7 +4851,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -4863,7 +4863,7 @@
         "@id": "https://markdown.cybergame.ai/es/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
         "url": "https://markdown.cybergame.ai/es/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -5102,7 +5102,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -5114,7 +5114,7 @@
         "@id": "https://markdown.cybergame.ai/es/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
         "url": "https://markdown.cybergame.ai/es/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -5353,7 +5353,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -5365,7 +5365,7 @@
         "@id": "https://markdown.cybergame.ai/es/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
         "url": "https://markdown.cybergame.ai/es/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -5604,7 +5604,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -5616,7 +5616,7 @@
         "@id": "https://markdown.cybergame.ai/es/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.",
         "url": "https://markdown.cybergame.ai/es/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -5855,7 +5855,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -5867,7 +5867,7 @@
         "@id": "https://markdown.cybergame.ai/de/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
         "url": "https://markdown.cybergame.ai/de/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -6106,7 +6106,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -6118,7 +6118,7 @@
         "@id": "https://markdown.cybergame.ai/de/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
         "url": "https://markdown.cybergame.ai/de/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -6357,7 +6357,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -6369,7 +6369,7 @@
         "@id": "https://markdown.cybergame.ai/de/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
         "url": "https://markdown.cybergame.ai/de/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -6608,7 +6608,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -6620,7 +6620,7 @@
         "@id": "https://markdown.cybergame.ai/de/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf iPhone oder iPad an.",
         "url": "https://markdown.cybergame.ai/de/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -6859,7 +6859,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -6871,7 +6871,7 @@
         "@id": "https://markdown.cybergame.ai/fr/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
         "url": "https://markdown.cybergame.ai/fr/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -7110,7 +7110,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -7122,7 +7122,7 @@
         "@id": "https://markdown.cybergame.ai/fr/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
         "url": "https://markdown.cybergame.ai/fr/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -7361,7 +7361,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -7373,7 +7373,7 @@
         "@id": "https://markdown.cybergame.ai/fr/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
         "url": "https://markdown.cybergame.ai/fr/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -7612,7 +7612,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -7624,7 +7624,7 @@
         "@id": "https://markdown.cybergame.ai/fr/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.",
         "url": "https://markdown.cybergame.ai/fr/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -7863,7 +7863,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -7875,7 +7875,7 @@
         "@id": "https://markdown.cybergame.ai/pt-br/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
         "url": "https://markdown.cybergame.ai/pt-br/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -8114,7 +8114,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -8126,7 +8126,7 @@
         "@id": "https://markdown.cybergame.ai/pt-br/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
         "url": "https://markdown.cybergame.ai/pt-br/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -8365,7 +8365,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -8377,7 +8377,7 @@
         "@id": "https://markdown.cybergame.ai/pt-br/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
         "url": "https://markdown.cybergame.ai/pt-br/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -8616,7 +8616,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -8628,7 +8628,7 @@
         "@id": "https://markdown.cybergame.ai/pt-br/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.",
         "url": "https://markdown.cybergame.ai/pt-br/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -8867,7 +8867,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -8879,7 +8879,7 @@
         "@id": "https://markdown.cybergame.ai/ko/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
         "url": "https://markdown.cybergame.ai/ko/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -9118,7 +9118,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -9130,7 +9130,7 @@
         "@id": "https://markdown.cybergame.ai/ko/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
         "url": "https://markdown.cybergame.ai/ko/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -9369,7 +9369,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -9381,7 +9381,7 @@
         "@id": "https://markdown.cybergame.ai/ko/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
         "url": "https://markdown.cybergame.ai/ko/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -9620,7 +9620,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -9632,7 +9632,7 @@
         "@id": "https://markdown.cybergame.ai/ko/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.",
         "url": "https://markdown.cybergame.ai/ko/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -9871,7 +9871,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -9883,7 +9883,7 @@
         "@id": "https://markdown.cybergame.ai/ar/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
         "url": "https://markdown.cybergame.ai/ar/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -10122,7 +10122,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -10134,7 +10134,7 @@
         "@id": "https://markdown.cybergame.ai/ar/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
         "url": "https://markdown.cybergame.ai/ar/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -10373,7 +10373,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -10385,7 +10385,7 @@
         "@id": "https://markdown.cybergame.ai/ar/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
         "url": "https://markdown.cybergame.ai/ar/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -10624,7 +10624,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -10636,7 +10636,7 @@
         "@id": "https://markdown.cybergame.ai/ar/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.",
         "url": "https://markdown.cybergame.ai/ar/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -10875,7 +10875,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -10887,7 +10887,7 @@
         "@id": "https://markdown.cybergame.ai/hi/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
         "url": "https://markdown.cybergame.ai/hi/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -11126,7 +11126,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -11138,7 +11138,7 @@
         "@id": "https://markdown.cybergame.ai/hi/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
         "url": "https://markdown.cybergame.ai/hi/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -11377,7 +11377,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -11389,7 +11389,7 @@
         "@id": "https://markdown.cybergame.ai/hi/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
         "url": "https://markdown.cybergame.ai/hi/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -11628,7 +11628,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -11640,7 +11640,7 @@
         "@id": "https://markdown.cybergame.ai/hi/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
         "url": "https://markdown.cybergame.ai/hi/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -11879,7 +11879,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -11891,7 +11891,7 @@
         "@id": "https://markdown.cybergame.ai/it/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.",
         "url": "https://markdown.cybergame.ai/it/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -12130,7 +12130,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -12142,7 +12142,7 @@
         "@id": "https://markdown.cybergame.ai/it/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.",
         "url": "https://markdown.cybergame.ai/it/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -12381,7 +12381,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -12393,7 +12393,7 @@
         "@id": "https://markdown.cybergame.ai/it/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.",
         "url": "https://markdown.cybergame.ai/it/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -12632,7 +12632,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -12644,7 +12644,7 @@
         "@id": "https://markdown.cybergame.ai/it/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.",
         "url": "https://markdown.cybergame.ai/it/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -12883,7 +12883,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -12895,7 +12895,7 @@
         "@id": "https://markdown.cybergame.ai/tr/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
         "url": "https://markdown.cybergame.ai/tr/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -13134,7 +13134,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -13146,7 +13146,7 @@
         "@id": "https://markdown.cybergame.ai/tr/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
         "url": "https://markdown.cybergame.ai/tr/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -13385,7 +13385,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -13397,7 +13397,7 @@
         "@id": "https://markdown.cybergame.ai/tr/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
         "url": "https://markdown.cybergame.ai/tr/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -13636,7 +13636,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -13648,7 +13648,7 @@
         "@id": "https://markdown.cybergame.ai/tr/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
         "url": "https://markdown.cybergame.ai/tr/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -13887,7 +13887,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -13899,7 +13899,7 @@
         "@id": "https://markdown.cybergame.ai/id/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.",
         "url": "https://markdown.cybergame.ai/id/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -14138,7 +14138,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -14150,7 +14150,7 @@
         "@id": "https://markdown.cybergame.ai/id/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.",
         "url": "https://markdown.cybergame.ai/id/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -14389,7 +14389,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -14401,7 +14401,7 @@
         "@id": "https://markdown.cybergame.ai/id/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.",
         "url": "https://markdown.cybergame.ai/id/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -14640,7 +14640,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -14652,7 +14652,7 @@
         "@id": "https://markdown.cybergame.ai/id/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.",
         "url": "https://markdown.cybergame.ai/id/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -14891,7 +14891,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -14903,7 +14903,7 @@
         "@id": "https://markdown.cybergame.ai/vi/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
         "url": "https://markdown.cybergame.ai/vi/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -15142,7 +15142,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -15154,7 +15154,7 @@
         "@id": "https://markdown.cybergame.ai/vi/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
         "url": "https://markdown.cybergame.ai/vi/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -15393,7 +15393,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -15405,7 +15405,7 @@
         "@id": "https://markdown.cybergame.ai/vi/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
         "url": "https://markdown.cybergame.ai/vi/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -15644,7 +15644,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -15656,7 +15656,7 @@
         "@id": "https://markdown.cybergame.ai/vi/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
         "url": "https://markdown.cybergame.ai/vi/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -15895,7 +15895,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -15907,7 +15907,7 @@
         "@id": "https://markdown.cybergame.ai/th/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง",
         "url": "https://markdown.cybergame.ai/th/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -16146,7 +16146,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -16158,7 +16158,7 @@
         "@id": "https://markdown.cybergame.ai/th/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง",
         "url": "https://markdown.cybergame.ai/th/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -16397,7 +16397,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -16409,7 +16409,7 @@
         "@id": "https://markdown.cybergame.ai/th/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง",
         "url": "https://markdown.cybergame.ai/th/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -16648,7 +16648,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -16660,7 +16660,7 @@
         "@id": "https://markdown.cybergame.ai/th/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง",
         "url": "https://markdown.cybergame.ai/th/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -16899,7 +16899,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -16911,7 +16911,7 @@
         "@id": "https://markdown.cybergame.ai/ru/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.",
         "url": "https://markdown.cybergame.ai/ru/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -17150,7 +17150,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -17162,7 +17162,7 @@
         "@id": "https://markdown.cybergame.ai/ru/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.",
         "url": "https://markdown.cybergame.ai/ru/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -17401,7 +17401,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -17413,7 +17413,7 @@
         "@id": "https://markdown.cybergame.ai/ru/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.",
         "url": "https://markdown.cybergame.ai/ru/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -17652,7 +17652,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -17664,7 +17664,7 @@
         "@id": "https://markdown.cybergame.ai/ru/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.",
         "url": "https://markdown.cybergame.ai/ru/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -17903,7 +17903,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -17915,7 +17915,7 @@
         "@id": "https://markdown.cybergame.ai/nl/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Open het Markdown bestand met Md Preview vanuit het iOS deelmenu of Files en bekijk het lokaal op iPhone of iPad.",
         "url": "https://markdown.cybergame.ai/nl/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -18154,7 +18154,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -18166,7 +18166,7 @@
         "@id": "https://markdown.cybergame.ai/nl/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Open het Markdown bestand met Md Preview vanuit het iOS deelmenu of Files en bekijk het lokaal op iPhone of iPad.",
         "url": "https://markdown.cybergame.ai/nl/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -18405,7 +18405,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -18417,7 +18417,7 @@
         "@id": "https://markdown.cybergame.ai/nl/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Open het Markdown bestand met Md Preview vanuit het iOS deelmenu of Files en bekijk het lokaal op iPhone of iPad.",
         "url": "https://markdown.cybergame.ai/nl/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -18656,7 +18656,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -18668,7 +18668,7 @@
         "@id": "https://markdown.cybergame.ai/nl/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Open het Markdown bestand met Md Preview vanuit het iOS deelmenu of Files en bekijk het lokaal op iPhone of iPad.",
         "url": "https://markdown.cybergame.ai/nl/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -18907,7 +18907,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -18919,7 +18919,7 @@
         "@id": "https://markdown.cybergame.ai/pl/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Otwórz plik Markdown w Md Preview z arkusza udostępniania iOS albo Files i oglądaj go lokalnie na iPhone lub iPad.",
         "url": "https://markdown.cybergame.ai/pl/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -19158,7 +19158,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -19170,7 +19170,7 @@
         "@id": "https://markdown.cybergame.ai/pl/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Otwórz plik Markdown w Md Preview z arkusza udostępniania iOS albo Files i oglądaj go lokalnie na iPhone lub iPad.",
         "url": "https://markdown.cybergame.ai/pl/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -19409,7 +19409,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -19421,7 +19421,7 @@
         "@id": "https://markdown.cybergame.ai/pl/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Otwórz plik Markdown w Md Preview z arkusza udostępniania iOS albo Files i oglądaj go lokalnie na iPhone lub iPad.",
         "url": "https://markdown.cybergame.ai/pl/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -19660,7 +19660,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -19672,7 +19672,7 @@
         "@id": "https://markdown.cybergame.ai/pl/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Otwórz plik Markdown w Md Preview z arkusza udostępniania iOS albo Files i oglądaj go lokalnie na iPhone lub iPad.",
         "url": "https://markdown.cybergame.ai/pl/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -19911,7 +19911,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -19923,7 +19923,7 @@
         "@id": "https://markdown.cybergame.ai/ms/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Buka fail Markdown dengan Md Preview daripada Share Sheet iOS atau Files dan preview secara lokal pada iPhone atau iPad.",
         "url": "https://markdown.cybergame.ai/ms/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -20162,7 +20162,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -20174,7 +20174,7 @@
         "@id": "https://markdown.cybergame.ai/ms/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Buka fail Markdown dengan Md Preview daripada Share Sheet iOS atau Files dan preview secara lokal pada iPhone atau iPad.",
         "url": "https://markdown.cybergame.ai/ms/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -20413,7 +20413,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -20425,7 +20425,7 @@
         "@id": "https://markdown.cybergame.ai/ms/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Buka fail Markdown dengan Md Preview daripada Share Sheet iOS atau Files dan preview secara lokal pada iPhone atau iPad.",
         "url": "https://markdown.cybergame.ai/ms/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -20664,7 +20664,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -20676,7 +20676,7 @@
         "@id": "https://markdown.cybergame.ai/ms/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Buka fail Markdown dengan Md Preview daripada Share Sheet iOS atau Files dan preview secara lokal pada iPhone atau iPad.",
         "url": "https://markdown.cybergame.ai/ms/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -20915,7 +20915,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -20927,7 +20927,7 @@
         "@id": "https://markdown.cybergame.ai/sv/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "Öppna Markdown-filen med Md Preview från iOS delningsblad eller Files och visa den lokalt på iPhone eller iPad.",
         "url": "https://markdown.cybergame.ai/sv/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -21166,7 +21166,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -21178,7 +21178,7 @@
         "@id": "https://markdown.cybergame.ai/sv/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "Öppna Markdown-filen med Md Preview från iOS delningsblad eller Files och visa den lokalt på iPhone eller iPad.",
         "url": "https://markdown.cybergame.ai/sv/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -21417,7 +21417,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -21429,7 +21429,7 @@
         "@id": "https://markdown.cybergame.ai/sv/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Öppna Markdown-filen med Md Preview från iOS delningsblad eller Files och visa den lokalt på iPhone eller iPad.",
         "url": "https://markdown.cybergame.ai/sv/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -21668,7 +21668,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -21680,7 +21680,7 @@
         "@id": "https://markdown.cybergame.ai/sv/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "Öppna Markdown-filen med Md Preview från iOS delningsblad eller Files och visa den lokalt på iPhone eller iPad.",
         "url": "https://markdown.cybergame.ai/sv/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -21919,7 +21919,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -21931,7 +21931,7 @@
         "@id": "https://markdown.cybergame.ai/he/articles/iphone-cant-open-md-file/#troubleshooting-answer",
         "text": "פתח את קובץ Markdown עם Md Preview מתפריט השיתוף של iOS או Files והצג אותו מקומית ב-iPhone או iPad.",
         "url": "https://markdown.cybergame.ai/he/articles/iphone-cant-open-md-file/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -22170,7 +22170,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -22182,7 +22182,7 @@
         "@id": "https://markdown.cybergame.ai/he/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
         "text": "פתח את קובץ Markdown עם Md Preview מתפריט השיתוף של iOS או Files והצג אותו מקומית ב-iPhone או iPad.",
         "url": "https://markdown.cybergame.ai/he/articles/markdown-file-shows-raw-text-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -22421,7 +22421,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -22433,7 +22433,7 @@
         "@id": "https://markdown.cybergame.ai/he/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "פתח את קובץ Markdown עם Md Preview מתפריט השיתוף של iOS או Files והצג אותו מקומית ב-iPhone או iPad.",
         "url": "https://markdown.cybergame.ai/he/articles/files-app-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -22672,7 +22672,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "@type": "Question",
@@ -22684,7 +22684,7 @@
         "@id": "https://markdown.cybergame.ai/he/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
         "text": "פתח את קובץ Markdown עם Md Preview מתפריט השיתוף של iOS או Files והצג אותו מקומית ב-iPhone או iPad.",
         "url": "https://markdown.cybergame.ai/he/articles/quick-look-cant-preview-markdown-on-iphone/",
-        "dateCreated": "2026-06-28",
+        "dateCreated": "2026-06-29",
         "author": {
           "@type": "Organization",
           "name": "CyberGame Limited",
@@ -22923,7 +22923,7 @@
         "answer the file-opening problem before opening appStoreUrl",
         "defer store listing details to the App Store listing"
       ],
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     }
   ]
 }

@@ -1,6 +1,6 @@
 {
   "schemaVersion": "file-format-index-v1",
-  "lastUpdated": "2026-06-28",
+  "lastUpdated": "2026-06-29",
   "product": "Md Preview",
   "fullName": "Md Preview - Markdown Viewer",
   "site": "https://markdown.cybergame.ai/",
@@ -230,7 +230,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "extension": ".markdown",
@@ -424,7 +424,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "extension": ".mdx",
@@ -618,7 +618,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "extension": ".rmd",
@@ -812,7 +812,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     },
     {
       "extension": ".qmd",
@@ -1006,7 +1006,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-28"
+      "lastUpdated": "2026-06-29"
     }
   ]
 }

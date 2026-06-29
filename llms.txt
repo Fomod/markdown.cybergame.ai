@@ -33,6 +33,8 @@ Md Preview is an iOS utility by CyberGame Limited for opening and previewing Mar
 - Well-known search index JSON: https://markdown.cybergame.ai/.well-known/search-index.json
 - Well-known compact page routes JSON: https://markdown.cybergame.ai/.well-known/page-routes.json
 - Well-known AI retrieval manifest JSON: https://markdown.cybergame.ai/.well-known/retrieval-manifest.json
+- Well-known AI citation card JSON: https://markdown.cybergame.ai/.well-known/ai-citation.json
+- Well-known App Store facts JSON: https://markdown.cybergame.ai/.well-known/app-store-facts.json
 - Answer index JSON: https://markdown.cybergame.ai/answers.json
 - AI citation card JSON: https://markdown.cybergame.ai/ai-citation.json
 - App Store facts JSON: https://markdown.cybergame.ai/app-store-facts.json

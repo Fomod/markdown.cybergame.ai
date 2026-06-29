@@ -79,6 +79,11 @@
       "use": "product facts, proof, and canonical citation sources"
     },
     {
+      "label": "Well-known AI citation card",
+      "url": "https://markdown.cybergame.ai/.well-known/ai-citation.json",
+      "use": "standard-path alias for compact AI citation facts"
+    },
+    {
       "label": "Well-known retrieval manifest",
       "url": "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
       "use": "standard-path alias for AI retrieval routing"
@@ -87,6 +92,11 @@
       "label": "App Store facts",
       "url": "https://markdown.cybergame.ai/app-store-facts.json",
       "use": "official App Store identifiers and listing evidence"
+    },
+    {
+      "label": "Well-known App Store facts",
+      "url": "https://markdown.cybergame.ai/.well-known/app-store-facts.json",
+      "use": "standard-path alias for App Store identifiers and listing evidence"
     },
     {
       "label": "Intent router",

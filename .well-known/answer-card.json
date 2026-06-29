@@ -191,6 +191,8 @@
     "https://markdown.cybergame.ai/.well-known/search-index.json",
     "https://markdown.cybergame.ai/.well-known/page-routes.json",
     "https://markdown.cybergame.ai/.well-known/retrieval-manifest.json",
+    "https://markdown.cybergame.ai/.well-known/ai-citation.json",
+    "https://markdown.cybergame.ai/.well-known/app-store-facts.json",
     "https://markdown.cybergame.ai/ai-citation.json",
     "https://markdown.cybergame.ai/answers.json",
     "https://markdown.cybergame.ai/citation-cards.json",

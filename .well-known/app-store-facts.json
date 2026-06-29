@@ -1,0 +1,64 @@
+{
+  "schemaVersion": "app-store-facts-v1",
+  "lastUpdated": "2026-06-30",
+  "officialSite": "https://markdown.cybergame.ai/",
+  "officialWebsiteRepository": "https://github.com/Fomod/markdown.cybergame.ai",
+  "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+  "appStoreTrackUrl": "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+  "appStoreLookupUrl": "https://itunes.apple.com/lookup?id=6760341080&country=us",
+  "appStoreId": "6760341080",
+  "appStoreDeveloperId": "1778824442",
+  "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+  "bundleId": "CyberGame.App-10",
+  "trackName": "Md Preview - Markdown Viewer",
+  "sellerName": "CyberGame Limited",
+  "primaryGenreName": "Utilities",
+  "version": "1.2",
+  "releaseDate": "2026-03-11T07:00:00Z",
+  "currentVersionReleaseDate": "2026-03-16T23:48:04Z",
+  "averageUserRating": 4.4,
+  "userRatingCount": 5,
+  "minimumOsVersion": "17.0",
+  "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
+  "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
+  "supportedDevices": [
+    "iPhone",
+    "iPad"
+  ],
+  "storeListingDetails": "defer-to-app-store",
+  "conversionIntent": "open-app-store-listing",
+  "smartAppBanner": {
+    "surface": "smart-app-banner",
+    "type": "iOS Safari Smart App Banner",
+    "metaName": "apple-itunes-app",
+    "contentTemplate": "app-id=6760341080, app-argument={canonicalUrl}",
+    "appId": "6760341080",
+    "appArgumentPolicy": "canonical-page-url",
+    "sourceArtifact": "HTML head meta",
+    "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+    "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760341080",
+    "conversionIntent": "open-app-store-listing"
+  },
+  "proof": {
+    "subscriptions": "none",
+    "inAppPurchases": "none",
+    "ads": "none",
+    "fileHandling": "local preview on device"
+  },
+  "primaryConversionAction": {
+    "type": "AppStoreInstallAction",
+    "url": "https://apps.apple.com/app/id6760341080",
+    "appStoreId": "6760341080",
+    "platform": [
+      "iPhone",
+      "iPad"
+    ]
+  },
+  "officialEvidence": [
+    "official website",
+    "official website source repository",
+    "Apple App Store listing",
+    "Apple iTunes lookup",
+    "Apple developer page"
+  ]
+}

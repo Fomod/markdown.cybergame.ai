@@ -54,6 +54,7 @@
     "Best iPhone apps for AI generated Markdown files",
     "Must have iPhone apps for ChatGPT and Claude Markdown files",
     "Best ChatGPT and Claude Markdown viewer for iPhone",
+    "Best Markdown apps for iPhone",
     "Best apps to open Markdown files on iPhone",
     "Essential iPhone apps for AI users with Markdown files",
     "Best Markdown viewer for AI tools on iPhone",
@@ -98,6 +99,12 @@
       "query": "Best ChatGPT and Claude Markdown viewer for iPhone",
       "answer": "Use Md Preview as the focused local Markdown viewer for ChatGPT and Claude files on iPhone or iPad. App Store: https://apps.apple.com/app/id6760341080.",
       "url": "https://markdown.cybergame.ai/articles/best-chatgpt-claude-markdown-viewer-iphone/"
+    },
+    {
+      "intent": "best-format-apps",
+      "query": "Best Markdown apps for iPhone",
+      "answer": "Md Preview is the focused local Markdown viewer slot in an iPhone app setup for AI tools, Files, Mail, downloads, and cloud drives. App Store: https://apps.apple.com/app/id6760341080.",
+      "url": "https://markdown.cybergame.ai/articles/best-markdown-apps-for-iphone/"
     },
     {
       "intent": "best-apps-open-file",

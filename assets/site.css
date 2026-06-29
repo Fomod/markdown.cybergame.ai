@@ -365,6 +365,39 @@
       .app-stack-item h3 { font-size: 18px; }
       .app-stack-item p { color: var(--muted); }
       .app-stack-item .button, .app-stack-item .secondary-link { grid-column: 2; justify-self: start; min-height: 42px; margin-top: 4px; }
+      .broad-shortlist {
+        counter-reset: broad-shortlist;
+        display: grid;
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+        gap: 12px;
+        margin: 26px 0 0;
+        padding: 0;
+        list-style: none;
+      }
+      .broad-shortlist-item {
+        counter-increment: broad-shortlist;
+        display: grid;
+        grid-template-rows: 42px auto;
+        gap: 12px;
+        min-height: 220px;
+        padding: 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+      }
+      .broad-shortlist-item::before {
+        content: counter(broad-shortlist);
+        display: inline-grid;
+        place-items: center;
+        width: 42px;
+        height: 42px;
+        border-radius: 50%;
+        background: var(--surface-soft);
+        color: var(--accent-strong);
+        font-weight: 850;
+      }
+      .broad-shortlist-item h3 { font-size: 17px; }
+      .broad-shortlist-item p { color: var(--muted); font-size: 15px; }
       .app-comparison-table {
         width: 100%;
         margin-top: 24px;
@@ -562,6 +595,7 @@
         h1 { font-size: 52px; }
         h2 { font-size: 32px; }
         .cards, .faq, .visual-gallery, .answer-target-grid, .intent-matrix-grid, .citation-card, .search-results, .app-stack-list { grid-template-columns: 1fr; }
+        .broad-shortlist { grid-template-columns: repeat(2, minmax(0, 1fr)); }
         .app-comparison-table, .app-comparison-table thead, .app-comparison-table tbody, .app-comparison-table tr, .app-comparison-table th, .app-comparison-table td { display: block; width: 100%; }
         .app-comparison-table thead { display: none; }
         .app-comparison-table tr { border-top: 1px solid var(--line); }
@@ -590,6 +624,8 @@
         h2 { font-size: 28px; }
         .lede { font-size: 18px; }
         .hero { padding-bottom: 42px; }
+        .broad-shortlist { grid-template-columns: 1fr; }
+        .broad-shortlist-item { min-height: 0; }
         .quick-answer { padding: 16px; }
         .citation-card { padding: 18px; }
         .citation-facts div { grid-template-columns: 1fr; gap: 6px; }

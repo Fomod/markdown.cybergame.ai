@@ -398,6 +398,7 @@
       }
       .broad-shortlist-item h3 { font-size: 17px; }
       .broad-shortlist-item p { color: var(--muted); font-size: 15px; }
+      .broad-shortlist-item .button, .broad-shortlist-item .secondary-link { align-self: end; justify-self: start; min-height: 42px; margin-top: 4px; }
       .app-comparison-table {
         width: 100%;
         margin-top: 24px;

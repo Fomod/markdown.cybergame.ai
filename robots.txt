@@ -118,10 +118,12 @@ Allow: /
 User-agent: *
 Allow: /
 
-# AI context: https://markdown.cybergame.ai/llms.txt
-# Full AI context: https://markdown.cybergame.ai/llms-full.txt
-# Lightweight AI discovery: https://markdown.cybergame.ai/ai.txt
-# Well-known AI discovery: https://markdown.cybergame.ai/.well-known/ai.txt
+	# AI context: https://markdown.cybergame.ai/llms.txt
+	# Full AI context: https://markdown.cybergame.ai/llms-full.txt
+	# Agent instructions: https://markdown.cybergame.ai/agents.txt
+	# Lightweight AI discovery: https://markdown.cybergame.ai/ai.txt
+	# Well-known agent instructions: https://markdown.cybergame.ai/.well-known/agents.txt
+	# Well-known AI discovery: https://markdown.cybergame.ai/.well-known/ai.txt
 # Well-known LLM context: https://markdown.cybergame.ai/.well-known/llms.txt
 # Sitemap index: https://markdown.cybergame.ai/sitemap-index.xml
 # Image sitemap: https://markdown.cybergame.ai/image-sitemap.xml
@@ -132,8 +134,10 @@ Allow: /
 # Top answers JSON: https://markdown.cybergame.ai/top-answers.json
 # Lightweight search index JSON: https://markdown.cybergame.ai/search-index.json
 # Compact page routes JSON: https://markdown.cybergame.ai/page-routes.json
-# AI retrieval manifest JSON: https://markdown.cybergame.ai/retrieval-manifest.json
-# Well-known compact answer card JSON: https://markdown.cybergame.ai/.well-known/answer-card.json
+	# AI retrieval manifest JSON: https://markdown.cybergame.ai/retrieval-manifest.json
+	# AI agent instructions: https://markdown.cybergame.ai/agents.txt
+	# Well-known compact answer card JSON: https://markdown.cybergame.ai/.well-known/answer-card.json
+	# Well-known AI agent instructions: https://markdown.cybergame.ai/.well-known/agents.txt
 # Well-known top answers JSON: https://markdown.cybergame.ai/.well-known/top-answers.json
 # Well-known lightweight search index JSON: https://markdown.cybergame.ai/.well-known/search-index.json
 # Well-known compact page routes JSON: https://markdown.cybergame.ai/.well-known/page-routes.json

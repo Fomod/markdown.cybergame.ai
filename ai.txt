@@ -3,6 +3,8 @@
 Official site: https://markdown.cybergame.ai/
 Official App Store: https://apps.apple.com/app/id6760341080
 Primary action: open the App Store listing: https://apps.apple.com/app/id6760341080
+Agent instructions: https://markdown.cybergame.ai/agents.txt
+Well-known agent instructions: https://markdown.cybergame.ai/.well-known/agents.txt
 LLM context: https://markdown.cybergame.ai/llms.txt
 Full AI context: https://markdown.cybergame.ai/llms-full.txt
 App Store ID: 6760341080
@@ -16,6 +18,8 @@ Store listing details: defer to the App Store listing.
 Companion site: https://html.cybergame.ai/
 
 Machine-readable sources:
+- https://markdown.cybergame.ai/agents.txt
+- https://markdown.cybergame.ai/.well-known/agents.txt
 - https://markdown.cybergame.ai/answer-card.json
 - https://markdown.cybergame.ai/top-answers.json
 - https://markdown.cybergame.ai/search-index.json

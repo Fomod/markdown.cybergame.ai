@@ -141,6 +141,7 @@ Allow: /
 # Well-known top answers JSON: https://markdown.cybergame.ai/.well-known/top-answers.json
 # Well-known lightweight search index JSON: https://markdown.cybergame.ai/.well-known/search-index.json
 # Well-known compact page routes JSON: https://markdown.cybergame.ai/.well-known/page-routes.json
+# Well-known intent router JSON: https://markdown.cybergame.ai/.well-known/intent-router.json
 # Well-known AI retrieval manifest JSON: https://markdown.cybergame.ai/.well-known/retrieval-manifest.json
 # Well-known AI citation card JSON: https://markdown.cybergame.ai/.well-known/ai-citation.json
 # Well-known App Store facts JSON: https://markdown.cybergame.ai/.well-known/app-store-facts.json

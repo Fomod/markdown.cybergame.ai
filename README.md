@@ -48,6 +48,6 @@ Generated pages:
 - 1fa7fe5bf70bef83d34c0c9c29c181c8.txt for IndexNow host verification
 - robots.txt
 - ai.txt for lightweight AI discovery
-- .well-known/answer-card.json, .well-known/top-answers.json, .well-known/search-index.json, .well-known/page-routes.json, .well-known/retrieval-manifest.json, .well-known/ai-citation.json, .well-known/app-store-facts.json, .well-known/ai.txt, and .well-known/llms.txt for agent discovery
+- .well-known/answer-card.json, .well-known/top-answers.json, .well-known/search-index.json, .well-known/page-routes.json, .well-known/intent-router.json, .well-known/retrieval-manifest.json, .well-known/ai-citation.json, .well-known/app-store-facts.json, .well-known/ai.txt, and .well-known/llms.txt for agent discovery
 - llms.txt for AI and LLM context
 - llms-full.txt for detailed AI and chatbot context

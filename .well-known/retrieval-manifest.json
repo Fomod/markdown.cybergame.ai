@@ -74,6 +74,16 @@
       "use": "standard-path alias for compact canonical page routing"
     },
     {
+      "label": "Intent router",
+      "url": "https://markdown.cybergame.ai/intent-router.json",
+      "use": "map high-intent questions to the best canonical page"
+    },
+    {
+      "label": "Well-known intent router",
+      "url": "https://markdown.cybergame.ai/.well-known/intent-router.json",
+      "use": "standard-path alias for compact high-intent routing"
+    },
+    {
       "label": "AI citation card",
       "url": "https://markdown.cybergame.ai/ai-citation.json",
       "use": "product facts, proof, and canonical citation sources"
@@ -97,11 +107,6 @@
       "label": "Well-known App Store facts",
       "url": "https://markdown.cybergame.ai/.well-known/app-store-facts.json",
       "use": "standard-path alias for App Store identifiers and listing evidence"
-    },
-    {
-      "label": "Intent router",
-      "url": "https://markdown.cybergame.ai/intent-router.json",
-      "use": "map high-intent questions to the best canonical page"
     },
     {
       "label": "Assistant answers",

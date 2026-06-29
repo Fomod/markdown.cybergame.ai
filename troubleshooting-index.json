@@ -129,7 +129,7 @@
       "position": 10,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh-hant/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-card",
-        "name": "如何在 iPhone 或 iPad 上渲染只显示原始文本的 Markdown 檔案？",
+        "name": "如何在 iPhone 或 iPad 上渲染只顯示原始文本的 Markdown 檔案？",
         "url": "https://markdown.cybergame.ai/zh-hant/articles/markdown-file-shows-raw-text-on-iphone/"
       }
     },
@@ -2924,7 +2924,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/zh-hant/articles/iphone-cant-open-md-file/#troubleshooting-answer",
-        "text": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+        "text": "安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://markdown.cybergame.ai/zh-hant/articles/iphone-cant-open-md-file/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -2986,7 +2986,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+      "recommendedFix": "安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
       "decisionPath": [
         {
           "position": 1,
@@ -3171,8 +3171,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/zh-hant/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-card",
-      "name": "如何在 iPhone 或 iPad 上渲染只显示原始文本的 Markdown 檔案？",
-      "text": "如何在 iPhone 或 iPad 上渲染只显示原始文本的 Markdown 檔案？",
+      "name": "如何在 iPhone 或 iPad 上渲染只顯示原始文本的 Markdown 檔案？",
+      "text": "如何在 iPhone 或 iPad 上渲染只顯示原始文本的 Markdown 檔案？",
       "answerCount": 1,
       "datePublished": "2026-06-30T00:00:00+00:00",
       "author": {
@@ -3183,7 +3183,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/zh-hant/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
-        "text": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+        "text": "安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://markdown.cybergame.ai/zh-hant/articles/markdown-file-shows-raw-text-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -3213,10 +3213,10 @@
       "articleSlug": "markdown-file-shows-raw-text-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "如何在 iPhone 或 iPad 上渲染只显示原始文本的 Markdown 檔案？",
+      "userQuestion": "如何在 iPhone 或 iPad 上渲染只顯示原始文本的 Markdown 檔案？",
       "promptVariants": [
-        "如何在 iPhone 或 iPad 上渲染只显示原始文本的 Markdown 檔案？",
-        "渲染只显示原始文本的 Markdown 檔案 iPhone",
+        "如何在 iPhone 或 iPad 上渲染只顯示原始文本的 Markdown 檔案？",
+        "渲染只顯示原始文本的 Markdown 檔案 iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -3245,7 +3245,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+      "recommendedFix": "安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
       "decisionPath": [
         {
           "position": 1,
@@ -3442,7 +3442,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/zh-hant/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
-        "text": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+        "text": "安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://markdown.cybergame.ai/zh-hant/articles/files-app-cant-preview-markdown-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -3504,7 +3504,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+      "recommendedFix": "安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
       "decisionPath": [
         {
           "position": 1,
@@ -3701,7 +3701,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/zh-hant/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
-        "text": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+        "text": "安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
         "url": "https://markdown.cybergame.ai/zh-hant/articles/quick-look-cant-preview-markdown-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -3763,7 +3763,7 @@
         "Supported format family: Markdown"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "安装 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
+      "recommendedFix": "安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。",
       "decisionPath": [
         {
           "position": 1,

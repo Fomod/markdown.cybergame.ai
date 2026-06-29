@@ -27,6 +27,18 @@
   ],
   "storeListingDetails": "defer-to-app-store",
   "conversionIntent": "open-app-store-listing",
+  "smartAppBanner": {
+    "surface": "smart-app-banner",
+    "type": "iOS Safari Smart App Banner",
+    "metaName": "apple-itunes-app",
+    "contentTemplate": "app-id=6760341080, app-argument={canonicalUrl}",
+    "appId": "6760341080",
+    "appArgumentPolicy": "canonical-page-url",
+    "sourceArtifact": "HTML head meta",
+    "appStoreUrl": "https://apps.apple.com/app/id6760341080",
+    "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760341080",
+    "conversionIntent": "open-app-store-listing"
+  },
   "proof": {
     "subscriptions": "none",
     "inAppPurchases": "none",

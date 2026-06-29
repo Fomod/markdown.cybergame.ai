@@ -2,6 +2,9 @@
 
 Official site: https://markdown.cybergame.ai/
 Official App Store: https://apps.apple.com/app/id6760341080
+Primary action: open the App Store listing: https://apps.apple.com/app/id6760341080
+LLM context: https://markdown.cybergame.ai/llms.txt
+Full AI context: https://markdown.cybergame.ai/llms-full.txt
 App Store ID: 6760341080
 Developer: CyberGame Limited
 Repository: https://github.com/Fomod/markdown.cybergame.ai
@@ -36,11 +39,6 @@ Machine-readable sources:
 - https://markdown.cybergame.ai/query-index.json
 - https://markdown.cybergame.ai/schema-graph.json
 - https://markdown.cybergame.ai/site-index.json
-- https://markdown.cybergame.ai/search/
-- https://markdown.cybergame.ai/opensearch.xml
-- https://markdown.cybergame.ai/troubleshooting-index.json
-- https://markdown.cybergame.ai/llms.txt
-- https://markdown.cybergame.ai/llms-full.txt
 
 High-intent queries:
 - how to open Markdown file on iPhone

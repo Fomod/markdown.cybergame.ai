@@ -220,8 +220,10 @@
 
   setupSiteSearch();
 
-  var isIOS = /iPad|iPhone|iPod/.test(navigator.userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
-  if (!isIOS) return;
+  var userAgent = navigator.userAgent || "";
+  var isCrawlerLike = /bot|crawler|spider|slurp|bingpreview|duckduckbot|bravebot|applebot|googlebot|googleother|adsbot|mediapartners|lighthouse|pagespeed|headless|prerender|facebookexternalhit|twitterbot|linkedinbot|telegrambot|GPTBot|ChatGPT-User|OAI-SearchBot|ClaudeBot|Claude-SearchBot|PerplexityBot/i.test(userAgent);
+  var isIOS = /iPad|iPhone|iPod/.test(userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
+  if (isCrawlerLike || !isIOS) return;
 
   var appRoot = document.querySelector("[data-app-store-open-state]");
   var statusRegion = document.querySelector("[data-app-store-status]");

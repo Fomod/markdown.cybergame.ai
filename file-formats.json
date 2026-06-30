@@ -78,7 +78,7 @@
     "use appStoreUrl for conversion",
     "defer current store listing details to the App Store listing"
   ],
-  "lastUpdated": "2026-06-30",
+  "lastUpdated": "2026-07-01",
   "product": "Md Preview",
   "fullName": "Md Preview - Markdown Viewer",
   "site": "https://markdown.cybergame.ai/",
@@ -308,7 +308,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-30"
+      "lastUpdated": "2026-07-01"
     },
     {
       "extension": ".markdown",
@@ -502,7 +502,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-30"
+      "lastUpdated": "2026-07-01"
     },
     {
       "extension": ".mdx",
@@ -696,7 +696,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-30"
+      "lastUpdated": "2026-07-01"
     },
     {
       "extension": ".rmd",
@@ -890,7 +890,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-30"
+      "lastUpdated": "2026-07-01"
     },
     {
       "extension": ".qmd",
@@ -1084,7 +1084,7 @@
           "iPad"
         ]
       },
-      "lastUpdated": "2026-06-30"
+      "lastUpdated": "2026-07-01"
     }
   ]
 }

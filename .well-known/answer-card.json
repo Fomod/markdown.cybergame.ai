@@ -23,6 +23,9 @@
   "appStoreUrl": "https://apps.apple.com/app/id6760341080",
   "iosAppUrl": "itms-apps://itunes.apple.com/app/id6760341080",
   "appStoreId": "6760341080",
+  "appStoreDeveloperId": "1778824442",
+  "appStoreDeveloperUrl": "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+  "githubProfile": "https://github.com/Fomod",
   "developer": "CyberGame Limited",
   "storeListingDetails": "defer-to-app-store",
   "primaryQuestion": "How do I open Markdown files on iPhone or iPad?",
@@ -235,6 +238,8 @@
     "https://markdown.cybergame.ai/citation-cards.json",
     "https://markdown.cybergame.ai/app-store-facts.json",
     "https://apps.apple.com/us/app/md-preview-markdown-viewer/id6760341080?uo=4",
+    "https://apps.apple.com/us/developer/cybergame-limited/id1778824442?uo=4",
+    "https://github.com/Fomod",
     "https://github.com/Fomod/markdown.cybergame.ai"
   ],
   "companionProduct": {

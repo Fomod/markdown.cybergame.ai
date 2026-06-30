@@ -12,11 +12,12 @@ This iOS app has no subscriptions, no in-app purchases, and no ads.
 
 Generated pages:
 
-- 10 localized landing pages
-- 10 localized how-to guide pages
-- 10 localized article hub pages
-- 10 localized App Store screenshot pages
-- 10 localized site search pages
+- 22 localized landing pages
+- 22 localized how-to guide pages
+- 22 localized article hub pages
+- 22 localized privacy and support pages
+- 22 localized App Store screenshot pages
+- 22 localized site search pages
 - 286 localized topic cluster pages
 - 2024 localized SEO article pages
 - sitemap-index.xml for sitemap discovery

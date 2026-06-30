@@ -13272,8 +13272,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/tr/articles/iphone-cant-open-md-file/#troubleshooting-card",
-      "name": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
-      "text": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
+      "name": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
+      "text": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
       "answerCount": 1,
       "datePublished": "2026-06-30T00:00:00+00:00",
       "author": {
@@ -13284,7 +13284,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/tr/articles/iphone-cant-open-md-file/#troubleshooting-answer",
-        "text": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
+        "text": "Markdown dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Md Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
         "url": "https://markdown.cybergame.ai/tr/articles/iphone-cant-open-md-file/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -13314,10 +13314,10 @@
       "articleSlug": "iphone-cant-open-md-file",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
+      "userQuestion": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
       "promptVariants": [
-        "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
-        "iOS Markdown onizleme sorunu acmak iPhone",
+        "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
+        "iOS Markdown önizleme sorunu açmak iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -13336,9 +13336,9 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik onizleme gosterebilir.",
-        "iOS dosya onizleme sorunu kaynakli Markdown dosyalari iPhone veya iPad'de yerel onizleme yoluna ihtiyac duyar.",
-        "Md Preview, abonelik, uygulama ici satin alma veya reklam icermeyen odakli bir App Store viewer'dir.",
+        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "iOS dosya önizleme sorunu kaynaklı Markdown dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
+        "Md Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -13346,7 +13346,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
+      "recommendedFix": "Markdown dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Md Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
       "decisionPath": [
         {
           "position": 1,
@@ -13386,7 +13386,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "iOS dosya onizleme sorunu",
+      "source": "iOS dosya önizleme sorunu",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -13531,8 +13531,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/tr/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-card",
-      "name": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
-      "text": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
+      "name": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
+      "text": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
       "answerCount": 1,
       "datePublished": "2026-06-30T00:00:00+00:00",
       "author": {
@@ -13543,7 +13543,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/tr/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
-        "text": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
+        "text": "Markdown dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Md Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
         "url": "https://markdown.cybergame.ai/tr/articles/markdown-file-shows-raw-text-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -13573,10 +13573,10 @@
       "articleSlug": "markdown-file-shows-raw-text-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
+      "userQuestion": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
       "promptVariants": [
-        "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
-        "ham Markdown metni acmak iPhone",
+        "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
+        "ham Markdown metni açmak iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -13595,9 +13595,9 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik onizleme gosterebilir.",
-        "ham Markdown metni kaynakli Markdown dosyalari iPhone veya iPad'de yerel onizleme yoluna ihtiyac duyar.",
-        "Md Preview, abonelik, uygulama ici satin alma veya reklam icermeyen odakli bir App Store viewer'dir.",
+        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "ham Markdown metni kaynaklı Markdown dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
+        "Md Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -13605,7 +13605,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
+      "recommendedFix": "Markdown dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Md Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
       "decisionPath": [
         {
           "position": 1,
@@ -13790,8 +13790,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/tr/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-card",
-      "name": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
-      "text": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
+      "name": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
+      "text": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
       "answerCount": 1,
       "datePublished": "2026-06-30T00:00:00+00:00",
       "author": {
@@ -13802,7 +13802,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/tr/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
-        "text": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
+        "text": "Markdown dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Md Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
         "url": "https://markdown.cybergame.ai/tr/articles/files-app-cant-preview-markdown-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -13832,10 +13832,10 @@
       "articleSlug": "files-app-cant-preview-markdown-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
+      "userQuestion": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
       "promptVariants": [
-        "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
-        "Files icinde Markdown onizleme sorunu acmak iPhone",
+        "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
+        "Files içinde Markdown önizleme sorunu açmak iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -13854,9 +13854,9 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik onizleme gosterebilir.",
-        "Files onizleme sorunu kaynakli Markdown dosyalari iPhone veya iPad'de yerel onizleme yoluna ihtiyac duyar.",
-        "Md Preview, abonelik, uygulama ici satin alma veya reklam icermeyen odakli bir App Store viewer'dir.",
+        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "Files önizleme sorunu kaynaklı Markdown dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
+        "Md Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -13864,7 +13864,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
+      "recommendedFix": "Markdown dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Md Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
       "decisionPath": [
         {
           "position": 1,
@@ -13904,7 +13904,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "Files onizleme sorunu",
+      "source": "Files önizleme sorunu",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -14049,8 +14049,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/tr/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-card",
-      "name": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
-      "text": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
+      "name": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
+      "text": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
       "answerCount": 1,
       "datePublished": "2026-06-30T00:00:00+00:00",
       "author": {
@@ -14061,7 +14061,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/tr/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
-        "text": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
+        "text": "Markdown dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Md Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
         "url": "https://markdown.cybergame.ai/tr/articles/quick-look-cant-preview-markdown-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -14091,10 +14091,10 @@
       "articleSlug": "quick-look-cant-preview-markdown-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
+      "userQuestion": "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
       "promptVariants": [
-        "iPhone veya iPad'de Markdown dosyasi nasil acilir?",
-        "Markdown Quick Look onizleme sorunu acmak iPhone",
+        "iPhone veya iPad'de Markdown dosyası nasıl açılır?",
+        "Markdown Quick Look önizleme sorunu açmak iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -14113,9 +14113,9 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik onizleme gosterebilir.",
-        "Quick Look onizleme sorunu kaynakli Markdown dosyalari iPhone veya iPad'de yerel onizleme yoluna ihtiyac duyar.",
-        "Md Preview, abonelik, uygulama ici satin alma veya reklam icermeyen odakli bir App Store viewer'dir.",
+        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "Quick Look önizleme sorunu kaynaklı Markdown dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
+        "Md Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",
@@ -14123,7 +14123,7 @@
         "Supported format family: Markdown"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.",
+      "recommendedFix": "Markdown dosyasını iOS Paylaşım Menusu veya Files uygulamasindan Md Preview ile aç ve iPhone ya da iPad'de yerel olarak önizle.",
       "decisionPath": [
         {
           "position": 1,
@@ -14163,7 +14163,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "Quick Look onizleme sorunu",
+      "source": "Quick Look önizleme sorunu",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -15344,8 +15344,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/vi/articles/iphone-cant-open-md-file/#troubleshooting-card",
-      "name": "Cach mo tep Markdown tren iPhone hoac iPad?",
-      "text": "Cach mo tep Markdown tren iPhone hoac iPad?",
+      "name": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
+      "text": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
       "answerCount": 1,
       "datePublished": "2026-06-30T00:00:00+00:00",
       "author": {
@@ -15356,7 +15356,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/vi/articles/iphone-cant-open-md-file/#troubleshooting-answer",
-        "text": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
+        "text": "Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
         "url": "https://markdown.cybergame.ai/vi/articles/iphone-cant-open-md-file/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -15386,10 +15386,10 @@
       "articleSlug": "iphone-cant-open-md-file",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "Cach mo tep Markdown tren iPhone hoac iPad?",
+      "userQuestion": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
       "promptVariants": [
-        "Cach mo tep Markdown tren iPhone hoac iPad?",
-        "mo loi preview Markdown tren iOS iPhone",
+        "Cách mở tệp Markdown trên iPhone hoặc iPad?",
+        "mở lỗi preview Markdown trên iOS iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -15408,9 +15408,9 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS co the hien icon tep, ma tho hoac preview thieu thay vi trang Markdown de doc.",
-        "Tep Markdown tu loi preview tep iOS can duong preview tren thiet bi iPhone hoac iPad.",
-        "Md Preview la viewer App Store tap trung, khong dang ky thue bao, mua trong ung dung hoac quang cao.",
+        "iOS có thể hiện icon tệp, mã thô hoặc preview thiếu thay vì trang Markdown để đọc.",
+        "Tệp Markdown từ lỗi preview tệp iOS cần đường preview trên thiết bị iPhone hoặc iPad.",
+        "Md Preview là viewer App Store tập trung, không đăng ký thuê bao, mua trong ứng dụng hoặc quảng cáo.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -15418,7 +15418,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
+      "recommendedFix": "Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
       "decisionPath": [
         {
           "position": 1,
@@ -15458,7 +15458,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "loi preview tep iOS",
+      "source": "lỗi preview tệp iOS",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -15603,8 +15603,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/vi/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-card",
-      "name": "Cach mo tep Markdown tren iPhone hoac iPad?",
-      "text": "Cach mo tep Markdown tren iPhone hoac iPad?",
+      "name": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
+      "text": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
       "answerCount": 1,
       "datePublished": "2026-06-30T00:00:00+00:00",
       "author": {
@@ -15615,7 +15615,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/vi/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
-        "text": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
+        "text": "Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
         "url": "https://markdown.cybergame.ai/vi/articles/markdown-file-shows-raw-text-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -15645,10 +15645,10 @@
       "articleSlug": "markdown-file-shows-raw-text-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "Cach mo tep Markdown tren iPhone hoac iPad?",
+      "userQuestion": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
       "promptVariants": [
-        "Cach mo tep Markdown tren iPhone hoac iPad?",
-        "mo Markdown dang van ban tho iPhone",
+        "Cách mở tệp Markdown trên iPhone hoặc iPad?",
+        "mở Markdown dạng văn bản thô iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -15667,9 +15667,9 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS co the hien icon tep, ma tho hoac preview thieu thay vi trang Markdown de doc.",
-        "Tep Markdown tu Markdown dang van ban tho can duong preview tren thiet bi iPhone hoac iPad.",
-        "Md Preview la viewer App Store tap trung, khong dang ky thue bao, mua trong ung dung hoac quang cao.",
+        "iOS có thể hiện icon tệp, mã thô hoặc preview thiếu thay vì trang Markdown để đọc.",
+        "Tệp Markdown từ Markdown dạng văn bản thô cần đường preview trên thiết bị iPhone hoặc iPad.",
+        "Md Preview là viewer App Store tập trung, không đăng ký thuê bao, mua trong ứng dụng hoặc quảng cáo.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -15677,7 +15677,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
+      "recommendedFix": "Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
       "decisionPath": [
         {
           "position": 1,
@@ -15717,7 +15717,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "Markdown dang van ban tho",
+      "source": "Markdown dạng văn bản thô",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -15862,8 +15862,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/vi/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-card",
-      "name": "Cach mo tep Markdown tren iPhone hoac iPad?",
-      "text": "Cach mo tep Markdown tren iPhone hoac iPad?",
+      "name": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
+      "text": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
       "answerCount": 1,
       "datePublished": "2026-06-30T00:00:00+00:00",
       "author": {
@@ -15874,7 +15874,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/vi/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
-        "text": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
+        "text": "Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
         "url": "https://markdown.cybergame.ai/vi/articles/files-app-cant-preview-markdown-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -15904,10 +15904,10 @@
       "articleSlug": "files-app-cant-preview-markdown-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "Cach mo tep Markdown tren iPhone hoac iPad?",
+      "userQuestion": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
       "promptVariants": [
-        "Cach mo tep Markdown tren iPhone hoac iPad?",
-        "mo loi preview Markdown trong Files iPhone",
+        "Cách mở tệp Markdown trên iPhone hoặc iPad?",
+        "mở lỗi preview Markdown trong Files iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -15926,9 +15926,9 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS co the hien icon tep, ma tho hoac preview thieu thay vi trang Markdown de doc.",
-        "Tep Markdown tu loi preview trong Files can duong preview tren thiet bi iPhone hoac iPad.",
-        "Md Preview la viewer App Store tap trung, khong dang ky thue bao, mua trong ung dung hoac quang cao.",
+        "iOS có thể hiện icon tệp, mã thô hoặc preview thiếu thay vì trang Markdown để đọc.",
+        "Tệp Markdown từ lỗi preview trong Files cần đường preview trên thiết bị iPhone hoặc iPad.",
+        "Md Preview là viewer App Store tập trung, không đăng ký thuê bao, mua trong ứng dụng hoặc quảng cáo.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -15936,7 +15936,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
+      "recommendedFix": "Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
       "decisionPath": [
         {
           "position": 1,
@@ -15976,7 +15976,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "loi preview trong Files",
+      "source": "lỗi preview trong Files",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -16121,8 +16121,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/vi/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-card",
-      "name": "Cach mo tep Markdown tren iPhone hoac iPad?",
-      "text": "Cach mo tep Markdown tren iPhone hoac iPad?",
+      "name": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
+      "text": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
       "answerCount": 1,
       "datePublished": "2026-06-30T00:00:00+00:00",
       "author": {
@@ -16133,7 +16133,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/vi/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
-        "text": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
+        "text": "Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
         "url": "https://markdown.cybergame.ai/vi/articles/quick-look-cant-preview-markdown-on-iphone/",
         "dateCreated": "2026-06-30T00:00:00+00:00",
         "upvoteCount": 0,
@@ -16163,10 +16163,10 @@
       "articleSlug": "quick-look-cant-preview-markdown-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "Cach mo tep Markdown tren iPhone hoac iPad?",
+      "userQuestion": "Cách mở tệp Markdown trên iPhone hoặc iPad?",
       "promptVariants": [
-        "Cach mo tep Markdown tren iPhone hoac iPad?",
-        "mo loi Quick Look voi Markdown iPhone",
+        "Cách mở tệp Markdown trên iPhone hoặc iPad?",
+        "mở lỗi Quick Look với Markdown iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -16185,17 +16185,17 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS co the hien icon tep, ma tho hoac preview thieu thay vi trang Markdown de doc.",
-        "Tep Markdown tu loi preview Quick Look can duong preview tren thiet bi iPhone hoac iPad.",
-        "Md Preview la viewer App Store tap trung, khong dang ky thue bao, mua trong ung dung hoac quang cao.",
-        "Quick Look can't preview Markdown on iPhone",
+        "iOS có thể hiện icon tệp, mã thô hoặc preview thiếu thay vì trang Markdown để đọc.",
+        "Tệp Markdown từ lỗi preview Quick Look cần đường preview trên thiết bị iPhone hoặc iPad.",
+        "Md Preview là viewer App Store tập trung, không đăng ký thuê bao, mua trong ứng dụng hoặc quảng cáo.",
+        "Quick Look cần't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",
         "The file came from AI tools, GitHub, Obsidian, Notion, Mail, AirDrop, Files, or cloud drives",
         "Supported format family: Markdown"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Mo tep Markdown bang Md Preview tu bang chia se iOS hoac ung dung Files, roi xem truoc tren iPhone hoac iPad.",
+      "recommendedFix": "Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.",
       "decisionPath": [
         {
           "position": 1,
@@ -16235,7 +16235,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "loi preview Quick Look",
+      "source": "lỗi preview Quick Look",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",

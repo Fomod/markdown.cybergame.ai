@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out site
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Wait for GitHub Pages propagation
         if: github.event_name == 'push'

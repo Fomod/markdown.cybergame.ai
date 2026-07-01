@@ -11290,7 +11290,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/hi/articles/iphone-cant-open-md-file/#troubleshooting-answer",
-        "text": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
+        "text": "Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
         "url": "https://markdown.cybergame.ai/hi/articles/iphone-cant-open-md-file/",
         "dateCreated": "2026-07-01T00:00:00+00:00",
         "upvoteCount": 0,
@@ -11342,9 +11342,9 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS kabhi-kabhi readable Markdown page ke bajay file icon, raw code ya adhura preview dikhata hai.",
-        "iOS preview problem se aayi Markdown files ko iPhone ya iPad par local preview path chahiye.",
-        "Md Preview App Store ka focused viewer hai, bina subscription, in-app purchases ya ads.",
+        "iOS कभी-कभी readable Markdown page की जगह file icon, raw code या अधूरा preview दिखाता है।",
+        "iOS preview problem से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
+        "Md Preview App Store का focused viewer है, सदस्यता, इन-ऐप खरीदारी या विज्ञापन के बिना।",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
         "The file extension is .md, .markdown, .mdx, .rmd, or .qmd",
@@ -11352,7 +11352,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
+      "recommendedFix": "Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
       "decisionPath": [
         {
           "position": 1,
@@ -11549,7 +11549,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/hi/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-answer",
-        "text": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
+        "text": "Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
         "url": "https://markdown.cybergame.ai/hi/articles/markdown-file-shows-raw-text-on-iphone/",
         "dateCreated": "2026-07-01T00:00:00+00:00",
         "upvoteCount": 0,
@@ -11601,9 +11601,9 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS kabhi-kabhi readable Markdown page ke bajay file icon, raw code ya adhura preview dikhata hai.",
-        "raw Markdown preview se aayi Markdown files ko iPhone ya iPad par local preview path chahiye.",
-        "Md Preview App Store ka focused viewer hai, bina subscription, in-app purchases ya ads.",
+        "iOS कभी-कभी readable Markdown page की जगह file icon, raw code या अधूरा preview दिखाता है।",
+        "raw Markdown preview से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
+        "Md Preview App Store का focused viewer है, सदस्यता, इन-ऐप खरीदारी या विज्ञापन के बिना।",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
         "The file came from an AI tool, GitHub, Obsidian, Notion, email, or cloud drive",
@@ -11611,7 +11611,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
+      "recommendedFix": "Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
       "decisionPath": [
         {
           "position": 1,
@@ -11808,7 +11808,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/hi/articles/files-app-cant-preview-markdown-on-iphone/#troubleshooting-answer",
-        "text": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
+        "text": "Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
         "url": "https://markdown.cybergame.ai/hi/articles/files-app-cant-preview-markdown-on-iphone/",
         "dateCreated": "2026-07-01T00:00:00+00:00",
         "upvoteCount": 0,
@@ -11860,9 +11860,9 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS kabhi-kabhi readable Markdown page ke bajay file icon, raw code ya adhura preview dikhata hai.",
-        "Files preview problem se aayi Markdown files ko iPhone ya iPad par local preview path chahiye.",
-        "Md Preview App Store ka focused viewer hai, bina subscription, in-app purchases ya ads.",
+        "iOS कभी-कभी readable Markdown page की जगह file icon, raw code या अधूरा preview दिखाता है।",
+        "Files preview problem से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
+        "Md Preview App Store का focused viewer है, सदस्यता, इन-ऐप खरीदारी या विज्ञापन के बिना।",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
         "The user needs a Share Sheet target for Markdown preview",
@@ -11870,7 +11870,7 @@
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
+      "recommendedFix": "Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
       "decisionPath": [
         {
           "position": 1,
@@ -12067,7 +12067,7 @@
       "acceptedAnswer": {
         "@type": "Answer",
         "@id": "https://markdown.cybergame.ai/hi/articles/quick-look-cant-preview-markdown-on-iphone/#troubleshooting-answer",
-        "text": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
+        "text": "Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
         "url": "https://markdown.cybergame.ai/hi/articles/quick-look-cant-preview-markdown-on-iphone/",
         "dateCreated": "2026-07-01T00:00:00+00:00",
         "upvoteCount": 0,
@@ -12119,9 +12119,9 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS kabhi-kabhi readable Markdown page ke bajay file icon, raw code ya adhura preview dikhata hai.",
-        "Quick Look preview issue se aayi Markdown files ko iPhone ya iPad par local preview path chahiye.",
-        "Md Preview App Store ka focused viewer hai, bina subscription, in-app purchases ya ads.",
+        "iOS कभी-कभी readable Markdown page की जगह file icon, raw code या अधूरा preview दिखाता है।",
+        "Quick Look preview issue से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
+        "Md Preview App Store का focused viewer है, सदस्यता, इन-ऐप खरीदारी या विज्ञापन के बिना।",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
         "The preview may be plain text, generic, or missing code, tables, math, or Mermaid rendering",
@@ -12129,7 +12129,7 @@
         "Supported format family: Markdown"
       ],
       "likelyCause": "iOS does not provide a focused native Markdown preview path for every file workflow.",
-      "recommendedFix": "Md Preview को iOS Share Sheet या Files app से खोलें और Markdown file को iPhone या iPad पर local preview करें.",
+      "recommendedFix": "Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।",
       "decisionPath": [
         {
           "position": 1,

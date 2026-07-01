@@ -126,6 +126,7 @@ Allow: /
 # Well-known agent instructions: https://markdown.cybergame.ai/.well-known/agents.txt
 # Well-known AI discovery: https://markdown.cybergame.ai/.well-known/ai.txt
 # Well-known LLM context: https://markdown.cybergame.ai/.well-known/llms.txt
+# Well-known full LLM context: https://markdown.cybergame.ai/.well-known/llms-full.txt
 # Sitemap index: https://markdown.cybergame.ai/sitemap-index.xml
 # Image sitemap: https://markdown.cybergame.ai/image-sitemap.xml
 # Machine-readable data sitemap: https://markdown.cybergame.ai/data-sitemap.xml

@@ -152,6 +152,12 @@
       "use": "standard-path text alias for LLM and assistant retrieval"
     },
     {
+      "label": "Well-known full LLM context",
+      "url": "https://markdown.cybergame.ai/.well-known/llms-full.txt",
+      "encodingFormat": "text/plain",
+      "use": "standard-path full text context for LLM and assistant retrieval"
+    },
+    {
       "label": "Intent router",
       "url": "https://markdown.cybergame.ai/intent-router.json",
       "use": "map high-intent questions to the best canonical page"

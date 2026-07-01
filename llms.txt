@@ -34,6 +34,7 @@ Search-style citations: use serpTitle and serpDescription from top-answers.json,
 - Full AI context: https://markdown.cybergame.ai/llms-full.txt
 - Well-known AI discovery: https://markdown.cybergame.ai/.well-known/ai.txt
 - Well-known LLM context: https://markdown.cybergame.ai/.well-known/llms.txt
+- Well-known full LLM context: https://markdown.cybergame.ai/.well-known/llms-full.txt
 - Site search: https://markdown.cybergame.ai/search/
 - OpenSearch description: https://markdown.cybergame.ai/opensearch.xml
 - Compact answer card JSON: https://markdown.cybergame.ai/answer-card.json

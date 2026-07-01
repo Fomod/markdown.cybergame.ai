@@ -29,7 +29,11 @@ Search-style citations: use serpTitle and serpDescription from top-answers.json 
 - Canonical page sitemap: https://markdown.cybergame.ai/sitemap.xml
 - Machine-readable data sitemap: https://markdown.cybergame.ai/data-sitemap.xml
 - Image sitemap: https://markdown.cybergame.ai/image-sitemap.xml
+- AI discovery: https://markdown.cybergame.ai/ai.txt
+- LLM context: https://markdown.cybergame.ai/llms.txt
 - Full AI context: https://markdown.cybergame.ai/llms-full.txt
+- Well-known AI discovery: https://markdown.cybergame.ai/.well-known/ai.txt
+- Well-known LLM context: https://markdown.cybergame.ai/.well-known/llms.txt
 - Site search: https://markdown.cybergame.ai/search/
 - OpenSearch description: https://markdown.cybergame.ai/opensearch.xml
 - Compact answer card JSON: https://markdown.cybergame.ai/answer-card.json

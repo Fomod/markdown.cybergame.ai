@@ -19,7 +19,7 @@ Generated pages:
 - 22 localized App Store screenshot pages
 - 22 localized site search pages
 - 286 localized topic cluster pages
-- 2046 localized SEO article pages
+- 2068 localized SEO article pages
 - sitemap-index.xml for sitemap discovery
 - hreflang sitemap
 - data-sitemap.xml for machine-readable endpoint discovery

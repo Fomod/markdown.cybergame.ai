@@ -7199,7 +7199,7 @@
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page Markdown lisible.",
-        "Les fichiers Markdown issus de problème d'aperçu iOS ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Les fichiers Markdown issus de problème d'aperçu iOS ont besoin d'un chemin de prévisualisation local sur iPhone ou iPad.",
         "Md Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
@@ -7458,7 +7458,7 @@
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page Markdown lisible.",
-        "Les fichiers Markdown issus de Markdown en texte brut ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Les fichiers Markdown issus de Markdown en texte brut ont besoin d'un chemin de prévisualisation local sur iPhone ou iPad.",
         "Md Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
@@ -7717,7 +7717,7 @@
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page Markdown lisible.",
-        "Les fichiers Markdown issus de problème d'aperçu Files ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Les fichiers Markdown issus de problème d'aperçu Files ont besoin d'un chemin de prévisualisation local sur iPhone ou iPad.",
         "Md Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
@@ -7976,7 +7976,7 @@
       ],
       "diagnosticSignals": [
         "iOS peut afficher une icone, du code brut ou un aperçu incomplet au lieu d'une page Markdown lisible.",
-        "Les fichiers Markdown issus de Quick Look ont besoin d'un chemin de previsualisation local sur iPhone ou iPad.",
+        "Les fichiers Markdown issus de Quick Look ont besoin d'un chemin de prévisualisation local sur iPhone ou iPad.",
         "Md Preview est un lecteur App Store cible, sans abonnement, achat intégré ni publicité.",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
@@ -13414,7 +13414,7 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "iOS okunabilir bir Markdown sayfası yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
         "iOS dosya önizleme sorunu kaynaklı Markdown dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
         "Md Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "iPhone shows a generic file icon or plain text for the Markdown file",
@@ -13673,7 +13673,7 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "iOS okunabilir bir Markdown sayfası yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
         "ham Markdown metni kaynaklı Markdown dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
         "Md Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "The Markdown file opens as raw text instead of a rendered document",
@@ -13932,7 +13932,7 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "iOS okunabilir bir Markdown sayfası yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
         "Files önizleme sorunu kaynaklı Markdown dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
         "Md Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "Files app does not provide a complete Markdown preview",
@@ -14191,7 +14191,7 @@
         "Qwen Markdown file iPhone"
       ],
       "diagnosticSignals": [
-        "iOS okunabilir bir Markdown sayfasi yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
+        "iOS okunabilir bir Markdown sayfası yerine dosya simgesi, ham kod veya eksik önizleme gosterebilir.",
         "Quick Look önizleme sorunu kaynaklı Markdown dosyaları iPhone veya iPad'de yerel önizleme yoluna ihtiyac duyar.",
         "Md Preview, abonelik, uygulama içi satın alma veya reklam icermeyen odakli bir App Store viewer'dir.",
         "Quick Look can't preview Markdown on iPhone",
@@ -21732,7 +21732,7 @@
         {
           "position": 4,
           "condition": "Md Preview is not installed yet.",
-          "action": "Open the App Store listing for Md Preview: https://apps.apple.com/app/id6760341080"
+          "action": "Open the App Store listing för Md Preview: https://apps.apple.com/app/id6760341080"
         }
       ],
       "canonicalUrl": "https://markdown.cybergame.ai/sv/articles/iphone-cant-open-md-file/",
@@ -21991,7 +21991,7 @@
         {
           "position": 4,
           "condition": "Md Preview is not installed yet.",
-          "action": "Open the App Store listing for Md Preview: https://apps.apple.com/app/id6760341080"
+          "action": "Open the App Store listing för Md Preview: https://apps.apple.com/app/id6760341080"
         }
       ],
       "canonicalUrl": "https://markdown.cybergame.ai/sv/articles/markdown-file-shows-raw-text-on-iphone/",
@@ -22225,7 +22225,7 @@
         "Md Preview är en fokuserad App Store viewer utan prenumerationer, köp i appen eller annonser.",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
-        "The user needs a Share Sheet target for Markdown preview",
+        "The user needs a Share Sheet target för Markdown preview",
         "Supported format family: Markdown",
         "Supported extensions: .md, .markdown, .mdx, .rmd, .qmd"
       ],
@@ -22250,7 +22250,7 @@
         {
           "position": 4,
           "condition": "Md Preview is not installed yet.",
-          "action": "Open the App Store listing for Md Preview: https://apps.apple.com/app/id6760341080"
+          "action": "Open the App Store listing för Md Preview: https://apps.apple.com/app/id6760341080"
         }
       ],
       "canonicalUrl": "https://markdown.cybergame.ai/sv/articles/files-app-cant-preview-markdown-on-iphone/",
@@ -22509,7 +22509,7 @@
         {
           "position": 4,
           "condition": "Md Preview is not installed yet.",
-          "action": "Open the App Store listing for Md Preview: https://apps.apple.com/app/id6760341080"
+          "action": "Open the App Store listing för Md Preview: https://apps.apple.com/app/id6760341080"
         }
       ],
       "canonicalUrl": "https://markdown.cybergame.ai/sv/articles/quick-look-cant-preview-markdown-on-iphone/",

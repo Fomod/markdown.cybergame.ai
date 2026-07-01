@@ -95,8 +95,6 @@
   "version": "1.2",
   "releaseDate": "2026-03-11T07:00:00Z",
   "currentVersionReleaseDate": "2026-03-16T23:48:04Z",
-  "averageUserRating": 4.4,
-  "userRatingCount": 5,
   "minimumOsVersion": "17.0",
   "platformRequirements": "iOS 17.0 or later; iPadOS 17.0 or later",
   "supportedFormats": ".md, .markdown, .mdx, .rmd, .qmd",
@@ -105,6 +103,18 @@
     "iPad"
   ],
   "storeListingDetails": "defer-to-app-store",
+  "dynamicStoreListingFacts": [
+    "ratings",
+    "reviews",
+    "purchaseTerms",
+    "availability",
+    "storefrontSpecificListing"
+  ],
+  "dynamicStoreListingDetails": {
+    "policy": "defer-to-app-store",
+    "sourceOfTruth": "https://apps.apple.com/app/id6760341080",
+    "reason": "App Store ratings, reviews, purchase terms, availability, and storefront-specific listing details can change."
+  },
   "conversionIntent": "open-app-store-listing",
   "smartAppBanner": {
     "surface": "smart-app-banner",

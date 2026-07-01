@@ -122,6 +122,36 @@
       "use": "standard-path alias for compact canonical page routing"
     },
     {
+      "label": "AI discovery text",
+      "url": "https://markdown.cybergame.ai/ai.txt",
+      "encodingFormat": "text/plain",
+      "use": "fast text entrypoint for AI assistants and RAG systems"
+    },
+    {
+      "label": "LLM context",
+      "url": "https://markdown.cybergame.ai/llms.txt",
+      "encodingFormat": "text/plain",
+      "use": "compact text context for LLM and assistant retrieval"
+    },
+    {
+      "label": "Full LLM context",
+      "url": "https://markdown.cybergame.ai/llms-full.txt",
+      "encodingFormat": "text/plain",
+      "use": "full text context when an assistant needs more crawlable detail"
+    },
+    {
+      "label": "Well-known AI discovery text",
+      "url": "https://markdown.cybergame.ai/.well-known/ai.txt",
+      "encodingFormat": "text/plain",
+      "use": "standard-path text alias for AI assistants and RAG systems"
+    },
+    {
+      "label": "Well-known LLM context",
+      "url": "https://markdown.cybergame.ai/.well-known/llms.txt",
+      "encodingFormat": "text/plain",
+      "use": "standard-path text alias for LLM and assistant retrieval"
+    },
+    {
       "label": "Intent router",
       "url": "https://markdown.cybergame.ai/intent-router.json",
       "use": "map high-intent questions to the best canonical page"

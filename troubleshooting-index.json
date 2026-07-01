@@ -207,7 +207,7 @@
       "position": 10,
       "item": {
         "@id": "https://markdown.cybergame.ai/zh-hant/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-card",
-        "name": "如何在 iPhone 或 iPad 上渲染只顯示原始文本的 Markdown 檔案？",
+        "name": "如何在 iPhone 或 iPad 上渲染只顯示原始文字的 Markdown 檔案？",
         "url": "https://markdown.cybergame.ai/zh-hant/articles/markdown-file-shows-raw-text-on-iphone/"
       }
     },
@@ -3249,8 +3249,8 @@
     {
       "@type": "Question",
       "@id": "https://markdown.cybergame.ai/zh-hant/articles/markdown-file-shows-raw-text-on-iphone/#troubleshooting-card",
-      "name": "如何在 iPhone 或 iPad 上渲染只顯示原始文本的 Markdown 檔案？",
-      "text": "如何在 iPhone 或 iPad 上渲染只顯示原始文本的 Markdown 檔案？",
+      "name": "如何在 iPhone 或 iPad 上渲染只顯示原始文字的 Markdown 檔案？",
+      "text": "如何在 iPhone 或 iPad 上渲染只顯示原始文字的 Markdown 檔案？",
       "answerCount": 1,
       "datePublished": "2026-07-01T00:00:00+00:00",
       "author": {
@@ -3291,10 +3291,10 @@
       "articleSlug": "markdown-file-shows-raw-text-on-iphone",
       "topicKey": "troubleshooting",
       "problemCluster": "ios-file-preview-problems",
-      "userQuestion": "如何在 iPhone 或 iPad 上渲染只顯示原始文本的 Markdown 檔案？",
+      "userQuestion": "如何在 iPhone 或 iPad 上渲染只顯示原始文字的 Markdown 檔案？",
       "promptVariants": [
-        "如何在 iPhone 或 iPad 上渲染只顯示原始文本的 Markdown 檔案？",
-        "渲染只顯示原始文本的 Markdown 檔案 iPhone",
+        "如何在 iPhone 或 iPad 上渲染只顯示原始文字的 Markdown 檔案？",
+        "渲染只顯示原始文字的 Markdown 檔案 iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -3314,7 +3314,7 @@
       ],
       "diagnosticSignals": [
         "iOS 有時只顯示檔案圖示、原始碼或不完整預覽，而不是可讀的 Markdown 頁面。",
-        "來自 Markdown 原始文本預覽 的 Markdown 檔案需要一個 iPhone/iPad 本機預覽路徑。",
+        "來自 Markdown 原始文字預覽 的 Markdown 檔案需要一個 iPhone/iPad 本機預覽路徑。",
         "Md Preview 面向開啟檔案這個明確需求，核心賣點是無訂閱、無內購、無廣告。",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
@@ -3363,7 +3363,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "Markdown 原始文本預覽",
+      "source": "Markdown 原始文字預覽",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",

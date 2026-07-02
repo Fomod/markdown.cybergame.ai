@@ -64,9 +64,9 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 5082,
+    "count": 5214,
     "localeCount": 22,
-    "routesPerLocale": 231,
+    "routesPerLocale": 237,
     "canonicalUrl": "https://markdown.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://markdown.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -321,7 +321,13 @@
     "AI file viewer iPhone",
     "AI file opener iPhone",
     "open AI generated files on iPhone",
-    "AI generated Markdown file viewer iPhone",
+    "open AI generated Markdown file on iPhone",
+    "preview AI generated Markdown file on iPhone",
+    "view AI generated Markdown file on iPhone",
+    "open ChatGPT Markdown output on iPhone",
+    "view ChatGPT Markdown output on iPhone",
+    "open Claude artifact Markdown on iPhone",
+    "preview Claude artifact Markdown on iPhone",
     "iPhone can't open Markdown file",
     "iPhone cannot open Markdown file",
     "Markdown file won't open on iPhone",

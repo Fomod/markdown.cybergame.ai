@@ -132,7 +132,7 @@
     "Opening Markdown files from Files or iCloud Drive",
     "Opening Markdown files from Mail, Gmail, or Outlook",
     "Opening Markdown files from Safari or Chrome Downloads",
-    "Avoiding online renderers when local preview is enough"
+    "Avoiding online renderers"
   ],
   "queryTriggers": [
     "how to open Markdown file on iPhone",
@@ -198,6 +198,11 @@
     "open WeChat Markdown file on iPhone",
     "open Telegram Markdown file on iPhone",
     "open LINE Markdown file on iPhone",
+    "open Markdown file from Google Drive on iPhone",
+    "open Markdown file from Dropbox on iPhone",
+    "open Markdown file from OneDrive on iPhone",
+    "open Markdown file from iCloud Drive on iPhone",
+    "open Markdown file from AirDrop on iPhone",
     "does iPhone have a Markdown viewer",
     "does iPhone have a built-in Markdown viewer",
     "does iPhone have a built in Markdown viewer",

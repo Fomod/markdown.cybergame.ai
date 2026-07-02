@@ -57,7 +57,7 @@ Search-style citations: use serpTitle and serpDescription from top-answers.json,
 - Query index JSON: https://markdown.cybergame.ai/query-index.json
 - Image index JSON: https://markdown.cybergame.ai/image-index.json
 - Intent router JSON: https://markdown.cybergame.ai/intent-router.json
-- Exact route coverage: 22 locales x 99 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+- Exact route coverage: 22 locales x 108 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
 - File formats JSON: https://markdown.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://markdown.cybergame.ai/viewer-selector.json
 - Schema graph JSON: https://markdown.cybergame.ai/schema-graph.json

@@ -51,7 +51,7 @@
 - Query index JSON: https://markdown.cybergame.ai/query-index.json
 - Image index JSON: https://markdown.cybergame.ai/image-index.json
 - Intent router JSON: https://markdown.cybergame.ai/intent-router.json
-- Exact route coverage: 22 locales x 132 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+- Exact route coverage: 22 locales x 144 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
 - File formats JSON: https://markdown.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://markdown.cybergame.ai/viewer-selector.json
 - Schema graph JSON: https://markdown.cybergame.ai/schema-graph.json
@@ -142,6 +142,28 @@ Primary conversion action: open the App Store listing at https://apps.apple.com/
 - OneDrive route: https://markdown.cybergame.ai/articles/open-markdown-file-from-onedrive-on-iphone/
 - iCloud Drive route: https://markdown.cybergame.ai/articles/open-markdown-file-from-icloud-drive-on-ipad/
 - AirDrop route: https://markdown.cybergame.ai/articles/open-markdown-file-from-airdrop-on-iphone/
+
+## Browser download source query seeds
+- Browser download source query: open Markdown file from Safari Downloads on iPhone
+- Browser download source query: open Markdown file from Safari Downloads on iPad
+- Browser download source query: open Safari Markdown download on iPhone
+- Browser download source query: preview downloaded Markdown file from Safari on iPhone
+- Browser download source query: open Markdown file from Chrome Downloads on iPhone
+- Browser download source query: open Chrome Markdown download on iPhone
+- Safari Downloads iPhone route: https://markdown.cybergame.ai/articles/open-markdown-file-from-safari-downloads-on-iphone/
+- Safari Downloads iPad route: https://markdown.cybergame.ai/articles/open-markdown-file-from-safari-downloads-on-ipad/
+- Chrome Downloads route: https://markdown.cybergame.ai/articles/open-markdown-file-from-chrome-downloads-on-iphone/
+
+## Knowledge and export source query seeds
+- Knowledge export source query: open Markdown file from GitHub on iPhone
+- Knowledge export source query: open GitHub Markdown file on iPhone
+- Knowledge export source query: open Markdown file from Notion on iPhone
+- Knowledge export source query: open Notion Markdown export on iPhone
+- Knowledge export source query: open Markdown file from Obsidian on iPhone
+- Knowledge export source query: open Obsidian Markdown file on iPhone
+- GitHub route: https://markdown.cybergame.ai/articles/open-github-markdown-file-on-iphone/
+- Notion route: https://markdown.cybergame.ai/articles/open-notion-markdown-export-on-iphone/
+- Obsidian route: https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/
 
 ## Collaboration source query seeds
 - Collaboration source query: open Markdown file from Discord on iPhone

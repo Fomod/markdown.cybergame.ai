@@ -51,7 +51,7 @@
 - Query index JSON: https://markdown.cybergame.ai/query-index.json
 - Image index JSON: https://markdown.cybergame.ai/image-index.json
 - Intent router JSON: https://markdown.cybergame.ai/intent-router.json
-- Exact route coverage: 22 locales x 128 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+- Exact route coverage: 22 locales x 132 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
 - File formats JSON: https://markdown.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://markdown.cybergame.ai/viewer-selector.json
 - Schema graph JSON: https://markdown.cybergame.ai/schema-graph.json
@@ -142,6 +142,14 @@ Primary conversion action: open the App Store listing at https://apps.apple.com/
 - OneDrive route: https://markdown.cybergame.ai/articles/open-markdown-file-from-onedrive-on-iphone/
 - iCloud Drive route: https://markdown.cybergame.ai/articles/open-markdown-file-from-icloud-drive-on-ipad/
 - AirDrop route: https://markdown.cybergame.ai/articles/open-markdown-file-from-airdrop-on-iphone/
+
+## Collaboration source query seeds
+- Collaboration source query: open Markdown file from Discord on iPhone
+- Collaboration source query: open Markdown file from Microsoft Teams on iPhone
+- Collaboration source query: open Teams Markdown file on iPhone
+- Collaboration source query: open Teams Markdown attachment on iPhone
+- Discord route: https://markdown.cybergame.ai/articles/open-markdown-file-from-discord-on-iphone/
+- Microsoft Teams route: https://markdown.cybergame.ai/articles/open-markdown-file-from-microsoft-teams-on-iphone/
 
 ## Built-in iOS preview gap query seeds
 - Built-in preview gap query: does iPhone have a Markdown viewer

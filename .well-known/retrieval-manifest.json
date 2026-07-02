@@ -64,9 +64,9 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 2816,
+    "count": 2904,
     "localeCount": 22,
-    "routesPerLocale": 128,
+    "routesPerLocale": 132,
     "canonicalUrl": "https://markdown.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://markdown.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -322,6 +322,10 @@
     "open Markdown file from OneDrive on iPhone",
     "open Markdown file from iCloud Drive on iPhone",
     "open Markdown file from AirDrop on iPhone",
+    "open Markdown file from Discord on iPhone",
+    "open Markdown file from Microsoft Teams on iPhone",
+    "open Teams Markdown file on iPhone",
+    "open Teams Markdown attachment on iPhone",
     "does iPhone have a Markdown viewer",
     "does iPhone have a built-in Markdown viewer",
     "does iPhone have a built in Markdown viewer",

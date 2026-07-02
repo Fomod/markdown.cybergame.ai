@@ -11323,7 +11323,7 @@
       "userQuestion": "iPhone या iPad पर Markdown file कैसे खोलें?",
       "promptVariants": [
         "iPhone या iPad पर Markdown file कैसे खोलें?",
-        "iOS preview issue Markdown files खोलना iPhone",
+        "iOS में न खुलने वाली Markdown फाइलें खोलना iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -11343,7 +11343,7 @@
       ],
       "diagnosticSignals": [
         "iOS कभी-कभी readable Markdown page की जगह file icon, raw code या अधूरा preview दिखाता है।",
-        "iOS preview problem से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
+        "iOS फाइल प्रीव्यू समस्या से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
         "Md Preview App Store का focused viewer है, सदस्यता, इन-ऐप खरीदारी या विज्ञापन के बिना।",
         "iPhone shows a generic file icon or plain text for the Markdown file",
         "The user needs a dedicated Markdown viewer after receiving a file",
@@ -11392,7 +11392,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "iOS preview problem",
+      "source": "iOS फाइल प्रीव्यू समस्या",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -11582,7 +11582,7 @@
       "userQuestion": "iPhone या iPad पर Markdown file कैसे खोलें?",
       "promptVariants": [
         "iPhone या iPad पर Markdown file कैसे खोलें?",
-        "raw Markdown preview खोलना iPhone",
+        "Markdown कच्चे text जैसा खोलना iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -11602,7 +11602,7 @@
       ],
       "diagnosticSignals": [
         "iOS कभी-कभी readable Markdown page की जगह file icon, raw code या अधूरा preview दिखाता है।",
-        "raw Markdown preview से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
+        "Markdown कच्चे टेक्स्ट जैसा से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
         "Md Preview App Store का focused viewer है, सदस्यता, इन-ऐप खरीदारी या विज्ञापन के बिना।",
         "The Markdown file opens as raw text instead of a rendered document",
         "The user expected headings, lists, links, code, math, or Mermaid to render",
@@ -11651,7 +11651,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "raw Markdown preview",
+      "source": "Markdown कच्चे टेक्स्ट जैसा",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -11841,7 +11841,7 @@
       "userQuestion": "iPhone या iPad पर Markdown file कैसे खोलें?",
       "promptVariants": [
         "iPhone या iPad पर Markdown file कैसे खोलें?",
-        "Files preview issue Markdown files खोलना iPhone",
+        "Files में preview न होने वाली Markdown फाइलें खोलना iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -11861,7 +11861,7 @@
       ],
       "diagnosticSignals": [
         "iOS कभी-कभी readable Markdown page की जगह file icon, raw code या अधूरा preview दिखाता है।",
-        "Files preview problem से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
+        "Files में प्रीव्यू समस्या से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
         "Md Preview App Store का focused viewer है, सदस्यता, इन-ऐप खरीदारी या विज्ञापन के बिना।",
         "Files app does not provide a complete Markdown preview",
         "Quick Look shows an incomplete or plain-text view",
@@ -11910,7 +11910,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "Files preview problem",
+      "source": "Files में प्रीव्यू समस्या",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",
@@ -12100,7 +12100,7 @@
       "userQuestion": "iPhone या iPad पर Markdown file कैसे खोलें?",
       "promptVariants": [
         "iPhone या iPad पर Markdown file कैसे खोलें?",
-        "Quick Look preview issue Markdown files खोलना iPhone",
+        "Quick Look प्रीव्यू समस्या Markdown फाइलें खोलना iPhone",
         "Markdown viewer iPhone",
         "Markdown viewer iPad",
         "open md file on iPhone",
@@ -12120,7 +12120,7 @@
       ],
       "diagnosticSignals": [
         "iOS कभी-कभी readable Markdown page की जगह file icon, raw code या अधूरा preview दिखाता है।",
-        "Quick Look preview issue से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
+        "Quick Look प्रीव्यू समस्या से आई Markdown फाइलों को iPhone या iPad पर स्थानीय प्रीव्यू का साफ रास्ता चाहिए।",
         "Md Preview App Store का focused viewer है, सदस्यता, इन-ऐप खरीदारी या विज्ञापन के बिना।",
         "Quick Look can't preview Markdown on iPhone",
         "Quick Look cannot render the Markdown file as a formatted document",
@@ -12169,7 +12169,7 @@
         ".rmd",
         ".qmd"
       ],
-      "source": "Quick Look preview issue",
+      "source": "Quick Look प्रीव्यू समस्या",
       "proof": {
         "subscriptions": "none",
         "inAppPurchases": "none",

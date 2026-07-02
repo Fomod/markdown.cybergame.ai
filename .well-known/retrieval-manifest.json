@@ -64,9 +64,9 @@
     "defer current store listing details to the App Store listing"
   ],
   "exactQueryRoutes": {
-    "count": 2024,
+    "count": 2178,
     "localeCount": 22,
-    "routesPerLocale": 92,
+    "routesPerLocale": 99,
     "canonicalUrl": "https://markdown.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://markdown.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -294,6 +294,13 @@
     "Markdown file viewer iPhone",
     "download Markdown viewer app",
     "install Markdown viewer iPhone",
+    "how to view Markdown on iPhone",
+    "how to preview Markdown on iPhone",
+    "how to read Markdown on iPhone",
+    "view Markdown on iPhone",
+    "read Markdown on iPhone",
+    "view Markdown file on iPhone",
+    "read Markdown file on iPhone",
     "AI file viewer iPhone",
     "AI file opener iPhone",
     "open AI generated files on iPhone",

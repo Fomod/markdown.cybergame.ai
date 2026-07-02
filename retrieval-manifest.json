@@ -1,7 +1,7 @@
 {
   "schemaVersion": "retrieval-manifest-v1",
   "contentAccess": {
-    "isAccessibleForFree": true,
+    "scope": "public-website-content",
     "requiresLogin": false,
     "requiresSubscription": false,
     "accessMode": "public-web-page"

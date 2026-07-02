@@ -1,7 +1,7 @@
 {
   "schemaVersion": "ai-citation-card-v1",
   "contentAccess": {
-    "isAccessibleForFree": true,
+    "scope": "public-website-content",
     "requiresLogin": false,
     "requiresSubscription": false,
     "accessMode": "public-web-page"

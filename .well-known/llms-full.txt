@@ -51,7 +51,7 @@
 - Query index JSON: https://markdown.cybergame.ai/query-index.json
 - Image index JSON: https://markdown.cybergame.ai/image-index.json
 - Intent router JSON: https://markdown.cybergame.ai/intent-router.json
-- Exact route coverage: 22 locales x 201 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+- Exact route coverage: 22 locales x 217 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
 - File formats JSON: https://markdown.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://markdown.cybergame.ai/viewer-selector.json
 - Schema graph JSON: https://markdown.cybergame.ai/schema-graph.json
@@ -108,6 +108,14 @@ Primary conversion action: open the App Store listing at https://apps.apple.com/
 
 ## Email attachment query seeds
 - Email attachment query: open Markdown email attachment on iPhone
+- Email attachment query: open Markdown file from Gmail on iPhone
+- Email attachment query: open Markdown file from Outlook on iPhone
+- Email attachment query: open Markdown file from Apple Mail on iPhone
+- Email attachment query: open Markdown file from Mail on iPhone
+- Email attachment query: open Markdown attachment from Gmail on iPhone
+- Email attachment query: open Markdown attachment from Outlook on iPhone
+- Email attachment query: open Markdown attachment from Apple Mail on iPhone
+- Email attachment query: open Markdown attachment from Mail on iPhone
 - Email attachment query: open Gmail Markdown attachment on iPhone
 - Email attachment query: open Outlook Markdown attachment on iPhone
 - Email attachment query: open Apple Mail Markdown attachment on iPhone
@@ -121,6 +129,10 @@ Primary conversion action: open the App Store listing at https://apps.apple.com/
 ## Messaging app source query seeds
 - Messaging source query: open Markdown file from Messages on iPhone
 - Messaging source query: open Markdown file from iMessage on iPhone
+- Messaging source query: open Markdown file from WhatsApp on iPhone
+- Messaging source query: open Markdown file from WeChat on iPhone
+- Messaging source query: open Markdown file from Telegram on iPhone
+- Messaging source query: open Markdown file from LINE on iPhone
 - Messaging source query: open WhatsApp Markdown file on iPhone
 - Messaging source query: open WeChat Markdown file on iPhone
 - Messaging source query: open Telegram Markdown file on iPhone

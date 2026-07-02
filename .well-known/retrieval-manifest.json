@@ -64,9 +64,9 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 3168,
+    "count": 3498,
     "localeCount": 22,
-    "routesPerLocale": 144,
+    "routesPerLocale": 159,
     "canonicalUrl": "https://markdown.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://markdown.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"

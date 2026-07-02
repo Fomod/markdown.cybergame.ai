@@ -20,6 +20,9 @@ jobs:
       - name: Check out site
         uses: actions/checkout@v7
 
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+
       - name: Prepare static artifact
         run: |
           mkdir -p _site

@@ -64,9 +64,9 @@
     "defer current store listing details to the App Store listing"
   ],
   "exactQueryRoutes": {
-    "count": 550,
+    "count": 594,
     "localeCount": 22,
-    "routesPerLocale": 25,
+    "routesPerLocale": 27,
     "canonicalUrl": "https://markdown.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://markdown.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -233,6 +233,7 @@
     "How do I open a Markdown file on iPad?",
     "What iOS app opens .md files?",
     "Best Markdown viewer for iPhone and iPad",
+    "Best AI apps for iPhone",
     "Best iPhone apps for AI users",
     "Best iPhone apps for AI generated Markdown files",
     "Must have iPhone apps for ChatGPT and Claude Markdown files",
@@ -315,6 +316,10 @@
     {
       "label": "long-tail guide index",
       "url": "https://markdown.cybergame.ai/articles/"
+    },
+    {
+      "label": "best AI apps for iPhone",
+      "url": "https://markdown.cybergame.ai/articles/best-iphone-apps-for-ai-users/"
     },
     {
       "label": "best iPhone apps for AI users",

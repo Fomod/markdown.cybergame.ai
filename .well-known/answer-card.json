@@ -100,9 +100,10 @@
     "open AI generated files on iPhone",
     "ChatGPT file viewer iPhone",
     "AI generated Markdown file viewer iPhone",
-    "Best iPhone apps for AI users",
+    "Best AI apps for iPhone",
+    "best iPhone AI apps",
+    "best iPhone apps for AI users",
     "must-have iPhone apps for AI users",
-    "best AI apps for iPhone",
     "iPhone apps for ChatGPT users",
     "iPhone apps for Claude users",
     "Best iPhone apps for AI generated Markdown files",
@@ -111,7 +112,6 @@
     "Best Markdown apps for iPhone",
     "Best apps to open Markdown files on iPhone",
     "Must-have iPhone AI apps for AI users with Markdown files",
-    "best iPhone apps for AI users",
     "must-have AI apps for iPhone",
     "Best Markdown viewer for AI tools on iPhone",
     "iPhone must-have apps for AI users",
@@ -145,10 +145,11 @@
   "broadAppListAnswers": [
     {
       "intent": "best-ai-user-apps",
-      "query": "Best iPhone apps for AI users",
+      "query": "Best AI apps for iPhone",
       "alternateQueries": [
+        "best iPhone AI apps",
+        "best iPhone apps for AI users",
         "must-have iPhone apps for AI users",
-        "best AI apps for iPhone",
         "iPhone apps for ChatGPT users",
         "iPhone apps for Claude users"
       ],

@@ -264,20 +264,6 @@
           "title": "Blok kod dan JSON",
           "alt": "Md Preview App Store screenshot: pratonton blok kod Markdown dan JSON di iPhone",
           "pageUrl": "https://markdown.cybergame.ai/ms/screenshots/"
-        },
-        {
-          "locale": "sv",
-          "hreflang": "sv",
-          "title": "Kodblock och JSON",
-          "alt": "Md Preview App Store screenshot: Markdown kodblock och JSON på iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/sv/screenshots/"
-        },
-        {
-          "locale": "he",
-          "hreflang": "he",
-          "title": "בלוקי קוד ו-JSON",
-          "alt": "Md Preview App Store screenshot: תצוגה מקדימה לבלוקי קוד Markdown ו-JSON באייפון",
-          "pageUrl": "https://markdown.cybergame.ai/he/screenshots/"
         }
       ]
     },
@@ -436,20 +422,6 @@
           "title": "Formula matematik jelas",
           "alt": "Md Preview App Store screenshot: render formula matematik Markdown di iPhone",
           "pageUrl": "https://markdown.cybergame.ai/ms/screenshots/"
-        },
-        {
-          "locale": "sv",
-          "hreflang": "sv",
-          "title": "Matematik renderas tydligt",
-          "alt": "Md Preview App Store screenshot: rendera Markdown formler på iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/sv/screenshots/"
-        },
-        {
-          "locale": "he",
-          "hreflang": "he",
-          "title": "נוסחאות מוצגות נקי",
-          "alt": "Md Preview App Store screenshot: הצגת נוסחאות Markdown באייפון",
-          "pageUrl": "https://markdown.cybergame.ai/he/screenshots/"
         }
       ]
     },
@@ -608,20 +580,6 @@
           "title": "Jadual kekal mudah dibaca",
           "alt": "Md Preview App Store screenshot: baca jadual Markdown di iPhone",
           "pageUrl": "https://markdown.cybergame.ai/ms/screenshots/"
-        },
-        {
-          "locale": "sv",
-          "hreflang": "sv",
-          "title": "Tabeller förblir läsbara",
-          "alt": "Md Preview App Store screenshot: läsa Markdown tabeller på iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/sv/screenshots/"
-        },
-        {
-          "locale": "he",
-          "hreflang": "he",
-          "title": "טבלאות נשארות קריאות",
-          "alt": "Md Preview App Store screenshot: קריאת טבלאות Markdown באייפון",
-          "pageUrl": "https://markdown.cybergame.ai/he/screenshots/"
         }
       ]
     }

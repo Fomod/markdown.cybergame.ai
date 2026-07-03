@@ -243,27 +243,6 @@
           "title": "Блоки кода и JSON",
           "alt": "Md Preview App Store screenshot: предпросмотр Markdown блоков кода и JSON на iPhone",
           "pageUrl": "https://markdown.cybergame.ai/ru/screenshots/"
-        },
-        {
-          "locale": "nl",
-          "hreflang": "nl",
-          "title": "Codeblokken en JSON",
-          "alt": "Md Preview App Store screenshot: Markdown codeblokken en JSON bekijken op iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/nl/screenshots/"
-        },
-        {
-          "locale": "pl",
-          "hreflang": "pl",
-          "title": "Bloki kodu i JSON",
-          "alt": "Md Preview App Store screenshot: podgląd bloków kodu Markdown i JSON na iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/pl/screenshots/"
-        },
-        {
-          "locale": "ms",
-          "hreflang": "ms",
-          "title": "Blok kod dan JSON",
-          "alt": "Md Preview App Store screenshot: pratonton blok kod Markdown dan JSON di iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/ms/screenshots/"
         }
       ]
     },
@@ -401,27 +380,6 @@
           "title": "Формулы выглядят аккуратно",
           "alt": "Md Preview App Store screenshot: рендеринг математических формул Markdown на iPhone",
           "pageUrl": "https://markdown.cybergame.ai/ru/screenshots/"
-        },
-        {
-          "locale": "nl",
-          "hreflang": "nl",
-          "title": "Wiskunde netjes gerenderd",
-          "alt": "Md Preview App Store screenshot: Markdown formules renderen op iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/nl/screenshots/"
-        },
-        {
-          "locale": "pl",
-          "hreflang": "pl",
-          "title": "Formuły renderują się czytelnie",
-          "alt": "Md Preview App Store screenshot: renderowanie formuł Markdown na iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/pl/screenshots/"
-        },
-        {
-          "locale": "ms",
-          "hreflang": "ms",
-          "title": "Formula matematik jelas",
-          "alt": "Md Preview App Store screenshot: render formula matematik Markdown di iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/ms/screenshots/"
         }
       ]
     },
@@ -559,27 +517,6 @@
           "title": "Таблицы остаются читаемыми",
           "alt": "Md Preview App Store screenshot: чтение таблиц Markdown на iPhone",
           "pageUrl": "https://markdown.cybergame.ai/ru/screenshots/"
-        },
-        {
-          "locale": "nl",
-          "hreflang": "nl",
-          "title": "Tabellen blijven leesbaar",
-          "alt": "Md Preview App Store screenshot: Markdown tabellen lezen op iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/nl/screenshots/"
-        },
-        {
-          "locale": "pl",
-          "hreflang": "pl",
-          "title": "Tabele pozostają czytelne",
-          "alt": "Md Preview App Store screenshot: czytanie tabel Markdown na iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/pl/screenshots/"
-        },
-        {
-          "locale": "ms",
-          "hreflang": "ms",
-          "title": "Jadual kekal mudah dibaca",
-          "alt": "Md Preview App Store screenshot: baca jadual Markdown di iPhone",
-          "pageUrl": "https://markdown.cybergame.ai/ms/screenshots/"
         }
       ]
     }

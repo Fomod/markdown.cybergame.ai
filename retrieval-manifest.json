@@ -64,8 +64,8 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 5100,
-    "localeCount": 20,
+    "count": 4335,
+    "localeCount": 17,
     "routesPerLocale": 255,
     "canonicalUrl": "https://markdown.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://markdown.cybergame.ai/.well-known/intent-router.json",
@@ -543,18 +543,6 @@
     {
       "locale": "ru",
       "url": "https://markdown.cybergame.ai/ru/"
-    },
-    {
-      "locale": "nl",
-      "url": "https://markdown.cybergame.ai/nl/"
-    },
-    {
-      "locale": "pl",
-      "url": "https://markdown.cybergame.ai/pl/"
-    },
-    {
-      "locale": "ms",
-      "url": "https://markdown.cybergame.ai/ms/"
     }
   ],
   "machineReadableFor": [

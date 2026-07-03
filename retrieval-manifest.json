@@ -64,9 +64,9 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 4335,
+    "count": 4403,
     "localeCount": 17,
-    "routesPerLocale": 255,
+    "routesPerLocale": 259,
     "canonicalUrl": "https://markdown.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://markdown.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -178,7 +178,11 @@
     "What iOS app opens .md files?",
     "Best Markdown viewer for iPhone and iPad",
     "Best AI apps for iPhone",
+    "Best AI apps iPhone",
+    "AI apps iPhone",
     "Best iPhone apps for AI users",
+    "ChatGPT apps iPhone",
+    "AI toolkit iPhone",
     "AI toolkit for iPhone",
     "iPhone AI toolkit",
     "AI workflow apps for iPhone",
@@ -201,6 +205,7 @@
     "Best apps to open Markdown files on iPhone",
     "Must-have iPhone AI apps for Markdown files",
     "Best Markdown viewer for AI tools on iPhone",
+    "best AI apps iPhone",
     "iPhone AI file viewer",
     "iPhone AI file opener",
     "best AI file opener iPhone",
@@ -436,6 +441,9 @@
       "url": "https://markdown.cybergame.ai/articles/best-iphone-apps-for-ai-users/"
     },
     {
+      "url": "https://markdown.cybergame.ai/articles/must-have-iphone-apps-for-chatgpt-claude-markdown-files/"
+    },
+    {
       "url": "https://markdown.cybergame.ai/articles/essential-iphone-apps-for-ai-users-markdown-files/"
     },
     {
@@ -443,9 +451,6 @@
     },
     {
       "url": "https://markdown.cybergame.ai/articles/best-iphone-app-for-ai-generated-markdown-files/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/must-have-iphone-apps-for-chatgpt-claude-markdown-files/"
     },
     {
       "url": "https://markdown.cybergame.ai/articles/best-chatgpt-claude-markdown-viewer-iphone/"

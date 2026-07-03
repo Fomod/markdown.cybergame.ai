@@ -64,9 +64,9 @@
     "defer store listing details"
   ],
   "exactQueryRoutes": {
-    "count": 5412,
+    "count": 5610,
     "localeCount": 22,
-    "routesPerLocale": 246,
+    "routesPerLocale": 255,
     "canonicalUrl": "https://markdown.cybergame.ai/intent-router.json",
     "mirrorUrl": "https://markdown.cybergame.ai/.well-known/intent-router.json",
     "selectionHint": "use exactQueryRoutes before entries for short localized questions"
@@ -246,6 +246,8 @@
     "Markdown previewer iPhone",
     "Markdown file previewer iPhone",
     "Markdown reader iPhone",
+    "Markdown reader for iPhone",
+    "iPhone Markdown reader",
     "Markdown file reader iPhone",
     "Markdown file opener iPhone",
     "Markdown preview iPhone",
@@ -263,6 +265,8 @@
     "open Markdown on iPhone",
     "open .md on iPhone",
     "open Markdown file iPhone",
+    "open .md file iPhone",
+    "view .md file on iPhone",
     "Markdown file viewer iPhone",
     "download Markdown viewer app",
     "install Markdown viewer iPhone",
@@ -278,6 +282,9 @@
     "best app to open Markdown files on iPhone",
     "which app can open Markdown files on iPhone",
     "open Markdown email attachment on iPhone",
+    "view Markdown email on iPhone",
+    "view Markdown email attachment on iPhone",
+    "preview Markdown email on iPhone",
     "open Markdown file from Gmail on iPhone",
     "open Markdown file from Outlook on iPhone",
     "open Markdown file from Apple Mail on iPhone",
@@ -330,6 +337,7 @@
     "iPhone no built-in Markdown viewer",
     "does Files app open Markdown files",
     "Markdown Quick Look iPhone",
+    "iPhone Quick Look Markdown",
     "iPhone Markdown file viewer built in",
     "iOS Markdown file preview built in",
     "AI file viewer iPhone",
@@ -351,6 +359,7 @@
     "Quick Look can't preview Markdown on iPhone",
     "Quick Look cannot preview Markdown on iPhone",
     "Markdown file shows raw text on iPhone",
+    "MD file shows raw text on iPhone",
     "Markdown preview problem iPhone",
     "Markdown file preview problem iPhone",
     "fix Markdown preview on iPhone",
@@ -427,21 +436,6 @@
       "url": "https://markdown.cybergame.ai/articles/best-iphone-apps-for-ai-users/"
     },
     {
-      "url": "https://markdown.cybergame.ai/articles/best-iphone-apps-for-ai-users/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/essential-iphone-apps-for-ai-users-markdown-files/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/essential-iphone-apps-for-ai-users-markdown-files/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/essential-iphone-apps-for-ai-users-markdown-files/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/essential-iphone-apps-for-ai-users-markdown-files/"
-    },
-    {
       "url": "https://markdown.cybergame.ai/articles/essential-iphone-apps-for-ai-users-markdown-files/"
     },
     {
@@ -451,34 +445,7 @@
       "url": "https://markdown.cybergame.ai/articles/best-iphone-app-for-ai-generated-markdown-files/"
     },
     {
-      "url": "https://markdown.cybergame.ai/articles/best-iphone-app-for-ai-generated-markdown-files/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/best-iphone-app-for-ai-generated-markdown-files/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/best-iphone-app-for-ai-generated-markdown-files/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/best-iphone-app-for-ai-generated-markdown-files/"
-    },
-    {
       "url": "https://markdown.cybergame.ai/articles/must-have-iphone-apps-for-chatgpt-claude-markdown-files/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/must-have-iphone-apps-for-chatgpt-claude-markdown-files/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/must-have-iphone-apps-for-chatgpt-claude-markdown-files/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/best-chatgpt-claude-markdown-viewer-iphone/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/best-chatgpt-claude-markdown-viewer-iphone/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/best-chatgpt-claude-markdown-viewer-iphone/"
     },
     {
       "url": "https://markdown.cybergame.ai/articles/best-chatgpt-claude-markdown-viewer-iphone/"
@@ -488,9 +455,6 @@
     },
     {
       "url": "https://markdown.cybergame.ai/articles/best-apps-to-open-markdown-files-on-iphone/"
-    },
-    {
-      "url": "https://markdown.cybergame.ai/articles/essential-iphone-apps-for-ai-users-markdown-files/"
     },
     {
       "url": "https://markdown.cybergame.ai/articles/best-markdown-viewer-for-ai-tools-iphone/"
@@ -514,112 +478,90 @@
   "languages": [
     {
       "locale": "en",
-      "hreflang": "en",
       "url": "https://markdown.cybergame.ai/"
     },
     {
       "locale": "zh",
-      "hreflang": "zh-Hans",
       "url": "https://markdown.cybergame.ai/zh/"
     },
     {
       "locale": "zh-hant",
-      "hreflang": "zh-Hant",
       "url": "https://markdown.cybergame.ai/zh-hant/"
     },
     {
       "locale": "ja",
-      "hreflang": "ja",
       "url": "https://markdown.cybergame.ai/ja/"
     },
     {
       "locale": "es",
-      "hreflang": "es",
       "url": "https://markdown.cybergame.ai/es/"
     },
     {
       "locale": "de",
-      "hreflang": "de",
       "url": "https://markdown.cybergame.ai/de/"
     },
     {
       "locale": "fr",
-      "hreflang": "fr",
       "url": "https://markdown.cybergame.ai/fr/"
     },
     {
       "locale": "pt-br",
-      "hreflang": "pt-BR",
       "url": "https://markdown.cybergame.ai/pt-br/"
     },
     {
       "locale": "ko",
-      "hreflang": "ko",
       "url": "https://markdown.cybergame.ai/ko/"
     },
     {
       "locale": "ar",
-      "hreflang": "ar",
       "url": "https://markdown.cybergame.ai/ar/"
     },
     {
       "locale": "hi",
-      "hreflang": "hi",
       "url": "https://markdown.cybergame.ai/hi/"
     },
     {
       "locale": "it",
-      "hreflang": "it",
       "url": "https://markdown.cybergame.ai/it/"
     },
     {
       "locale": "tr",
-      "hreflang": "tr",
       "url": "https://markdown.cybergame.ai/tr/"
     },
     {
       "locale": "id",
-      "hreflang": "id",
       "url": "https://markdown.cybergame.ai/id/"
     },
     {
       "locale": "vi",
-      "hreflang": "vi",
       "url": "https://markdown.cybergame.ai/vi/"
     },
     {
       "locale": "th",
-      "hreflang": "th",
       "url": "https://markdown.cybergame.ai/th/"
     },
     {
       "locale": "ru",
-      "hreflang": "ru",
       "url": "https://markdown.cybergame.ai/ru/"
     },
     {
       "locale": "nl",
-      "hreflang": "nl",
       "url": "https://markdown.cybergame.ai/nl/"
     },
     {
       "locale": "pl",
-      "hreflang": "pl",
       "url": "https://markdown.cybergame.ai/pl/"
     },
     {
       "locale": "ms",
-      "hreflang": "ms",
       "url": "https://markdown.cybergame.ai/ms/"
     },
     {
       "locale": "sv",
-      "hreflang": "sv",
       "url": "https://markdown.cybergame.ai/sv/"
     },
     {
       "locale": "he",
-      "hreflang": "he",
       "url": "https://markdown.cybergame.ai/he/"
     }
   ],

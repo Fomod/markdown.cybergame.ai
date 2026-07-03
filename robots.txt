@@ -128,6 +128,8 @@ Allow: /
 # Well-known LLM context: https://markdown.cybergame.ai/.well-known/llms.txt
 # Well-known full LLM context: https://markdown.cybergame.ai/.well-known/llms-full.txt
 # Sitemap index: https://markdown.cybergame.ai/sitemap-index.xml
+# Korean priority sitemap: https://markdown.cybergame.ai/sitemap-ko.xml
+# Russian priority sitemap: https://markdown.cybergame.ai/sitemap-ru.xml
 # Image sitemap: https://markdown.cybergame.ai/image-sitemap.xml
 # Machine-readable data sitemap: https://markdown.cybergame.ai/data-sitemap.xml
 # RSS feed: https://markdown.cybergame.ai/feed.xml
@@ -167,5 +169,7 @@ Allow: /
 # IndexNow URL list: https://markdown.cybergame.ai/indexnow-urls.json
 Sitemap: https://markdown.cybergame.ai/sitemap-index.xml
 Sitemap: https://markdown.cybergame.ai/sitemap.xml
+Sitemap: https://markdown.cybergame.ai/sitemap-ko.xml
+Sitemap: https://markdown.cybergame.ai/sitemap-ru.xml
 Sitemap: https://markdown.cybergame.ai/image-sitemap.xml
 Sitemap: https://markdown.cybergame.ai/data-sitemap.xml

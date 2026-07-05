@@ -83,6 +83,16 @@
       return site + prefix + "/";
     };
 
+    var deriveSearchCampaignToken = function (data, entry) {
+      if (entry.conversionMapToken) return entry.conversionMapToken;
+      var productCode = data.entryConversionProductCode || (String(data.site || "").indexOf("markdown.") >= 0 ? "md" : "html");
+      var localeCode = String(entry.locale || "").replace(/[^a-z0-9]+/g, "");
+      var pageToken = entry.pageToken || "";
+      var surfaceCode = data.entryConversionSurfaceCode || "search";
+      if (!productCode || !localeCode || !pageToken || !surfaceCode) return "";
+      return (productCode + "_" + localeCode + "_" + pageToken + "_" + surfaceCode).slice(0, 40);
+    };
+
     var decodeCompactSearchEntries = function (data) {
       var rawEntries = Array.isArray(data.entries) ? data.entries : [];
       var fields = Array.isArray(data.fields) ? data.fields : [];
@@ -112,6 +122,7 @@
           }
         });
         entry.canonicalUrl = deriveSearchCanonicalUrl(data, entry);
+        entry.conversionMapToken = deriveSearchCampaignToken(data, entry);
         return entry;
       });
     };

@@ -68,10 +68,29 @@
       var rawEntries = Array.isArray(data.entries) ? data.entries : [];
       var fields = Array.isArray(data.fields) ? data.fields : [];
       if (!fields.length || !rawEntries.length || !Array.isArray(rawEntries[0])) return rawEntries;
+      var strings = Array.isArray(data.strings) ? data.strings : [];
+      var stringFields = {};
+      var arrayStringFields = {};
+      (Array.isArray(data.stringDictionaryFields) ? data.stringDictionaryFields : []).forEach(function (field) {
+        stringFields[field] = true;
+      });
+      (Array.isArray(data.arrayStringDictionaryFields) ? data.arrayStringDictionaryFields : []).forEach(function (field) {
+        arrayStringFields[field] = true;
+      });
+      var stringValue = function (id) {
+        return Number.isInteger(id) && id >= 0 && id < strings.length ? strings[id] : "";
+      };
       return rawEntries.map(function (row) {
         var entry = {};
         fields.forEach(function (field, index) {
-          entry[field] = row[index];
+          var value = row[index];
+          if (arrayStringFields[field]) {
+            entry[field] = Array.isArray(value) ? value.map(stringValue) : [];
+          } else if (stringFields[field]) {
+            entry[field] = value === null || value === undefined ? null : stringValue(value);
+          } else {
+            entry[field] = value;
+          }
         });
         return entry;
       });

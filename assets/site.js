@@ -64,6 +64,25 @@
       node.appendChild(document.createTextNode(String(text || "")));
     };
 
+    var deriveSearchCanonicalUrl = function (data, entry) {
+      if (entry.canonicalUrl) return entry.canonicalUrl;
+      var site = String(data.site || "").replace(/\/$/, "");
+      if (!site) return "";
+      var prefix = entry.locale && entry.locale !== "en" ? "/" + entry.locale : "";
+      if (entry.pageType === "guide") return site + prefix + "/" + (data.guideSlug || "") + "/";
+      if (entry.pageType === "articles") return site + prefix + "/articles/";
+      if (entry.pageType === "support") return site + prefix + "/privacy-support/";
+      if (entry.pageType === "screenshots") return site + prefix + "/screenshots/";
+      if (entry.pageType === "search") return site + prefix + "/search/";
+      if (entry.pageType === "topic") {
+        var topicSlugs = data.topicSlugs || {};
+        var topicSlug = topicSlugs[entry.topicKey] || entry.topicKey || "";
+        return site + prefix + "/topics/" + topicSlug + "/";
+      }
+      if (entry.pageType === "article") return site + prefix + "/articles/" + (entry.articleSlug || "") + "/";
+      return site + prefix + "/";
+    };
+
     var decodeCompactSearchEntries = function (data) {
       var rawEntries = Array.isArray(data.entries) ? data.entries : [];
       var fields = Array.isArray(data.fields) ? data.fields : [];
@@ -92,6 +111,7 @@
             entry[field] = value;
           }
         });
+        entry.canonicalUrl = deriveSearchCanonicalUrl(data, entry);
         return entry;
       });
     };

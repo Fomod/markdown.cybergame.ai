@@ -128,6 +128,7 @@ Allow: /
 # Well-known LLM context: https://markdown.cybergame.ai/.well-known/llms.txt
 # Well-known full LLM context: https://markdown.cybergame.ai/.well-known/llms-full.txt
 # Sitemap index: https://markdown.cybergame.ai/sitemap-index.xml
+# Canonical page sitemap: https://markdown.cybergame.ai/sitemap.xml
 # English locale sitemap: https://markdown.cybergame.ai/sitemap-en.xml
 # 简体中文 locale sitemap: https://markdown.cybergame.ai/sitemap-zh.xml
 # 繁體中文 locale sitemap: https://markdown.cybergame.ai/sitemap-zh-hant.xml
@@ -183,22 +184,3 @@ Allow: /
 # IndexNow key file: https://markdown.cybergame.ai/1fa7fe5bf70bef83d34c0c9c29c181c8.txt
 # IndexNow URL list: https://markdown.cybergame.ai/indexnow-urls.json
 Sitemap: https://markdown.cybergame.ai/sitemap-index.xml
-Sitemap: https://markdown.cybergame.ai/sitemap.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-en.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-zh.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-zh-hant.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-ja.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-es.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-de.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-fr.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-pt-br.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-ko.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-ar.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-hi.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-it.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-tr.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-id.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-vi.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-th.xml
-Sitemap: https://markdown.cybergame.ai/sitemap-ru.xml
-Sitemap: https://markdown.cybergame.ai/image-sitemap.xml

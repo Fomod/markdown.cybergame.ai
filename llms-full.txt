@@ -16,7 +16,7 @@
 - App Store version: 1.2
 - App Store release date: 2026-03-11T07:00:00Z
 - Current version release date: 2026-03-16T23:48:04Z
-- Search-style citations: use serpTitle and serpDescription from top-answers.json, assistant-answers.json, or answers.json; these mirror the live page title tag and meta description.
+- Search-style citations: use serpTitle and serpDescription from top-answers.json or answers.json; assistant-answers.json derives those snippets from answers.json by canonicalUrl.
 - Sitemap index: https://markdown.cybergame.ai/sitemap-index.xml
 - Canonical page sitemap: https://markdown.cybergame.ai/sitemap.xml
 - Machine-readable data sitemap: https://markdown.cybergame.ai/data-sitemap.xml

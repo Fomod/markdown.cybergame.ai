@@ -50,7 +50,7 @@
 - Query index JSON: https://markdown.cybergame.ai/query-index.json
 - Image index JSON: https://markdown.cybergame.ai/image-index.json
 - Intent router JSON: https://markdown.cybergame.ai/intent-router.json
-- Exact route coverage: 17 locales x 398 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+- Exact route coverage: 17 locales x 431 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
 - File formats JSON: https://markdown.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://markdown.cybergame.ai/viewer-selector.json
 - Schema graph JSON: https://markdown.cybergame.ai/schema-graph.json
@@ -3309,7 +3309,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - en Topic hub:/topics/browser-download-sources/ | t: browser-download-sources: Open Downloaded Markdown Files on iPhone
 - en Topic hub:/topics/ios-import-workflows/ | t: ios-import-workflows: Import Markdown Files on iPhone
 - en Article:/articles/open-chatgpt-markdown-file-on-iphone/ | t: How to Open ChatGPT, Claude, Gemini Markdown Files on iPhone
-- en Article:/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: How to Open ChatGPT Canvas Markdown Files on iPhone
+- en Article:/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: How to Open ChatGPT Canvas Markdown on iPhone or iPad
 - en Article:/articles/open-ai-generated-markdown-file-on-iphone/ | t: How to Open AI-Generated Markdown Files on iPhone
 - en Article:/articles/open-ai-generated-markdown-file-on-ipad/ | t: How to Open AI-Generated Markdown Files on iPad
 - en Article:/articles/open-chatgpt-markdown-file-on-ipad/ | t: How to Open ChatGPT Markdown Files on iPad
@@ -3387,38 +3387,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - en Article:/articles/markdown-file-shows-raw-text-on-iphone/ | t: Why Markdown Files Show Raw Text on iPhone
 - en Article:/articles/files-app-cant-preview-markdown-on-iphone/ | t: Files App Can't Preview Markdown on iPhone
 - en Article:/articles/quick-look-cant-preview-markdown-on-iphone/ | t: Quick Look Can't Preview Markdown on iPhone
-- en Article:/articles/open-claude-markdown-file-on-iphone/ | t: How to Open Claude Markdown Files on iPhone
+- en Article:/articles/open-claude-markdown-file-on-iphone/ | t: How to Open Claude Markdown on iPhone or iPad
 - en Article:/articles/open-claude-artifact-markdown-on-iphone/ | t: How to Open Claude Artifact Markdown on iPhone
-- en Article:/articles/open-chatgpt-markdown-download-on-iphone/ | t: How to Open a ChatGPT Markdown Download on iPhone
-- en Article:/articles/open-gemini-markdown-file-on-iphone/ | t: How to Open Gemini and Google AI Studio Markdown Files on iPhone
-- en Article:/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: How to Open Google AI Studio Markdown Files on iPhone
-- en Article:/articles/open-perplexity-markdown-file-on-iphone/ | t: How to Open Perplexity Markdown Files on iPhone
-- en Article:/articles/open-copilot-markdown-file-on-iphone/ | t: How to Open Copilot Markdown Files on iPhone
-- en Article:/articles/open-github-copilot-markdown-file-on-iphone/ | t: How to Open GitHub Copilot Markdown Files on iPhone
-- en Article:/articles/open-deepseek-markdown-file-on-iphone/ | t: How to Open DeepSeek Markdown Files on iPhone
-- en Article:/articles/open-grok-markdown-file-on-iphone/ | t: How to Open Grok Markdown Files on iPhone
-- en Article:/articles/open-notebooklm-markdown-file-on-iphone/ | t: How to Open NotebookLM Markdown Files on iPhone
-- en Article:/articles/open-qwen-markdown-file-on-iphone/ | t: How to Open Qwen Markdown Files on iPhone
-- en Article:/articles/open-kimi-markdown-file-on-iphone/ | t: How to Open Kimi Markdown Files on iPhone
-- en Article:/articles/open-poe-markdown-file-on-iphone/ | t: How to Open Poe Markdown Files on iPhone
-- en Article:/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: How to Open Mistral Le Chat Markdown Files on iPhone
-- en Article:/articles/open-cursor-markdown-file-on-iphone/ | t: How to Open Cursor Markdown Files on iPhone
-- en Article:/articles/open-claude-code-markdown-file-on-iphone/ | t: How to Open Claude Code Markdown Files on iPhone
-- en Article:/articles/open-codex-markdown-file-on-iphone/ | t: How to Open Codex Markdown Files on iPhone
-- en Article:/articles/open-v0-markdown-file-on-iphone/ | t: How to Open v0 Markdown Files on iPhone
-- en Article:/articles/open-bolt-markdown-file-on-iphone/ | t: How to Open Bolt Markdown Files on iPhone
-- en Article:/articles/open-replit-markdown-file-on-iphone/ | t: How to Open Replit Markdown Files on iPhone
-- en Article:/articles/open-lovable-markdown-file-on-iphone/ | t: How to Open Lovable Markdown Files on iPhone
-- en Article:/articles/open-windsurf-markdown-file-on-iphone/ | t: How to Open Windsurf Markdown Files on iPhone
-- en Article:/articles/open-manus-markdown-file-on-iphone/ | t: How to Open Manus Markdown Files on iPhone
-- en Article:/articles/open-devin-markdown-file-on-iphone/ | t: How to Open Devin Markdown Files on iPhone
-- en Article:/articles/open-figma-make-markdown-file-on-iphone/ | t: How to Open Figma Make Markdown Files on iPhone
-- en Article:/articles/open-firebase-studio-markdown-file-on-iphone/ | t: How to Open Firebase Studio Markdown Files on iPhone
-- en Article:/articles/open-google-antigravity-markdown-file-on-iphone/ | t: How to Open Google Antigravity Markdown Files on iPhone
-- en Article:/articles/open-trae-markdown-file-on-iphone/ | t: How to Open Trae Markdown Files on iPhone
-- en Article:/articles/open-cline-markdown-file-on-iphone/ | t: How to Open Cline Markdown Files on iPhone
-- en Article:/articles/open-base44-markdown-file-on-iphone/ | t: How to Open Base44 Markdown Files on iPhone
-- en Article:/articles/open-kilo-code-markdown-file-on-iphone/ | t: How to Open Kilo Code Markdown Files on iPhone
+- en Article:/articles/open-chatgpt-markdown-download-on-iphone/ | t: How to Open ChatGPT Markdown Downloads on iPhone or iPad
+- en Article:/articles/open-gemini-markdown-file-on-iphone/ | t: How to Open Gemini Markdown on iPhone or iPad
+- en Article:/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: How to Open Google AI Studio Markdown on iPhone or iPad
+- en Article:/articles/open-perplexity-markdown-file-on-iphone/ | t: How to Open Perplexity Markdown on iPhone or iPad
+- en Article:/articles/open-copilot-markdown-file-on-iphone/ | t: How to Open Copilot Markdown on iPhone or iPad
+- en Article:/articles/open-github-copilot-markdown-file-on-iphone/ | t: How to Open GitHub Copilot Markdown on iPhone or iPad
+- en Article:/articles/open-deepseek-markdown-file-on-iphone/ | t: How to Open DeepSeek Markdown on iPhone or iPad
+- en Article:/articles/open-grok-markdown-file-on-iphone/ | t: How to Open Grok Markdown on iPhone or iPad
+- en Article:/articles/open-notebooklm-markdown-file-on-iphone/ | t: How to Open NotebookLM Markdown on iPhone or iPad
+- en Article:/articles/open-qwen-markdown-file-on-iphone/ | t: How to Open Qwen Markdown on iPhone or iPad
+- en Article:/articles/open-kimi-markdown-file-on-iphone/ | t: How to Open Kimi Markdown on iPhone or iPad
+- en Article:/articles/open-poe-markdown-file-on-iphone/ | t: How to Open Poe Markdown on iPhone or iPad
+- en Article:/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: How to Open Mistral Le Chat Markdown on iPhone or iPad
+- en Article:/articles/open-cursor-markdown-file-on-iphone/ | t: How to Open Cursor Markdown on iPhone or iPad
+- en Article:/articles/open-claude-code-markdown-file-on-iphone/ | t: How to Open Claude Code Markdown on iPhone or iPad
+- en Article:/articles/open-codex-markdown-file-on-iphone/ | t: How to Open Codex Markdown on iPhone or iPad
+- en Article:/articles/open-v0-markdown-file-on-iphone/ | t: How to Open v0 Markdown on iPhone or iPad
+- en Article:/articles/open-bolt-markdown-file-on-iphone/ | t: How to Open Bolt Markdown on iPhone or iPad
+- en Article:/articles/open-replit-markdown-file-on-iphone/ | t: How to Open Replit Markdown on iPhone or iPad
+- en Article:/articles/open-lovable-markdown-file-on-iphone/ | t: How to Open Lovable Markdown on iPhone or iPad
+- en Article:/articles/open-windsurf-markdown-file-on-iphone/ | t: How to Open Windsurf Markdown on iPhone or iPad
+- en Article:/articles/open-manus-markdown-file-on-iphone/ | t: How to Open Manus Markdown on iPhone or iPad
+- en Article:/articles/open-devin-markdown-file-on-iphone/ | t: How to Open Devin Markdown on iPhone or iPad
+- en Article:/articles/open-figma-make-markdown-file-on-iphone/ | t: How to Open Figma Make Markdown on iPhone or iPad
+- en Article:/articles/open-firebase-studio-markdown-file-on-iphone/ | t: How to Open Firebase Studio Markdown on iPhone or iPad
+- en Article:/articles/open-google-antigravity-markdown-file-on-iphone/ | t: How to Open Google Antigravity Markdown on iPhone or iPad
+- en Article:/articles/open-trae-markdown-file-on-iphone/ | t: How to Open Trae Markdown on iPhone or iPad
+- en Article:/articles/open-cline-markdown-file-on-iphone/ | t: How to Open Cline Markdown on iPhone or iPad
+- en Article:/articles/open-base44-markdown-file-on-iphone/ | t: How to Open Base44 Markdown on iPhone or iPad
+- en Article:/articles/open-kilo-code-markdown-file-on-iphone/ | t: How to Open Kilo Code Markdown on iPhone or iPad
 - en Article:/articles/open-notion-markdown-export-on-iphone/ | t: How to Open a Notion Markdown Export on iPhone
 - en Article:/articles/open-gitbook-markdown-file-on-iphone/ | t: How to Open a GitBook Markdown file on iPhone
 - en Article:/articles/open-docusaurus-markdown-file-on-iphone/ | t: How to Open a Docusaurus Markdown file on iPhone
@@ -3477,7 +3477,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Topic hub:/zh/topics/browser-download-sources/ | t: browser-download-sources: 浏览器下载 Markdown iPhone/iPad
 - zh-Hans Topic hub:/zh/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 导入 Markdown iPhone/iPad
 - zh-Hans Article:/zh/articles/open-chatgpt-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 ChatGPT、Claude、Gemini 的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: 如何在 iPhone 上打开 ChatGPT Canvas 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 ChatGPT Canvas 生成的 Markdown 文件
 - zh-Hans Article:/zh/articles/open-ai-generated-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 AI 生成的 Markdown 文件
 - zh-Hans Article:/zh/articles/open-ai-generated-markdown-file-on-ipad/ | t: 如何在 iPad 上打开 AI 生成的 Markdown 文件
 - zh-Hans Article:/zh/articles/open-chatgpt-markdown-file-on-ipad/ | t: 如何在 iPad 上打开 ChatGPT Markdown 文件
@@ -3555,38 +3555,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Article:/zh/articles/markdown-file-shows-raw-text-on-iphone/ | t: 为什么 iPhone 打开 Markdown 只显示原始文本
 - zh-Hans Article:/zh/articles/files-app-cant-preview-markdown-on-iphone/ | t: iPhone Files App 无法预览 Markdown
 - zh-Hans Article:/zh/articles/quick-look-cant-preview-markdown-on-iphone/ | t: iPhone Quick Look 无法预览 Markdown
-- zh-Hans Article:/zh/articles/open-claude-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Claude 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-claude-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Claude 生成的 Markdown 文件
 - zh-Hans Article:/zh/articles/open-claude-artifact-markdown-on-iphone/ | t: 如何在 iPhone 上打开 Claude Artifact Markdown 文件
-- zh-Hans Article:/zh/articles/open-chatgpt-markdown-download-on-iphone/ | t: 如何在 iPhone 上打开 ChatGPT 下载的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-gemini-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Gemini 和 Google AI Studio 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Google AI Studio 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-perplexity-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Perplexity 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-copilot-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Copilot 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-github-copilot-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 GitHub Copilot 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-deepseek-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 DeepSeek 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-grok-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Grok 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-notebooklm-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 NotebookLM 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-qwen-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Qwen 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-kimi-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Kimi 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-poe-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Poe 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Mistral Le Chat 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-cursor-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Cursor 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-claude-code-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Claude Code 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-codex-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Codex 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-v0-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 v0 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-bolt-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Bolt 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-replit-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Replit 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-lovable-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Lovable 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-windsurf-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Windsurf 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-manus-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Manus 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-devin-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Devin 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-figma-make-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Figma Make 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-firebase-studio-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Firebase Studio 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-google-antigravity-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Google Antigravity 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-trae-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Trae 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-cline-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Cline 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-base44-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Base44 生成的 Markdown 文件
-- zh-Hans Article:/zh/articles/open-kilo-code-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Kilo Code 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-chatgpt-markdown-download-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 ChatGPT 下载的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-gemini-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Gemini 和 Google AI Studio 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Google AI Studio 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-perplexity-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Perplexity 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-copilot-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Copilot 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-github-copilot-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 GitHub Copilot 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-deepseek-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 DeepSeek 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-grok-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Grok 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-notebooklm-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 NotebookLM 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-qwen-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Qwen 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-kimi-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Kimi 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-poe-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Poe 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Mistral Le Chat 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-cursor-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Cursor 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-claude-code-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Claude Code 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-codex-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Codex 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-v0-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 v0 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-bolt-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Bolt 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-replit-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Replit 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-lovable-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Lovable 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-windsurf-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Windsurf 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-manus-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Manus 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-devin-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Devin 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-figma-make-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Figma Make 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-firebase-studio-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Firebase Studio 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-google-antigravity-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Google Antigravity 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-trae-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Trae 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-cline-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Cline 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-base44-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Base44 生成的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-kilo-code-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 Kilo Code 生成的 Markdown 文件
 - zh-Hans Article:/zh/articles/open-notion-markdown-export-on-iphone/ | t: 如何在 iPhone 上打开 Notion 导出的 Markdown 文件
 - zh-Hans Article:/zh/articles/open-gitbook-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 GitBook Markdown 文件
 - zh-Hans Article:/zh/articles/open-docusaurus-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 Docusaurus Markdown 文件
@@ -3645,7 +3645,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hant Topic hub:/zh-hant/topics/browser-download-sources/ | t: browser-download-sources: 瀏覽器下載 Markdown iPhone/iPad
 - zh-Hant Topic hub:/zh-hant/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 匯入 Markdown iPhone/iPad
 - zh-Hant Article:/zh-hant/articles/open-chatgpt-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 ChatGPT、Claude、Gemini 的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: 如何在 iPhone 上開啟 ChatGPT Canvas 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 ChatGPT Canvas 產生的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-ai-generated-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 AI 產生的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-ai-generated-markdown-file-on-ipad/ | t: 如何在 iPad 上開啟 AI 產生的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-chatgpt-markdown-file-on-ipad/ | t: 如何在 iPad 上開啟 ChatGPT Markdown 檔案
@@ -3723,38 +3723,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hant Article:/zh-hant/articles/markdown-file-shows-raw-text-on-iphone/ | t: 為什麼 iPhone 開啟 Markdown 只顯示原始文字
 - zh-Hant Article:/zh-hant/articles/files-app-cant-preview-markdown-on-iphone/ | t: iPhone Files App 無法預覽 Markdown
 - zh-Hant Article:/zh-hant/articles/quick-look-cant-preview-markdown-on-iphone/ | t: iPhone Quick Look 無法預覽 Markdown
-- zh-Hant Article:/zh-hant/articles/open-claude-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Claude 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-claude-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Claude 產生的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-claude-artifact-markdown-on-iphone/ | t: 如何在 iPhone 上開啟 Claude Artifact Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-chatgpt-markdown-download-on-iphone/ | t: 如何在 iPhone 上開啟 ChatGPT 下載的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-gemini-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Gemini 和 Google AI Studio 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Google AI Studio 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-perplexity-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Perplexity 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-copilot-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Copilot 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-github-copilot-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 GitHub Copilot 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-deepseek-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 DeepSeek 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-grok-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Grok 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-notebooklm-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 NotebookLM 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-qwen-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Qwen 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-kimi-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Kimi 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-poe-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Poe 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Mistral Le Chat 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-cursor-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Cursor 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-claude-code-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Claude Code 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-codex-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Codex 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-v0-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 v0 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-bolt-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Bolt 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-replit-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Replit 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-lovable-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Lovable 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-windsurf-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Windsurf 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-manus-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Manus 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-devin-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Devin 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-figma-make-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Figma Make 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-firebase-studio-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Firebase Studio 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-google-antigravity-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Google Antigravity 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-trae-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Trae 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-cline-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Cline 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-base44-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Base44 產生的 Markdown 檔案
-- zh-Hant Article:/zh-hant/articles/open-kilo-code-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Kilo Code 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-chatgpt-markdown-download-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 ChatGPT 下載的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-gemini-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Gemini 和 Google AI Studio 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Google AI Studio 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-perplexity-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Perplexity 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-copilot-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Copilot 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-github-copilot-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 GitHub Copilot 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-deepseek-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 DeepSeek 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-grok-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Grok 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-notebooklm-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 NotebookLM 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-qwen-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Qwen 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-kimi-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Kimi 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-poe-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Poe 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Mistral Le Chat 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-cursor-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Cursor 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-claude-code-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Claude Code 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-codex-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Codex 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-v0-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 v0 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-bolt-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Bolt 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-replit-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Replit 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-lovable-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Lovable 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-windsurf-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Windsurf 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-manus-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Manus 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-devin-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Devin 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-figma-make-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Figma Make 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-firebase-studio-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Firebase Studio 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-google-antigravity-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Google Antigravity 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-trae-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Trae 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-cline-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Cline 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-base44-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Base44 產生的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-kilo-code-markdown-file-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 Kilo Code 產生的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-notion-markdown-export-on-iphone/ | t: 如何在 iPhone 上開啟 Notion 匯出的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-gitbook-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 GitBook Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-docusaurus-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 Docusaurus Markdown 檔案
@@ -3813,7 +3813,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Topic hub:/ja/topics/browser-download-sources/ | t: browser-download-sources: ブラウザダウンロード Markdown iPhone・iPad
 - ja Topic hub:/ja/topics/ios-import-workflows/ | t: ios-import-workflows: iOS取り込み Markdown iPhone・iPad
 - ja Article:/ja/articles/open-chatgpt-markdown-file-on-iphone/ | t: ChatGPTやClaudeのMarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: ChatGPT Canvas MarkdownファイルをiPhoneで開く方法
+- ja Article:/ja/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: ChatGPT Canvas MarkdownファイルをiPadで開く方法
 - ja Article:/ja/articles/open-ai-generated-markdown-file-on-iphone/ | t: AI生成MarkdownファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-ai-generated-markdown-file-on-ipad/ | t: iPadのAI生成Markdownファイルを開く方法
 - ja Article:/ja/articles/open-chatgpt-markdown-file-on-ipad/ | t: ChatGPT MarkdownファイルをiPadで開く方法
@@ -3891,38 +3891,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Article:/ja/articles/markdown-file-shows-raw-text-on-iphone/ | t: 生テキスト表示のMarkdownをiPhoneで開く方法
 - ja Article:/ja/articles/files-app-cant-preview-markdown-on-iphone/ | t: FilesでMarkdownをプレビューできない時
 - ja Article:/ja/articles/quick-look-cant-preview-markdown-on-iphone/ | t: iPhoneでQuick LookがMarkdownを開けない時
-- ja Article:/ja/articles/open-claude-markdown-file-on-iphone/ | t: Claude MarkdownファイルをiPhoneで開く方法
+- ja Article:/ja/articles/open-claude-markdown-file-on-iphone/ | t: Claude MarkdownファイルをiPadで開く方法
 - ja Article:/ja/articles/open-claude-artifact-markdown-on-iphone/ | t: Claude ArtifactsのMarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-chatgpt-markdown-download-on-iphone/ | t: ChatGPTからダウンロードしたMarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-gemini-markdown-file-on-iphone/ | t: Gemini、Gemini Canvas、Google AI Studio MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Google AI Studio MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-perplexity-markdown-file-on-iphone/ | t: Perplexity MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-copilot-markdown-file-on-iphone/ | t: Copilot MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-github-copilot-markdown-file-on-iphone/ | t: GitHub Copilot MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-deepseek-markdown-file-on-iphone/ | t: DeepSeek MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-grok-markdown-file-on-iphone/ | t: Grok MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-notebooklm-markdown-file-on-iphone/ | t: NotebookLM MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-qwen-markdown-file-on-iphone/ | t: Qwen MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-kimi-markdown-file-on-iphone/ | t: Kimi MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-poe-markdown-file-on-iphone/ | t: Poe MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Mistral Le Chat MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-cursor-markdown-file-on-iphone/ | t: Cursor MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-claude-code-markdown-file-on-iphone/ | t: Claude Code MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-codex-markdown-file-on-iphone/ | t: Codex MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-v0-markdown-file-on-iphone/ | t: v0 MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-bolt-markdown-file-on-iphone/ | t: Bolt MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-replit-markdown-file-on-iphone/ | t: Replit MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-lovable-markdown-file-on-iphone/ | t: Lovable MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-windsurf-markdown-file-on-iphone/ | t: Windsurf MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-manus-markdown-file-on-iphone/ | t: Manus MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-devin-markdown-file-on-iphone/ | t: Devin MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-figma-make-markdown-file-on-iphone/ | t: Figma Make MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Firebase Studio MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Google Antigravity MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-trae-markdown-file-on-iphone/ | t: Trae MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-cline-markdown-file-on-iphone/ | t: Cline MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-base44-markdown-file-on-iphone/ | t: Base44 MarkdownファイルをiPhoneで開く方法
-- ja Article:/ja/articles/open-kilo-code-markdown-file-on-iphone/ | t: Kilo Code MarkdownファイルをiPhoneで開く方法
+- ja Article:/ja/articles/open-chatgpt-markdown-download-on-iphone/ | t: ChatGPTからダウンロードしたMarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-gemini-markdown-file-on-iphone/ | t: Gemini、Gemini Canvas、Google AI Studio MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Google AI Studio MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-perplexity-markdown-file-on-iphone/ | t: Perplexity MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-copilot-markdown-file-on-iphone/ | t: Copilot MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-github-copilot-markdown-file-on-iphone/ | t: GitHub Copilot MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-deepseek-markdown-file-on-iphone/ | t: DeepSeek MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-grok-markdown-file-on-iphone/ | t: Grok MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-notebooklm-markdown-file-on-iphone/ | t: NotebookLM MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-qwen-markdown-file-on-iphone/ | t: Qwen MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-kimi-markdown-file-on-iphone/ | t: Kimi MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-poe-markdown-file-on-iphone/ | t: Poe MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Mistral Le Chat MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-cursor-markdown-file-on-iphone/ | t: Cursor MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-claude-code-markdown-file-on-iphone/ | t: Claude Code MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-codex-markdown-file-on-iphone/ | t: Codex MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-v0-markdown-file-on-iphone/ | t: v0 MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-bolt-markdown-file-on-iphone/ | t: Bolt MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-replit-markdown-file-on-iphone/ | t: Replit MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-lovable-markdown-file-on-iphone/ | t: Lovable MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-windsurf-markdown-file-on-iphone/ | t: Windsurf MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-manus-markdown-file-on-iphone/ | t: Manus MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-devin-markdown-file-on-iphone/ | t: Devin MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-figma-make-markdown-file-on-iphone/ | t: Figma Make MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Firebase Studio MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Google Antigravity MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-trae-markdown-file-on-iphone/ | t: Trae MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-cline-markdown-file-on-iphone/ | t: Cline MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-base44-markdown-file-on-iphone/ | t: Base44 MarkdownファイルをiPadで開く方法
+- ja Article:/ja/articles/open-kilo-code-markdown-file-on-iphone/ | t: Kilo Code MarkdownファイルをiPadで開く方法
 - ja Article:/ja/articles/open-notion-markdown-export-on-iphone/ | t: NotionエクスポートMarkdownファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-gitbook-markdown-file-on-iphone/ | t: GitBookのMarkdownファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-docusaurus-markdown-file-on-iphone/ | t: DocusaurusのMarkdownファイルをiPhoneで開く方法
@@ -3981,7 +3981,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - es Topic hub:/es/topics/browser-download-sources/ | t: browser-download-sources: Descargas del navegador Markdown en iPhone y iPad
 - es Topic hub:/es/topics/ios-import-workflows/ | t: ios-import-workflows: Importacion iOS Markdown en iPhone y iPad
 - es Article:/es/articles/open-chatgpt-markdown-file-on-iphone/ | t: Cómo abrir Markdown de ChatGPT y Claude en iPhone
-- es Article:/es/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: Cómo abrir archivos Markdown de ChatGPT Canvas en iPhone
+- es Article:/es/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: Cómo abrir archivos Markdown de ChatGPT Canvas en iPad
 - es Article:/es/articles/open-ai-generated-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown generados por IA en iPhone
 - es Article:/es/articles/open-ai-generated-markdown-file-on-ipad/ | t: Cómo abrir archivos Markdown generados por IA en iPad
 - es Article:/es/articles/open-chatgpt-markdown-file-on-ipad/ | t: Cómo abrir archivos Markdown de ChatGPT en iPad
@@ -4059,38 +4059,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - es Article:/es/articles/markdown-file-shows-raw-text-on-iphone/ | t: Cómo abrir Markdown como texto sin formato en iPhone
 - es Article:/es/articles/files-app-cant-preview-markdown-on-iphone/ | t: Files no muestra Markdown en iPhone
 - es Article:/es/articles/quick-look-cant-preview-markdown-on-iphone/ | t: Quick Look no muestra Markdown en iPhone
-- es Article:/es/articles/open-claude-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Claude en iPhone
+- es Article:/es/articles/open-claude-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Claude en iPad
 - es Article:/es/articles/open-claude-artifact-markdown-on-iphone/ | t: Cómo abrir archivos Markdown de Claude Artifacts en iPhone
-- es Article:/es/articles/open-chatgpt-markdown-download-on-iphone/ | t: Cómo abrir descargas Markdown de ChatGPT en iPhone
-- es Article:/es/articles/open-gemini-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Gemini, Gemini Canvas y Google AI Studio en iPhone
-- es Article:/es/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Google AI Studio en iPhone
-- es Article:/es/articles/open-perplexity-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Perplexity en iPhone
-- es Article:/es/articles/open-copilot-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Copilot en iPhone
-- es Article:/es/articles/open-github-copilot-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de GitHub Copilot en iPhone
-- es Article:/es/articles/open-deepseek-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de DeepSeek en iPhone
-- es Article:/es/articles/open-grok-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Grok en iPhone
-- es Article:/es/articles/open-notebooklm-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de NotebookLM en iPhone
-- es Article:/es/articles/open-qwen-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Qwen en iPhone
-- es Article:/es/articles/open-kimi-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Kimi en iPhone
-- es Article:/es/articles/open-poe-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Poe en iPhone
-- es Article:/es/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Mistral Le Chat en iPhone
-- es Article:/es/articles/open-cursor-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Cursor en iPhone
-- es Article:/es/articles/open-claude-code-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Claude Code en iPhone
-- es Article:/es/articles/open-codex-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Codex en iPhone
-- es Article:/es/articles/open-v0-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de v0 en iPhone
-- es Article:/es/articles/open-bolt-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Bolt en iPhone
-- es Article:/es/articles/open-replit-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Replit en iPhone
-- es Article:/es/articles/open-lovable-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Lovable en iPhone
-- es Article:/es/articles/open-windsurf-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Windsurf en iPhone
-- es Article:/es/articles/open-manus-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Manus en iPhone
-- es Article:/es/articles/open-devin-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Devin en iPhone
-- es Article:/es/articles/open-figma-make-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Figma Make en iPhone
-- es Article:/es/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Firebase Studio en iPhone
-- es Article:/es/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Google Antigravity en iPhone
-- es Article:/es/articles/open-trae-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Trae en iPhone
-- es Article:/es/articles/open-cline-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Cline en iPhone
-- es Article:/es/articles/open-base44-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Base44 en iPhone
-- es Article:/es/articles/open-kilo-code-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Kilo Code en iPhone
+- es Article:/es/articles/open-chatgpt-markdown-download-on-iphone/ | t: Cómo abrir descargas Markdown de ChatGPT en iPad
+- es Article:/es/articles/open-gemini-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Gemini, Gemini Canvas y Google AI Studio en iPad
+- es Article:/es/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Google AI Studio en iPad
+- es Article:/es/articles/open-perplexity-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Perplexity en iPad
+- es Article:/es/articles/open-copilot-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Copilot en iPad
+- es Article:/es/articles/open-github-copilot-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de GitHub Copilot en iPad
+- es Article:/es/articles/open-deepseek-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de DeepSeek en iPad
+- es Article:/es/articles/open-grok-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Grok en iPad
+- es Article:/es/articles/open-notebooklm-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de NotebookLM en iPad
+- es Article:/es/articles/open-qwen-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Qwen en iPad
+- es Article:/es/articles/open-kimi-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Kimi en iPad
+- es Article:/es/articles/open-poe-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Poe en iPad
+- es Article:/es/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Mistral Le Chat en iPad
+- es Article:/es/articles/open-cursor-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Cursor en iPad
+- es Article:/es/articles/open-claude-code-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Claude Code en iPad
+- es Article:/es/articles/open-codex-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Codex en iPad
+- es Article:/es/articles/open-v0-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de v0 en iPad
+- es Article:/es/articles/open-bolt-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Bolt en iPad
+- es Article:/es/articles/open-replit-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Replit en iPad
+- es Article:/es/articles/open-lovable-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Lovable en iPad
+- es Article:/es/articles/open-windsurf-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Windsurf en iPad
+- es Article:/es/articles/open-manus-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Manus en iPad
+- es Article:/es/articles/open-devin-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Devin en iPad
+- es Article:/es/articles/open-figma-make-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Figma Make en iPad
+- es Article:/es/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Firebase Studio en iPad
+- es Article:/es/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Google Antigravity en iPad
+- es Article:/es/articles/open-trae-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Trae en iPad
+- es Article:/es/articles/open-cline-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Cline en iPad
+- es Article:/es/articles/open-base44-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Base44 en iPad
+- es Article:/es/articles/open-kilo-code-markdown-file-on-iphone/ | t: Cómo abrir archivos Markdown de Kilo Code en iPad
 - es Article:/es/articles/open-notion-markdown-export-on-iphone/ | t: Cómo abrir exportaciones Markdown de Notion en iPhone
 - es Article:/es/articles/open-gitbook-markdown-file-on-iphone/ | t: Cómo abrir archivo Markdown de GitBook en iPhone
 - es Article:/es/articles/open-docusaurus-markdown-file-on-iphone/ | t: Cómo abrir archivo Markdown de Docusaurus en iPhone
@@ -4149,7 +4149,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - de Topic hub:/de/topics/browser-download-sources/ | t: browser-download-sources: Browser-Downloads Markdown auf iPhone und iPad
 - de Topic hub:/de/topics/ios-import-workflows/ | t: ios-import-workflows: iOS-Import Markdown auf iPhone und iPad
 - de Article:/de/articles/open-chatgpt-markdown-file-on-iphone/ | t: ChatGPT- und Claude-Markdown-Dateien auf dem iPhone öffnen
-- de Article:/de/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: ChatGPT Canvas Markdown-Dateien auf iPhone öffnen
+- de Article:/de/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: ChatGPT Canvas Markdown-Dateien auf iPad öffnen
 - de Article:/de/articles/open-ai-generated-markdown-file-on-iphone/ | t: KI-generierte Markdown-Dateien auf iPhone öffnen
 - de Article:/de/articles/open-ai-generated-markdown-file-on-ipad/ | t: KI-generierte Markdown-Dateien auf dem iPad öffnen
 - de Article:/de/articles/open-chatgpt-markdown-file-on-ipad/ | t: ChatGPT Markdown-Dateien auf iPad öffnen
@@ -4227,38 +4227,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - de Article:/de/articles/markdown-file-shows-raw-text-on-iphone/ | t: Markdown als Rohtext auf iPhone öffnen
 - de Article:/de/articles/files-app-cant-preview-markdown-on-iphone/ | t: Files zeigt Markdown nicht auf iPhone
 - de Article:/de/articles/quick-look-cant-preview-markdown-on-iphone/ | t: Quick Look zeigt Markdown nicht auf iPhone
-- de Article:/de/articles/open-claude-markdown-file-on-iphone/ | t: Claude Markdown-Dateien auf iPhone öffnen
+- de Article:/de/articles/open-claude-markdown-file-on-iphone/ | t: Claude Markdown-Dateien auf iPad öffnen
 - de Article:/de/articles/open-claude-artifact-markdown-on-iphone/ | t: Claude-Artifacts-Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-chatgpt-markdown-download-on-iphone/ | t: ChatGPT-Markdown-Downloads auf iPhone öffnen
-- de Article:/de/articles/open-gemini-markdown-file-on-iphone/ | t: Gemini, Gemini Canvas und Google AI Studio Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Google AI Studio Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-perplexity-markdown-file-on-iphone/ | t: Perplexity Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-copilot-markdown-file-on-iphone/ | t: Copilot Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-github-copilot-markdown-file-on-iphone/ | t: GitHub Copilot Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-deepseek-markdown-file-on-iphone/ | t: DeepSeek Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-grok-markdown-file-on-iphone/ | t: Grok Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-notebooklm-markdown-file-on-iphone/ | t: NotebookLM Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-qwen-markdown-file-on-iphone/ | t: Qwen Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-kimi-markdown-file-on-iphone/ | t: Kimi Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-poe-markdown-file-on-iphone/ | t: Poe Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Mistral Le Chat Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-cursor-markdown-file-on-iphone/ | t: Cursor Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-claude-code-markdown-file-on-iphone/ | t: Claude Code Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-codex-markdown-file-on-iphone/ | t: Codex Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-v0-markdown-file-on-iphone/ | t: v0 Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-bolt-markdown-file-on-iphone/ | t: Bolt Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-replit-markdown-file-on-iphone/ | t: Replit Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-lovable-markdown-file-on-iphone/ | t: Lovable Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-windsurf-markdown-file-on-iphone/ | t: Windsurf Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-manus-markdown-file-on-iphone/ | t: Manus Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-devin-markdown-file-on-iphone/ | t: Devin Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-figma-make-markdown-file-on-iphone/ | t: Figma Make Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Firebase Studio Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Google Antigravity Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-trae-markdown-file-on-iphone/ | t: Trae Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-cline-markdown-file-on-iphone/ | t: Cline Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-base44-markdown-file-on-iphone/ | t: Base44 Markdown-Dateien auf iPhone öffnen
-- de Article:/de/articles/open-kilo-code-markdown-file-on-iphone/ | t: Kilo Code Markdown-Dateien auf iPhone öffnen
+- de Article:/de/articles/open-chatgpt-markdown-download-on-iphone/ | t: ChatGPT-Markdown-Downloads auf iPad öffnen
+- de Article:/de/articles/open-gemini-markdown-file-on-iphone/ | t: Gemini, Gemini Canvas und Google AI Studio Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Google AI Studio Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-perplexity-markdown-file-on-iphone/ | t: Perplexity Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-copilot-markdown-file-on-iphone/ | t: Copilot Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-github-copilot-markdown-file-on-iphone/ | t: GitHub Copilot Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-deepseek-markdown-file-on-iphone/ | t: DeepSeek Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-grok-markdown-file-on-iphone/ | t: Grok Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-notebooklm-markdown-file-on-iphone/ | t: NotebookLM Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-qwen-markdown-file-on-iphone/ | t: Qwen Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-kimi-markdown-file-on-iphone/ | t: Kimi Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-poe-markdown-file-on-iphone/ | t: Poe Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Mistral Le Chat Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-cursor-markdown-file-on-iphone/ | t: Cursor Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-claude-code-markdown-file-on-iphone/ | t: Claude Code Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-codex-markdown-file-on-iphone/ | t: Codex Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-v0-markdown-file-on-iphone/ | t: v0 Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-bolt-markdown-file-on-iphone/ | t: Bolt Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-replit-markdown-file-on-iphone/ | t: Replit Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-lovable-markdown-file-on-iphone/ | t: Lovable Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-windsurf-markdown-file-on-iphone/ | t: Windsurf Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-manus-markdown-file-on-iphone/ | t: Manus Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-devin-markdown-file-on-iphone/ | t: Devin Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-figma-make-markdown-file-on-iphone/ | t: Figma Make Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Firebase Studio Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Google Antigravity Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-trae-markdown-file-on-iphone/ | t: Trae Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-cline-markdown-file-on-iphone/ | t: Cline Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-base44-markdown-file-on-iphone/ | t: Base44 Markdown-Dateien auf iPad öffnen
+- de Article:/de/articles/open-kilo-code-markdown-file-on-iphone/ | t: Kilo Code Markdown-Dateien auf iPad öffnen
 - de Article:/de/articles/open-notion-markdown-export-on-iphone/ | t: Notion-Markdown-Exporte auf iPhone öffnen
 - de Article:/de/articles/open-gitbook-markdown-file-on-iphone/ | t: Markdown-Datei aus GitBook auf iPhone öffnen
 - de Article:/de/articles/open-docusaurus-markdown-file-on-iphone/ | t: Markdown-Datei aus Docusaurus auf iPhone öffnen
@@ -4317,7 +4317,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - fr Topic hub:/fr/topics/browser-download-sources/ | t: browser-download-sources: Téléchargements navigateur Markdown sur iPhone et iPad
 - fr Topic hub:/fr/topics/ios-import-workflows/ | t: ios-import-workflows: Import iOS Markdown sur iPhone et iPad
 - fr Article:/fr/articles/open-chatgpt-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de ChatGPT et Claude sur iPhone
-- fr Article:/fr/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: Ouvrir des fichiers Markdown de ChatGPT Canvas sur iPhone
+- fr Article:/fr/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: Ouvrir des fichiers Markdown de ChatGPT Canvas sur iPad
 - fr Article:/fr/articles/open-ai-generated-markdown-file-on-iphone/ | t: Ouvrir fichiers Markdown générés par IA sur iPhone
 - fr Article:/fr/articles/open-ai-generated-markdown-file-on-ipad/ | t: Ouvrir fichiers Markdown générés par IA sur iPad
 - fr Article:/fr/articles/open-chatgpt-markdown-file-on-ipad/ | t: Ouvrir des fichiers Markdown de ChatGPT sur iPad
@@ -4395,38 +4395,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - fr Article:/fr/articles/markdown-file-shows-raw-text-on-iphone/ | t: Ouvrir Markdown en texte brut sur iPhone
 - fr Article:/fr/articles/files-app-cant-preview-markdown-on-iphone/ | t: Files ne prévisualise pas Markdown sur iPhone
 - fr Article:/fr/articles/quick-look-cant-preview-markdown-on-iphone/ | t: Quick Look ne prévisualise pas Markdown sur iPhone
-- fr Article:/fr/articles/open-claude-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Claude sur iPhone
+- fr Article:/fr/articles/open-claude-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Claude sur iPad
 - fr Article:/fr/articles/open-claude-artifact-markdown-on-iphone/ | t: Ouvrir fichiers Markdown de Claude Artifacts sur iPhone
-- fr Article:/fr/articles/open-chatgpt-markdown-download-on-iphone/ | t: Ouvrir telechargements Markdown de ChatGPT sur iPhone
-- fr Article:/fr/articles/open-gemini-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Gemini, Gemini Canvas et Google AI Studio sur iPhone
-- fr Article:/fr/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Google AI Studio sur iPhone
-- fr Article:/fr/articles/open-perplexity-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Perplexity sur iPhone
-- fr Article:/fr/articles/open-copilot-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Copilot sur iPhone
-- fr Article:/fr/articles/open-github-copilot-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de GitHub Copilot sur iPhone
-- fr Article:/fr/articles/open-deepseek-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de DeepSeek sur iPhone
-- fr Article:/fr/articles/open-grok-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Grok sur iPhone
-- fr Article:/fr/articles/open-notebooklm-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de NotebookLM sur iPhone
-- fr Article:/fr/articles/open-qwen-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Qwen sur iPhone
-- fr Article:/fr/articles/open-kimi-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Kimi sur iPhone
-- fr Article:/fr/articles/open-poe-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Poe sur iPhone
-- fr Article:/fr/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Mistral Le Chat sur iPhone
-- fr Article:/fr/articles/open-cursor-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Cursor sur iPhone
-- fr Article:/fr/articles/open-claude-code-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Claude Code sur iPhone
-- fr Article:/fr/articles/open-codex-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Codex sur iPhone
-- fr Article:/fr/articles/open-v0-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de v0 sur iPhone
-- fr Article:/fr/articles/open-bolt-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Bolt sur iPhone
-- fr Article:/fr/articles/open-replit-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Replit sur iPhone
-- fr Article:/fr/articles/open-lovable-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Lovable sur iPhone
-- fr Article:/fr/articles/open-windsurf-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Windsurf sur iPhone
-- fr Article:/fr/articles/open-manus-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Manus sur iPhone
-- fr Article:/fr/articles/open-devin-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Devin sur iPhone
-- fr Article:/fr/articles/open-figma-make-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Figma Make sur iPhone
-- fr Article:/fr/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Firebase Studio sur iPhone
-- fr Article:/fr/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Google Antigravity sur iPhone
-- fr Article:/fr/articles/open-trae-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Trae sur iPhone
-- fr Article:/fr/articles/open-cline-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Cline sur iPhone
-- fr Article:/fr/articles/open-base44-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Base44 sur iPhone
-- fr Article:/fr/articles/open-kilo-code-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Kilo Code sur iPhone
+- fr Article:/fr/articles/open-chatgpt-markdown-download-on-iphone/ | t: Ouvrir telechargements Markdown de ChatGPT sur iPad
+- fr Article:/fr/articles/open-gemini-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Gemini, Gemini Canvas et Google AI Studio sur iPad
+- fr Article:/fr/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Google AI Studio sur iPad
+- fr Article:/fr/articles/open-perplexity-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Perplexity sur iPad
+- fr Article:/fr/articles/open-copilot-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Copilot sur iPad
+- fr Article:/fr/articles/open-github-copilot-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de GitHub Copilot sur iPad
+- fr Article:/fr/articles/open-deepseek-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de DeepSeek sur iPad
+- fr Article:/fr/articles/open-grok-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Grok sur iPad
+- fr Article:/fr/articles/open-notebooklm-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de NotebookLM sur iPad
+- fr Article:/fr/articles/open-qwen-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Qwen sur iPad
+- fr Article:/fr/articles/open-kimi-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Kimi sur iPad
+- fr Article:/fr/articles/open-poe-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Poe sur iPad
+- fr Article:/fr/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Mistral Le Chat sur iPad
+- fr Article:/fr/articles/open-cursor-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Cursor sur iPad
+- fr Article:/fr/articles/open-claude-code-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Claude Code sur iPad
+- fr Article:/fr/articles/open-codex-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Codex sur iPad
+- fr Article:/fr/articles/open-v0-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de v0 sur iPad
+- fr Article:/fr/articles/open-bolt-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Bolt sur iPad
+- fr Article:/fr/articles/open-replit-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Replit sur iPad
+- fr Article:/fr/articles/open-lovable-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Lovable sur iPad
+- fr Article:/fr/articles/open-windsurf-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Windsurf sur iPad
+- fr Article:/fr/articles/open-manus-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Manus sur iPad
+- fr Article:/fr/articles/open-devin-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Devin sur iPad
+- fr Article:/fr/articles/open-figma-make-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Figma Make sur iPad
+- fr Article:/fr/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Firebase Studio sur iPad
+- fr Article:/fr/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Google Antigravity sur iPad
+- fr Article:/fr/articles/open-trae-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Trae sur iPad
+- fr Article:/fr/articles/open-cline-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Cline sur iPad
+- fr Article:/fr/articles/open-base44-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Base44 sur iPad
+- fr Article:/fr/articles/open-kilo-code-markdown-file-on-iphone/ | t: Ouvrir des fichiers Markdown de Kilo Code sur iPad
 - fr Article:/fr/articles/open-notion-markdown-export-on-iphone/ | t: Ouvrir exports Markdown Notion sur iPhone
 - fr Article:/fr/articles/open-gitbook-markdown-file-on-iphone/ | t: Ouvrir fichier Markdown de GitBook sur iPhone
 - fr Article:/fr/articles/open-docusaurus-markdown-file-on-iphone/ | t: Ouvrir fichier Markdown de Docusaurus sur iPhone
@@ -4485,7 +4485,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - pt-BR Topic hub:/pt-br/topics/browser-download-sources/ | t: browser-download-sources: Downloads do navegador Markdown no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/ios-import-workflows/ | t: ios-import-workflows: Importacao iOS Markdown no iPhone e iPad
 - pt-BR Article:/pt-br/articles/open-chatgpt-markdown-file-on-iphone/ | t: Como abrir Markdown do ChatGPT e Claude no iPhone
-- pt-BR Article:/pt-br/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: Abrir arquivos Markdown do ChatGPT Canvas no iPhone
+- pt-BR Article:/pt-br/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: Abrir arquivos Markdown do ChatGPT Canvas no iPad
 - pt-BR Article:/pt-br/articles/open-ai-generated-markdown-file-on-iphone/ | t: Abrir arquivos Markdown gerados por IA no iPhone
 - pt-BR Article:/pt-br/articles/open-ai-generated-markdown-file-on-ipad/ | t: Abrir arquivos Markdown gerados por IA no iPad
 - pt-BR Article:/pt-br/articles/open-chatgpt-markdown-file-on-ipad/ | t: Abrir arquivos Markdown do ChatGPT no iPad
@@ -4563,38 +4563,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - pt-BR Article:/pt-br/articles/markdown-file-shows-raw-text-on-iphone/ | t: Abrir Markdown como texto bruto no iPhone
 - pt-BR Article:/pt-br/articles/files-app-cant-preview-markdown-on-iphone/ | t: Files não mostra Markdown no iPhone
 - pt-BR Article:/pt-br/articles/quick-look-cant-preview-markdown-on-iphone/ | t: Quick Look não mostra Markdown no iPhone
-- pt-BR Article:/pt-br/articles/open-claude-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Claude no iPhone
+- pt-BR Article:/pt-br/articles/open-claude-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Claude no iPad
 - pt-BR Article:/pt-br/articles/open-claude-artifact-markdown-on-iphone/ | t: Abrir arquivos Markdown do Claude Artifacts no iPhone
-- pt-BR Article:/pt-br/articles/open-chatgpt-markdown-download-on-iphone/ | t: Abrir downloads Markdown do ChatGPT no iPhone
-- pt-BR Article:/pt-br/articles/open-gemini-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Gemini, Gemini Canvas e Google AI Studio no iPhone
-- pt-BR Article:/pt-br/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Google AI Studio no iPhone
-- pt-BR Article:/pt-br/articles/open-perplexity-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Perplexity no iPhone
-- pt-BR Article:/pt-br/articles/open-copilot-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Copilot no iPhone
-- pt-BR Article:/pt-br/articles/open-github-copilot-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do GitHub Copilot no iPhone
-- pt-BR Article:/pt-br/articles/open-deepseek-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do DeepSeek no iPhone
-- pt-BR Article:/pt-br/articles/open-grok-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Grok no iPhone
-- pt-BR Article:/pt-br/articles/open-notebooklm-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do NotebookLM no iPhone
-- pt-BR Article:/pt-br/articles/open-qwen-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Qwen no iPhone
-- pt-BR Article:/pt-br/articles/open-kimi-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Kimi no iPhone
-- pt-BR Article:/pt-br/articles/open-poe-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Poe no iPhone
-- pt-BR Article:/pt-br/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Mistral Le Chat no iPhone
-- pt-BR Article:/pt-br/articles/open-cursor-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Cursor no iPhone
-- pt-BR Article:/pt-br/articles/open-claude-code-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Claude Code no iPhone
-- pt-BR Article:/pt-br/articles/open-codex-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Codex no iPhone
-- pt-BR Article:/pt-br/articles/open-v0-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do v0 no iPhone
-- pt-BR Article:/pt-br/articles/open-bolt-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Bolt no iPhone
-- pt-BR Article:/pt-br/articles/open-replit-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Replit no iPhone
-- pt-BR Article:/pt-br/articles/open-lovable-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Lovable no iPhone
-- pt-BR Article:/pt-br/articles/open-windsurf-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Windsurf no iPhone
-- pt-BR Article:/pt-br/articles/open-manus-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Manus no iPhone
-- pt-BR Article:/pt-br/articles/open-devin-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Devin no iPhone
-- pt-BR Article:/pt-br/articles/open-figma-make-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Figma Make no iPhone
-- pt-BR Article:/pt-br/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Firebase Studio no iPhone
-- pt-BR Article:/pt-br/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Google Antigravity no iPhone
-- pt-BR Article:/pt-br/articles/open-trae-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Trae no iPhone
-- pt-BR Article:/pt-br/articles/open-cline-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Cline no iPhone
-- pt-BR Article:/pt-br/articles/open-base44-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Base44 no iPhone
-- pt-BR Article:/pt-br/articles/open-kilo-code-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Kilo Code no iPhone
+- pt-BR Article:/pt-br/articles/open-chatgpt-markdown-download-on-iphone/ | t: Abrir downloads Markdown do ChatGPT no iPad
+- pt-BR Article:/pt-br/articles/open-gemini-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Gemini, Gemini Canvas e Google AI Studio no iPad
+- pt-BR Article:/pt-br/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Google AI Studio no iPad
+- pt-BR Article:/pt-br/articles/open-perplexity-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Perplexity no iPad
+- pt-BR Article:/pt-br/articles/open-copilot-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Copilot no iPad
+- pt-BR Article:/pt-br/articles/open-github-copilot-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do GitHub Copilot no iPad
+- pt-BR Article:/pt-br/articles/open-deepseek-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do DeepSeek no iPad
+- pt-BR Article:/pt-br/articles/open-grok-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Grok no iPad
+- pt-BR Article:/pt-br/articles/open-notebooklm-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do NotebookLM no iPad
+- pt-BR Article:/pt-br/articles/open-qwen-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Qwen no iPad
+- pt-BR Article:/pt-br/articles/open-kimi-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Kimi no iPad
+- pt-BR Article:/pt-br/articles/open-poe-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Poe no iPad
+- pt-BR Article:/pt-br/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Mistral Le Chat no iPad
+- pt-BR Article:/pt-br/articles/open-cursor-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Cursor no iPad
+- pt-BR Article:/pt-br/articles/open-claude-code-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Claude Code no iPad
+- pt-BR Article:/pt-br/articles/open-codex-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Codex no iPad
+- pt-BR Article:/pt-br/articles/open-v0-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do v0 no iPad
+- pt-BR Article:/pt-br/articles/open-bolt-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Bolt no iPad
+- pt-BR Article:/pt-br/articles/open-replit-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Replit no iPad
+- pt-BR Article:/pt-br/articles/open-lovable-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Lovable no iPad
+- pt-BR Article:/pt-br/articles/open-windsurf-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Windsurf no iPad
+- pt-BR Article:/pt-br/articles/open-manus-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Manus no iPad
+- pt-BR Article:/pt-br/articles/open-devin-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Devin no iPad
+- pt-BR Article:/pt-br/articles/open-figma-make-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Figma Make no iPad
+- pt-BR Article:/pt-br/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Firebase Studio no iPad
+- pt-BR Article:/pt-br/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Google Antigravity no iPad
+- pt-BR Article:/pt-br/articles/open-trae-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Trae no iPad
+- pt-BR Article:/pt-br/articles/open-cline-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Cline no iPad
+- pt-BR Article:/pt-br/articles/open-base44-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Base44 no iPad
+- pt-BR Article:/pt-br/articles/open-kilo-code-markdown-file-on-iphone/ | t: Abrir arquivos Markdown do Kilo Code no iPad
 - pt-BR Article:/pt-br/articles/open-notion-markdown-export-on-iphone/ | t: Abrir exportacoes Markdown do Notion no iPhone
 - pt-BR Article:/pt-br/articles/open-gitbook-markdown-file-on-iphone/ | t: Abrir arquivo Markdown do GitBook no iPhone
 - pt-BR Article:/pt-br/articles/open-docusaurus-markdown-file-on-iphone/ | t: Abrir arquivo Markdown do Docusaurus no iPhone
@@ -5325,7 +5325,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - tr Topic hub:/tr/topics/browser-download-sources/ | t: browser-download-sources: Tarayici indirmeleri Markdown iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/ios-import-workflows/ | t: ios-import-workflows: iOS ice aktarma Markdown iPhone ve iPad uzerinde
 - tr Article:/tr/articles/open-chatgpt-markdown-file-on-iphone/ | t: iPhone uzerinde ChatGPT, Claude, Gemini Markdown dosyalari acma
-- tr Article:/tr/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: iPhone uzerinde ChatGPT Canvas Markdown dosyalari acma
+- tr Article:/tr/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: iPad uzerinde ChatGPT Canvas Markdown dosyalari acma
 - tr Article:/tr/articles/open-ai-generated-markdown-file-on-iphone/ | t: iPhone uzerinde AI tarafindan uretilen Markdown dosyalari acma
 - tr Article:/tr/articles/open-ai-generated-markdown-file-on-ipad/ | t: iPad'de AI tarafindan uretilen Markdown dosyalari acma
 - tr Article:/tr/articles/open-chatgpt-markdown-file-on-ipad/ | t: iPad uzerinde ChatGPT Markdown dosyalari acma
@@ -5403,38 +5403,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - tr Article:/tr/articles/markdown-file-shows-raw-text-on-iphone/ | t: iPhone uzerinde ham Markdown metni acma
 - tr Article:/tr/articles/files-app-cant-preview-markdown-on-iphone/ | t: Files Markdown önizlemiyor
 - tr Article:/tr/articles/quick-look-cant-preview-markdown-on-iphone/ | t: Quick Look Markdown göstermiyor
-- tr Article:/tr/articles/open-claude-markdown-file-on-iphone/ | t: iPhone uzerinde Claude Markdown dosyalari acma
+- tr Article:/tr/articles/open-claude-markdown-file-on-iphone/ | t: iPad uzerinde Claude Markdown dosyalari acma
 - tr Article:/tr/articles/open-claude-artifact-markdown-on-iphone/ | t: iPhone uzerinde Claude Artifacts Markdown dosyalari acma
-- tr Article:/tr/articles/open-chatgpt-markdown-download-on-iphone/ | t: iPhone uzerinde ChatGPT downloads Markdown dosyalari acma
-- tr Article:/tr/articles/open-gemini-markdown-file-on-iphone/ | t: iPhone uzerinde Gemini, Gemini Canvas ve Google AI Studio Markdown dosyalari acma
-- tr Article:/tr/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: iPhone uzerinde Google AI Studio Markdown dosyalari acma
-- tr Article:/tr/articles/open-perplexity-markdown-file-on-iphone/ | t: iPhone uzerinde Perplexity Markdown dosyalari acma
-- tr Article:/tr/articles/open-copilot-markdown-file-on-iphone/ | t: iPhone uzerinde Copilot Markdown dosyalari acma
-- tr Article:/tr/articles/open-github-copilot-markdown-file-on-iphone/ | t: iPhone uzerinde GitHub Copilot Markdown dosyalari acma
-- tr Article:/tr/articles/open-deepseek-markdown-file-on-iphone/ | t: iPhone uzerinde DeepSeek Markdown dosyalari acma
-- tr Article:/tr/articles/open-grok-markdown-file-on-iphone/ | t: iPhone uzerinde Grok Markdown dosyalari acma
-- tr Article:/tr/articles/open-notebooklm-markdown-file-on-iphone/ | t: iPhone uzerinde NotebookLM Markdown dosyalari acma
-- tr Article:/tr/articles/open-qwen-markdown-file-on-iphone/ | t: iPhone uzerinde Qwen Markdown dosyalari acma
-- tr Article:/tr/articles/open-kimi-markdown-file-on-iphone/ | t: iPhone uzerinde Kimi Markdown dosyalari acma
-- tr Article:/tr/articles/open-poe-markdown-file-on-iphone/ | t: iPhone uzerinde Poe Markdown dosyalari acma
-- tr Article:/tr/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: iPhone uzerinde Mistral Le Chat Markdown dosyalari acma
-- tr Article:/tr/articles/open-cursor-markdown-file-on-iphone/ | t: iPhone uzerinde Cursor Markdown dosyalari acma
-- tr Article:/tr/articles/open-claude-code-markdown-file-on-iphone/ | t: iPhone uzerinde Claude Code Markdown dosyalari acma
-- tr Article:/tr/articles/open-codex-markdown-file-on-iphone/ | t: iPhone uzerinde Codex Markdown dosyalari acma
-- tr Article:/tr/articles/open-v0-markdown-file-on-iphone/ | t: iPhone uzerinde v0 Markdown dosyalari acma
-- tr Article:/tr/articles/open-bolt-markdown-file-on-iphone/ | t: iPhone uzerinde Bolt Markdown dosyalari acma
-- tr Article:/tr/articles/open-replit-markdown-file-on-iphone/ | t: iPhone uzerinde Replit Markdown dosyalari acma
-- tr Article:/tr/articles/open-lovable-markdown-file-on-iphone/ | t: iPhone uzerinde Lovable Markdown dosyalari acma
-- tr Article:/tr/articles/open-windsurf-markdown-file-on-iphone/ | t: iPhone uzerinde Windsurf Markdown dosyalari acma
-- tr Article:/tr/articles/open-manus-markdown-file-on-iphone/ | t: iPhone uzerinde Manus Markdown dosyalari acma
-- tr Article:/tr/articles/open-devin-markdown-file-on-iphone/ | t: iPhone uzerinde Devin Markdown dosyalari acma
-- tr Article:/tr/articles/open-figma-make-markdown-file-on-iphone/ | t: iPhone uzerinde Figma Make Markdown dosyalari acma
-- tr Article:/tr/articles/open-firebase-studio-markdown-file-on-iphone/ | t: iPhone uzerinde Firebase Studio Markdown dosyalari acma
-- tr Article:/tr/articles/open-google-antigravity-markdown-file-on-iphone/ | t: iPhone uzerinde Google Antigravity Markdown dosyalari acma
-- tr Article:/tr/articles/open-trae-markdown-file-on-iphone/ | t: iPhone uzerinde Trae Markdown dosyalari acma
-- tr Article:/tr/articles/open-cline-markdown-file-on-iphone/ | t: iPhone uzerinde Cline Markdown dosyalari acma
-- tr Article:/tr/articles/open-base44-markdown-file-on-iphone/ | t: iPhone uzerinde Base44 Markdown dosyalari acma
-- tr Article:/tr/articles/open-kilo-code-markdown-file-on-iphone/ | t: iPhone uzerinde Kilo Code Markdown dosyalari acma
+- tr Article:/tr/articles/open-chatgpt-markdown-download-on-iphone/ | t: iPad uzerinde ChatGPT downloads Markdown dosyalari acma
+- tr Article:/tr/articles/open-gemini-markdown-file-on-iphone/ | t: iPad uzerinde Gemini, Gemini Canvas ve Google AI Studio Markdown dosyalari acma
+- tr Article:/tr/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: iPad uzerinde Google AI Studio Markdown dosyalari acma
+- tr Article:/tr/articles/open-perplexity-markdown-file-on-iphone/ | t: iPad uzerinde Perplexity Markdown dosyalari acma
+- tr Article:/tr/articles/open-copilot-markdown-file-on-iphone/ | t: iPad uzerinde Copilot Markdown dosyalari acma
+- tr Article:/tr/articles/open-github-copilot-markdown-file-on-iphone/ | t: iPad uzerinde GitHub Copilot Markdown dosyalari acma
+- tr Article:/tr/articles/open-deepseek-markdown-file-on-iphone/ | t: iPad uzerinde DeepSeek Markdown dosyalari acma
+- tr Article:/tr/articles/open-grok-markdown-file-on-iphone/ | t: iPad uzerinde Grok Markdown dosyalari acma
+- tr Article:/tr/articles/open-notebooklm-markdown-file-on-iphone/ | t: iPad uzerinde NotebookLM Markdown dosyalari acma
+- tr Article:/tr/articles/open-qwen-markdown-file-on-iphone/ | t: iPad uzerinde Qwen Markdown dosyalari acma
+- tr Article:/tr/articles/open-kimi-markdown-file-on-iphone/ | t: iPad uzerinde Kimi Markdown dosyalari acma
+- tr Article:/tr/articles/open-poe-markdown-file-on-iphone/ | t: iPad uzerinde Poe Markdown dosyalari acma
+- tr Article:/tr/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: iPad uzerinde Mistral Le Chat Markdown dosyalari acma
+- tr Article:/tr/articles/open-cursor-markdown-file-on-iphone/ | t: iPad uzerinde Cursor Markdown dosyalari acma
+- tr Article:/tr/articles/open-claude-code-markdown-file-on-iphone/ | t: iPad uzerinde Claude Code Markdown dosyalari acma
+- tr Article:/tr/articles/open-codex-markdown-file-on-iphone/ | t: iPad uzerinde Codex Markdown dosyalari acma
+- tr Article:/tr/articles/open-v0-markdown-file-on-iphone/ | t: iPad uzerinde v0 Markdown dosyalari acma
+- tr Article:/tr/articles/open-bolt-markdown-file-on-iphone/ | t: iPad uzerinde Bolt Markdown dosyalari acma
+- tr Article:/tr/articles/open-replit-markdown-file-on-iphone/ | t: iPad uzerinde Replit Markdown dosyalari acma
+- tr Article:/tr/articles/open-lovable-markdown-file-on-iphone/ | t: iPad uzerinde Lovable Markdown dosyalari acma
+- tr Article:/tr/articles/open-windsurf-markdown-file-on-iphone/ | t: iPad uzerinde Windsurf Markdown dosyalari acma
+- tr Article:/tr/articles/open-manus-markdown-file-on-iphone/ | t: iPad uzerinde Manus Markdown dosyalari acma
+- tr Article:/tr/articles/open-devin-markdown-file-on-iphone/ | t: iPad uzerinde Devin Markdown dosyalari acma
+- tr Article:/tr/articles/open-figma-make-markdown-file-on-iphone/ | t: iPad uzerinde Figma Make Markdown dosyalari acma
+- tr Article:/tr/articles/open-firebase-studio-markdown-file-on-iphone/ | t: iPad uzerinde Firebase Studio Markdown dosyalari acma
+- tr Article:/tr/articles/open-google-antigravity-markdown-file-on-iphone/ | t: iPad uzerinde Google Antigravity Markdown dosyalari acma
+- tr Article:/tr/articles/open-trae-markdown-file-on-iphone/ | t: iPad uzerinde Trae Markdown dosyalari acma
+- tr Article:/tr/articles/open-cline-markdown-file-on-iphone/ | t: iPad uzerinde Cline Markdown dosyalari acma
+- tr Article:/tr/articles/open-base44-markdown-file-on-iphone/ | t: iPad uzerinde Base44 Markdown dosyalari acma
+- tr Article:/tr/articles/open-kilo-code-markdown-file-on-iphone/ | t: iPad uzerinde Kilo Code Markdown dosyalari acma
 - tr Article:/tr/articles/open-notion-markdown-export-on-iphone/ | t: iPhone uzerinde Notion dis aktarimi Markdown dosyalari acma
 - tr Article:/tr/articles/open-gitbook-markdown-file-on-iphone/ | t: GitBook Markdown dosyasi iPhone'da acma
 - tr Article:/tr/articles/open-docusaurus-markdown-file-on-iphone/ | t: Docusaurus Markdown dosyasi iPhone'da acma
@@ -5661,7 +5661,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - vi Topic hub:/vi/topics/browser-download-sources/ | t: browser-download-sources: Tải ve trình duyệt Markdown trên iPhone và iPad
 - vi Topic hub:/vi/topics/ios-import-workflows/ | t: ios-import-workflows: Nhập iOS Markdown trên iPhone và iPad
 - vi Article:/vi/articles/open-chatgpt-markdown-file-on-iphone/ | t: Mở ChatGPT, Claude, Gemini tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: Mở ChatGPT Canvas tệp Markdown trên iPhone
+- vi Article:/vi/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: Mở ChatGPT Canvas tệp Markdown trên iPad
 - vi Article:/vi/articles/open-ai-generated-markdown-file-on-iphone/ | t: Mở tệp Markdown do AI tạo trên iPhone
 - vi Article:/vi/articles/open-ai-generated-markdown-file-on-ipad/ | t: Mở tệp Markdown do AI tạo trên iPad
 - vi Article:/vi/articles/open-chatgpt-markdown-file-on-ipad/ | t: Mở ChatGPT tệp Markdown trên iPad
@@ -5739,38 +5739,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - vi Article:/vi/articles/markdown-file-shows-raw-text-on-iphone/ | t: Mở Markdown dạng văn bản thô trên iPhone
 - vi Article:/vi/articles/files-app-cant-preview-markdown-on-iphone/ | t: Files không xem được Markdown trên iPhone
 - vi Article:/vi/articles/quick-look-cant-preview-markdown-on-iphone/ | t: Quick Look không xem được Markdown trên iPhone
-- vi Article:/vi/articles/open-claude-markdown-file-on-iphone/ | t: Mở Claude tệp Markdown trên iPhone
+- vi Article:/vi/articles/open-claude-markdown-file-on-iphone/ | t: Mở Claude tệp Markdown trên iPad
 - vi Article:/vi/articles/open-claude-artifact-markdown-on-iphone/ | t: Mở Claude Artifacts tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-chatgpt-markdown-download-on-iphone/ | t: Mở ChatGPT tải xuống tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-gemini-markdown-file-on-iphone/ | t: Mở Gemini, Gemini Canvas và Google AI Studio tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Mở Google AI Studio tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-perplexity-markdown-file-on-iphone/ | t: Mở Perplexity tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-copilot-markdown-file-on-iphone/ | t: Mở Copilot tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-github-copilot-markdown-file-on-iphone/ | t: Mở GitHub Copilot tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-deepseek-markdown-file-on-iphone/ | t: Mở DeepSeek tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-grok-markdown-file-on-iphone/ | t: Mở Grok tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-notebooklm-markdown-file-on-iphone/ | t: Mở NotebookLM tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-qwen-markdown-file-on-iphone/ | t: Mở Qwen tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-kimi-markdown-file-on-iphone/ | t: Mở Kimi tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-poe-markdown-file-on-iphone/ | t: Mở Poe tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Mở Mistral Le Chat tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-cursor-markdown-file-on-iphone/ | t: Mở Cursor tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-claude-code-markdown-file-on-iphone/ | t: Mở Claude Code tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-codex-markdown-file-on-iphone/ | t: Mở Codex tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-v0-markdown-file-on-iphone/ | t: Mở v0 tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-bolt-markdown-file-on-iphone/ | t: Mở Bolt tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-replit-markdown-file-on-iphone/ | t: Mở Replit tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-lovable-markdown-file-on-iphone/ | t: Mở Lovable tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-windsurf-markdown-file-on-iphone/ | t: Mở Windsurf tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-manus-markdown-file-on-iphone/ | t: Mở Manus tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-devin-markdown-file-on-iphone/ | t: Mở Devin tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-figma-make-markdown-file-on-iphone/ | t: Mở Figma Make tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Mở Firebase Studio tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Mở Google Antigravity tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-trae-markdown-file-on-iphone/ | t: Mở Trae tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-cline-markdown-file-on-iphone/ | t: Mở Cline tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-base44-markdown-file-on-iphone/ | t: Mở Base44 tệp Markdown trên iPhone
-- vi Article:/vi/articles/open-kilo-code-markdown-file-on-iphone/ | t: Mở Kilo Code tệp Markdown trên iPhone
+- vi Article:/vi/articles/open-chatgpt-markdown-download-on-iphone/ | t: Mở ChatGPT tải xuống tệp Markdown trên iPad
+- vi Article:/vi/articles/open-gemini-markdown-file-on-iphone/ | t: Mở Gemini, Gemini Canvas và Google AI Studio tệp Markdown trên iPad
+- vi Article:/vi/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: Mở Google AI Studio tệp Markdown trên iPad
+- vi Article:/vi/articles/open-perplexity-markdown-file-on-iphone/ | t: Mở Perplexity tệp Markdown trên iPad
+- vi Article:/vi/articles/open-copilot-markdown-file-on-iphone/ | t: Mở Copilot tệp Markdown trên iPad
+- vi Article:/vi/articles/open-github-copilot-markdown-file-on-iphone/ | t: Mở GitHub Copilot tệp Markdown trên iPad
+- vi Article:/vi/articles/open-deepseek-markdown-file-on-iphone/ | t: Mở DeepSeek tệp Markdown trên iPad
+- vi Article:/vi/articles/open-grok-markdown-file-on-iphone/ | t: Mở Grok tệp Markdown trên iPad
+- vi Article:/vi/articles/open-notebooklm-markdown-file-on-iphone/ | t: Mở NotebookLM tệp Markdown trên iPad
+- vi Article:/vi/articles/open-qwen-markdown-file-on-iphone/ | t: Mở Qwen tệp Markdown trên iPad
+- vi Article:/vi/articles/open-kimi-markdown-file-on-iphone/ | t: Mở Kimi tệp Markdown trên iPad
+- vi Article:/vi/articles/open-poe-markdown-file-on-iphone/ | t: Mở Poe tệp Markdown trên iPad
+- vi Article:/vi/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: Mở Mistral Le Chat tệp Markdown trên iPad
+- vi Article:/vi/articles/open-cursor-markdown-file-on-iphone/ | t: Mở Cursor tệp Markdown trên iPad
+- vi Article:/vi/articles/open-claude-code-markdown-file-on-iphone/ | t: Mở Claude Code tệp Markdown trên iPad
+- vi Article:/vi/articles/open-codex-markdown-file-on-iphone/ | t: Mở Codex tệp Markdown trên iPad
+- vi Article:/vi/articles/open-v0-markdown-file-on-iphone/ | t: Mở v0 tệp Markdown trên iPad
+- vi Article:/vi/articles/open-bolt-markdown-file-on-iphone/ | t: Mở Bolt tệp Markdown trên iPad
+- vi Article:/vi/articles/open-replit-markdown-file-on-iphone/ | t: Mở Replit tệp Markdown trên iPad
+- vi Article:/vi/articles/open-lovable-markdown-file-on-iphone/ | t: Mở Lovable tệp Markdown trên iPad
+- vi Article:/vi/articles/open-windsurf-markdown-file-on-iphone/ | t: Mở Windsurf tệp Markdown trên iPad
+- vi Article:/vi/articles/open-manus-markdown-file-on-iphone/ | t: Mở Manus tệp Markdown trên iPad
+- vi Article:/vi/articles/open-devin-markdown-file-on-iphone/ | t: Mở Devin tệp Markdown trên iPad
+- vi Article:/vi/articles/open-figma-make-markdown-file-on-iphone/ | t: Mở Figma Make tệp Markdown trên iPad
+- vi Article:/vi/articles/open-firebase-studio-markdown-file-on-iphone/ | t: Mở Firebase Studio tệp Markdown trên iPad
+- vi Article:/vi/articles/open-google-antigravity-markdown-file-on-iphone/ | t: Mở Google Antigravity tệp Markdown trên iPad
+- vi Article:/vi/articles/open-trae-markdown-file-on-iphone/ | t: Mở Trae tệp Markdown trên iPad
+- vi Article:/vi/articles/open-cline-markdown-file-on-iphone/ | t: Mở Cline tệp Markdown trên iPad
+- vi Article:/vi/articles/open-base44-markdown-file-on-iphone/ | t: Mở Base44 tệp Markdown trên iPad
+- vi Article:/vi/articles/open-kilo-code-markdown-file-on-iphone/ | t: Mở Kilo Code tệp Markdown trên iPad
 - vi Article:/vi/articles/open-notion-markdown-export-on-iphone/ | t: Mở tệp Markdown từ xuất Notion trên iPhone
 - vi Article:/vi/articles/open-gitbook-markdown-file-on-iphone/ | t: Mở tệp Markdown từ GitBook trên iPhone
 - vi Article:/vi/articles/open-docusaurus-markdown-file-on-iphone/ | t: Mở tệp Markdown từ Docusaurus trên iPhone
@@ -5829,7 +5829,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - th Topic hub:/th/topics/browser-download-sources/ | t: browser-download-sources: ดาวน์โหลดจากเบราว์เซอร์ Markdown บน iPhone และ iPad
 - th Topic hub:/th/topics/ios-import-workflows/ | t: ios-import-workflows: นำเข้า iOS Markdown บน iPhone และ iPad
 - th Article:/th/articles/open-chatgpt-markdown-file-on-iphone/ | t: เปิด ChatGPT, Claude, Gemini ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: เปิด ChatGPT Canvas ไฟล์ Markdown บน iPhone
+- th Article:/th/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: เปิด ChatGPT Canvas ไฟล์ Markdown บน iPad
 - th Article:/th/articles/open-ai-generated-markdown-file-on-iphone/ | t: เปิด ไฟล์ Markdown ที่ AI สร้าง บน iPhone
 - th Article:/th/articles/open-ai-generated-markdown-file-on-ipad/ | t: เปิด Markdown ที่ AI สร้างบน iPad
 - th Article:/th/articles/open-chatgpt-markdown-file-on-ipad/ | t: เปิด ChatGPT ไฟล์ Markdown บน iPad
@@ -5907,38 +5907,38 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - th Article:/th/articles/markdown-file-shows-raw-text-on-iphone/ | t: เปิด Markdown เป็นข้อความดิบ บน iPhone
 - th Article:/th/articles/files-app-cant-preview-markdown-on-iphone/ | t: Files ไม่แสดง Markdown บน iPhone
 - th Article:/th/articles/quick-look-cant-preview-markdown-on-iphone/ | t: Quick Look ไม่แสดง Markdown บน iPhone
-- th Article:/th/articles/open-claude-markdown-file-on-iphone/ | t: เปิด Claude ไฟล์ Markdown บน iPhone
+- th Article:/th/articles/open-claude-markdown-file-on-iphone/ | t: เปิด Claude ไฟล์ Markdown บน iPad
 - th Article:/th/articles/open-claude-artifact-markdown-on-iphone/ | t: เปิด Claude Artifacts ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-chatgpt-markdown-download-on-iphone/ | t: เปิด ChatGPT downloads ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-gemini-markdown-file-on-iphone/ | t: เปิด Gemini, Gemini Canvas และ Google AI Studio ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: เปิด Google AI Studio ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-perplexity-markdown-file-on-iphone/ | t: เปิด Perplexity ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-copilot-markdown-file-on-iphone/ | t: เปิด Copilot ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-github-copilot-markdown-file-on-iphone/ | t: เปิด GitHub Copilot ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-deepseek-markdown-file-on-iphone/ | t: เปิด DeepSeek ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-grok-markdown-file-on-iphone/ | t: เปิด Grok ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-notebooklm-markdown-file-on-iphone/ | t: เปิด NotebookLM ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-qwen-markdown-file-on-iphone/ | t: เปิด Qwen ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-kimi-markdown-file-on-iphone/ | t: เปิด Kimi ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-poe-markdown-file-on-iphone/ | t: เปิด Poe ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: เปิด Mistral Le Chat ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-cursor-markdown-file-on-iphone/ | t: เปิด Cursor ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-claude-code-markdown-file-on-iphone/ | t: เปิด Claude Code ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-codex-markdown-file-on-iphone/ | t: เปิด Codex ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-v0-markdown-file-on-iphone/ | t: เปิด v0 ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-bolt-markdown-file-on-iphone/ | t: เปิด Bolt ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-replit-markdown-file-on-iphone/ | t: เปิด Replit ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-lovable-markdown-file-on-iphone/ | t: เปิด Lovable ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-windsurf-markdown-file-on-iphone/ | t: เปิด Windsurf ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-manus-markdown-file-on-iphone/ | t: เปิด Manus ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-devin-markdown-file-on-iphone/ | t: เปิด Devin ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-figma-make-markdown-file-on-iphone/ | t: เปิด Figma Make ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-firebase-studio-markdown-file-on-iphone/ | t: เปิด Firebase Studio ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-google-antigravity-markdown-file-on-iphone/ | t: เปิด Google Antigravity ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-trae-markdown-file-on-iphone/ | t: เปิด Trae ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-cline-markdown-file-on-iphone/ | t: เปิด Cline ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-base44-markdown-file-on-iphone/ | t: เปิด Base44 ไฟล์ Markdown บน iPhone
-- th Article:/th/articles/open-kilo-code-markdown-file-on-iphone/ | t: เปิด Kilo Code ไฟล์ Markdown บน iPhone
+- th Article:/th/articles/open-chatgpt-markdown-download-on-iphone/ | t: เปิด ChatGPT downloads ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-gemini-markdown-file-on-iphone/ | t: เปิด Gemini, Gemini Canvas และ Google AI Studio ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-google-ai-studio-markdown-file-on-iphone/ | t: เปิด Google AI Studio ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-perplexity-markdown-file-on-iphone/ | t: เปิด Perplexity ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-copilot-markdown-file-on-iphone/ | t: เปิด Copilot ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-github-copilot-markdown-file-on-iphone/ | t: เปิด GitHub Copilot ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-deepseek-markdown-file-on-iphone/ | t: เปิด DeepSeek ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-grok-markdown-file-on-iphone/ | t: เปิด Grok ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-notebooklm-markdown-file-on-iphone/ | t: เปิด NotebookLM ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-qwen-markdown-file-on-iphone/ | t: เปิด Qwen ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-kimi-markdown-file-on-iphone/ | t: เปิด Kimi ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-poe-markdown-file-on-iphone/ | t: เปิด Poe ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-mistral-le-chat-markdown-file-on-iphone/ | t: เปิด Mistral Le Chat ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-cursor-markdown-file-on-iphone/ | t: เปิด Cursor ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-claude-code-markdown-file-on-iphone/ | t: เปิด Claude Code ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-codex-markdown-file-on-iphone/ | t: เปิด Codex ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-v0-markdown-file-on-iphone/ | t: เปิด v0 ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-bolt-markdown-file-on-iphone/ | t: เปิด Bolt ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-replit-markdown-file-on-iphone/ | t: เปิด Replit ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-lovable-markdown-file-on-iphone/ | t: เปิด Lovable ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-windsurf-markdown-file-on-iphone/ | t: เปิด Windsurf ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-manus-markdown-file-on-iphone/ | t: เปิด Manus ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-devin-markdown-file-on-iphone/ | t: เปิด Devin ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-figma-make-markdown-file-on-iphone/ | t: เปิด Figma Make ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-firebase-studio-markdown-file-on-iphone/ | t: เปิด Firebase Studio ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-google-antigravity-markdown-file-on-iphone/ | t: เปิด Google Antigravity ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-trae-markdown-file-on-iphone/ | t: เปิด Trae ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-cline-markdown-file-on-iphone/ | t: เปิด Cline ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-base44-markdown-file-on-iphone/ | t: เปิด Base44 ไฟล์ Markdown บน iPad
+- th Article:/th/articles/open-kilo-code-markdown-file-on-iphone/ | t: เปิด Kilo Code ไฟล์ Markdown บน iPad
 - th Article:/th/articles/open-notion-markdown-export-on-iphone/ | t: เปิด ไฟล์ส่งออก Notion ไฟล์ Markdown บน iPhone
 - th Article:/th/articles/open-gitbook-markdown-file-on-iphone/ | t: เปิด ไฟล์ Markdown จาก GitBook บน iPhone
 - th Article:/th/articles/open-docusaurus-markdown-file-on-iphone/ | t: เปิด ไฟล์ Markdown จาก Docusaurus บน iPhone

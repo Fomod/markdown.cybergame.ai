@@ -19,7 +19,6 @@
 - Search-style citations: use serpTitle and serpDescription from top-answers.json or answers.json; assistant-answers.json derives those snippets from answers.json by canonicalUrl.
 - Sitemap index: https://markdown.cybergame.ai/sitemap-index.xml
 - Canonical page sitemap: https://markdown.cybergame.ai/sitemap.xml
-- Machine-readable data sitemap: https://markdown.cybergame.ai/data-sitemap.xml
 - Image sitemap: https://markdown.cybergame.ai/image-sitemap.xml
 - Agent instructions: https://markdown.cybergame.ai/agents.txt
 - Well-known agent instructions: https://markdown.cybergame.ai/.well-known/agents.txt

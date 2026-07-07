@@ -22,7 +22,6 @@ Generated pages:
 - 1717 localized SEO article pages
 - sitemap-index.xml for sitemap discovery
 - hreflang sitemap
-- data-sitemap.xml for machine-readable endpoint discovery
 - image-sitemap.xml for App Store screenshot discovery
 - RSS feed for guide discovery
 - opensearch.xml for browser and crawler search discovery

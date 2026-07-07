@@ -18,7 +18,7 @@ Generated pages:
 - 17 localized privacy and support pages
 - 17 localized App Store screenshot pages
 - 17 localized site search pages
-- 323 localized topic cluster pages
+- 340 localized topic cluster pages
 - 2414 localized SEO article pages
 - sitemap-index.xml for sitemap discovery
 - hreflang sitemap

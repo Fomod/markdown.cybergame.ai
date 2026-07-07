@@ -3469,7 +3469,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Topic hub:/zh/topics/best-viewer/ | t: best: iPhone 最佳 Markdown 预览工具
 - zh-Hans Topic hub:/zh/topics/app-store-download/ | t: download: App Store 下载 Markdown iPhone/iPad
 - zh-Hans Topic hub:/zh/topics/file-opener-reader/ | t: opener: 文件打开工具 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/ios-file-preview-problems/ | t: troubleshooting: iOS 预览问题 Markdown iPhone/iPad
+- zh-Hans Topic hub:/zh/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone 无法打开 Markdown？修复本机预览
 - zh-Hans Topic hub:/zh/topics/static-site-docs/ | t: static-site-docs: 静态站与文档框架 Markdown iPhone/iPad
 - zh-Hans Topic hub:/zh/topics/developer-sources/ | t: developer-sources: 开发者来源 Markdown iPhone/iPad
 - zh-Hans Topic hub:/zh/topics/communication-sources/ | t: communication-sources: 邮件与聊天附件 Markdown iPhone/iPad
@@ -3805,7 +3805,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Topic hub:/ja/topics/best-viewer/ | t: best: iPhone向けMarkdownビューアおすすめ
 - ja Topic hub:/ja/topics/app-store-download/ | t: download: App Storeダウンロード Markdown iPhone・iPad
 - ja Topic hub:/ja/topics/file-opener-reader/ | t: opener: ファイルオープナー Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/ios-file-preview-problems/ | t: troubleshooting: iOSプレビュー問題 Markdown iPhone・iPad
+- ja Topic hub:/ja/topics/ios-file-preview-problems/ | t: troubleshooting: iPhoneでMarkdownを開けない？プレビュー修正
 - ja Topic hub:/ja/topics/static-site-docs/ | t: static-site-docs: 静的サイトとドキュメント Markdown iPhone・iPad
 - ja Topic hub:/ja/topics/developer-sources/ | t: developer-sources: 開発者ソース Markdown iPhone・iPad
 - ja Topic hub:/ja/topics/communication-sources/ | t: communication-sources: メールとチャット添付 Markdown iPhone・iPad
@@ -4309,7 +4309,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - fr Topic hub:/fr/topics/best-viewer/ | t: best: Meilleur lecteur Markdown iPhone
 - fr Topic hub:/fr/topics/app-store-download/ | t: download: Téléchargement App Store Markdown sur iPhone et iPad
 - fr Topic hub:/fr/topics/file-opener-reader/ | t: opener: Ouvreur de fichier Markdown sur iPhone et iPad
-- fr Topic hub:/fr/topics/ios-file-preview-problems/ | t: troubleshooting: Problèmes d'aperçu iOS Markdown sur iPhone et iPad
+- fr Topic hub:/fr/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone n'ouvre pas Markdown ? Correction
 - fr Topic hub:/fr/topics/static-site-docs/ | t: static-site-docs: Sites statiques et docs Markdown sur iPhone et iPad
 - fr Topic hub:/fr/topics/developer-sources/ | t: developer-sources: Sources developpeur Markdown sur iPhone et iPad
 - fr Topic hub:/fr/topics/communication-sources/ | t: communication-sources: Email et chat Markdown sur iPhone et iPad
@@ -4477,7 +4477,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - pt-BR Topic hub:/pt-br/topics/best-viewer/ | t: best: Melhor visualizador Markdown iPhone
 - pt-BR Topic hub:/pt-br/topics/app-store-download/ | t: download: Download na App Store Markdown no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/file-opener-reader/ | t: opener: Abridor de arquivos Markdown no iPhone e iPad
-- pt-BR Topic hub:/pt-br/topics/ios-file-preview-problems/ | t: troubleshooting: Problemas de previa no iOS Markdown no iPhone e iPad
+- pt-BR Topic hub:/pt-br/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone não abre Markdown? Corrigir prévia
 - pt-BR Topic hub:/pt-br/topics/static-site-docs/ | t: static-site-docs: Sites estaticos e docs Markdown no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/developer-sources/ | t: developer-sources: Fontes de desenvolvimento Markdown no iPhone e iPad
 - pt-BR Topic hub:/pt-br/topics/communication-sources/ | t: communication-sources: Email e chat Markdown no iPhone e iPad
@@ -4981,7 +4981,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - hi Topic hub:/hi/topics/best-viewer/ | t: best: iPhone के लिए सबसे अच्छा Markdown व्यूअर
 - hi Topic hub:/hi/topics/app-store-download/ | t: download: App Store इंस्टॉल Markdown iPhone और iPad पर
 - hi Topic hub:/hi/topics/file-opener-reader/ | t: opener: फाइल खोलने वाला ऐप Markdown iPhone और iPad पर
-- hi Topic hub:/hi/topics/ios-file-preview-problems/ | t: troubleshooting: iOS प्रीव्यू समस्या Markdown iPhone और iPad पर
+- hi Topic hub:/hi/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone पर Markdown नहीं खुल रहा? सुधार
 - hi Topic hub:/hi/topics/static-site-docs/ | t: static-site-docs: स्टैटिक साइट और docs Markdown iPhone और iPad पर
 - hi Topic hub:/hi/topics/developer-sources/ | t: developer-sources: developer sources Markdown iPhone और iPad पर
 - hi Topic hub:/hi/topics/communication-sources/ | t: communication-sources: email और chat Markdown iPhone और iPad पर
@@ -5149,7 +5149,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - it Topic hub:/it/topics/best-viewer/ | t: best: Miglior viewer Markdown iPhone
 - it Topic hub:/it/topics/app-store-download/ | t: download: Download App Store Markdown su iPhone e iPad
 - it Topic hub:/it/topics/file-opener-reader/ | t: opener: Apri file Markdown su iPhone e iPad
-- it Topic hub:/it/topics/ios-file-preview-problems/ | t: troubleshooting: Problemi anteprima iOS Markdown su iPhone e iPad
+- it Topic hub:/it/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone non apre Markdown? Correggi anteprima
 - it Topic hub:/it/topics/static-site-docs/ | t: static-site-docs: Siti statici e docs Markdown su iPhone e iPad
 - it Topic hub:/it/topics/developer-sources/ | t: developer-sources: Fonti developer Markdown su iPhone e iPad
 - it Topic hub:/it/topics/communication-sources/ | t: communication-sources: Email e chat Markdown su iPhone e iPad
@@ -5317,7 +5317,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - tr Topic hub:/tr/topics/best-viewer/ | t: best: En iyi Markdown görüntüleyici iPhone
 - tr Topic hub:/tr/topics/app-store-download/ | t: download: App Store indirme Markdown iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/file-opener-reader/ | t: opener: Dosya acici Markdown iPhone ve iPad uzerinde
-- tr Topic hub:/tr/topics/ios-file-preview-problems/ | t: troubleshooting: iOS onizleme sorunlari Markdown iPhone ve iPad uzerinde
+- tr Topic hub:/tr/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone Markdown açmıyor? Önizleme çözümü
 - tr Topic hub:/tr/topics/static-site-docs/ | t: static-site-docs: Statik site ve docs Markdown iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/developer-sources/ | t: developer-sources: Gelistirici kaynaklari Markdown iPhone ve iPad uzerinde
 - tr Topic hub:/tr/topics/communication-sources/ | t: communication-sources: E-posta ve sohbet Markdown iPhone ve iPad uzerinde
@@ -5653,7 +5653,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - vi Topic hub:/vi/topics/best-viewer/ | t: best: Viewer Markdown tốt nhất iPhone
 - vi Topic hub:/vi/topics/app-store-download/ | t: download: Tải App Store Markdown trên iPhone và iPad
 - vi Topic hub:/vi/topics/file-opener-reader/ | t: opener: Trình mở tệp Markdown trên iPhone và iPad
-- vi Topic hub:/vi/topics/ios-file-preview-problems/ | t: troubleshooting: Lỗi preview iOS Markdown trên iPhone và iPad
+- vi Topic hub:/vi/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone không mở được Markdown? Sửa preview
 - vi Topic hub:/vi/topics/static-site-docs/ | t: static-site-docs: Site tinh và docs Markdown trên iPhone và iPad
 - vi Topic hub:/vi/topics/developer-sources/ | t: developer-sources: Nguồn developer Markdown trên iPhone và iPad
 - vi Topic hub:/vi/topics/communication-sources/ | t: communication-sources: Email và chat Markdown trên iPhone và iPad
@@ -5821,7 +5821,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - th Topic hub:/th/topics/best-viewer/ | t: best: ตัวดู Markdown ที่ดีที่สุดบน iPhone
 - th Topic hub:/th/topics/app-store-download/ | t: download: ดาวน์โหลด App Store Markdown บน iPhone และ iPad
 - th Topic hub:/th/topics/file-opener-reader/ | t: opener: ตัวเปิดไฟล์ Markdown บน iPhone และ iPad
-- th Topic hub:/th/topics/ios-file-preview-problems/ | t: troubleshooting: ปัญหาพรีวิว iOS Markdown บน iPhone และ iPad
+- th Topic hub:/th/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone เปิด Markdown ไม่ได้? แก้พรีวิว
 - th Topic hub:/th/topics/static-site-docs/ | t: static-site-docs: static site และ docs Markdown บน iPhone และ iPad
 - th Topic hub:/th/topics/developer-sources/ | t: developer-sources: แหล่งไฟล์นักพัฒนา Markdown บน iPhone และ iPad
 - th Topic hub:/th/topics/communication-sources/ | t: communication-sources: อีเมลและแชต Markdown บน iPhone และ iPad
@@ -5989,7 +5989,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ru Topic hub:/ru/topics/best-viewer/ | t: best: Лучший просмотрщик Markdown для iPhone
 - ru Topic hub:/ru/topics/app-store-download/ | t: download: Загрузка App Store Markdown на iPhone и iPad
 - ru Topic hub:/ru/topics/file-opener-reader/ | t: opener: Открытие файлов Markdown на iPhone и iPad
-- ru Topic hub:/ru/topics/ios-file-preview-problems/ | t: troubleshooting: Проблемы предпросмотра iOS Markdown на iPhone и iPad
+- ru Topic hub:/ru/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone не открывает Markdown? Исправить предпросмотр
 - ru Topic hub:/ru/topics/static-site-docs/ | t: static-site-docs: Статические сайты и docs Markdown на iPhone и iPad
 - ru Topic hub:/ru/topics/developer-sources/ | t: developer-sources: Источники разработчика Markdown на iPhone и iPad
 - ru Topic hub:/ru/topics/communication-sources/ | t: communication-sources: Почта и чаты Markdown на iPhone и iPad

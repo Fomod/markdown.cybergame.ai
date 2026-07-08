@@ -51,6 +51,7 @@
 - Image index JSON: https://markdown.cybergame.ai/image-index.json
 - Intent router JSON: https://markdown.cybergame.ai/intent-router.json
 - Exact route coverage: 17 locales x 431 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+- Exact companion route coverage: 2159 paired article/topic routes in https://markdown.cybergame.ai/page-routes.json and https://markdown.cybergame.ai/.well-known/page-routes.json. Use exactCompanionRoutes before falling back to the companion homepage.
 - File formats JSON: https://markdown.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://markdown.cybergame.ai/viewer-selector.json
 - Schema graph JSON: https://markdown.cybergame.ai/schema-graph.json

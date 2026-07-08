@@ -5,6 +5,7 @@ Compact LLM context: https://markdown.cybergame.ai/llms.txt
 Answer index: https://markdown.cybergame.ai/answers.json
 Query index: https://markdown.cybergame.ai/query-index.json
 Route index: https://markdown.cybergame.ai/page-routes.json
+Exact companion route coverage: 2159 paired article/topic routes in https://markdown.cybergame.ai/page-routes.json and https://markdown.cybergame.ai/.well-known/page-routes.json.
 Retrieval manifest: https://markdown.cybergame.ai/retrieval-manifest.json
 
 This well-known alias intentionally avoids duplicating the full context payload.

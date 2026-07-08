@@ -150,5 +150,7 @@ Allow: /
 # RSS feed: https://markdown.cybergame.ai/feed.xml
 # OpenSearch description: https://markdown.cybergame.ai/opensearch.xml
 # AI retrieval manifest JSON: https://markdown.cybergame.ai/retrieval-manifest.json
+# Machine endpoint index JSON: https://markdown.cybergame.ai/site-index.json
+# Exact companion route discovery: retrieval-manifest.json and site-index.json expose page-routes exactCompanionRoutes.
 # IndexNow key file: https://markdown.cybergame.ai/1fa7fe5bf70bef83d34c0c9c29c181c8.txt
 Sitemap: https://markdown.cybergame.ai/sitemap-index.xml

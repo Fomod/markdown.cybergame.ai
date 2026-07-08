@@ -50,8 +50,8 @@
 - Query index JSON: https://markdown.cybergame.ai/query-index.json
 - Image index JSON: https://markdown.cybergame.ai/image-index.json
 - Intent router JSON: https://markdown.cybergame.ai/intent-router.json
-- Exact route coverage: 17 locales x 441 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
-- Exact companion route coverage: 2193 paired article/topic routes in https://markdown.cybergame.ai/page-routes.json and https://markdown.cybergame.ai/.well-known/page-routes.json. Use exactCompanionRoutes before falling back to the companion homepage.
+- Exact route coverage: 17 locales x 449 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+- Exact companion route coverage: 2210 paired article/topic routes in https://markdown.cybergame.ai/page-routes.json and https://markdown.cybergame.ai/.well-known/page-routes.json. Use exactCompanionRoutes before falling back to the companion homepage.
 - File formats JSON: https://markdown.cybergame.ai/file-formats.json
 - Viewer selector JSON: https://markdown.cybergame.ai/viewer-selector.json
 - Schema graph JSON: https://markdown.cybergame.ai/schema-graph.json
@@ -494,6 +494,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - English article | https://markdown.cybergame.ai/articles/open-readme-md-file-on-iphone/ | q: How do I open a README.md file on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://markdown.cybergame.ai/articles/open-changelog-md-file-on-iphone/ | q: How do I open a CHANGELOG.md file on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://markdown.cybergame.ai/articles/open-markdown-file-with-images-on-iphone/ | q: How do I open a Markdown file with images on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
+- English article | https://markdown.cybergame.ai/articles/open-google-chat-markdown-file-on-iphone/ | q: How do I open a Markdown file from Google Chat on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
+- English article | https://markdown.cybergame.ai/articles/open-markdown-front-matter-on-iphone/ | q: How do I open Markdown with front matter on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
+- English article | https://markdown.cybergame.ai/articles/open-markdown-table-on-iphone/ | q: How do I open a Markdown table on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://markdown.cybergame.ai/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: How do I open a Markdown file from iCloud Drive on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://markdown.cybergame.ai/articles/open-markdown-file-from-box-on-iphone/ | q: How do I open a Markdown file from Box on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://markdown.cybergame.ai/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: How do I open a Markdown file from SharePoint on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
@@ -503,7 +506,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - English article | https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-iphone/ | q: How do I open a GitHub README Markdown file on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://markdown.cybergame.ai/articles/open-github-readme-markdown-on-ipad/ | q: How do I open a GitHub README Markdown file on iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://markdown.cybergame.ai/articles/open-obsidian-markdown-on-iphone/ | q: How do I open an Obsidian Markdown note on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
-- English article | https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: How do I preview technical Markdown on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
+- English article | https://markdown.cybergame.ai/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: How do I preview Markdown code, math, and Mermaid on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://markdown.cybergame.ai/articles/offline-markdown-viewer-for-iphone/ | q: How do I preview Markdown files offline on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://markdown.cybergame.ai/articles/online-markdown-renderer-alternative-iphone/ | q: How do I replace an online Markdown renderer on iPhone? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
 - English article | https://markdown.cybergame.ai/articles/open-markdown-file-from-icloud-drive-on-ipad/ | q: How do I open an iCloud Drive Markdown file on iPhone or iPad? | a: Install Md Preview, open the file from Files or the iOS Share Sheet, and preview it locally on iPhone or iPad.
@@ -665,6 +668,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-readme-md-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 README.md 文件？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-changelog-md-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 CHANGELOG.md 文件？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-markdown-file-with-images-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开带图片的 Markdown 文件？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
+- 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-google-chat-markdown-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 Google Chat 里的 Markdown 文件？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
+- 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-markdown-front-matter-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开带 front matter 的 Markdown？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
+- 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-markdown-table-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 Markdown 表格？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 iCloud Drive 中的 Markdown 文件？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-box-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 Box 中的 Markdown 文件？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 SharePoint 中的 Markdown 文件？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
@@ -674,7 +680,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-github-readme-markdown-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 GitHub README Markdown 文件？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-github-readme-markdown-on-ipad/ | q: 如何在 iPad 上打开 GitHub README Markdown 文件？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-obsidian-markdown-on-iphone/ | q: 如何在 iPhone 或 iPad 上打开 Obsidian Markdown 笔记？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
-- 简体中文 article | https://markdown.cybergame.ai/zh/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: 如何在 iPhone 或 iPad 上预览技术 Markdown？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
+- 简体中文 article | https://markdown.cybergame.ai/zh/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: 如何在 iPhone 或 iPad 上预览 Markdown 代码、数学公式和 Mermaid？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/offline-markdown-viewer-for-iphone/ | q: 如何在 iPhone 或 iPad 上离线预览 Markdown 文件？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/online-markdown-renderer-alternative-iphone/ | q: 如何在 iPhone 上替代在线 Markdown 渲染器？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
 - 简体中文 article | https://markdown.cybergame.ai/zh/articles/open-markdown-file-from-icloud-drive-on-ipad/ | q: 如何在 iPhone 或 iPad 上打开 iCloud Drive 中的 Markdown 文件？ | a: 安装 Md Preview，从 Files 或 iOS 分享菜单打开文件，并在设备本机预览。
@@ -836,6 +842,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-readme-md-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 README.md 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-changelog-md-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 CHANGELOG.md 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-file-with-images-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟带圖片的 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
+- 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-google-chat-markdown-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 Google Chat 裡的 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
+- 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-front-matter-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟带 front matter 的 Markdown？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
+- 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-table-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 Markdown 表格？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 iCloud Drive 中的 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-file-from-box-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 Box 中的 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 SharePoint 中的 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
@@ -845,7 +854,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-github-readme-markdown-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 GitHub README Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-github-readme-markdown-on-ipad/ | q: 如何在 iPad 上開啟 GitHub README Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-obsidian-markdown-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 Obsidian Markdown 筆記？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
-- 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: 如何在 iPhone 或 iPad 上預覽技術 Markdown？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
+- 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: 如何在 iPhone 或 iPad 上預覽 Markdown 程式碼、數學公式和 Mermaid？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/offline-markdown-viewer-for-iphone/ | q: 如何在 iPhone 或 iPad 上離線預覽 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/online-markdown-renderer-alternative-iphone/ | q: 如何在 iPhone 上替代線上 Markdown 渲染器？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-file-from-icloud-drive-on-ipad/ | q: 如何在 iPhone 或 iPad 上開啟 iCloud Drive 中的 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
@@ -1007,6 +1016,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/open-readme-md-file-on-iphone/ | q: iPhoneやiPadでREADME.md Markdownファイルを開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/open-changelog-md-file-on-iphone/ | q: iPhoneやiPadでCHANGELOG.md Markdownファイルを開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/open-markdown-file-with-images-on-iphone/ | q: iPhoneやiPadで画像付きMarkdownを開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
+- 日本語 article | https://markdown.cybergame.ai/ja/articles/open-google-chat-markdown-file-on-iphone/ | q: Google Chat MarkdownファイルをiPhoneで開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
+- 日本語 article | https://markdown.cybergame.ai/ja/articles/open-markdown-front-matter-on-iphone/ | q: Markdown front matterをiPhoneで開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
+- 日本語 article | https://markdown.cybergame.ai/ja/articles/open-markdown-table-on-iphone/ | q: Markdown表をiPhoneで開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: iPhoneやiPadでiCloud Drive Markdownファイルを開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-box-on-iphone/ | q: iPhoneやiPadでBox Markdownファイルを開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: iPhoneやiPadでSharePoint Markdownファイルを開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
@@ -1016,7 +1028,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/open-github-readme-markdown-on-iphone/ | q: iPhoneやiPadでGitHub README Markdownを開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/open-github-readme-markdown-on-ipad/ | q: iPadのGitHub README Markdownを開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/open-obsidian-markdown-on-iphone/ | q: iPhoneやiPadでObsidianのMarkdownノートを開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
-- 日本語 article | https://markdown.cybergame.ai/ja/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: iPhoneやiPadで技術Markdownをプレビューするには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
+- 日本語 article | https://markdown.cybergame.ai/ja/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: Markdown Mermaid and mathをiPhoneで開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/offline-markdown-viewer-for-iphone/ | q: iPhoneやiPadでMarkdownファイルをオフラインでプレビューするには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/online-markdown-renderer-alternative-iphone/ | q: iPhoneやiPadでオンラインMarkdownレンダラーの代わりになるローカルMarkdownビューアを開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
 - 日本語 article | https://markdown.cybergame.ai/ja/articles/open-markdown-file-from-icloud-drive-on-ipad/ | q: iPhoneやiPadでiCloud Drive Markdownファイルを開くには？ | a: Md Previewをインストールし、Filesまたは共有シートからファイルを開くと、iPhone/iPad上でローカルにプレビューできます。
@@ -1178,6 +1190,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Español article | https://markdown.cybergame.ai/es/articles/open-readme-md-file-on-iphone/ | q: ¿Cómo abrir archivos Markdown de README.md en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://markdown.cybergame.ai/es/articles/open-changelog-md-file-on-iphone/ | q: ¿Cómo abrir archivos Markdown de CHANGELOG.md en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://markdown.cybergame.ai/es/articles/open-markdown-file-with-images-on-iphone/ | q: ¿Cómo abrir archivos Markdown de Markdown con imágenes en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
+- Español article | https://markdown.cybergame.ai/es/articles/open-google-chat-markdown-file-on-iphone/ | q: ¿Cómo Abrir Google Chat Markdown file en iPhone? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
+- Español article | https://markdown.cybergame.ai/es/articles/open-markdown-front-matter-on-iphone/ | q: ¿Cómo Abrir Markdown front matter en iPhone? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
+- Español article | https://markdown.cybergame.ai/es/articles/open-markdown-table-on-iphone/ | q: ¿Cómo Abrir Markdown table en iPhone? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://markdown.cybergame.ai/es/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: ¿Cómo abrir archivos Markdown de iCloud Drive en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://markdown.cybergame.ai/es/articles/open-markdown-file-from-box-on-iphone/ | q: ¿Cómo abrir archivos Markdown de Box en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://markdown.cybergame.ai/es/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: ¿Cómo abrir archivos Markdown de SharePoint en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
@@ -1187,7 +1202,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Español article | https://markdown.cybergame.ai/es/articles/open-github-readme-markdown-on-iphone/ | q: ¿Cómo abrir un README Markdown de GitHub en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://markdown.cybergame.ai/es/articles/open-github-readme-markdown-on-ipad/ | q: ¿Cómo abrir README Markdown de GitHub en iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://markdown.cybergame.ai/es/articles/open-obsidian-markdown-on-iphone/ | q: ¿Cómo abrir una nota Markdown de Obsidian en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
-- Español article | https://markdown.cybergame.ai/es/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: ¿Cómo previsualizar Markdown técnico en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
+- Español article | https://markdown.cybergame.ai/es/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: ¿Cómo Abrir Markdown Mermaid and math en iPhone? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://markdown.cybergame.ai/es/articles/offline-markdown-viewer-for-iphone/ | q: ¿Cómo previsualizar Markdown offline en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://markdown.cybergame.ai/es/articles/online-markdown-renderer-alternative-iphone/ | q: ¿Cómo abrir Markdown sin renderer online en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
 - Español article | https://markdown.cybergame.ai/es/articles/open-markdown-file-from-icloud-drive-on-ipad/ | q: ¿Cómo abrir archivos Markdown de iCloud Drive en iPhone o iPad? | a: Instala Md Preview, abre el archivo desde Files o la hoja de compartir de iOS y previsualízalo localmente en iPhone o iPad.
@@ -1349,6 +1364,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Deutsch article | https://markdown.cybergame.ai/de/articles/open-readme-md-file-on-iphone/ | q: Wie kann ich README.md Markdown-Dateien öffnen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://markdown.cybergame.ai/de/articles/open-changelog-md-file-on-iphone/ | q: Wie kann ich CHANGELOG.md Markdown-Dateien öffnen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://markdown.cybergame.ai/de/articles/open-markdown-file-with-images-on-iphone/ | q: Wie kann ich Markdown mit Bildern öffnen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
+- Deutsch article | https://markdown.cybergame.ai/de/articles/open-google-chat-markdown-file-on-iphone/ | q: Wie kann ich Google Chat Markdown file auf iPhone öffnen? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
+- Deutsch article | https://markdown.cybergame.ai/de/articles/open-markdown-front-matter-on-iphone/ | q: Wie kann ich Markdown front matter auf iPhone öffnen? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
+- Deutsch article | https://markdown.cybergame.ai/de/articles/open-markdown-table-on-iphone/ | q: Wie kann ich Markdown table auf iPhone öffnen? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://markdown.cybergame.ai/de/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: Wie kann ich iCloud Drive Markdown-Dateien öffnen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://markdown.cybergame.ai/de/articles/open-markdown-file-from-box-on-iphone/ | q: Wie kann ich Box Markdown-Dateien öffnen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://markdown.cybergame.ai/de/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: Wie kann ich SharePoint Markdown-Dateien öffnen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
@@ -1358,7 +1376,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Deutsch article | https://markdown.cybergame.ai/de/articles/open-github-readme-markdown-on-iphone/ | q: Wie kann ich eine GitHub-README-Markdown-Datei öffnen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://markdown.cybergame.ai/de/articles/open-github-readme-markdown-on-ipad/ | q: Wie kann ich GitHub-README-Markdown auf dem iPad öffnen? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://markdown.cybergame.ai/de/articles/open-obsidian-markdown-on-iphone/ | q: Wie kann ich eine Obsidian-Markdown-Notiz öffnen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
-- Deutsch article | https://markdown.cybergame.ai/de/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: Wie kann ich technisches Markdown anzeigen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
+- Deutsch article | https://markdown.cybergame.ai/de/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: Wie kann ich Markdown Mermaid and math auf iPhone öffnen? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://markdown.cybergame.ai/de/articles/offline-markdown-viewer-for-iphone/ | q: Wie kann ich Markdown-Dateien offline anzeigen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://markdown.cybergame.ai/de/articles/online-markdown-renderer-alternative-iphone/ | q: Wie kann ich Markdown ohne Online-Renderer öffnen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
 - Deutsch article | https://markdown.cybergame.ai/de/articles/open-markdown-file-from-icloud-drive-on-ipad/ | q: Wie kann ich iCloud Drive Markdown-Dateien öffnen auf iPhone oder iPad? | a: Installiere Md Preview, öffne die Datei aus Files oder dem iOS-Teilen-Menü und zeige sie lokal auf dem iPhone oder iPad an.
@@ -1520,6 +1538,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Français article | https://markdown.cybergame.ai/fr/articles/open-readme-md-file-on-iphone/ | q: Comment ouvrir des fichiers Markdown de README.md sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://markdown.cybergame.ai/fr/articles/open-changelog-md-file-on-iphone/ | q: Comment ouvrir des fichiers Markdown de CHANGELOG.md sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://markdown.cybergame.ai/fr/articles/open-markdown-file-with-images-on-iphone/ | q: Comment ouvrir des fichiers Markdown de Markdown avec images sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
+- Français article | https://markdown.cybergame.ai/fr/articles/open-google-chat-markdown-file-on-iphone/ | q: Comment Ouvrir Google Chat Markdown file sur iPhone ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
+- Français article | https://markdown.cybergame.ai/fr/articles/open-markdown-front-matter-on-iphone/ | q: Comment Ouvrir Markdown front matter sur iPhone ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
+- Français article | https://markdown.cybergame.ai/fr/articles/open-markdown-table-on-iphone/ | q: Comment Ouvrir Markdown table sur iPhone ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: Comment ouvrir des fichiers Markdown de iCloud Drive sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-box-on-iphone/ | q: Comment ouvrir des fichiers Markdown de Box sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: Comment ouvrir des fichiers Markdown de SharePoint sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
@@ -1529,7 +1550,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Français article | https://markdown.cybergame.ai/fr/articles/open-github-readme-markdown-on-iphone/ | q: Comment ouvrir un README Markdown de GitHub sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://markdown.cybergame.ai/fr/articles/open-github-readme-markdown-on-ipad/ | q: Comment ouvrir README Markdown GitHub sur iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://markdown.cybergame.ai/fr/articles/open-obsidian-markdown-on-iphone/ | q: Comment ouvrir une note Markdown Obsidian sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
-- Français article | https://markdown.cybergame.ai/fr/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: Comment prévisualiser du Markdown technique sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
+- Français article | https://markdown.cybergame.ai/fr/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: Comment Ouvrir Markdown Mermaid and math sur iPhone ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://markdown.cybergame.ai/fr/articles/offline-markdown-viewer-for-iphone/ | q: Comment prévisualiser Markdown hors ligne sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://markdown.cybergame.ai/fr/articles/online-markdown-renderer-alternative-iphone/ | q: Comment ouvrir Markdown sans rendu en ligne sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
 - Français article | https://markdown.cybergame.ai/fr/articles/open-markdown-file-from-icloud-drive-on-ipad/ | q: Comment ouvrir des fichiers Markdown de iCloud Drive sur iPhone ou iPad ? | a: Installez Md Preview, ouvrez le fichier depuis Files ou le partage iOS, puis prévisualisez-le localement sur iPhone ou iPad.
@@ -1691,6 +1712,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-readme-md-file-on-iphone/ | q: Como abrir arquivos Markdown do README.md no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-changelog-md-file-on-iphone/ | q: Como abrir arquivos Markdown do CHANGELOG.md no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-with-images-on-iphone/ | q: Como abrir arquivos Markdown do Markdown com imagens no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
+- Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-google-chat-markdown-file-on-iphone/ | q: Como Abrir Google Chat Markdown file no iPhone? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
+- Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-markdown-front-matter-on-iphone/ | q: Como Abrir Markdown front matter no iPhone? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
+- Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-markdown-table-on-iphone/ | q: Como Abrir Markdown table no iPhone? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: Como abrir arquivos Markdown do iCloud Drive no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-box-on-iphone/ | q: Como abrir arquivos Markdown do Box no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: Como abrir arquivos Markdown do SharePoint no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
@@ -1700,7 +1724,7 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-github-readme-markdown-on-iphone/ | q: Como abrir um README Markdown do GitHub no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-github-readme-markdown-on-ipad/ | q: Como abrir README Markdown do GitHub no iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-obsidian-markdown-on-iphone/ | q: Como abrir uma nota Markdown do Obsidian no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
-- Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: Como pré-visualizar Markdown técnico no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
+- Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/preview-markdown-code-math-mermaid-on-ipad/ | q: Como Abrir Markdown Mermaid and math no iPhone? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/offline-markdown-viewer-for-iphone/ | q: Como visualizar Markdown offline no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/online-markdown-renderer-alternative-iphone/ | q: Como abrir Markdown sem renderizador online no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
 - Português do Brasil article | https://markdown.cybergame.ai/pt-br/articles/open-markdown-file-from-icloud-drive-on-ipad/ | q: Como abrir arquivos Markdown do iCloud Drive no iPhone ou iPad? | a: Instale o Md Preview, abra o arquivo pelo Files ou pelo compartilhamento do iOS e visualize localmente no iPhone ou iPad.
@@ -1862,6 +1886,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 한국어 article | https://markdown.cybergame.ai/ko/articles/open-readme-md-file-on-iphone/ | q: iPhone과 iPad에서 Markdown 파일을 여는 방법은? | a: Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
 - 한국어 article | https://markdown.cybergame.ai/ko/articles/open-changelog-md-file-on-iphone/ | q: iPhone과 iPad에서 Markdown 파일을 여는 방법은? | a: Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
 - 한국어 article | https://markdown.cybergame.ai/ko/articles/open-markdown-file-with-images-on-iphone/ | q: iPhone과 iPad에서 Markdown 파일을 여는 방법은? | a: Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
+- 한국어 article | https://markdown.cybergame.ai/ko/articles/open-google-chat-markdown-file-on-iphone/ | q: iPhone과 iPad에서 Markdown 파일을 여는 방법은? | a: Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
+- 한국어 article | https://markdown.cybergame.ai/ko/articles/open-markdown-front-matter-on-iphone/ | q: iPhone과 iPad에서 Markdown 파일을 여는 방법은? | a: Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
+- 한국어 article | https://markdown.cybergame.ai/ko/articles/open-markdown-table-on-iphone/ | q: iPhone과 iPad에서 Markdown 파일을 여는 방법은? | a: Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
 - 한국어 article | https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: iPhone과 iPad에서 Markdown 파일을 여는 방법은? | a: Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
 - 한국어 article | https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-box-on-iphone/ | q: iPhone과 iPad에서 Markdown 파일을 여는 방법은? | a: Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
 - 한국어 article | https://markdown.cybergame.ai/ko/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: iPhone과 iPad에서 Markdown 파일을 여는 방법은? | a: Md Preview를 iOS 공유 시트 또는 Files 앱에서 열고 Markdown 파일을 iPhone 또는 iPad에서 로컬로 미리보기하세요.
@@ -2033,6 +2060,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - العربية article | https://markdown.cybergame.ai/ar/articles/open-readme-md-file-on-iphone/ | q: كيف تفتح ملف Markdown على iPhone او iPad؟ | a: افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
 - العربية article | https://markdown.cybergame.ai/ar/articles/open-changelog-md-file-on-iphone/ | q: كيف تفتح ملف Markdown على iPhone او iPad؟ | a: افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
 - العربية article | https://markdown.cybergame.ai/ar/articles/open-markdown-file-with-images-on-iphone/ | q: كيف تفتح ملف Markdown على iPhone او iPad؟ | a: افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
+- العربية article | https://markdown.cybergame.ai/ar/articles/open-google-chat-markdown-file-on-iphone/ | q: كيف تفتح ملف Markdown على iPhone او iPad؟ | a: افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
+- العربية article | https://markdown.cybergame.ai/ar/articles/open-markdown-front-matter-on-iphone/ | q: كيف تفتح ملف Markdown على iPhone او iPad؟ | a: افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
+- العربية article | https://markdown.cybergame.ai/ar/articles/open-markdown-table-on-iphone/ | q: كيف تفتح ملف Markdown على iPhone او iPad؟ | a: افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
 - العربية article | https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: كيف تفتح ملف Markdown على iPhone او iPad؟ | a: افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
 - العربية article | https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-box-on-iphone/ | q: كيف تفتح ملف Markdown على iPhone او iPad؟ | a: افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
 - العربية article | https://markdown.cybergame.ai/ar/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: كيف تفتح ملف Markdown على iPhone او iPad؟ | a: افتح ملف Markdown في Md Preview من قائمة مشاركة iOS او تطبيق Files، ثم عاينه محليا على iPhone او iPad.
@@ -2204,6 +2234,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - हिन्दी article | https://markdown.cybergame.ai/hi/articles/open-readme-md-file-on-iphone/ | q: iPhone या iPad पर Markdown फाइल कैसे खोलें? | a: Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
 - हिन्दी article | https://markdown.cybergame.ai/hi/articles/open-changelog-md-file-on-iphone/ | q: iPhone या iPad पर Markdown फाइल कैसे खोलें? | a: Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
 - हिन्दी article | https://markdown.cybergame.ai/hi/articles/open-markdown-file-with-images-on-iphone/ | q: iPhone या iPad पर Markdown फाइल कैसे खोलें? | a: Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
+- हिन्दी article | https://markdown.cybergame.ai/hi/articles/open-google-chat-markdown-file-on-iphone/ | q: iPhone या iPad पर Markdown फाइल कैसे खोलें? | a: Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
+- हिन्दी article | https://markdown.cybergame.ai/hi/articles/open-markdown-front-matter-on-iphone/ | q: iPhone या iPad पर Markdown फाइल कैसे खोलें? | a: Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
+- हिन्दी article | https://markdown.cybergame.ai/hi/articles/open-markdown-table-on-iphone/ | q: iPhone या iPad पर Markdown फाइल कैसे खोलें? | a: Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
 - हिन्दी article | https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: iPhone या iPad पर Markdown फाइल कैसे खोलें? | a: Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
 - हिन्दी article | https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-box-on-iphone/ | q: iPhone या iPad पर Markdown फाइल कैसे खोलें? | a: Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
 - हिन्दी article | https://markdown.cybergame.ai/hi/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: iPhone या iPad पर Markdown फाइल कैसे खोलें? | a: Md Preview को iOS Share Sheet या Files ऐप से खोलें और Markdown फाइल को iPhone या iPad पर स्थानीय रूप से देखें।
@@ -2375,6 +2408,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Italiano article | https://markdown.cybergame.ai/it/articles/open-readme-md-file-on-iphone/ | q: Come aprire un file Markdown su iPhone o iPad? | a: Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
 - Italiano article | https://markdown.cybergame.ai/it/articles/open-changelog-md-file-on-iphone/ | q: Come aprire un file Markdown su iPhone o iPad? | a: Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
 - Italiano article | https://markdown.cybergame.ai/it/articles/open-markdown-file-with-images-on-iphone/ | q: Come aprire un file Markdown su iPhone o iPad? | a: Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
+- Italiano article | https://markdown.cybergame.ai/it/articles/open-google-chat-markdown-file-on-iphone/ | q: Come aprire un file Markdown su iPhone o iPad? | a: Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
+- Italiano article | https://markdown.cybergame.ai/it/articles/open-markdown-front-matter-on-iphone/ | q: Come aprire un file Markdown su iPhone o iPad? | a: Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
+- Italiano article | https://markdown.cybergame.ai/it/articles/open-markdown-table-on-iphone/ | q: Come aprire un file Markdown su iPhone o iPad? | a: Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
 - Italiano article | https://markdown.cybergame.ai/it/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: Come aprire un file Markdown su iPhone o iPad? | a: Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
 - Italiano article | https://markdown.cybergame.ai/it/articles/open-markdown-file-from-box-on-iphone/ | q: Come aprire un file Markdown su iPhone o iPad? | a: Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
 - Italiano article | https://markdown.cybergame.ai/it/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: Come aprire un file Markdown su iPhone o iPad? | a: Apri il file Markdown con Md Preview dal foglio di condivisione iOS o dall'app File e visualizzalo localmente su iPhone o iPad.
@@ -2546,6 +2582,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Türkçe article | https://markdown.cybergame.ai/tr/articles/open-readme-md-file-on-iphone/ | q: iPhone veya iPad'de Markdown dosyasi nasil acilir? | a: Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
 - Türkçe article | https://markdown.cybergame.ai/tr/articles/open-changelog-md-file-on-iphone/ | q: iPhone veya iPad'de Markdown dosyasi nasil acilir? | a: Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
 - Türkçe article | https://markdown.cybergame.ai/tr/articles/open-markdown-file-with-images-on-iphone/ | q: iPhone veya iPad'de Markdown dosyasi nasil acilir? | a: Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
+- Türkçe article | https://markdown.cybergame.ai/tr/articles/open-google-chat-markdown-file-on-iphone/ | q: iPhone veya iPad'de Markdown dosyasi nasil acilir? | a: Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
+- Türkçe article | https://markdown.cybergame.ai/tr/articles/open-markdown-front-matter-on-iphone/ | q: iPhone veya iPad'de Markdown dosyasi nasil acilir? | a: Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
+- Türkçe article | https://markdown.cybergame.ai/tr/articles/open-markdown-table-on-iphone/ | q: iPhone veya iPad'de Markdown dosyasi nasil acilir? | a: Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
 - Türkçe article | https://markdown.cybergame.ai/tr/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: iPhone veya iPad'de Markdown dosyasi nasil acilir? | a: Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
 - Türkçe article | https://markdown.cybergame.ai/tr/articles/open-markdown-file-from-box-on-iphone/ | q: iPhone veya iPad'de Markdown dosyasi nasil acilir? | a: Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
 - Türkçe article | https://markdown.cybergame.ai/tr/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: iPhone veya iPad'de Markdown dosyasi nasil acilir? | a: Markdown dosyasini iOS Paylasim Menusu veya Files uygulamasindan Md Preview ile ac ve iPhone ya da iPad'de yerel olarak onizle.
@@ -2717,6 +2756,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Bahasa Indonesia article | https://markdown.cybergame.ai/id/articles/open-readme-md-file-on-iphone/ | q: Bagaimana cara membuka file Markdown di iPhone atau iPad? | a: Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
 - Bahasa Indonesia article | https://markdown.cybergame.ai/id/articles/open-changelog-md-file-on-iphone/ | q: Bagaimana cara membuka file Markdown di iPhone atau iPad? | a: Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
 - Bahasa Indonesia article | https://markdown.cybergame.ai/id/articles/open-markdown-file-with-images-on-iphone/ | q: Bagaimana cara membuka file Markdown di iPhone atau iPad? | a: Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
+- Bahasa Indonesia article | https://markdown.cybergame.ai/id/articles/open-google-chat-markdown-file-on-iphone/ | q: Bagaimana cara membuka file Markdown di iPhone atau iPad? | a: Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
+- Bahasa Indonesia article | https://markdown.cybergame.ai/id/articles/open-markdown-front-matter-on-iphone/ | q: Bagaimana cara membuka file Markdown di iPhone atau iPad? | a: Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
+- Bahasa Indonesia article | https://markdown.cybergame.ai/id/articles/open-markdown-table-on-iphone/ | q: Bagaimana cara membuka file Markdown di iPhone atau iPad? | a: Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
 - Bahasa Indonesia article | https://markdown.cybergame.ai/id/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: Bagaimana cara membuka file Markdown di iPhone atau iPad? | a: Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
 - Bahasa Indonesia article | https://markdown.cybergame.ai/id/articles/open-markdown-file-from-box-on-iphone/ | q: Bagaimana cara membuka file Markdown di iPhone atau iPad? | a: Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
 - Bahasa Indonesia article | https://markdown.cybergame.ai/id/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: Bagaimana cara membuka file Markdown di iPhone atau iPad? | a: Buka file Markdown dengan Md Preview dari Share Sheet iOS atau app Files, lalu pratinjau secara lokal di iPhone atau iPad.
@@ -2888,6 +2930,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Tiếng Việt article | https://markdown.cybergame.ai/vi/articles/open-readme-md-file-on-iphone/ | q: Cách mở tệp Markdown trên iPhone hoặc iPad? | a: Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
 - Tiếng Việt article | https://markdown.cybergame.ai/vi/articles/open-changelog-md-file-on-iphone/ | q: Cách mở tệp Markdown trên iPhone hoặc iPad? | a: Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
 - Tiếng Việt article | https://markdown.cybergame.ai/vi/articles/open-markdown-file-with-images-on-iphone/ | q: Cách mở tệp Markdown trên iPhone hoặc iPad? | a: Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
+- Tiếng Việt article | https://markdown.cybergame.ai/vi/articles/open-google-chat-markdown-file-on-iphone/ | q: Cách mở tệp Markdown trên iPhone hoặc iPad? | a: Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
+- Tiếng Việt article | https://markdown.cybergame.ai/vi/articles/open-markdown-front-matter-on-iphone/ | q: Cách mở tệp Markdown trên iPhone hoặc iPad? | a: Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
+- Tiếng Việt article | https://markdown.cybergame.ai/vi/articles/open-markdown-table-on-iphone/ | q: Cách mở tệp Markdown trên iPhone hoặc iPad? | a: Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
 - Tiếng Việt article | https://markdown.cybergame.ai/vi/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: Cách mở tệp Markdown trên iPhone hoặc iPad? | a: Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
 - Tiếng Việt article | https://markdown.cybergame.ai/vi/articles/open-markdown-file-from-box-on-iphone/ | q: Cách mở tệp Markdown trên iPhone hoặc iPad? | a: Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
 - Tiếng Việt article | https://markdown.cybergame.ai/vi/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: Cách mở tệp Markdown trên iPhone hoặc iPad? | a: Mở tệp Markdown bằng Md Preview từ bảng chia sẻ iOS hoặc ứng dụng Files, rồi xem trước trên iPhone hoặc iPad.
@@ -3059,6 +3104,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - ไทย article | https://markdown.cybergame.ai/th/articles/open-readme-md-file-on-iphone/ | q: วิธีเปิดไฟล์ Markdown บน iPhone หรือ iPad? | a: เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
 - ไทย article | https://markdown.cybergame.ai/th/articles/open-changelog-md-file-on-iphone/ | q: วิธีเปิดไฟล์ Markdown บน iPhone หรือ iPad? | a: เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
 - ไทย article | https://markdown.cybergame.ai/th/articles/open-markdown-file-with-images-on-iphone/ | q: วิธีเปิดไฟล์ Markdown บน iPhone หรือ iPad? | a: เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
+- ไทย article | https://markdown.cybergame.ai/th/articles/open-google-chat-markdown-file-on-iphone/ | q: วิธีเปิดไฟล์ Markdown บน iPhone หรือ iPad? | a: เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
+- ไทย article | https://markdown.cybergame.ai/th/articles/open-markdown-front-matter-on-iphone/ | q: วิธีเปิดไฟล์ Markdown บน iPhone หรือ iPad? | a: เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
+- ไทย article | https://markdown.cybergame.ai/th/articles/open-markdown-table-on-iphone/ | q: วิธีเปิดไฟล์ Markdown บน iPhone หรือ iPad? | a: เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
 - ไทย article | https://markdown.cybergame.ai/th/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: วิธีเปิดไฟล์ Markdown บน iPhone หรือ iPad? | a: เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
 - ไทย article | https://markdown.cybergame.ai/th/articles/open-markdown-file-from-box-on-iphone/ | q: วิธีเปิดไฟล์ Markdown บน iPhone หรือ iPad? | a: เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
 - ไทย article | https://markdown.cybergame.ai/th/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: วิธีเปิดไฟล์ Markdown บน iPhone หรือ iPad? | a: เปิดไฟล์ Markdown ด้วย Md Preview จาก Share Sheet ของ iOS หรือแอป Files แล้วพรีวิวบน iPhone หรือ iPad แบบอยู่บนเครื่อง
@@ -3230,6 +3278,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - Русский article | https://markdown.cybergame.ai/ru/articles/open-readme-md-file-on-iphone/ | q: Как открыть файл Markdown на iPhone или iPad? | a: Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
 - Русский article | https://markdown.cybergame.ai/ru/articles/open-changelog-md-file-on-iphone/ | q: Как открыть файл Markdown на iPhone или iPad? | a: Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
 - Русский article | https://markdown.cybergame.ai/ru/articles/open-markdown-file-with-images-on-iphone/ | q: Как открыть файл Markdown на iPhone или iPad? | a: Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
+- Русский article | https://markdown.cybergame.ai/ru/articles/open-google-chat-markdown-file-on-iphone/ | q: Как открыть файл Markdown на iPhone или iPad? | a: Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
+- Русский article | https://markdown.cybergame.ai/ru/articles/open-markdown-front-matter-on-iphone/ | q: Как открыть файл Markdown на iPhone или iPad? | a: Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
+- Русский article | https://markdown.cybergame.ai/ru/articles/open-markdown-table-on-iphone/ | q: Как открыть файл Markdown на iPhone или iPad? | a: Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
 - Русский article | https://markdown.cybergame.ai/ru/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: Как открыть файл Markdown на iPhone или iPad? | a: Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
 - Русский article | https://markdown.cybergame.ai/ru/articles/open-markdown-file-from-box-on-iphone/ | q: Как открыть файл Markdown на iPhone или iPad? | a: Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
 - Русский article | https://markdown.cybergame.ai/ru/articles/open-markdown-file-from-sharepoint-on-iphone/ | q: Как открыть файл Markdown на iPhone или iPad? | a: Откройте файл Markdown в Md Preview через меню Поделиться iOS или Files и просматривайте его локально на iPhone или iPad.
@@ -3405,6 +3456,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - en Article:/articles/open-readme-md-file-on-iphone/ | t: How to Open README.md on iPhone
 - en Article:/articles/open-changelog-md-file-on-iphone/ | t: How to Open CHANGELOG.md on iPhone
 - en Article:/articles/open-markdown-file-with-images-on-iphone/ | t: How to Open Markdown with Images on iPhone
+- en Article:/articles/open-google-chat-markdown-file-on-iphone/ | t: Open a Google Chat Markdown File on iPhone
+- en Article:/articles/open-markdown-front-matter-on-iphone/ | t: Open Markdown Front Matter on iPhone
+- en Article:/articles/open-markdown-table-on-iphone/ | t: Open a Markdown Table on iPhone
 - en Article:/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: How to Open a Markdown File from iCloud Drive on iPhone
 - en Article:/articles/open-markdown-file-from-box-on-iphone/ | t: How to Open a Markdown File from Box on iPhone
 - en Article:/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: How to Open a Markdown File from SharePoint on iPhone
@@ -3414,7 +3468,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - en Article:/articles/open-github-readme-markdown-on-iphone/ | t: How to Open GitHub README Markdown on iPhone
 - en Article:/articles/open-github-readme-markdown-on-ipad/ | t: How to Open GitHub README Markdown on iPad
 - en Article:/articles/open-obsidian-markdown-on-iphone/ | t: How to Open Obsidian Markdown Notes on iPhone
-- en Article:/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: iPad Markdown Preview: Code, Math, Mermaid
+- en Article:/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: iPhone/iPad Markdown Preview: Code, Math, Mermaid
 - en Article:/articles/offline-markdown-viewer-for-iphone/ | t: Offline Markdown Viewer for iPhone and iPad
 - en Article:/articles/online-markdown-renderer-alternative-iphone/ | t: Local Markdown Renderer Alternative for iPhone
 - en Article:/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: How to Open a Markdown File from iCloud Drive on iPad
@@ -3576,6 +3630,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Article:/zh/articles/open-readme-md-file-on-iphone/ | t: 如何在 iPhone 上打开 README.md 文件
 - zh-Hans Article:/zh/articles/open-changelog-md-file-on-iphone/ | t: 如何在 iPhone 上打开 CHANGELOG.md 文件
 - zh-Hans Article:/zh/articles/open-markdown-file-with-images-on-iphone/ | t: 如何在 iPhone 上打开带图片的 Markdown 文件
+- zh-Hans Article:/zh/articles/open-google-chat-markdown-file-on-iphone/ | t: 在 iPhone 上打开 Google Chat Markdown 文件
+- zh-Hans Article:/zh/articles/open-markdown-front-matter-on-iphone/ | t: 在 iPhone 上打开 Markdown Front Matter
+- zh-Hans Article:/zh/articles/open-markdown-table-on-iphone/ | t: 在 iPhone 上打开 Markdown 表格
 - zh-Hans Article:/zh/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: 如何在 iPhone 上打开 iCloud Drive 的 Markdown 文件
 - zh-Hans Article:/zh/articles/open-markdown-file-from-box-on-iphone/ | t: 如何在 iPhone 上打开 Box 的 Markdown 文件
 - zh-Hans Article:/zh/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: 如何在 iPhone 上打开 SharePoint 的 Markdown 文件
@@ -3585,7 +3642,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Article:/zh/articles/open-github-readme-markdown-on-iphone/ | t: 如何在 iPhone 上打开 GitHub README Markdown
 - zh-Hans Article:/zh/articles/open-github-readme-markdown-on-ipad/ | t: 如何在 iPad 上打开 GitHub README Markdown
 - zh-Hans Article:/zh/articles/open-obsidian-markdown-on-iphone/ | t: 如何在 iPhone 上打开 Obsidian Markdown 笔记
-- zh-Hans Article:/zh/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: 在 iPad 上预览包含代码、数学公式和 Mermaid 的 Markdown
+- zh-Hans Article:/zh/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: iPhone/iPad 上预览 Markdown Mermaid 和数学公式
 - zh-Hans Article:/zh/articles/offline-markdown-viewer-for-iphone/ | t: iPhone 和 iPad 离线 Markdown 预览工具
 - zh-Hans Article:/zh/articles/online-markdown-renderer-alternative-iphone/ | t: iPhone 上在线 Markdown 渲染器的替代方案
 - zh-Hans Article:/zh/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: 如何在 iPad 上打开 iCloud Drive 的 Markdown 文件
@@ -3747,6 +3804,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hant Article:/zh-hant/articles/open-readme-md-file-on-iphone/ | t: 如何在 iPhone 上開啟 README.md 檔案
 - zh-Hant Article:/zh-hant/articles/open-changelog-md-file-on-iphone/ | t: 如何在 iPhone 上開啟 CHANGELOG.md 檔案
 - zh-Hant Article:/zh-hant/articles/open-markdown-file-with-images-on-iphone/ | t: 如何在 iPhone 上開啟带圖片的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-google-chat-markdown-file-on-iphone/ | t: 在 iPhone 上開啟 Google Chat Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-markdown-front-matter-on-iphone/ | t: 在 iPhone 上開啟 Markdown Front Matter
+- zh-Hant Article:/zh-hant/articles/open-markdown-table-on-iphone/ | t: 在 iPhone 上開啟 Markdown 表格
 - zh-Hant Article:/zh-hant/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: 如何在 iPhone 上開啟 iCloud Drive 的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-markdown-file-from-box-on-iphone/ | t: 如何在 iPhone 上開啟 Box 的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: 如何在 iPhone 上開啟 SharePoint 的 Markdown 檔案
@@ -3756,7 +3816,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hant Article:/zh-hant/articles/open-github-readme-markdown-on-iphone/ | t: 如何在 iPhone 上開啟 GitHub README Markdown
 - zh-Hant Article:/zh-hant/articles/open-github-readme-markdown-on-ipad/ | t: 如何在 iPad 上開啟 GitHub README Markdown
 - zh-Hant Article:/zh-hant/articles/open-obsidian-markdown-on-iphone/ | t: 如何在 iPhone 上開啟 Obsidian Markdown 筆記
-- zh-Hant Article:/zh-hant/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: 在 iPad 上預覽包含程式碼、數學公式和 Mermaid 的 Markdown
+- zh-Hant Article:/zh-hant/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: iPhone/iPad 上預覽 Markdown Mermaid 和數學公式
 - zh-Hant Article:/zh-hant/articles/offline-markdown-viewer-for-iphone/ | t: iPhone 和 iPad 離線 Markdown 預覽工具
 - zh-Hant Article:/zh-hant/articles/online-markdown-renderer-alternative-iphone/ | t: iPhone 上線上 Markdown 渲染器的替代方案
 - zh-Hant Article:/zh-hant/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: 如何在 iPad 上開啟 iCloud Drive 的 Markdown 檔案
@@ -3918,6 +3978,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Article:/ja/articles/open-readme-md-file-on-iphone/ | t: README.mdをiPhoneで開く
 - ja Article:/ja/articles/open-changelog-md-file-on-iphone/ | t: CHANGELOG.mdをiPhoneで開く
 - ja Article:/ja/articles/open-markdown-file-with-images-on-iphone/ | t: 画像付きMarkdownをiPhoneで開く
+- ja Article:/ja/articles/open-google-chat-markdown-file-on-iphone/ | t: Google Chat MarkdownファイルをiPhoneで開く
+- ja Article:/ja/articles/open-markdown-front-matter-on-iphone/ | t: Markdown front matterをiPhoneで開く
+- ja Article:/ja/articles/open-markdown-table-on-iphone/ | t: Markdown表をiPhoneで開く
 - ja Article:/ja/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: iCloud Drive MarkdownをiPhoneで開く
 - ja Article:/ja/articles/open-markdown-file-from-box-on-iphone/ | t: Box MarkdownをiPhoneで開く
 - ja Article:/ja/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: SharePoint MarkdownをiPhoneで開く
@@ -3927,7 +3990,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Article:/ja/articles/open-github-readme-markdown-on-iphone/ | t: GitHubのREADME MarkdownをiPhoneで開く方法
 - ja Article:/ja/articles/open-github-readme-markdown-on-ipad/ | t: iPadのGitHub README Markdownを開く方法
 - ja Article:/ja/articles/open-obsidian-markdown-on-iphone/ | t: ObsidianのMarkdownノートをiPhoneで開く方法
-- ja Article:/ja/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: コード、数式、Mermaid入りMarkdownをiPadで表示
+- ja Article:/ja/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Markdown Mermaid and mathをiPhoneで開く
 - ja Article:/ja/articles/offline-markdown-viewer-for-iphone/ | t: iPhoneとiPadで使えるオフラインMarkdownビューア
 - ja Article:/ja/articles/online-markdown-renderer-alternative-iphone/ | t: オンラインMarkdownレンダラーの代わりになるローカルMarkdownビューアをiPhoneで開く方法
 - ja Article:/ja/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: iCloud Drive MarkdownファイルをiPadで開く方法
@@ -4089,6 +4152,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - es Article:/es/articles/open-readme-md-file-on-iphone/ | t: Cómo abrir archivos Markdown de README.md en iPhone
 - es Article:/es/articles/open-changelog-md-file-on-iphone/ | t: Cómo abrir archivos Markdown de CHANGELOG.md en iPhone
 - es Article:/es/articles/open-markdown-file-with-images-on-iphone/ | t: Cómo abrir archivos Markdown de Markdown con imágenes en iPhone
+- es Article:/es/articles/open-google-chat-markdown-file-on-iphone/ | t: Abrir Google Chat Markdown file en iPhone
+- es Article:/es/articles/open-markdown-front-matter-on-iphone/ | t: Abrir Markdown front matter en iPhone
+- es Article:/es/articles/open-markdown-table-on-iphone/ | t: Abrir Markdown table en iPhone
 - es Article:/es/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: Cómo abrir archivos Markdown de iCloud Drive en iPhone
 - es Article:/es/articles/open-markdown-file-from-box-on-iphone/ | t: Cómo abrir archivos Markdown de Box en iPhone
 - es Article:/es/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: Cómo abrir archivos Markdown de SharePoint en iPhone
@@ -4098,7 +4164,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - es Article:/es/articles/open-github-readme-markdown-on-iphone/ | t: Cómo abrir README Markdown de GitHub en iPhone
 - es Article:/es/articles/open-github-readme-markdown-on-ipad/ | t: Cómo abrir README Markdown de GitHub en iPad
 - es Article:/es/articles/open-obsidian-markdown-on-iphone/ | t: Cómo abrir notas Markdown de Obsidian en iPhone
-- es Article:/es/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Previsualizar Markdown con código, matemáticas y Mermaid en iPad
+- es Article:/es/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Abrir Markdown Mermaid and math en iPhone
 - es Article:/es/articles/offline-markdown-viewer-for-iphone/ | t: Visor Markdown offline para iPhone y iPad
 - es Article:/es/articles/online-markdown-renderer-alternative-iphone/ | t: Cómo abrir Markdown sin renderer online en iPhone
 - es Article:/es/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: Cómo abrir archivos Markdown de iCloud Drive en iPad
@@ -4260,6 +4326,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - de Article:/de/articles/open-readme-md-file-on-iphone/ | t: README.md Markdown-Dateien auf iPhone öffnen
 - de Article:/de/articles/open-changelog-md-file-on-iphone/ | t: CHANGELOG.md Markdown-Dateien auf iPhone öffnen
 - de Article:/de/articles/open-markdown-file-with-images-on-iphone/ | t: Markdown mit Bildern auf iPhone öffnen
+- de Article:/de/articles/open-google-chat-markdown-file-on-iphone/ | t: Google Chat Markdown file auf iPhone öffnen
+- de Article:/de/articles/open-markdown-front-matter-on-iphone/ | t: Markdown front matter auf iPhone öffnen
+- de Article:/de/articles/open-markdown-table-on-iphone/ | t: Markdown table auf iPhone öffnen
 - de Article:/de/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: iCloud Drive Markdown-Dateien auf iPhone öffnen
 - de Article:/de/articles/open-markdown-file-from-box-on-iphone/ | t: Box Markdown-Dateien auf iPhone öffnen
 - de Article:/de/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: SharePoint Markdown-Dateien auf iPhone öffnen
@@ -4269,7 +4338,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - de Article:/de/articles/open-github-readme-markdown-on-iphone/ | t: GitHub-README-Markdown auf dem iPhone öffnen
 - de Article:/de/articles/open-github-readme-markdown-on-ipad/ | t: GitHub-README-Markdown auf dem iPad öffnen
 - de Article:/de/articles/open-obsidian-markdown-on-iphone/ | t: Obsidian-Markdown-Notizen auf dem iPhone öffnen
-- de Article:/de/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Markdown mit Code, Mathematik und Mermaid auf dem iPad anzeigen
+- de Article:/de/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Markdown Mermaid and math auf iPhone öffnen
 - de Article:/de/articles/offline-markdown-viewer-for-iphone/ | t: Offline-Markdown-Viewer für iPhone und iPad
 - de Article:/de/articles/online-markdown-renderer-alternative-iphone/ | t: Markdown ohne Online-Renderer auf iPhone öffnen
 - de Article:/de/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: iCloud Drive Markdown-Dateien auf iPad öffnen
@@ -4431,6 +4500,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - fr Article:/fr/articles/open-readme-md-file-on-iphone/ | t: Ouvrir des fichiers Markdown de README.md sur iPhone
 - fr Article:/fr/articles/open-changelog-md-file-on-iphone/ | t: Ouvrir des fichiers Markdown de CHANGELOG.md sur iPhone
 - fr Article:/fr/articles/open-markdown-file-with-images-on-iphone/ | t: Ouvrir des fichiers Markdown de Markdown avec images sur iPhone
+- fr Article:/fr/articles/open-google-chat-markdown-file-on-iphone/ | t: Ouvrir Google Chat Markdown file sur iPhone
+- fr Article:/fr/articles/open-markdown-front-matter-on-iphone/ | t: Ouvrir Markdown front matter sur iPhone
+- fr Article:/fr/articles/open-markdown-table-on-iphone/ | t: Ouvrir Markdown table sur iPhone
 - fr Article:/fr/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: Ouvrir des fichiers Markdown de iCloud Drive sur iPhone
 - fr Article:/fr/articles/open-markdown-file-from-box-on-iphone/ | t: Ouvrir des fichiers Markdown de Box sur iPhone
 - fr Article:/fr/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: Ouvrir des fichiers Markdown de SharePoint sur iPhone
@@ -4440,7 +4512,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - fr Article:/fr/articles/open-github-readme-markdown-on-iphone/ | t: Ouvrir un README Markdown de GitHub sur iPhone
 - fr Article:/fr/articles/open-github-readme-markdown-on-ipad/ | t: Ouvrir README Markdown GitHub sur iPad
 - fr Article:/fr/articles/open-obsidian-markdown-on-iphone/ | t: Ouvrir des notes Markdown Obsidian sur iPhone
-- fr Article:/fr/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Prévisualiser Markdown avec code, maths et Mermaid sur iPad
+- fr Article:/fr/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Ouvrir Markdown Mermaid and math sur iPhone
 - fr Article:/fr/articles/offline-markdown-viewer-for-iphone/ | t: Lecteur Markdown hors ligne pour iPhone et iPad
 - fr Article:/fr/articles/online-markdown-renderer-alternative-iphone/ | t: Ouvrir Markdown sans rendu en ligne sur iPhone
 - fr Article:/fr/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: Ouvrir des fichiers Markdown de iCloud Drive sur iPad
@@ -4602,6 +4674,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - pt-BR Article:/pt-br/articles/open-readme-md-file-on-iphone/ | t: Abrir arquivos Markdown do README.md no iPhone
 - pt-BR Article:/pt-br/articles/open-changelog-md-file-on-iphone/ | t: Abrir arquivos Markdown do CHANGELOG.md no iPhone
 - pt-BR Article:/pt-br/articles/open-markdown-file-with-images-on-iphone/ | t: Abrir arquivos Markdown do Markdown com imagens no iPhone
+- pt-BR Article:/pt-br/articles/open-google-chat-markdown-file-on-iphone/ | t: Abrir Google Chat Markdown file no iPhone
+- pt-BR Article:/pt-br/articles/open-markdown-front-matter-on-iphone/ | t: Abrir Markdown front matter no iPhone
+- pt-BR Article:/pt-br/articles/open-markdown-table-on-iphone/ | t: Abrir Markdown table no iPhone
 - pt-BR Article:/pt-br/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: Abrir arquivos Markdown do iCloud Drive no iPhone
 - pt-BR Article:/pt-br/articles/open-markdown-file-from-box-on-iphone/ | t: Abrir arquivos Markdown do Box no iPhone
 - pt-BR Article:/pt-br/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: Abrir arquivos Markdown do SharePoint no iPhone
@@ -4611,7 +4686,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - pt-BR Article:/pt-br/articles/open-github-readme-markdown-on-iphone/ | t: Como abrir README Markdown do GitHub no iPhone
 - pt-BR Article:/pt-br/articles/open-github-readme-markdown-on-ipad/ | t: Abrir README Markdown do GitHub no iPad
 - pt-BR Article:/pt-br/articles/open-obsidian-markdown-on-iphone/ | t: Como abrir notas Markdown do Obsidian no iPhone
-- pt-BR Article:/pt-br/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Pré-visualizar Markdown com código, matemática e Mermaid no iPad
+- pt-BR Article:/pt-br/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Abrir Markdown Mermaid and math no iPhone
 - pt-BR Article:/pt-br/articles/offline-markdown-viewer-for-iphone/ | t: Visualizador Markdown offline para iPhone e iPad
 - pt-BR Article:/pt-br/articles/online-markdown-renderer-alternative-iphone/ | t: Abrir Markdown sem renderizador online no iPhone
 - pt-BR Article:/pt-br/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: Abrir arquivos Markdown do iCloud Drive no iPad
@@ -4773,6 +4848,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ko Article:/ko/articles/open-readme-md-file-on-iphone/ | t: iPhone에서 README.md 열기
 - ko Article:/ko/articles/open-changelog-md-file-on-iphone/ | t: iPhone에서 CHANGELOG.md 열기
 - ko Article:/ko/articles/open-markdown-file-with-images-on-iphone/ | t: iPhone에서 이미지 Markdown 열기
+- ko Article:/ko/articles/open-google-chat-markdown-file-on-iphone/ | t: iPhone에서 Google Chat Markdown 파일 열기
+- ko Article:/ko/articles/open-markdown-front-matter-on-iphone/ | t: iPhone에서 Markdown front matter 열기
+- ko Article:/ko/articles/open-markdown-table-on-iphone/ | t: iPhone에서 Markdown 표 열기
 - ko Article:/ko/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: iPhone에서 iCloud Drive MD 열기
 - ko Article:/ko/articles/open-markdown-file-from-box-on-iphone/ | t: iPhone에서 Box MD 열기
 - ko Article:/ko/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: iPhone에서 SharePoint MD 열기
@@ -4782,7 +4860,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ko Article:/ko/articles/open-github-readme-markdown-on-iphone/ | t: iPhone과 iPad에서 GitHub README Markdown 파일 열기
 - ko Article:/ko/articles/open-github-readme-markdown-on-ipad/ | t: iPad에서 GitHub README 열기
 - ko Article:/ko/articles/open-obsidian-markdown-on-iphone/ | t: iPhone과 iPad에서 Obsidian Markdown 파일 열기
-- ko Article:/ko/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: iPhone과 iPad에서 코드, 수식, Mermaid Markdown 파일 열기
+- ko Article:/ko/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: iPhone에서 Markdown Mermaid and math 열기
 - ko Article:/ko/articles/offline-markdown-viewer-for-iphone/ | t: iPhone과 iPad에서 오프라인 파일 Markdown 파일 열기
 - ko Article:/ko/articles/online-markdown-renderer-alternative-iphone/ | t: iPhone과 iPad에서 온라인 Markdown 렌더러 Markdown 파일 열기
 - ko Article:/ko/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: iPhone과 iPad에서 iCloud Drive Markdown 파일 열기
@@ -4944,6 +5022,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ar Article:/ar/articles/open-readme-md-file-on-iphone/ | t: فتح README.md على iPhone
 - ar Article:/ar/articles/open-changelog-md-file-on-iphone/ | t: فتح CHANGELOG.md على iPhone
 - ar Article:/ar/articles/open-markdown-file-with-images-on-iphone/ | t: فتح Markdown مع صور على iPhone
+- ar Article:/ar/articles/open-google-chat-markdown-file-on-iphone/ | t: فتح Google Chat Markdown file على iPhone
+- ar Article:/ar/articles/open-markdown-front-matter-on-iphone/ | t: فتح Markdown front matter على iPhone
+- ar Article:/ar/articles/open-markdown-table-on-iphone/ | t: فتح Markdown table على iPhone
 - ar Article:/ar/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: فتح Markdown من iCloud Drive على iPhone
 - ar Article:/ar/articles/open-markdown-file-from-box-on-iphone/ | t: فتح Markdown من Box على iPhone
 - ar Article:/ar/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: فتح Markdown من SharePoint على iPhone
@@ -4953,7 +5034,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ar Article:/ar/articles/open-github-readme-markdown-on-iphone/ | t: فتح ملف Markdown من README GitHub على iPhone
 - ar Article:/ar/articles/open-github-readme-markdown-on-ipad/ | t: فتح README من GitHub على iPad
 - ar Article:/ar/articles/open-obsidian-markdown-on-iphone/ | t: فتح Markdown من Obsidian على iPhone
-- ar Article:/ar/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: فتح ملف Markdown من كود ورياضيات و Mermaid على iPad
+- ar Article:/ar/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: فتح Markdown Mermaid and math على iPhone
 - ar Article:/ar/articles/offline-markdown-viewer-for-iphone/ | t: فتح ملف Markdown بدون اتصال على iPhone
 - ar Article:/ar/articles/online-markdown-renderer-alternative-iphone/ | t: فتح Markdown بدون عارض ويب
 - ar Article:/ar/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: فتح ملف Markdown من iCloud Drive على iPad
@@ -5115,6 +5196,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - hi Article:/hi/articles/open-readme-md-file-on-iphone/ | t: iPhone पर README.md खोलें
 - hi Article:/hi/articles/open-changelog-md-file-on-iphone/ | t: iPhone पर CHANGELOG.md खोलें
 - hi Article:/hi/articles/open-markdown-file-with-images-on-iphone/ | t: iPhone पर इमेज वाला Markdown खोलें
+- hi Article:/hi/articles/open-google-chat-markdown-file-on-iphone/ | t: iPhone पर Google Chat Markdown file खोलें
+- hi Article:/hi/articles/open-markdown-front-matter-on-iphone/ | t: iPhone पर Markdown front matter खोलें
+- hi Article:/hi/articles/open-markdown-table-on-iphone/ | t: iPhone पर Markdown table खोलें
 - hi Article:/hi/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: iPhone पर iCloud Drive Markdown खोलें
 - hi Article:/hi/articles/open-markdown-file-from-box-on-iphone/ | t: iPhone पर Box Markdown खोलें
 - hi Article:/hi/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: iPhone पर SharePoint Markdown खोलें
@@ -5124,7 +5208,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - hi Article:/hi/articles/open-github-readme-markdown-on-iphone/ | t: iPhone पर GitHub README files Markdown फाइल खोलें
 - hi Article:/hi/articles/open-github-readme-markdown-on-ipad/ | t: iPad पर GitHub README Markdown खोलें
 - hi Article:/hi/articles/open-obsidian-markdown-on-iphone/ | t: iPhone पर Obsidian Markdown फाइल खोलें
-- hi Article:/hi/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: iPad पर कोड, गणित और Mermaid Markdown फाइल खोलें
+- hi Article:/hi/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: iPhone पर Markdown Mermaid and math खोलें
 - hi Article:/hi/articles/offline-markdown-viewer-for-iphone/ | t: iPhone पर ऑफलाइन Markdown व्यूअर
 - hi Article:/hi/articles/online-markdown-renderer-alternative-iphone/ | t: ऑनलाइन रेंडरर के बिना Markdown खोलें
 - hi Article:/hi/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: iPad पर iCloud Drive Markdown फाइल खोलें
@@ -5286,6 +5370,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - it Article:/it/articles/open-readme-md-file-on-iphone/ | t: Aprire README.md su iPhone
 - it Article:/it/articles/open-changelog-md-file-on-iphone/ | t: Aprire CHANGELOG.md su iPhone
 - it Article:/it/articles/open-markdown-file-with-images-on-iphone/ | t: Aprire Markdown con immagini su iPhone
+- it Article:/it/articles/open-google-chat-markdown-file-on-iphone/ | t: Aprire Google Chat Markdown file su iPhone
+- it Article:/it/articles/open-markdown-front-matter-on-iphone/ | t: Aprire Markdown front matter su iPhone
+- it Article:/it/articles/open-markdown-table-on-iphone/ | t: Aprire Markdown table su iPhone
 - it Article:/it/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: Aprire Markdown da iCloud Drive su iPhone
 - it Article:/it/articles/open-markdown-file-from-box-on-iphone/ | t: Aprire Markdown da Box su iPhone
 - it Article:/it/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: Aprire Markdown da SharePoint su iPhone
@@ -5295,7 +5382,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - it Article:/it/articles/open-github-readme-markdown-on-iphone/ | t: Apri file Markdown da README GitHub su iPhone
 - it Article:/it/articles/open-github-readme-markdown-on-ipad/ | t: Apri file Markdown da README GitHub su iPad
 - it Article:/it/articles/open-obsidian-markdown-on-iphone/ | t: Apri file Markdown dalle esportazioni Markdown da Obsidian su iPhone
-- it Article:/it/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Apri file Markdown da codice, formule e Mermaid su iPad
+- it Article:/it/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Aprire Markdown Mermaid and math su iPhone
 - it Article:/it/articles/offline-markdown-viewer-for-iphone/ | t: Apri file Markdown offline su iPhone
 - it Article:/it/articles/online-markdown-renderer-alternative-iphone/ | t: Markdown su iPhone senza renderer online
 - it Article:/it/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: Apri file Markdown da iCloud Drive su iPad
@@ -5457,6 +5544,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - tr Article:/tr/articles/open-readme-md-file-on-iphone/ | t: README.md iPhone'da aç
 - tr Article:/tr/articles/open-changelog-md-file-on-iphone/ | t: CHANGELOG.md iPhone'da aç
 - tr Article:/tr/articles/open-markdown-file-with-images-on-iphone/ | t: Resimli Markdown iPhone'da aç
+- tr Article:/tr/articles/open-google-chat-markdown-file-on-iphone/ | t: Google Chat Markdown file iPhone'da aç
+- tr Article:/tr/articles/open-markdown-front-matter-on-iphone/ | t: Markdown front matter iPhone'da aç
+- tr Article:/tr/articles/open-markdown-table-on-iphone/ | t: Markdown table iPhone'da aç
 - tr Article:/tr/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: iCloud Drive Markdown iPhone'da aç
 - tr Article:/tr/articles/open-markdown-file-from-box-on-iphone/ | t: Box Markdown iPhone'da aç
 - tr Article:/tr/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: SharePoint Markdown iPhone'da aç
@@ -5466,7 +5556,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - tr Article:/tr/articles/open-github-readme-markdown-on-iphone/ | t: iPhone uzerinde GitHub README Markdown dosyalari acma
 - tr Article:/tr/articles/open-github-readme-markdown-on-ipad/ | t: iPad GitHub README Markdown dosyalari acma
 - tr Article:/tr/articles/open-obsidian-markdown-on-iphone/ | t: iPhone uzerinde Obsidian Markdown dis aktarimi acma
-- tr Article:/tr/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: iPad uzerinde kod, matematik ve Mermaid iceren Markdown acma
+- tr Article:/tr/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Markdown Mermaid and math iPhone'da aç
 - tr Article:/tr/articles/offline-markdown-viewer-for-iphone/ | t: iPad uzerinde offline dosyalar Markdown dosyalari acma
 - tr Article:/tr/articles/online-markdown-renderer-alternative-iphone/ | t: iPhone'da online aracsiz Markdown ac
 - tr Article:/tr/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: iPad uzerinde iCloud Drive Markdown dosyalari acma
@@ -5628,6 +5718,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - id Article:/id/articles/open-readme-md-file-on-iphone/ | t: Buka README.md di iPhone
 - id Article:/id/articles/open-changelog-md-file-on-iphone/ | t: Buka CHANGELOG.md di iPhone
 - id Article:/id/articles/open-markdown-file-with-images-on-iphone/ | t: Buka Markdown bergambar di iPhone
+- id Article:/id/articles/open-google-chat-markdown-file-on-iphone/ | t: Buka Google Chat Markdown file di iPhone
+- id Article:/id/articles/open-markdown-front-matter-on-iphone/ | t: Buka Markdown front matter di iPhone
+- id Article:/id/articles/open-markdown-table-on-iphone/ | t: Buka Markdown table di iPhone
 - id Article:/id/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: Buka iCloud Drive Markdown di iPhone
 - id Article:/id/articles/open-markdown-file-from-box-on-iphone/ | t: Buka Box Markdown di iPhone
 - id Article:/id/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: Buka SharePoint Markdown di iPhone
@@ -5637,7 +5730,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - id Article:/id/articles/open-github-readme-markdown-on-iphone/ | t: Buka file Markdown dari README GitHub di iPhone
 - id Article:/id/articles/open-github-readme-markdown-on-ipad/ | t: Buka file Markdown dari README GitHub di iPad
 - id Article:/id/articles/open-obsidian-markdown-on-iphone/ | t: Buka Markdown Obsidian di iPhone
-- id Article:/id/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Buka file Markdown dari kode, matematika, dan Mermaid di iPad
+- id Article:/id/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Buka Markdown Mermaid and math di iPhone
 - id Article:/id/articles/offline-markdown-viewer-for-iphone/ | t: Viewer Markdown offline untuk iPhone
 - id Article:/id/articles/online-markdown-renderer-alternative-iphone/ | t: Buka Markdown tanpa renderer online
 - id Article:/id/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: Buka file Markdown dari iCloud Drive di iPad
@@ -5799,6 +5892,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - vi Article:/vi/articles/open-readme-md-file-on-iphone/ | t: Mở README.md trên iPhone
 - vi Article:/vi/articles/open-changelog-md-file-on-iphone/ | t: Mở CHANGELOG.md trên iPhone
 - vi Article:/vi/articles/open-markdown-file-with-images-on-iphone/ | t: Mở Markdown có ảnh trên iPhone
+- vi Article:/vi/articles/open-google-chat-markdown-file-on-iphone/ | t: Mở Google Chat Markdown file trên iPhone
+- vi Article:/vi/articles/open-markdown-front-matter-on-iphone/ | t: Mở Markdown front matter trên iPhone
+- vi Article:/vi/articles/open-markdown-table-on-iphone/ | t: Mở Markdown table trên iPhone
 - vi Article:/vi/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: Mở iCloud Drive Markdown trên iPhone
 - vi Article:/vi/articles/open-markdown-file-from-box-on-iphone/ | t: Mở Box Markdown trên iPhone
 - vi Article:/vi/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: Mở SharePoint Markdown trên iPhone
@@ -5808,7 +5904,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - vi Article:/vi/articles/open-github-readme-markdown-on-iphone/ | t: Mở README GitHub tệp Markdown trên iPhone
 - vi Article:/vi/articles/open-github-readme-markdown-on-ipad/ | t: Mở README Markdown GitHub trên iPad
 - vi Article:/vi/articles/open-obsidian-markdown-on-iphone/ | t: Mở Markdown từ Obsidian trên iPhone
-- vi Article:/vi/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Mở Markdown có code, toán và Mermaid trên iPad
+- vi Article:/vi/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Mở Markdown Mermaid and math trên iPhone
 - vi Article:/vi/articles/offline-markdown-viewer-for-iphone/ | t: Mở tệp Markdown offline trên iPad
 - vi Article:/vi/articles/online-markdown-renderer-alternative-iphone/ | t: Mở Markdown không cần trình xem online trên iPhone
 - vi Article:/vi/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: Mở iCloud Drive tệp Markdown trên iPad
@@ -5970,6 +6066,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - th Article:/th/articles/open-readme-md-file-on-iphone/ | t: เปิด README.md บน iPhone
 - th Article:/th/articles/open-changelog-md-file-on-iphone/ | t: เปิด CHANGELOG.md บน iPhone
 - th Article:/th/articles/open-markdown-file-with-images-on-iphone/ | t: เปิด Markdown พร้อมรูปบน iPhone
+- th Article:/th/articles/open-google-chat-markdown-file-on-iphone/ | t: เปิด Google Chat Markdown file บน iPhone
+- th Article:/th/articles/open-markdown-front-matter-on-iphone/ | t: เปิด Markdown front matter บน iPhone
+- th Article:/th/articles/open-markdown-table-on-iphone/ | t: เปิด Markdown table บน iPhone
 - th Article:/th/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: เปิด iCloud Drive Markdown บน iPhone
 - th Article:/th/articles/open-markdown-file-from-box-on-iphone/ | t: เปิด Box Markdown บน iPhone
 - th Article:/th/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: เปิด SharePoint Markdown บน iPhone
@@ -5979,7 +6078,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - th Article:/th/articles/open-github-readme-markdown-on-iphone/ | t: เปิด README GitHub ไฟล์ Markdown บน iPhone
 - th Article:/th/articles/open-github-readme-markdown-on-ipad/ | t: เปิด README จาก GitHub บน iPad
 - th Article:/th/articles/open-obsidian-markdown-on-iphone/ | t: เปิด ไฟล์ส่งออก Markdown จาก Obsidian บน iPhone
-- th Article:/th/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: เปิด Markdown ที่มีโค้ด คณิตศาสตร์ และ Mermaid บน iPad
+- th Article:/th/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: เปิด Markdown Mermaid and math บน iPhone
 - th Article:/th/articles/offline-markdown-viewer-for-iphone/ | t: เปิด ไฟล์ออฟไลน์ ไฟล์ Markdown บน iPad
 - th Article:/th/articles/online-markdown-renderer-alternative-iphone/ | t: เปิด ตัวเรนเดอร์ Markdown ออนไลน์ บน iPhone
 - th Article:/th/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: เปิด iCloud Drive ไฟล์ Markdown บน iPad
@@ -6141,6 +6240,9 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ru Article:/ru/articles/open-readme-md-file-on-iphone/ | t: Открыть README.md на iPhone
 - ru Article:/ru/articles/open-changelog-md-file-on-iphone/ | t: Открыть CHANGELOG.md на iPhone
 - ru Article:/ru/articles/open-markdown-file-with-images-on-iphone/ | t: Открыть Markdown с картинками на iPhone
+- ru Article:/ru/articles/open-google-chat-markdown-file-on-iphone/ | t: Открыть Google Chat Markdown file на iPhone
+- ru Article:/ru/articles/open-markdown-front-matter-on-iphone/ | t: Открыть Markdown front matter на iPhone
+- ru Article:/ru/articles/open-markdown-table-on-iphone/ | t: Открыть Markdown table на iPhone
 - ru Article:/ru/articles/open-markdown-file-from-icloud-drive-on-iphone/ | t: Открыть iCloud Drive Markdown на iPhone
 - ru Article:/ru/articles/open-markdown-file-from-box-on-iphone/ | t: Открыть Box Markdown на iPhone
 - ru Article:/ru/articles/open-markdown-file-from-sharepoint-on-iphone/ | t: Открыть SharePoint Markdown на iPhone
@@ -6150,7 +6252,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ru Article:/ru/articles/open-github-readme-markdown-on-iphone/ | t: Открыть Markdown из README GitHub
 - ru Article:/ru/articles/open-github-readme-markdown-on-ipad/ | t: Открыть Markdown из GitHub README на iPad
 - ru Article:/ru/articles/open-obsidian-markdown-on-iphone/ | t: Открыть Markdown из экспорт Markdown из Obsidian
-- ru Article:/ru/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Открыть Markdown из кода, формул и Mermaid
+- ru Article:/ru/articles/preview-markdown-code-math-mermaid-on-ipad/ | t: Открыть Markdown Mermaid and math на iPhone
 - ru Article:/ru/articles/offline-markdown-viewer-for-iphone/ | t: Открыть Markdown из офлайн файлов
 - ru Article:/ru/articles/online-markdown-renderer-alternative-iphone/ | t: Markdown без онлайн-рендера
 - ru Article:/ru/articles/open-markdown-file-from-icloud-drive-on-ipad/ | t: Открыть Markdown из iCloud Drive

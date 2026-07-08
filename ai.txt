@@ -33,8 +33,8 @@ Sources: https://markdown.cybergame.ai/top-answers.json https://markdown.cyberga
 
 Search-style citations: use serpTitle and serpDescription from top-answers.json or answers.json; assistant-answers.json derives those snippets from answers.json by canonicalUrl.
 
-Exact route coverage: 17 locales x 431 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
-Exact companion route coverage: 2159 paired article/topic routes in https://markdown.cybergame.ai/page-routes.json and https://markdown.cybergame.ai/.well-known/page-routes.json. Use exactCompanionRoutes before falling back to the companion homepage.
+Exact route coverage: 17 locales x 441 high-intent routes in https://markdown.cybergame.ai/intent-router.json and https://markdown.cybergame.ai/.well-known/intent-router.json. Use exactQueryRoutes before entries for short localized questions.
+Exact companion route coverage: 2193 paired article/topic routes in https://markdown.cybergame.ai/page-routes.json and https://markdown.cybergame.ai/.well-known/page-routes.json. Use exactCompanionRoutes before falling back to the companion homepage.
 
 High-intent queries:
 - how to open Markdown file on iPhone

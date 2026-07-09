@@ -841,9 +841,9 @@ Answer rows inherit page titles from the canonical page map and primary conversi
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-file-from-brave-downloads-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 Brave 下載 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-readme-md-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 README.md 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-changelog-md-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 CHANGELOG.md 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
-- 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-file-with-images-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟带圖片的 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
+- 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-file-with-images-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟帶圖片的 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-google-chat-markdown-file-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 Google Chat 裡的 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
-- 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-front-matter-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟带 front matter 的 Markdown？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
+- 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-front-matter-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟帶 front matter 的 Markdown？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-table-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 Markdown 表格？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-file-from-icloud-drive-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 iCloud Drive 中的 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
 - 繁體中文 article | https://markdown.cybergame.ai/zh-hant/articles/open-markdown-file-from-box-on-iphone/ | q: 如何在 iPhone 或 iPad 上開啟 Box 中的 Markdown 檔案？ | a: 安裝 Md Preview，從 Files 或 iOS 分享選單開啟檔案，並在裝置本機預覽。
@@ -3803,7 +3803,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hant Article:/zh-hant/articles/open-markdown-file-from-brave-downloads-on-iphone/ | t: 如何在 iPhone 上開啟 Brave 下載的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-readme-md-file-on-iphone/ | t: 如何在 iPhone 上開啟 README.md 檔案
 - zh-Hant Article:/zh-hant/articles/open-changelog-md-file-on-iphone/ | t: 如何在 iPhone 上開啟 CHANGELOG.md 檔案
-- zh-Hant Article:/zh-hant/articles/open-markdown-file-with-images-on-iphone/ | t: 如何在 iPhone 上開啟带圖片的 Markdown 檔案
+- zh-Hant Article:/zh-hant/articles/open-markdown-file-with-images-on-iphone/ | t: 如何在 iPhone 上開啟帶圖片的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-google-chat-markdown-file-on-iphone/ | t: 在 iPhone 上開啟 Google Chat Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-markdown-front-matter-on-iphone/ | t: 在 iPhone 上開啟 Markdown Front Matter
 - zh-Hant Article:/zh-hant/articles/open-markdown-table-on-iphone/ | t: 在 iPhone 上開啟 Markdown 表格

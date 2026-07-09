@@ -90,7 +90,18 @@
       var pageToken = entry.pageToken || "";
       var surfaceCode = data.entryConversionSurfaceCode || "search";
       if (!productCode || !localeCode || !pageToken || !surfaceCode) return "";
-      return (productCode + "_" + localeCode + "_" + pageToken + "_" + surfaceCode).slice(0, 40);
+      var fixedLength = productCode.length + localeCode.length + surfaceCode.length + 3;
+      var pageBudget = Math.max(1, 30 - fixedLength);
+      var safePageToken = String(pageToken).toLowerCase().replace(/[^a-z0-9_]+/g, "") || "x";
+      if (safePageToken.length > pageBudget) {
+        var hash = 0;
+        for (var hashIndex = 0; hashIndex < safePageToken.length; hashIndex += 1) {
+          hash = ((hash << 5) - hash + safePageToken.charCodeAt(hashIndex)) | 0;
+        }
+        var suffix = Math.abs(hash).toString(16).slice(0, 4).padStart(4, "0");
+        safePageToken = pageBudget <= 5 ? safePageToken.slice(0, pageBudget) : safePageToken.slice(0, pageBudget - 5) + "_" + suffix;
+      }
+      return productCode + "_" + localeCode + "_" + safePageToken + "_" + surfaceCode;
     };
 
     var decodeCompactSearchEntries = function (data) {

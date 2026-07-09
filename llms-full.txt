@@ -3919,20 +3919,20 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Topic hub:/ja/topics/files-share-sheet/ | t: workflow: Files共有のMarkdownをiPhoneで開く
 - ja Topic hub:/ja/topics/cloud-drives/ | t: cloud: クラウドドライブのMarkdownファイルをiPhoneで開く
 - ja Topic hub:/ja/topics/project-file-bundles/ | t: project-file-bundles: プロジェクトのMarkdownファイルをiPhoneで開く
-- ja Topic hub:/ja/topics/file-extensions/ | t: extension: Markdown拡張子をiPhoneで開く
+- ja Topic hub:/ja/topics/file-extensions/ | t: extension: Markdown拡張子ファイルをiPhoneで開く
 - ja Topic hub:/ja/topics/mime-types/ | t: mime: Markdown MIMEをiPhoneで開く
 - ja Topic hub:/ja/topics/offline-private-preview/ | t: privacy: Markdownをオフライン表示 iPhone
 - ja Topic hub:/ja/topics/code-math-mermaid/ | t: technical: Markdownコード数式をiPhoneで表示
 - ja Topic hub:/ja/topics/best-viewer/ | t: best: iPhone向けMarkdownビューアおすすめ
 - ja Topic hub:/ja/topics/app-store-download/ | t: download: MarkdownビューアをApp Storeで入手
-- ja Topic hub:/ja/topics/file-opener-reader/ | t: opener: Markdownオープナー iPhone
+- ja Topic hub:/ja/topics/file-opener-reader/ | t: opener: Markdownファイルオープナー iPhone
 - ja Topic hub:/ja/topics/ios-file-preview-problems/ | t: troubleshooting: iPhoneでMarkdownを開けない？プレビュー修正
 - ja Topic hub:/ja/topics/static-site-docs/ | t: static-site-docs: 静的サイトMarkdownをiPhoneで開く
 - ja Topic hub:/ja/topics/developer-sources/ | t: developer-sources: 開発ツールMarkdownをiPhoneで開く
 - ja Topic hub:/ja/topics/communication-sources/ | t: communication-sources: メール添付MarkdownをiPhoneで開く
 - ja Topic hub:/ja/topics/notes-docs-sources/ | t: notes-docs-sources: ノート文書MarkdownをiPhoneで開く
 - ja Topic hub:/ja/topics/browser-download-sources/ | t: browser-download-sources: ブラウザMarkdownをiPhoneで開く
-- ja Topic hub:/ja/topics/ios-import-workflows/ | t: ios-import-workflows: iOSでMarkdownを取り込む
+- ja Topic hub:/ja/topics/ios-import-workflows/ | t: ios-import-workflows: iOSでMarkdownファイルをiPhoneに取り込む
 - ja Article:/ja/articles/open-chatgpt-markdown-file-on-iphone/ | t: ChatGPTやClaudeのMarkdownファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: ChatGPT Canvas MarkdownファイルをiPadで開く方法
 - ja Article:/ja/articles/open-ai-generated-markdown-file-on-iphone/ | t: AI生成MarkdownファイルをiPhoneで開く方法
@@ -4791,7 +4791,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ko Topic hub:/ko/topics/project-file-bundles/ | t: project-file-bundles: iPhone에서 프로젝트 Markdown 파일 열기
 - ko Topic hub:/ko/topics/file-extensions/ | t: extension: Markdown 확장자 iPhone 열기
 - ko Topic hub:/ko/topics/mime-types/ | t: mime: Markdown MIME 첨부 iPhone 열기
-- ko Topic hub:/ko/topics/offline-private-preview/ | t: privacy: Markdown 오프라인 미리보기
+- ko Topic hub:/ko/topics/offline-private-preview/ | t: privacy: Markdown 오프라인 로컬 미리보기 iPhone
 - ko Topic hub:/ko/topics/code-math-mermaid/ | t: technical: Markdown 코드·수식 iPhone 미리보기
 - ko Topic hub:/ko/topics/best-viewer/ | t: best: 최고의 iPhone Markdown 뷰어
 - ko Topic hub:/ko/topics/app-store-download/ | t: download: App Store Markdown 다운로드
@@ -4802,7 +4802,7 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ko Topic hub:/ko/topics/communication-sources/ | t: communication-sources: 메일·채팅 Markdown iPhone 열기
 - ko Topic hub:/ko/topics/notes-docs-sources/ | t: notes-docs-sources: 노트·문서 Markdown iPhone 열기
 - ko Topic hub:/ko/topics/browser-download-sources/ | t: browser-download-sources: 브라우저 Markdown iPhone 열기
-- ko Topic hub:/ko/topics/ios-import-workflows/ | t: ios-import-workflows: iOS Markdown 가져오기
+- ko Topic hub:/ko/topics/ios-import-workflows/ | t: ios-import-workflows: iOS에서 Markdown 파일 가져오기
 - ko Article:/ko/articles/open-chatgpt-markdown-file-on-iphone/ | t: iPhone과 iPad에서 ChatGPT, Claude, Gemini Markdown 파일 열기
 - ko Article:/ko/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: iPhone과 iPad에서 ChatGPT Canvas Markdown 파일 열기
 - ko Article:/ko/articles/open-ai-generated-markdown-file-on-iphone/ | t: iPhone과 iPad에서 AI 생성 파일 Markdown 파일 열기

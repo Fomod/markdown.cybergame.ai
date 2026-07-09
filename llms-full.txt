@@ -3565,26 +3565,26 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hans Article hub:/zh/articles/ | t: Markdown iPhone/iPad 打开指南：AI 文件本机预览
 - zh-Hans Support:/zh/privacy-support/ | t: Md Preview Markdown iPhone 隐私与支持
 - zh-Hans Screenshots:/zh/screenshots/ | t: Md Preview Markdown iPhone 截图
-- zh-Hans Topic hub:/zh/topics/ai-generated-files/ | t: ai: AI 生成文件 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/ai-chatbot-files/ | t: ai-chatbots: AI 聊天机器人 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/ai-coding-tools/ | t: ai-coding: AI 编程工具 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/files-share-sheet/ | t: workflow: Files 与分享菜单 Markdown iPhone/iPad
+- zh-Hans Topic hub:/zh/topics/ai-generated-files/ | t: ai: AI 生成文件 Markdown：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/ai-chatbot-files/ | t: ai-chatbots: AI 聊天机器人 Markdown：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/ai-coding-tools/ | t: ai-coding: AI 编程工具 Markdown：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/files-share-sheet/ | t: workflow: Files 分享 Markdown：iPhone 打开
 - zh-Hans Topic hub:/zh/topics/cloud-drives/ | t: cloud: 网盘文件 Markdown iPhone/iPad
 - zh-Hans Topic hub:/zh/topics/project-file-bundles/ | t: project-file-bundles: iPhone 打开项目 Markdown 文件
-- zh-Hans Topic hub:/zh/topics/file-extensions/ | t: extension: 文件扩展名 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/mime-types/ | t: mime: MIME 类型 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/offline-private-preview/ | t: privacy: 离线私密预览 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/code-math-mermaid/ | t: technical: 代码、数学与 Mermaid Markdown iPhone/iPad
+- zh-Hans Topic hub:/zh/topics/file-extensions/ | t: extension: 文件扩展名 Markdown：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/mime-types/ | t: mime: MIME Markdown 附件：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/offline-private-preview/ | t: privacy: Markdown 离线私密预览：iPhone
+- zh-Hans Topic hub:/zh/topics/code-math-mermaid/ | t: technical: Markdown 代码数学：iPhone 预览
 - zh-Hans Topic hub:/zh/topics/best-viewer/ | t: best: iPhone 最佳 Markdown 预览工具
-- zh-Hans Topic hub:/zh/topics/app-store-download/ | t: download: App Store 下载 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/file-opener-reader/ | t: opener: 文件打开工具 Markdown iPhone/iPad
+- zh-Hans Topic hub:/zh/topics/app-store-download/ | t: download: App Store 下载 Markdown：iPhone
+- zh-Hans Topic hub:/zh/topics/file-opener-reader/ | t: opener: Markdown 文件打开工具：iPhone
 - zh-Hans Topic hub:/zh/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone 无法打开 Markdown？修复本机预览
-- zh-Hans Topic hub:/zh/topics/static-site-docs/ | t: static-site-docs: 静态站与文档框架 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/developer-sources/ | t: developer-sources: 开发者来源 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/communication-sources/ | t: communication-sources: 邮件与聊天附件 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/notes-docs-sources/ | t: notes-docs-sources: 笔记与文档 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/browser-download-sources/ | t: browser-download-sources: 浏览器下载 Markdown iPhone/iPad
-- zh-Hans Topic hub:/zh/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 导入 Markdown iPhone/iPad
+- zh-Hans Topic hub:/zh/topics/static-site-docs/ | t: static-site-docs: 静态站 Markdown：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/developer-sources/ | t: developer-sources: 开发工具 Markdown：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/communication-sources/ | t: communication-sources: 邮件聊天 Markdown：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/notes-docs-sources/ | t: notes-docs-sources: 笔记文档 Markdown：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/browser-download-sources/ | t: browser-download-sources: 浏览器下载 Markdown：iPhone 打开
+- zh-Hans Topic hub:/zh/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 导入 Markdown：iPhone 打开
 - zh-Hans Article:/zh/articles/open-chatgpt-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 ChatGPT、Claude、Gemini 的 Markdown 文件
 - zh-Hans Article:/zh/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: 如何在 iPhone 或 iPad 上打开 ChatGPT Canvas 生成的 Markdown 文件
 - zh-Hans Article:/zh/articles/open-ai-generated-markdown-file-on-iphone/ | t: 如何在 iPhone 上打开 AI 生成的 Markdown 文件
@@ -3739,26 +3739,26 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - zh-Hant Article hub:/zh-hant/articles/ | t: Markdown iPhone/iPad 開啟指南：AI 檔案本機預覽
 - zh-Hant Support:/zh-hant/privacy-support/ | t: Md Preview Markdown iPhone 隱私與支援
 - zh-Hant Screenshots:/zh-hant/screenshots/ | t: Md Preview Markdown iPhone 截圖
-- zh-Hant Topic hub:/zh-hant/topics/ai-generated-files/ | t: ai: AI 產生檔案 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/ai-chatbot-files/ | t: ai-chatbots: AI 聊天機器人 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/ai-coding-tools/ | t: ai-coding: AI 程式設計工具 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/files-share-sheet/ | t: workflow: Files 與分享選單 Markdown iPhone/iPad
+- zh-Hant Topic hub:/zh-hant/topics/ai-generated-files/ | t: ai: AI 產生檔案 Markdown：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/ai-chatbot-files/ | t: ai-chatbots: AI 聊天機器人 Markdown：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/ai-coding-tools/ | t: ai-coding: AI 程式工具 Markdown：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/files-share-sheet/ | t: workflow: Files 分享 Markdown：iPhone 開啟
 - zh-Hant Topic hub:/zh-hant/topics/cloud-drives/ | t: cloud: 雲端硬碟檔案 Markdown iPhone/iPad
 - zh-Hant Topic hub:/zh-hant/topics/project-file-bundles/ | t: project-file-bundles: iPhone 開啟專案 Markdown 檔案
-- zh-Hant Topic hub:/zh-hant/topics/file-extensions/ | t: extension: 副檔名 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/mime-types/ | t: mime: MIME 類型 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/offline-private-preview/ | t: privacy: 離線私密預覽 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/code-math-mermaid/ | t: technical: 程式碼、數學與 Mermaid Markdown iPhone/iPad
+- zh-Hant Topic hub:/zh-hant/topics/file-extensions/ | t: extension: 副檔名 Markdown：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/mime-types/ | t: mime: MIME Markdown 附件：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/offline-private-preview/ | t: privacy: Markdown 離線私密預覽：iPhone
+- zh-Hant Topic hub:/zh-hant/topics/code-math-mermaid/ | t: technical: Markdown 程式碼數學：iPhone 預覽
 - zh-Hant Topic hub:/zh-hant/topics/best-viewer/ | t: best: iPhone 最佳 Markdown 預覽工具
-- zh-Hant Topic hub:/zh-hant/topics/app-store-download/ | t: download: App Store 下載 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/file-opener-reader/ | t: opener: 檔案開啟工具 Markdown iPhone/iPad
+- zh-Hant Topic hub:/zh-hant/topics/app-store-download/ | t: download: App Store 下載 Markdown：iPhone
+- zh-Hant Topic hub:/zh-hant/topics/file-opener-reader/ | t: opener: Markdown 檔案開啟工具：iPhone
 - zh-Hant Topic hub:/zh-hant/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone 無法開啟 Markdown？修復本機預覽
-- zh-Hant Topic hub:/zh-hant/topics/static-site-docs/ | t: static-site-docs: 靜態站與文件框架 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/developer-sources/ | t: developer-sources: 開發者來源 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/communication-sources/ | t: communication-sources: 郵件與聊天附件 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/notes-docs-sources/ | t: notes-docs-sources: 筆記與文件 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/browser-download-sources/ | t: browser-download-sources: 瀏覽器下載 Markdown iPhone/iPad
-- zh-Hant Topic hub:/zh-hant/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 匯入 Markdown iPhone/iPad
+- zh-Hant Topic hub:/zh-hant/topics/static-site-docs/ | t: static-site-docs: 靜態站 Markdown：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/developer-sources/ | t: developer-sources: 開發工具 Markdown：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/communication-sources/ | t: communication-sources: 郵件聊天 Markdown：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/notes-docs-sources/ | t: notes-docs-sources: 筆記文件 Markdown：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/browser-download-sources/ | t: browser-download-sources: 瀏覽器下載 Markdown：iPhone 開啟
+- zh-Hant Topic hub:/zh-hant/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 匯入 Markdown：iPhone 開啟
 - zh-Hant Article:/zh-hant/articles/open-chatgpt-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 ChatGPT、Claude、Gemini 的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: 如何在 iPhone 或 iPad 上開啟 ChatGPT Canvas 產生的 Markdown 檔案
 - zh-Hant Article:/zh-hant/articles/open-ai-generated-markdown-file-on-iphone/ | t: 如何在 iPhone 上開啟 AI 產生的 Markdown 檔案
@@ -3913,26 +3913,26 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ja Article hub:/ja/articles/ | t: Markdown iPhone/iPad ガイド
 - ja Support:/ja/privacy-support/ | t: Md Preview Markdown iPhoneプライバシーとサポート
 - ja Screenshots:/ja/screenshots/ | t: Md Preview Markdown iPhoneスクリーンショット
-- ja Topic hub:/ja/topics/ai-generated-files/ | t: ai: AI生成ファイル Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/ai-chatbot-files/ | t: ai-chatbots: AIチャットボット Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/ai-coding-tools/ | t: ai-coding: AIコーディングツール Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/files-share-sheet/ | t: workflow: Filesと共有シート Markdown iPhone・iPad
+- ja Topic hub:/ja/topics/ai-generated-files/ | t: ai: AI生成MarkdownをiPhoneで開く
+- ja Topic hub:/ja/topics/ai-chatbot-files/ | t: ai-chatbots: AIチャットのMarkdownをiPhoneで開く
+- ja Topic hub:/ja/topics/ai-coding-tools/ | t: ai-coding: AIコードMarkdownをiPhoneで開く
+- ja Topic hub:/ja/topics/files-share-sheet/ | t: workflow: Files共有のMarkdownをiPhoneで開く
 - ja Topic hub:/ja/topics/cloud-drives/ | t: cloud: クラウドドライブのMarkdownファイルをiPhoneで開く
 - ja Topic hub:/ja/topics/project-file-bundles/ | t: project-file-bundles: プロジェクトのMarkdownファイルをiPhoneで開く
-- ja Topic hub:/ja/topics/file-extensions/ | t: extension: ファイル拡張子 Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/mime-types/ | t: mime: MIMEタイプ Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/offline-private-preview/ | t: privacy: オフライン私的プレビュー Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/code-math-mermaid/ | t: technical: コード・数式・Mermaid Markdown iPhone・iPad
+- ja Topic hub:/ja/topics/file-extensions/ | t: extension: Markdown拡張子をiPhoneで開く
+- ja Topic hub:/ja/topics/mime-types/ | t: mime: Markdown MIMEをiPhoneで開く
+- ja Topic hub:/ja/topics/offline-private-preview/ | t: privacy: Markdownをオフライン表示 iPhone
+- ja Topic hub:/ja/topics/code-math-mermaid/ | t: technical: Markdownコード数式をiPhoneで表示
 - ja Topic hub:/ja/topics/best-viewer/ | t: best: iPhone向けMarkdownビューアおすすめ
-- ja Topic hub:/ja/topics/app-store-download/ | t: download: App Storeダウンロード Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/file-opener-reader/ | t: opener: ファイルオープナー Markdown iPhone・iPad
+- ja Topic hub:/ja/topics/app-store-download/ | t: download: MarkdownビューアをApp Storeで入手
+- ja Topic hub:/ja/topics/file-opener-reader/ | t: opener: Markdownオープナー iPhone
 - ja Topic hub:/ja/topics/ios-file-preview-problems/ | t: troubleshooting: iPhoneでMarkdownを開けない？プレビュー修正
-- ja Topic hub:/ja/topics/static-site-docs/ | t: static-site-docs: 静的サイトとドキュメント Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/developer-sources/ | t: developer-sources: 開発者ソース Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/communication-sources/ | t: communication-sources: メールとチャット添付 Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/notes-docs-sources/ | t: notes-docs-sources: ノートとドキュメント Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/browser-download-sources/ | t: browser-download-sources: ブラウザダウンロード Markdown iPhone・iPad
-- ja Topic hub:/ja/topics/ios-import-workflows/ | t: ios-import-workflows: iOS取り込み Markdown iPhone・iPad
+- ja Topic hub:/ja/topics/static-site-docs/ | t: static-site-docs: 静的サイトMarkdownをiPhoneで開く
+- ja Topic hub:/ja/topics/developer-sources/ | t: developer-sources: 開発ツールMarkdownをiPhoneで開く
+- ja Topic hub:/ja/topics/communication-sources/ | t: communication-sources: メール添付MarkdownをiPhoneで開く
+- ja Topic hub:/ja/topics/notes-docs-sources/ | t: notes-docs-sources: ノート文書MarkdownをiPhoneで開く
+- ja Topic hub:/ja/topics/browser-download-sources/ | t: browser-download-sources: ブラウザMarkdownをiPhoneで開く
+- ja Topic hub:/ja/topics/ios-import-workflows/ | t: ios-import-workflows: iOSでMarkdownを取り込む
 - ja Article:/ja/articles/open-chatgpt-markdown-file-on-iphone/ | t: ChatGPTやClaudeのMarkdownファイルをiPhoneで開く方法
 - ja Article:/ja/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: ChatGPT Canvas MarkdownファイルをiPadで開く方法
 - ja Article:/ja/articles/open-ai-generated-markdown-file-on-iphone/ | t: AI生成MarkdownファイルをiPhoneで開く方法
@@ -4783,26 +4783,26 @@ Canonical page map rows use root-relative paths; prepend the Official website or
 - ko Article hub:/ko/articles/ | t: Markdown iPhone iPad 가이드
 - ko Support:/ko/privacy-support/ | t: Md Preview Markdown iPhone 개인정보 지원
 - ko Screenshots:/ko/screenshots/ | t: Md Preview Markdown iPhone 스크린샷
-- ko Topic hub:/ko/topics/ai-generated-files/ | t: ai: AI 생성 파일 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/ai-chatbot-files/ | t: ai-chatbots: AI 챗봇 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/ai-coding-tools/ | t: ai-coding: AI 코딩 도구 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/files-share-sheet/ | t: workflow: Files와 공유 시트 Markdown iPhone과 iPad
+- ko Topic hub:/ko/topics/ai-generated-files/ | t: ai: AI 생성 Markdown iPhone 미리보기
+- ko Topic hub:/ko/topics/ai-chatbot-files/ | t: ai-chatbots: ChatGPT Markdown iPhone 열기
+- ko Topic hub:/ko/topics/ai-coding-tools/ | t: ai-coding: AI 코딩 Markdown iPhone 열기
+- ko Topic hub:/ko/topics/files-share-sheet/ | t: workflow: Files 공유 Markdown iPhone 열기
 - ko Topic hub:/ko/topics/cloud-drives/ | t: cloud: 클라우드 파일 Markdown iPhone과 iPad
 - ko Topic hub:/ko/topics/project-file-bundles/ | t: project-file-bundles: iPhone에서 프로젝트 Markdown 파일 열기
-- ko Topic hub:/ko/topics/file-extensions/ | t: extension: 파일 확장자 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/mime-types/ | t: mime: MIME 유형 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/offline-private-preview/ | t: privacy: 오프라인 비공개 미리보기 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/code-math-mermaid/ | t: technical: 코드, 수식, Mermaid Markdown iPhone과 iPad
+- ko Topic hub:/ko/topics/file-extensions/ | t: extension: Markdown 확장자 iPhone 열기
+- ko Topic hub:/ko/topics/mime-types/ | t: mime: Markdown MIME 첨부 iPhone 열기
+- ko Topic hub:/ko/topics/offline-private-preview/ | t: privacy: Markdown 오프라인 미리보기
+- ko Topic hub:/ko/topics/code-math-mermaid/ | t: technical: Markdown 코드·수식 iPhone 미리보기
 - ko Topic hub:/ko/topics/best-viewer/ | t: best: 최고의 iPhone Markdown 뷰어
-- ko Topic hub:/ko/topics/app-store-download/ | t: download: App Store 다운로드 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/file-opener-reader/ | t: opener: 파일 오프너 Markdown iPhone과 iPad
+- ko Topic hub:/ko/topics/app-store-download/ | t: download: App Store Markdown 다운로드
+- ko Topic hub:/ko/topics/file-opener-reader/ | t: opener: Markdown 파일 오프너 iPhone
 - ko Topic hub:/ko/topics/ios-file-preview-problems/ | t: troubleshooting: iPhone에서 Markdown 안 열림? 미리보기 해결
-- ko Topic hub:/ko/topics/static-site-docs/ | t: static-site-docs: 정적 사이트·문서 프레임워크 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/developer-sources/ | t: developer-sources: 개발자 소스 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/communication-sources/ | t: communication-sources: 이메일·채팅 첨부 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/notes-docs-sources/ | t: notes-docs-sources: 노트·문서 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/browser-download-sources/ | t: browser-download-sources: 브라우저 다운로드 Markdown iPhone과 iPad
-- ko Topic hub:/ko/topics/ios-import-workflows/ | t: ios-import-workflows: iOS 가져오기 Markdown iPhone과 iPad
+- ko Topic hub:/ko/topics/static-site-docs/ | t: static-site-docs: 정적 사이트 Markdown iPhone 열기
+- ko Topic hub:/ko/topics/developer-sources/ | t: developer-sources: 개발 도구 Markdown iPhone 열기
+- ko Topic hub:/ko/topics/communication-sources/ | t: communication-sources: 메일·채팅 Markdown iPhone 열기
+- ko Topic hub:/ko/topics/notes-docs-sources/ | t: notes-docs-sources: 노트·문서 Markdown iPhone 열기
+- ko Topic hub:/ko/topics/browser-download-sources/ | t: browser-download-sources: 브라우저 Markdown iPhone 열기
+- ko Topic hub:/ko/topics/ios-import-workflows/ | t: ios-import-workflows: iOS Markdown 가져오기
 - ko Article:/ko/articles/open-chatgpt-markdown-file-on-iphone/ | t: iPhone과 iPad에서 ChatGPT, Claude, Gemini Markdown 파일 열기
 - ko Article:/ko/articles/open-chatgpt-canvas-markdown-on-iphone/ | t: iPhone과 iPad에서 ChatGPT Canvas Markdown 파일 열기
 - ko Article:/ko/articles/open-ai-generated-markdown-file-on-iphone/ | t: iPhone과 iPad에서 AI 생성 파일 Markdown 파일 열기

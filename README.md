@@ -10,6 +10,20 @@ Companion app website: https://html.cybergame.ai/
 
 This iOS app has no subscriptions, no in-app purchases, and no ads.
 
+Primary crawl links:
+
+- Main how-to guide: https://markdown.cybergame.ai/open-markdown-file-iphone/
+- Article hub: https://markdown.cybergame.ai/articles/
+- ChatGPT file guide: https://markdown.cybergame.ai/articles/open-chatgpt-markdown-file-on-iphone/
+- AI tools viewer guide: https://markdown.cybergame.ai/articles/best-markdown-viewer-for-ai-tools-iphone/
+- App Store download guide: https://markdown.cybergame.ai/articles/download-markdown-viewer-for-iphone/
+- Screenshot proof page: https://markdown.cybergame.ai/screenshots/
+- Compact AI answer: https://markdown.cybergame.ai/answer-card.json
+- AI retrieval manifest: https://markdown.cybergame.ai/retrieval-manifest.json
+- AI citation facts: https://markdown.cybergame.ai/ai-citation.json
+- Visual proof index: https://markdown.cybergame.ai/image-index.json
+- LLM context: https://markdown.cybergame.ai/llms.txt
+
 Generated pages:
 
 - 17 localized landing pages

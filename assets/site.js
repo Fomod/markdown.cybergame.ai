@@ -282,9 +282,8 @@
   setupSiteSearch();
 
   var userAgent = navigator.userAgent || "";
-  var isCrawlerLike = /bot|crawler|spider|slurp|bingpreview|duckduckbot|bravebot|applebot|googlebot|googleother|adsbot|mediapartners|lighthouse|pagespeed|headless|prerender|facebookexternalhit|twitterbot|linkedinbot|telegrambot|GPTBot|ChatGPT-User|OAI-SearchBot|ClaudeBot|Claude-SearchBot|PerplexityBot/i.test(userAgent);
   var isIOS = /iPad|iPhone|iPod/.test(userAgent) || (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
-  if (isCrawlerLike || !isIOS) return;
+  if (!isIOS) return;
 
   var appRoot = document.querySelector("[data-app-store-open-state]");
   var statusRegion = document.querySelector("[data-app-store-status]");
@@ -295,9 +294,6 @@
     if (text) statusRegion.textContent = text;
   };
 
-  var primaryLink = document.querySelector("[data-primary-app-store-link]");
-  var autoOpenMarker = document.querySelector('[data-auto-open-app-store="ios-session-once"]');
-  var autoOpenKey = appRoot ? appRoot.getAttribute("data-auto-open-key") : "";
   var openAppStore = function (link) {
     if (!link) return;
     var iosUrl = link.getAttribute("data-ios-app-url");
@@ -324,16 +320,4 @@
     event.preventDefault();
     openAppStore(link);
   });
-
-  if (primaryLink && autoOpenMarker && autoOpenKey && window.location.hash !== "#no-auto-store" && !/(?:^|[?&])no_auto_store=1(?:&|$)/.test(window.location.search)) {
-    try {
-      if (!sessionStorage.getItem(autoOpenKey)) {
-        sessionStorage.setItem(autoOpenKey, "1");
-        window.setTimeout(function () {
-          openAppStore(primaryLink);
-        }, 850);
-      }
-    } catch (error) {
-    }
-  }
 })();
